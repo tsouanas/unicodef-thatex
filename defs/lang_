@@ -34,7 +34,6 @@
 !?     ⁉
 
 # Ligatures
-
 ff     ﬀ
 fi     ﬁ
 fl     ﬂ
@@ -48,7 +47,6 @@ ss     ß
 SS     ẞ
 
 # Letter-based symbols
-
 oo     ᵒ
 aa     ᵃ
 tm     ™
@@ -66,7 +64,6 @@ ro     ®
 ee     ℮
 
 # Extended latin, letter first
-
 a`    à
 a'    á
 av    ǎ
@@ -342,7 +339,6 @@ Z.    Ż
 Z!    Ẓ
 
 # Extended latin, action first
-
 !A    Ạ
 !B    Ḅ
 !D    Ḍ
@@ -615,4 +611,3 @@ vz    ž
 ~u    ũ
 ~v    ṽ
 ~y    ỹ
-
