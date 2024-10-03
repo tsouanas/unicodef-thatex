@@ -34,6 +34,9 @@
 | <code>(?</code> | ¿ |
 | <code>?!</code> | ⁈ |
 | <code>!?</code> | ⁉ |
+| <code>^~</code> | ˜ |
+| <code>^'</code> | ´ |
+| <code>^&#96;</code> | &#96; |
 | <code>ff</code> | ﬀ |
 | <code>fi</code> | ﬁ |
 | <code>fl</code> | ﬂ |

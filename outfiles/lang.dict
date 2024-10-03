@@ -107,6 +107,9 @@
     "E" = ("insertText:", "Ê");
     "C" = ("insertText:", "Ĉ");
     "A" = ("insertText:", "Â");
+    "`" = ("insertText:", "`");
+    "'" = ("insertText:", "´");
+    "\\~" = ("insertText:", "˜");
     "." = ("insertText:", "·");
   };
   "=" = {

@@ -10,8 +10,6 @@
 | <code>brl</code> | R$ |
 | <code>crz</code> | ₢$ |
 | <code>cent</code> | ¢ |
-| <code>para</code> | ¶ |
-| <code>sect</code> | § |
 | <code>Eth</code> | Ð |
 | <code>eth</code> | ð |
 | <code>Thorn</code> | Þ |
@@ -950,6 +948,9 @@
 | <code>(?</code> | ¿ |
 | <code>?!</code> | ⁈ |
 | <code>!?</code> | ⁉ |
+| <code>^~</code> | ˜ |
+| <code>^'</code> | ´ |
+| <code>^&#96;</code> | &#96; |
 | <code>ff</code> | ﬀ |
 | <code>fi</code> | ﬁ |
 | <code>fl</code> | ﬂ |
@@ -1673,6 +1674,8 @@
 | <code>nbsp</code> |   |
 | <code>nnbsp</code> |   |
 | <code>return</code> | ⏎ |
+| <code>para</code> | ¶ |
+| <code>sect</code> | § |
 | <code>lqua</code> | ⌜ |
 | <code>rqua</code> | ⌝ |
 | <code>langle</code> | ⟨ |

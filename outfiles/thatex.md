@@ -5,6 +5,8 @@
 | <code>nbsp</code> |   |
 | <code>nnbsp</code> |   |
 | <code>return</code> | ⏎ |
+| <code>para</code> | ¶ |
+| <code>sect</code> | § |
 | <code>lqua</code> | ⌜ |
 | <code>rqua</code> | ⌝ |
 | <code>langle</code> | ⟨ |

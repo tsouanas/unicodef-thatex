@@ -7,8 +7,6 @@ inoremap \\yen ¥
 inoremap \\brl R$
 inoremap \\crz ₢$
 inoremap \\cent ¢
-inoremap \\para ¶
-inoremap \\sect §
 inoremap \\Eth Ð
 inoremap \\eth ð
 inoremap \\Thorn Þ
@@ -934,6 +932,8 @@ inoremap \\spc ␣
 inoremap \\nbsp  
 inoremap \\nnbsp  
 inoremap \\return ⏎
+inoremap \\para ¶
+inoremap \\sect §
 inoremap \\lqua ⌜
 inoremap \\rqua ⌝
 inoremap \\langle ⟨
@@ -1405,6 +1405,9 @@ inoremap \(! ¡
 inoremap \(? ¿
 inoremap \?! ⁈
 inoremap \!? ⁉
+inoremap \^~ ˜
+inoremap \^' ´
+inoremap \^` `
 inoremap \ff ﬀ
 inoremap \fi ﬁ
 inoremap \fl ﬂ

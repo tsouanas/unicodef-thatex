@@ -4,6 +4,8 @@ inoremap \\spc ␣
 inoremap \\nbsp  
 inoremap \\nnbsp  
 inoremap \\return ⏎
+inoremap \\para ¶
+inoremap \\sect §
 inoremap \\lqua ⌜
 inoremap \\rqua ⌝
 inoremap \\langle ⟨

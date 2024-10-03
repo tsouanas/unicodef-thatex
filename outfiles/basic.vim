@@ -7,8 +7,6 @@ inoremap \\yen ¥
 inoremap \\brl R$
 inoremap \\crz ₢$
 inoremap \\cent ¢
-inoremap \\para ¶
-inoremap \\sect §
 inoremap \\Eth Ð
 inoremap \\eth ð
 inoremap \\Thorn Þ
