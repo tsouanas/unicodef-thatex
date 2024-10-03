@@ -4,20 +4,19 @@ This project consist of my own [unicodef] input files, mostly
 [ThaTeX]-influenced, together with their compiled outputs.
 You can install and use them without installing [unicodef].
 
-See [unicodefs.md] for a list of all sequences defined by the provided files in `defs/`.
+See [unicodefs.md] for a list of all sequences defined by the
+provided files in `defs/`.
 
 See [unicodef] for more info on how to install and use these.
 
-Also included is my Makefile that facilitates building and installing from within the repo.
-First clone this repo:
+## Using make(1)
 
+Also included is a Makefile that facilitates building and
+installing from within the repo.  Start by cloning:
 ```sh
 git clone https://github.com/tsouanas/unicodef-thatex
 ```
-
-## Using make(1):
-
-Inside the `unicodef-thatex` directory you can run:
+Now, inside the `unicodef-thatex` directory you can run:
 
 * `make` runs `unicodef.py` on `defs/*` generating files at `outfiles/`;
 * `make install` copies all oufiles to `~/.unicodef/`;
@@ -26,12 +25,16 @@ Inside the `unicodef-thatex` directory you can run:
 * `make macosuninstall` uninstalls and also removes `~/Library/KeyBindings/DefaultKeyBinding.dict`;
 * `make clean` removes all outfiles.
 
-Since this repo already comes with the compiled outfiles, you do not need to run `make` in order to build them.
-(You only need to do this if you want to edit the input files or add your own.)
+Since this repo already comes with the compiled outfiles, you do not need to
+run `make` in order to build them. (You only need to do this if you want to
+edit the input files or add your own.)
+Note that `make` is the only one that requires [unicodef]; the rest of the
+recipes works without it.
 
 **Warning for macOS users.**
 If you are already using a `DefaultKeyBinding.dict`, then `make macosinstall`
 will overwrite the existing file, and `make macosuninstall` will delete it.
+
 
 [unicodefs.md]: outfiles/unicodefs.md
 [unicodef]:     https://github.com/tsouanas/unicodef
