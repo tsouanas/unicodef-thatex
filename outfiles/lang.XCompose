@@ -22,6 +22,8 @@
 <Multi_key><3><colon> : "⋮"
 <Multi_key><2><period> : "‥"
 <Multi_key><3><period> : "…"
+<Multi_key><2><asterisk> : "⁑"
+<Multi_key><3><asterisk> : "⁂"
 <Multi_key><minus><minus><period> : "–"
 <Multi_key><minus><minus><n> : "–"
 <Multi_key><minus><minus><minus> : "—"

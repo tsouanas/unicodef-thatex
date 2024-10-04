@@ -916,6 +916,8 @@ inoremap \\snowma ☃
 inoremap \\spc ␣
 inoremap \\nbsp  
 inoremap \\nnbsp  
+inoremap \\thin  
+inoremap \\hair  
 inoremap \\return ⏎
 inoremap \\para ¶
 inoremap \\sect §
@@ -933,6 +935,7 @@ inoremap \\copyl 🄯
 inoremap \\regist ®
 inoremap \\tm ™
 inoremap \\estim ℮
+inoremap \\caret ‸
 inoremap \\eur €
 inoremap \\gbp £
 inoremap \\usd $
@@ -1396,6 +1399,8 @@ inoremap \:- ⋯
 inoremap \3: ⋮
 inoremap \2. ‥
 inoremap \3. …
+inoremap \2* ⁑
+inoremap \3* ⁂
 inoremap \--. –
 inoremap \--n –
 inoremap \--- —
@@ -1996,6 +2001,7 @@ inoremap \^) ⁾
 inoremap \^+ ⁺
 inoremap \^- ⁻
 inoremap \^= ⁼
+inoremap \^* *
 inoremap \_0 ₀
 inoremap \_1 ₁
 inoremap \_2 ₂
@@ -2011,6 +2017,8 @@ inoremap \_) ₎
 inoremap \_+ ₊
 inoremap \_- ₋
 inoremap \_= ₌
+inoremap \_* ⁎
+inoremap \// ⁄
 inoremap \03 ↉
 inoremap \12 ½
 inoremap \13 ⅓
@@ -2054,6 +2062,7 @@ inoremap \.+ ⨢
 inoremap \.* ⨰
 inoremap \*x ×
 inoremap \*. ·
+inoremap \*<Bar> ⁑
 inoremap \[[ ⟦
 inoremap \]] ⟧
 inoremap \(S ⟅

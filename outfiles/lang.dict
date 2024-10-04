@@ -732,10 +732,12 @@
     "*" = ("insertText:", "∗");
   };
   "3" = {
+    "*" = ("insertText:", "⁂");
     "." = ("insertText:", "…");
     ":" = ("insertText:", "⋮");
   };
   "2" = {
+    "*" = ("insertText:", "⁑");
     "." = ("insertText:", "‥");
   };
   "\"" = {

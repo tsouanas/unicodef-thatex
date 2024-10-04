@@ -3,6 +3,8 @@
 inoremap \\spc ␣
 inoremap \\nbsp  
 inoremap \\nnbsp  
+inoremap \\thin  
+inoremap \\hair  
 inoremap \\return ⏎
 inoremap \\para ¶
 inoremap \\sect §
@@ -23,6 +25,7 @@ inoremap \\copyl 🄯
 inoremap \\regist ®
 inoremap \\tm ™
 inoremap \\estim ℮
+inoremap \\caret ‸
 inoremap \\eur €
 inoremap \\gbp £
 inoremap \\usd $

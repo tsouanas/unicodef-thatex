@@ -919,6 +919,8 @@
 | <code>3:</code> | ⋮ |
 | <code>2.</code> | ‥ |
 | <code>3.</code> | … |
+| <code>2*</code> | ⁑ |
+| <code>3*</code> | ⁂ |
 | <code>--.</code> | – |
 | <code>--n</code> | – |
 | <code>---</code> | — |
@@ -1522,6 +1524,7 @@
 | <code>^+</code> | ⁺ |
 | <code>^-</code> | ⁻ |
 | <code>^=</code> | ⁼ |
+| <code>^*</code> | * |
 | <code>_0</code> | ₀ |
 | <code>_1</code> | ₁ |
 | <code>_2</code> | ₂ |
@@ -1537,6 +1540,8 @@
 | <code>_+</code> | ₊ |
 | <code>_-</code> | ₋ |
 | <code>_=</code> | ₌ |
+| <code>_*</code> | ⁎ |
+| <code>//</code> | ⁄ |
 | <code>03</code> | ↉ |
 | <code>12</code> | ½ |
 | <code>13</code> | ⅓ |
@@ -1581,6 +1586,7 @@
 | <code>*x</code> | × |
 | <code>*.</code> | · |
 | <code>**</code> | ∗ |
+| <code>*&vert;</code> | ⁑ |
 | <code>00</code> | ° |
 | <code>[[</code> | ⟦ |
 | <code>]]</code> | ⟧ |
@@ -1659,6 +1665,8 @@
 | <code>spc</code> | ␣ |
 | <code>nbsp</code> |   |
 | <code>nnbsp</code> |   |
+| <code>thin</code> |   |
+| <code>hair</code> |   |
 | <code>return</code> | ⏎ |
 | <code>para</code> | ¶ |
 | <code>sect</code> | § |
@@ -1679,6 +1687,7 @@
 | <code>regist</code> | ® |
 | <code>tm</code> | ™ |
 | <code>estim</code> | ℮ |
+| <code>caret</code> | ‸ |
 | <code>eur</code> | € |
 | <code>gbp</code> | £ |
 | <code>usd</code> | $ |

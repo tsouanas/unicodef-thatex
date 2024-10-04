@@ -4,6 +4,8 @@
 | <code>spc</code> | ␣ |
 | <code>nbsp</code> |   |
 | <code>nnbsp</code> |   |
+| <code>thin</code> |   |
+| <code>hair</code> |   |
 | <code>return</code> | ⏎ |
 | <code>para</code> | ¶ |
 | <code>sect</code> | § |
@@ -24,6 +26,7 @@
 | <code>regist</code> | ® |
 | <code>tm</code> | ™ |
 | <code>estim</code> | ℮ |
+| <code>caret</code> | ‸ |
 | <code>eur</code> | € |
 | <code>gbp</code> | £ |
 | <code>usd</code> | $ |

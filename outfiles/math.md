@@ -16,6 +16,7 @@
 | <code>^+</code> | ⁺ |
 | <code>^-</code> | ⁻ |
 | <code>^=</code> | ⁼ |
+| <code>^*</code> | * |
 | <code>_0</code> | ₀ |
 | <code>_1</code> | ₁ |
 | <code>_2</code> | ₂ |
@@ -31,6 +32,8 @@
 | <code>_+</code> | ₊ |
 | <code>_-</code> | ₋ |
 | <code>_=</code> | ₌ |
+| <code>_*</code> | ⁎ |
+| <code>//</code> | ⁄ |
 | <code>03</code> | ↉ |
 | <code>12</code> | ½ |
 | <code>13</code> | ⅓ |
@@ -75,6 +78,7 @@
 | <code>*x</code> | × |
 | <code>*.</code> | · |
 | <code>**</code> | ∗ |
+| <code>*&vert;</code> | ⁑ |
 | <code>00</code> | ° |
 | <code>[[</code> | ⟦ |
 | <code>]]</code> | ⟧ |

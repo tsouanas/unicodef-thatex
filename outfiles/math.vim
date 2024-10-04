@@ -15,6 +15,7 @@ inoremap \^) ⁾
 inoremap \^+ ⁺
 inoremap \^- ⁻
 inoremap \^= ⁼
+inoremap \^* *
 inoremap \_0 ₀
 inoremap \_1 ₁
 inoremap \_2 ₂
@@ -30,6 +31,8 @@ inoremap \_) ₎
 inoremap \_+ ₊
 inoremap \_- ₋
 inoremap \_= ₌
+inoremap \_* ⁎
+inoremap \// ⁄
 inoremap \03 ↉
 inoremap \12 ½
 inoremap \13 ⅓
@@ -74,6 +77,7 @@ inoremap \.* ⨰
 inoremap \*x ×
 inoremap \*. ·
 inoremap \** ∗
+inoremap \*<Bar> ⁑
 inoremap \00 °
 inoremap \[[ ⟦
 inoremap \]] ⟧
