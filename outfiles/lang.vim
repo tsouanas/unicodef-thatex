@@ -296,6 +296,7 @@ inoremap \S^ Ŝ
 inoremap \S. Ṡ
 inoremap \S! Ṣ
 inoremap \Th Þ
+inoremap \TH Þ
 inoremap \Tv Ť
 inoremap \T- Ŧ
 inoremap \T. Ṫ

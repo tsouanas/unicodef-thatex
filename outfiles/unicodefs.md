@@ -1193,6 +1193,7 @@
 | <code>S.</code> | Ṡ |
 | <code>S!</code> | Ṣ |
 | <code>Th</code> | Þ |
+| <code>TH</code> | Þ |
 | <code>Tv</code> | Ť |
 | <code>T-</code> | Ŧ |
 | <code>T.</code> | Ṫ |

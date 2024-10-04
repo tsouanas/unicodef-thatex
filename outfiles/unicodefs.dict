@@ -7407,6 +7407,7 @@
     "." = ("insertText:", "Ṫ");
     "-" = ("insertText:", "Ŧ");
     "v" = ("insertText:", "Ť");
+    "H" = ("insertText:", "Þ");
     "h" = ("insertText:", "Þ");
   };
   "S" = {
