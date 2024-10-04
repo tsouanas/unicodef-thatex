@@ -2,6 +2,8 @@
 spc               ␣
 nbsp               
 nnbsp              
+thin               
+hair               
 return            ⏎
 para              ¶
 sect              §
@@ -24,6 +26,7 @@ copyl             🄯
 regist            ®
 tm                ™
 estim             ℮
+caret             ‸
 
 # money
 eur               €
