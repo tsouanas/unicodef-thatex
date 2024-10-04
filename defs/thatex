@@ -6,7 +6,41 @@ return            ⏎
 para              ¶
 sect              §
 
-# quotes and brackets
+# misc
+flat              ♭
+sharp             ♯
+natu              ♮
+spades            ♠
+hearts            ♡
+diamonds          ♢
+clubs             ♣
+magic             ⛤
+bowtie            ⨝
+hrmf              ⍨
+smooch            ⍣
+degree            °
+copyr             ©
+copyl             🄯
+regist            ®
+tm                ™
+estim             ℮
+
+# money
+eur               €
+gbp               £
+usd               $
+yen               ¥
+brl               R$
+crz               ₢$
+cent              ¢
+
+# ye olde
+Eth               Ð
+eth               ð
+Thorn             Þ
+thorn             þ
+
+# math quotes and brackets
 lqua              ⌜
 rqua              ⌝
 langle            ⟨
@@ -324,19 +358,6 @@ semnleq           ⋢
 semngeq           ⋣
 nsemleq           ⋢
 nsemgeq           ⋣
-
-# misc
-flat              ♭
-sharp             ♯
-natu              ♮
-spades            ♠
-hearts            ♡
-diamonds          ♢
-clubs             ♣
-magic             ⛤
-bowtie            ⨝
-hrmf              ⍨
-smooch            ⍣
 
 # named
 lolli             ⊸

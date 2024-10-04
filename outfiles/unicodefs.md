@@ -1,23 +1,5 @@
 # unicodefs
 
-## basic (macro)
-| Sequence | Expansion |
-| :------- | :-------: |
-| <code>eur</code> | € |
-| <code>gbp</code> | £ |
-| <code>usd</code> | $ |
-| <code>yen</code> | ¥ |
-| <code>brl</code> | R$ |
-| <code>crz</code> | ₢$ |
-| <code>cent</code> | ¢ |
-| <code>Eth</code> | Ð |
-| <code>eth</code> | ð |
-| <code>Thorn</code> | Þ |
-| <code>thorn</code> | þ |
-| <code>degree</code> | ° |
-| <code>copy</code> | © |
-| <code>reg</code> | ® |
-| <code>estim</code> | ℮ |
 ## emoji (macro)
 | Sequence | Expansion |
 | :------- | :-------: |
@@ -929,6 +911,7 @@
 | <code>")</code> | ” |
 | <code>.2</code> | ‥ |
 | <code>.3</code> | … |
+| <code>...</code> | … |
 | <code>:3</code> | ⋮ |
 | <code>:/</code> | ⋰ |
 | <code>:\</code> | ⋱ |
@@ -936,7 +919,6 @@
 | <code>3:</code> | ⋮ |
 | <code>2.</code> | ‥ |
 | <code>3.</code> | … |
-| <code>..</code> | … |
 | <code>--.</code> | – |
 | <code>--n</code> | – |
 | <code>---</code> | — |
@@ -1583,9 +1565,6 @@
 | <code>:=</code> | ≔ |
 | <code>=:</code> | ≕ |
 | <code>~~</code> | ≈ |
-| <code>~&gt;</code> | ↝ |
-| <code>~&lt;</code> | ↜ |
-| <code>&lt;~</code> | ↜ |
 | <code>==</code> | ≡ |
 | <code>~=</code> | ≅ |
 | <code>.=</code> | ≐ |
@@ -1626,13 +1605,20 @@
 | <code>-&lt;</code> | ← |
 | <code>-^</code> | ↑ |
 | <code>-v</code> | ↓ |
+| <code>&lt;-</code> | ← |
+| <code>&vert;^</code> | ↑ |
+| <code>&vert;v</code> | ↓ |
 | <code>=&gt;</code> | ⇒ |
 | <code>=&lt;</code> | ⇐ |
 | <code>=^</code> | ⇑ |
 | <code>=v</code> | ⇓ |
-| <code>&lt;-</code> | ← |
-| <code>&vert;^</code> | ↑ |
-| <code>&vert;v</code> | ↓ |
+| <code>~&gt;</code> | ↝ |
+| <code>~&lt;</code> | ↜ |
+| <code>&lt;~</code> | ↜ |
+| <code>-.^</code> | ⇡ |
+| <code>-.&gt;</code> | ⇢ |
+| <code>-.v</code> | ⇣ |
+| <code>-.&lt;</code> | ⇠ |
 ## misc (macro)
 | Sequence | Expansion |
 | :------- | :-------: |
@@ -1676,6 +1662,34 @@
 | <code>return</code> | ⏎ |
 | <code>para</code> | ¶ |
 | <code>sect</code> | § |
+| <code>flat</code> | ♭ |
+| <code>sharp</code> | ♯ |
+| <code>natu</code> | ♮ |
+| <code>spades</code> | ♠ |
+| <code>hearts</code> | ♡ |
+| <code>diamonds</code> | ♢ |
+| <code>clubs</code> | ♣ |
+| <code>magic</code> | ⛤ |
+| <code>bowtie</code> | ⨝ |
+| <code>hrmf</code> | ⍨ |
+| <code>smooch</code> | ⍣ |
+| <code>degree</code> | ° |
+| <code>copyr</code> | © |
+| <code>copyl</code> | 🄯 |
+| <code>regist</code> | ® |
+| <code>tm</code> | ™ |
+| <code>estim</code> | ℮ |
+| <code>eur</code> | € |
+| <code>gbp</code> | £ |
+| <code>usd</code> | $ |
+| <code>yen</code> | ¥ |
+| <code>brl</code> | R$ |
+| <code>crz</code> | ₢$ |
+| <code>cent</code> | ¢ |
+| <code>Eth</code> | Ð |
+| <code>eth</code> | ð |
+| <code>Thorn</code> | Þ |
+| <code>thorn</code> | þ |
 | <code>lqua</code> | ⌜ |
 | <code>rqua</code> | ⌝ |
 | <code>langle</code> | ⟨ |
@@ -1979,17 +1993,6 @@
 | <code>semngeq</code> | ⋣ |
 | <code>nsemleq</code> | ⋢ |
 | <code>nsemgeq</code> | ⋣ |
-| <code>flat</code> | ♭ |
-| <code>sharp</code> | ♯ |
-| <code>natu</code> | ♮ |
-| <code>spades</code> | ♠ |
-| <code>hearts</code> | ♡ |
-| <code>diamonds</code> | ♢ |
-| <code>clubs</code> | ♣ |
-| <code>magic</code> | ⛤ |
-| <code>bowtie</code> | ⨝ |
-| <code>hrmf</code> | ⍨ |
-| <code>smooch</code> | ⍣ |
 | <code>lolli</code> | ⊸ |
 | <code>sqmeet</code> | ⊓ |
 | <code>sqjoin</code> | ⊔ |

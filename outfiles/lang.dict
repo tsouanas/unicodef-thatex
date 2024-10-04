@@ -195,7 +195,9 @@
     "C" = ("insertText:", "Ċ");
     "B" = ("insertText:", "Ḃ");
     "A" = ("insertText:", "Ȧ");
-    "." = ("insertText:", "…");
+    "." = {
+      "." = ("insertText:", "…");
+    };
     "3" = ("insertText:", "…");
     "2" = ("insertText:", "‥");
   };
