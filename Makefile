@@ -7,7 +7,7 @@ install:
 
 xorginstall: install
 	touch ~/.XCompose
-	cp -f ./examples/.XCompose ~/.XCompose
+	cp -f examples/.XCompose ~/.XCompose
 
 macosinstall: install
 	mkdir -p ~/Library/KeyBindings
