@@ -15,7 +15,9 @@ inoremap \\wflag ⚐
 inoremap \\bflag ⚑
 inoremap \\penta ⛤
 inoremap \\bapho ⛧
+inoremap \\milaki ❀
 inoremap \\swords ⚔
+inoremap \\fight ⚔
 inoremap \\music ♪
 inoremap \\note ♪
 inoremap \\notes ♫

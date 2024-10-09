@@ -1644,7 +1644,9 @@
 | <code>bflag</code> | ⚑ |
 | <code>penta</code> | ⛤ |
 | <code>bapho</code> | ⛧ |
+| <code>milaki</code> | ❀ |
 | <code>swords</code> | ⚔ |
+| <code>fight</code> | ⚔ |
 | <code>music</code> | ♪ |
 | <code>note</code> | ♪ |
 | <code>notes</code> | ♫ |
