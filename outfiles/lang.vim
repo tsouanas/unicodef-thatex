@@ -88,6 +88,7 @@ inoremap \d. ḋ
 inoremap \d! ḍ
 inoremap \d, ḑ
 inoremap \d/ ð
+inoremap \e` è
 inoremap \e' é
 inoremap \ev ě
 inoremap \e~ ẽ
@@ -224,6 +225,7 @@ inoremap \D- Đ
 inoremap \D. Ḋ
 inoremap \D! Ḍ
 inoremap \D, Ḑ
+inoremap \E` È
 inoremap \E' É
 inoremap \Ev Ě
 inoremap \E~ Ẽ
@@ -543,6 +545,7 @@ inoremap \^w ŵ
 inoremap \^y ŷ
 inoremap \^z ẑ
 inoremap \`A À
+inoremap \`E È
 inoremap \`I Ì
 inoremap \`N Ǹ
 inoremap \`O Ò
@@ -550,6 +553,7 @@ inoremap \`U Ù
 inoremap \`W Ẁ
 inoremap \`Y Ỳ
 inoremap \`a à
+inoremap \`e è
 inoremap \`i ì
 inoremap \`n ǹ
 inoremap \`o ò

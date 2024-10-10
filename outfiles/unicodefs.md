@@ -985,6 +985,7 @@
 | <code>d!</code> | ḍ |
 | <code>d,</code> | ḑ |
 | <code>d/</code> | ð |
+| <code>e&#96;</code> | è |
 | <code>e'</code> | é |
 | <code>ev</code> | ě |
 | <code>e~</code> | ẽ |
@@ -1121,6 +1122,7 @@
 | <code>D.</code> | Ḋ |
 | <code>D!</code> | Ḍ |
 | <code>D,</code> | Ḑ |
+| <code>E&#96;</code> | È |
 | <code>E'</code> | É |
 | <code>Ev</code> | Ě |
 | <code>E~</code> | Ẽ |
@@ -1440,6 +1442,7 @@
 | <code>^y</code> | ŷ |
 | <code>^z</code> | ẑ |
 | <code>&#96;A</code> | À |
+| <code>&#96;E</code> | È |
 | <code>&#96;I</code> | Ì |
 | <code>&#96;N</code> | Ǹ |
 | <code>&#96;O</code> | Ò |
@@ -1447,6 +1450,7 @@
 | <code>&#96;W</code> | Ẁ |
 | <code>&#96;Y</code> | Ỳ |
 | <code>&#96;a</code> | à |
+| <code>&#96;e</code> | è |
 | <code>&#96;i</code> | ì |
 | <code>&#96;n</code> | ǹ |
 | <code>&#96;o</code> | ò |
