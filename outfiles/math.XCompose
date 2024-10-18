@@ -89,6 +89,7 @@
 <Multi_key><braceright><braceright> : "⦄"
 <Multi_key><parenleft><bar> : "⦇"
 <Multi_key><parenright><bar> : "⦈"
+<Multi_key><bar><parenright> : "⦈"
 <Multi_key><parenleft><parenleft> : "⦅"
 <Multi_key><parenright><parenright> : "⦆"
 <Multi_key><apostrophe><bracketleft> : "⌜"
