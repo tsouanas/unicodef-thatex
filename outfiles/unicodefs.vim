@@ -986,6 +986,7 @@ inoremap \\ndiv ∤
 inoremap \\forall ∀
 inoremap \\exists ∃
 inoremap \\nexists ∄
+inoremap \\unique ∃!
 inoremap \\implies ⇒
 inoremap \\implied ⇐
 inoremap \\iff ⇔
@@ -1350,6 +1351,7 @@ inoremap \\subsne ⊊
 inoremap \\supsne ⊋
 inoremap \\fa ∀
 inoremap \\ex ∃
+inoremap \\un ∃!
 inoremap \\nex ∄
 inoremap \\imps ⇒
 inoremap \\impd ⇐

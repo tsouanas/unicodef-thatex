@@ -75,6 +75,7 @@
 | <code>forall</code> | ∀ |
 | <code>exists</code> | ∃ |
 | <code>nexists</code> | ∄ |
+| <code>unique</code> | ∃! |
 | <code>implies</code> | ⇒ |
 | <code>implied</code> | ⇐ |
 | <code>iff</code> | ⇔ |
@@ -439,6 +440,7 @@
 | <code>supsne</code> | ⊋ |
 | <code>fa</code> | ∀ |
 | <code>ex</code> | ∃ |
+| <code>un</code> | ∃! |
 | <code>nex</code> | ∄ |
 | <code>imps</code> | ⇒ |
 | <code>impd</code> | ⇐ |

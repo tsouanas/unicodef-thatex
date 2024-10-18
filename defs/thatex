@@ -83,6 +83,7 @@ ndiv              ∤
 forall            ∀
 exists            ∃
 nexists           ∄
+unique            ∃!
 implies           ⇒
 implied           ⇐
 iff               ⇔
@@ -465,6 +466,7 @@ subsne            ⊊
 supsne            ⊋
 fa                ∀
 ex                ∃
+un                ∃!
 nex               ∄
 imps              ⇒
 impd              ⇐
