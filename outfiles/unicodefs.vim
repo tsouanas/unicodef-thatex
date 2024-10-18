@@ -938,6 +938,9 @@ inoremap \\regist ®
 inoremap \\tm ™
 inoremap \\estim ℮
 inoremap \\caret ‸
+inoremap \\crosshair ⌖
+inoremap \\target ⌖
+inoremap \\lucas ⌖
 inoremap \\eur €
 inoremap \\gbp £
 inoremap \\usd $
@@ -1381,6 +1384,7 @@ inoremap \\mods ⊨
 inoremap \\nmods ⊭
 inoremap \\appr ≈
 inoremap \\nappr ≉
+inoremap \\crossh ⌖
 inoremap \>> »
 inoremap \<< «
 inoremap \>. ›

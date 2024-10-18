@@ -1696,6 +1696,9 @@
 | <code>tm</code> | ™ |
 | <code>estim</code> | ℮ |
 | <code>caret</code> | ‸ |
+| <code>crosshair</code> | ⌖ |
+| <code>target</code> | ⌖ |
+| <code>lucas</code> | ⌖ |
 | <code>eur</code> | € |
 | <code>gbp</code> | £ |
 | <code>usd</code> | $ |
@@ -2139,3 +2142,4 @@
 | <code>nmods</code> | ⊭ |
 | <code>appr</code> | ≈ |
 | <code>nappr</code> | ≉ |
+| <code>crossh</code> | ⌖ |
