@@ -1405,9 +1405,14 @@ inoremap \(" “
 inoremap \)" ”
 inoremap \"( “
 inoremap \") ”
+inoremap \.^ ·
 inoremap \.2 ‥
 inoremap \.3 …
 inoremap \... …
+inoremap \../ ⋰
+inoremap \..\ ⋱
+inoremap \..- ⋯
+inoremap \..<Bar> ⋮
 inoremap \:3 ⋮
 inoremap \:/ ⋰
 inoremap \:\ ⋱
@@ -1417,6 +1422,8 @@ inoremap \2. ‥
 inoremap \3. …
 inoremap \2* ⁑
 inoremap \3* ⁂
+inoremap \*2 ⁑
+inoremap \*3 ⁂
 inoremap \--. –
 inoremap \--n –
 inoremap \--- —
@@ -1428,6 +1435,7 @@ inoremap \(! ¡
 inoremap \(? ¿
 inoremap \?! ⁈
 inoremap \!? ⁉
+inoremap \!! ‼
 inoremap \^~ ˜
 inoremap \^' ´
 inoremap \^` `
@@ -2086,10 +2094,14 @@ inoremap \*. ·
 inoremap \*<Bar> ⁑
 inoremap \[[ ⟦
 inoremap \]] ⟧
+inoremap \2[ ⟦
+inoremap \2] ⟧
 inoremap \(S ⟅
 inoremap \)S ⟆
 inoremap \(< ⟨
 inoremap \)> ⟩
+inoremap \2< ⟪
+inoremap \2> ⟫
 inoremap \{{ ⦃
 inoremap \}} ⦄
 inoremap \(<Bar> ⦇
@@ -2097,6 +2109,8 @@ inoremap \)<Bar> ⦈
 inoremap \<Bar>) ⦈
 inoremap \(( ⦅
 inoremap \)) ⦆
+inoremap \2( ⦅
+inoremap \2) ⦆
 inoremap \'[ ⌜
 inoremap \'] ⌝
 inoremap \<Bar>. ⌊
@@ -2104,6 +2118,7 @@ inoremap \.<Bar> ⌋
 inoremap \<Bar>' ⌈
 inoremap \'<Bar> ⌉
 inoremap \<Bar><Bar> ‖
+inoremap \2<Bar> ‖
 inoremap \-> →
 inoremap \-< ←
 inoremap \-^ ↑

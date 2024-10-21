@@ -13,9 +13,14 @@
 | <code>)"</code> | ” |
 | <code>"(</code> | “ |
 | <code>")</code> | ” |
+| <code>.^</code> | · |
 | <code>.2</code> | ‥ |
 | <code>.3</code> | … |
 | <code>...</code> | … |
+| <code>../</code> | ⋰ |
+| <code>..\</code> | ⋱ |
+| <code>..-</code> | ⋯ |
+| <code>..&vert;</code> | ⋮ |
 | <code>:3</code> | ⋮ |
 | <code>:/</code> | ⋰ |
 | <code>:\</code> | ⋱ |
@@ -25,6 +30,8 @@
 | <code>3.</code> | … |
 | <code>2*</code> | ⁑ |
 | <code>3*</code> | ⁂ |
+| <code>*2</code> | ⁑ |
+| <code>*3</code> | ⁂ |
 | <code>--.</code> | – |
 | <code>--n</code> | – |
 | <code>---</code> | — |
@@ -36,6 +43,7 @@
 | <code>(?</code> | ¿ |
 | <code>?!</code> | ⁈ |
 | <code>!?</code> | ⁉ |
+| <code>!!</code> | ‼ |
 | <code>^~</code> | ˜ |
 | <code>^'</code> | ´ |
 | <code>^&#96;</code> | &#96; |

@@ -12,9 +12,14 @@ inoremap \(" “
 inoremap \)" ”
 inoremap \"( “
 inoremap \") ”
+inoremap \.^ ·
 inoremap \.2 ‥
 inoremap \.3 …
 inoremap \... …
+inoremap \../ ⋰
+inoremap \..\ ⋱
+inoremap \..- ⋯
+inoremap \..<Bar> ⋮
 inoremap \:3 ⋮
 inoremap \:/ ⋰
 inoremap \:\ ⋱
@@ -24,6 +29,8 @@ inoremap \2. ‥
 inoremap \3. …
 inoremap \2* ⁑
 inoremap \3* ⁂
+inoremap \*2 ⁑
+inoremap \*3 ⁂
 inoremap \--. –
 inoremap \--n –
 inoremap \--- —
@@ -35,6 +42,7 @@ inoremap \(! ¡
 inoremap \(? ¿
 inoremap \?! ⁈
 inoremap \!? ⁉
+inoremap \!! ‼
 inoremap \^~ ˜
 inoremap \^' ´
 inoremap \^` `

@@ -44,6 +44,17 @@
     "-" = ("insertText:", "⊢");
     "=" = ("insertText:", "⊨");
   };
+  "2" = {
+    "|" = ("insertText:", "‖");
+    ")" = ("insertText:", "⦆");
+    "(" = ("insertText:", "⦅");
+    ">" = ("insertText:", "⟫");
+    "<" = ("insertText:", "⟪");
+    "]" = ("insertText:", "⟧");
+    "[" = ("insertText:", "⟦");
+    "5" = ("insertText:", "⅖");
+    "3" = ("insertText:", "⅔");
+  };
   "'" = {
     "|" = ("insertText:", "⌉");
     "]" = ("insertText:", "⌝");
@@ -137,10 +148,6 @@
   };
   "4" = {
     "5" = ("insertText:", "⅘");
-  };
-  "2" = {
-    "5" = ("insertText:", "⅖");
-    "3" = ("insertText:", "⅔");
   };
   "_" = {
     "*" = ("insertText:", "⁎");

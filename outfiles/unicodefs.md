@@ -917,9 +917,14 @@
 | <code>)"</code> | ” |
 | <code>"(</code> | “ |
 | <code>")</code> | ” |
+| <code>.^</code> | · |
 | <code>.2</code> | ‥ |
 | <code>.3</code> | … |
 | <code>...</code> | … |
+| <code>../</code> | ⋰ |
+| <code>..\</code> | ⋱ |
+| <code>..-</code> | ⋯ |
+| <code>..&vert;</code> | ⋮ |
 | <code>:3</code> | ⋮ |
 | <code>:/</code> | ⋰ |
 | <code>:\</code> | ⋱ |
@@ -929,6 +934,8 @@
 | <code>3.</code> | … |
 | <code>2*</code> | ⁑ |
 | <code>3*</code> | ⁂ |
+| <code>*2</code> | ⁑ |
+| <code>*3</code> | ⁂ |
 | <code>--.</code> | – |
 | <code>--n</code> | – |
 | <code>---</code> | — |
@@ -940,6 +947,7 @@
 | <code>(?</code> | ¿ |
 | <code>?!</code> | ⁈ |
 | <code>!?</code> | ⁉ |
+| <code>!!</code> | ‼ |
 | <code>^~</code> | ˜ |
 | <code>^'</code> | ´ |
 | <code>^&#96;</code> | &#96; |
@@ -1603,10 +1611,14 @@
 | <code>00</code> | ° |
 | <code>[[</code> | ⟦ |
 | <code>]]</code> | ⟧ |
+| <code>2[</code> | ⟦ |
+| <code>2]</code> | ⟧ |
 | <code>(S</code> | ⟅ |
 | <code>)S</code> | ⟆ |
 | <code>(&lt;</code> | ⟨ |
 | <code>)&gt;</code> | ⟩ |
+| <code>2&lt;</code> | ⟪ |
+| <code>2&gt;</code> | ⟫ |
 | <code>{{</code> | ⦃ |
 | <code>}}</code> | ⦄ |
 | <code>(&vert;</code> | ⦇ |
@@ -1614,6 +1626,8 @@
 | <code>&vert;)</code> | ⦈ |
 | <code>((</code> | ⦅ |
 | <code>))</code> | ⦆ |
+| <code>2(</code> | ⦅ |
+| <code>2)</code> | ⦆ |
 | <code>'[</code> | ⌜ |
 | <code>']</code> | ⌝ |
 | <code>&vert;.</code> | ⌊ |
@@ -1621,6 +1635,7 @@
 | <code>&vert;'</code> | ⌈ |
 | <code>'&vert;</code> | ⌉ |
 | <code>&vert;&vert;</code> | ‖ |
+| <code>2&vert;</code> | ‖ |
 | <code>-&gt;</code> | → |
 | <code>-&lt;</code> | ← |
 | <code>-^</code> | ↑ |

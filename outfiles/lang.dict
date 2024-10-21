@@ -198,10 +198,15 @@
     "B" = ("insertText:", "Ḃ");
     "A" = ("insertText:", "Ȧ");
     "." = {
+      "|" = ("insertText:", "⋮");
+      "-" = ("insertText:", "⋯");
+      "\\" = ("insertText:", "⋱");
+      "/" = ("insertText:", "⋰");
       "." = ("insertText:", "…");
     };
     "3" = ("insertText:", "…");
     "2" = ("insertText:", "‥");
+    "\\^" = ("insertText:", "·");
   };
   "-" = {
     "y" = ("insertText:", "ȳ");
@@ -325,6 +330,7 @@
     "D" = ("insertText:", "Ḍ");
     "B" = ("insertText:", "Ḅ");
     "A" = ("insertText:", "Ạ");
+    "!" = ("insertText:", "‼");
     "?" = ("insertText:", "⁉");
   };
   "Z" = {
@@ -735,6 +741,8 @@
   };
   "*" = {
     "*" = ("insertText:", "∗");
+    "3" = ("insertText:", "⁂");
+    "2" = ("insertText:", "⁑");
   };
   "3" = {
     "*" = ("insertText:", "⁂");
