@@ -911,6 +911,8 @@ inoremap \\fight ⚔
 inoremap \\music ♪
 inoremap \\note ♪
 inoremap \\notes ♫
+inoremap \\command ⌘
+inoremap \\cmd ⌘
 inoremap \\checkb ☐
 inoremap \\checkc ☑
 inoremap \\checkx ☒
