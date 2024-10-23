@@ -1149,6 +1149,7 @@ inoremap \\daleth ℸ
 inoremap \\comp ∘
 inoremap \\to →
 inoremap \\from ←
+inoremap \\gets ←
 inoremap \\nto ↛
 inoremap \\nfrom ↚
 inoremap \\parto ⇀

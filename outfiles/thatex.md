@@ -228,6 +228,7 @@
 | <code>comp</code> | ∘ |
 | <code>to</code> | → |
 | <code>from</code> | ← |
+| <code>gets</code> | ← |
 | <code>nto</code> | ↛ |
 | <code>nfrom</code> | ↚ |
 | <code>parto</code> | ⇀ |
