@@ -30,6 +30,8 @@
 | <code>crosshair</code> | ⌖ |
 | <code>target</code> | ⌖ |
 | <code>lucas</code> | ⌖ |
+| <code>lozenge</code> | ◊ |
+| <code>blozenge</code> | ⧫ |
 | <code>eur</code> | € |
 | <code>gbp</code> | £ |
 | <code>usd</code> | $ |
@@ -434,6 +436,8 @@
 | <code>HA</code> | 𝐇𝐀 |
 | <code>BA</code> | 𝐁𝐀 |
 | <code>MODEL</code> | 𝐌𝐨𝐝𝐞𝐥 |
+| <code>loz</code> | ◊ |
+| <code>bloz</code> | ⧫ |
 | <code>psubs</code> | ⊊ |
 | <code>psups</code> | ⊋ |
 | <code>hsubs</code> | ⊂ |

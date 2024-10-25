@@ -951,6 +951,8 @@ inoremap \\caret ‸
 inoremap \\crosshair ⌖
 inoremap \\target ⌖
 inoremap \\lucas ⌖
+inoremap \\lozenge ◊
+inoremap \\blozenge ⧫
 inoremap \\eur €
 inoremap \\gbp £
 inoremap \\usd $
@@ -1355,6 +1357,8 @@ inoremap \\BALG 𝐁𝐨𝐨𝐥𝐞𝐚𝐧
 inoremap \\HA 𝐇𝐀
 inoremap \\BA 𝐁𝐀
 inoremap \\MODEL 𝐌𝐨𝐝𝐞𝐥
+inoremap \\loz ◊
+inoremap \\bloz ⧫
 inoremap \\psubs ⊊
 inoremap \\psups ⊋
 inoremap \\hsubs ⊂

@@ -30,6 +30,8 @@ caret             ‸
 crosshair         ⌖
 target            ⌖
 lucas             ⌖
+lozenge           ◊
+blozenge          ⧫
 
 # money
 eur               €
@@ -459,7 +461,9 @@ HA                𝐇𝐀
 BA                𝐁𝐀
 MODEL             𝐌𝐨𝐝𝐞𝐥
 
-# XXX shortcuts for 6-char-limit
+# shortcuts for 6-char-limit (or for convenience)
+loz               ◊
+bloz              ⧫
 psubs             ⊊
 psups             ⊋
 hsubs             ⊂
