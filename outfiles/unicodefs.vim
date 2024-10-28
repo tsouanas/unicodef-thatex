@@ -1201,6 +1201,7 @@ inoremap \\op ᵒᵖ
 inoremap \\cons ∷
 inoremap \\concat ⧺
 inoremap \\inv ⁻¹
+inoremap \\eqsto ▸
 inoremap \\lnot ¬
 inoremap \\lforall ∀
 inoremap \\lexists ∃

@@ -295,6 +295,9 @@ cons              ∷
 concat            ⧺
 inv               ⁻¹
 
+# lean
+eqsto             ▸
+
 # logic
 lnot              ¬
 lforall           ∀
