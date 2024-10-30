@@ -913,6 +913,7 @@ inoremap \\note ♪
 inoremap \\notes ♫
 inoremap \\command ⌘
 inoremap \\cmd ⌘
+inoremap \\esc ␛
 inoremap \\checkb ☐
 inoremap \\checkc ☑
 inoremap \\checkx ☒
@@ -1201,7 +1202,7 @@ inoremap \\op ᵒᵖ
 inoremap \\cons ∷
 inoremap \\concat ⧺
 inoremap \\inv ⁻¹
-inoremap \\eqsto ▸
+inoremap \\eqs ▸
 inoremap \\lnot ¬
 inoremap \\lforall ∀
 inoremap \\lexists ∃

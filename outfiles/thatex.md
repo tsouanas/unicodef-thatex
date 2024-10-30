@@ -280,7 +280,7 @@
 | <code>cons</code> | ∷ |
 | <code>concat</code> | ⧺ |
 | <code>inv</code> | ⁻¹ |
-| <code>eqsto</code> | ▸ |
+| <code>eqs</code> | ▸ |
 | <code>lnot</code> | ¬ |
 | <code>lforall</code> | ∀ |
 | <code>lexists</code> | ∃ |

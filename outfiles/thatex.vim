@@ -279,7 +279,7 @@ inoremap \\op ᵒᵖ
 inoremap \\cons ∷
 inoremap \\concat ⧺
 inoremap \\inv ⁻¹
-inoremap \\eqsto ▸
+inoremap \\eqs ▸
 inoremap \\lnot ¬
 inoremap \\lforall ∀
 inoremap \\lexists ∃

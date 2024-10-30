@@ -296,7 +296,7 @@ concat            ⧺
 inv               ⁻¹
 
 # lean
-eqsto             ▸
+eqs               ▸
 
 # logic
 lnot              ¬

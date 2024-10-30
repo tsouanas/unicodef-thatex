@@ -24,6 +24,7 @@
 | <code>notes</code> | ♫ |
 | <code>command</code> | ⌘ |
 | <code>cmd</code> | ⌘ |
+| <code>esc</code> | ␛ |
 | <code>checkb</code> | ☐ |
 | <code>checkc</code> | ☑ |
 | <code>checkx</code> | ☒ |

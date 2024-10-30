@@ -23,6 +23,7 @@ inoremap \\note ♪
 inoremap \\notes ♫
 inoremap \\command ⌘
 inoremap \\cmd ⌘
+inoremap \\esc ␛
 inoremap \\checkb ☐
 inoremap \\checkc ☑
 inoremap \\checkx ☒
