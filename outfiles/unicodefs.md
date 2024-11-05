@@ -1678,9 +1678,6 @@
 | <code>music</code> | ♪ |
 | <code>note</code> | ♪ |
 | <code>notes</code> | ♫ |
-| <code>command</code> | ⌘ |
-| <code>cmd</code> | ⌘ |
-| <code>esc</code> | ␛ |
 | <code>checkb</code> | ☐ |
 | <code>checkc</code> | ☑ |
 | <code>checkx</code> | ☒ |
@@ -1701,9 +1698,14 @@
 | <code>nnbsp</code> |   |
 | <code>thin</code> |   |
 | <code>hair</code> |   |
-| <code>return</code> | ⏎ |
 | <code>para</code> | ¶ |
 | <code>sect</code> | § |
+| <code>return</code> | ⏎ |
+| <code>cmd</code> | ⌘ |
+| <code>esc</code> | ␛ |
+| <code>tab</code> | ↹ |
+| <code>shift</code> | ⇧ |
+| <code>caps</code> | ⇪ |
 | <code>flat</code> | ♭ |
 | <code>sharp</code> | ♯ |
 | <code>natu</code> | ♮ |

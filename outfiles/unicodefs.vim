@@ -911,9 +911,6 @@ inoremap \\fight ⚔
 inoremap \\music ♪
 inoremap \\note ♪
 inoremap \\notes ♫
-inoremap \\command ⌘
-inoremap \\cmd ⌘
-inoremap \\esc ␛
 inoremap \\checkb ☐
 inoremap \\checkc ☑
 inoremap \\checkx ☒
@@ -931,9 +928,14 @@ inoremap \\nbsp  
 inoremap \\nnbsp  
 inoremap \\thin  
 inoremap \\hair  
-inoremap \\return ⏎
 inoremap \\para ¶
 inoremap \\sect §
+inoremap \\return ⏎
+inoremap \\cmd ⌘
+inoremap \\esc ␛
+inoremap \\tab ↹
+inoremap \\shift ⇧
+inoremap \\caps ⇪
 inoremap \\spades ♠
 inoremap \\hearts ♡
 inoremap \\diamonds ♢

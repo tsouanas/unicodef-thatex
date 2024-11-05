@@ -4,9 +4,14 @@ nbsp               
 nnbsp              
 thin               
 hair               
-return            ⏎
 para              ¶
 sect              §
+return            ⏎
+cmd               ⌘
+esc               ␛
+tab               ↹
+shift             ⇧
+caps              ⇪
 
 # misc
 flat              ♭

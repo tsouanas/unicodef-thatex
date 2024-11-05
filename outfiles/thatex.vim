@@ -5,9 +5,14 @@ inoremap \\nbsp  
 inoremap \\nnbsp  
 inoremap \\thin  
 inoremap \\hair  
-inoremap \\return ⏎
 inoremap \\para ¶
 inoremap \\sect §
+inoremap \\return ⏎
+inoremap \\cmd ⌘
+inoremap \\esc ␛
+inoremap \\tab ↹
+inoremap \\shift ⇧
+inoremap \\caps ⇪
 inoremap \\flat ♭
 inoremap \\sharp ♯
 inoremap \\natu ♮

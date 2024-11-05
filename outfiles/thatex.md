@@ -6,9 +6,14 @@
 | <code>nnbsp</code> |   |
 | <code>thin</code> |   |
 | <code>hair</code> |   |
-| <code>return</code> | ⏎ |
 | <code>para</code> | ¶ |
 | <code>sect</code> | § |
+| <code>return</code> | ⏎ |
+| <code>cmd</code> | ⌘ |
+| <code>esc</code> | ␛ |
+| <code>tab</code> | ↹ |
+| <code>shift</code> | ⇧ |
+| <code>caps</code> | ⇪ |
 | <code>flat</code> | ♭ |
 | <code>sharp</code> | ♯ |
 | <code>natu</code> | ♮ |
