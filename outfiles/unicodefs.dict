@@ -7098,6 +7098,7 @@
     ")" = ("insertText:", "⦈");
     "-" = ("insertText:", "⊢");
     "=" = ("insertText:", "⊨");
+    ":" = ("insertText:", "¦");
   };
   "2" = {
     "|" = ("insertText:", "‖");
@@ -7272,6 +7273,7 @@
     "H" = ("insertText:", "Ḧ");
     "E" = ("insertText:", "Ë");
     "A" = ("insertText:", "Ä");
+    "|" = ("insertText:", "¦");
     "-" = ("insertText:", "⋯");
     "\\" = ("insertText:", "⋱");
     "/" = ("insertText:", "⋰");
@@ -7324,8 +7326,8 @@
     "5" = ("insertText:", "⅗");
     "4" = ("insertText:", "¾");
     "*" = ("insertText:", "⁂");
-    "." = ("insertText:", "…");
     ":" = ("insertText:", "⋮");
+    "." = ("insertText:", "…");
   };
   "4" = {
     "5" = ("insertText:", "⅘");
