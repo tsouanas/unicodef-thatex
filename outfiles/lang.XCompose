@@ -48,6 +48,7 @@
 <Multi_key><asciicircum><asciitilde> : "˜"
 <Multi_key><asciicircum><apostrophe> : "´"
 <Multi_key><asciicircum><grave> : "`"
+<Multi_key><asciicircum><asciicircum> : "ˆ"
 <Multi_key><f><f> : "ﬀ"
 <Multi_key><f><i> : "ﬁ"
 <Multi_key><f><l> : "ﬂ"

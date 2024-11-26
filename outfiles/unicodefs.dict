@@ -7405,6 +7405,7 @@
     "E" = ("insertText:", "Ê");
     "C" = ("insertText:", "Ĉ");
     "A" = ("insertText:", "Â");
+    "\\^" = ("insertText:", "ˆ");
     "`" = ("insertText:", "`");
     "'" = ("insertText:", "´");
     "\\~" = ("insertText:", "˜");

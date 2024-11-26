@@ -48,6 +48,7 @@ inoremap \!! ‼
 inoremap \^~ ˜
 inoremap \^' ´
 inoremap \^` `
+inoremap \^^ ˆ
 inoremap \ff ﬀ
 inoremap \fi ﬁ
 inoremap \fl ﬂ
