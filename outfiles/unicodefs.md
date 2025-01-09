@@ -816,6 +816,10 @@
 | <code>die4</code> | ⚃ |
 | <code>die5</code> | ⚄ |
 | <code>die6</code> | ⚅ |
+| <code>trinca</code> | 𝓔𝓧𝟑 |
+| <code>basket</code> | 🏀 |
+| <code>bball</code> | 🏀 |
+| <code>tennis</code> | 🎾 |
 ## greek (macro)
 | Sequence | Expansion |
 | :------- | :-------: |
