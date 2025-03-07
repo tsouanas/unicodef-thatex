@@ -1447,6 +1447,7 @@
 <Multi_key><minus><minus><m> : "–"
 <Multi_key><minus><asterisk> : "•"
 <Multi_key><asciicircum><period> : "·"
+<Multi_key><asciicircum><underscore> : "‾"
 <Multi_key><asterisk><asterisk> : "∗"
 <Multi_key><parenleft><exclam> : "¡"
 <Multi_key><parenleft><question> : "¿"

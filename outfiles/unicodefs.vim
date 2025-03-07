@@ -1447,6 +1447,7 @@ inoremap \--- —
 inoremap \--m –
 inoremap \-* •
 inoremap \^. ·
+inoremap \^_ ‾
 inoremap \** ∗
 inoremap \(! ¡
 inoremap \(? ¿
