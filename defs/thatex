@@ -229,12 +229,12 @@ setminus          ∖
 minus             ∖
 subset            ⊆
 supset            ⊇
-psubset           ⊊
-psupset           ⊋
-hsubset           ⊂
-hsupset           ⊃
 nsubset           ⊈
 nsupset           ⊉
+hsubset           ⊂
+hsupset           ⊃
+psubset           ⊊
+psupset           ⊋
 subsetneq         ⊊
 supsetneq         ⊋
 pset              ℘
@@ -328,6 +328,10 @@ linwith           &
 linpar            ⅋
 himplies          ⥰
 horse             ⥰
+nece              □
+poss              ◊
+vnece             ◻
+vposs             ◇
 
 # order
 top               ⊤
@@ -472,12 +476,14 @@ MODEL             𝐌𝐨𝐝𝐞𝐥
 # shortcuts for 6-char-limit (or for convenience)
 loz               ◊
 bloz              ⧫
-psubs             ⊊
-psups             ⊋
-hsubs             ⊂
-hsups             ⊃
+subs              ⊆
+sups              ⊇
 nsubs             ⊈
 nsups             ⊉
+hsubs             ⊂
+hsups             ⊃
+psubs             ⊊
+psups             ⊋
 subsne            ⊊
 supsne            ⊋
 fa                ∀
