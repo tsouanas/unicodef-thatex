@@ -57,12 +57,19 @@
 | <code>-+</code> | ∓ |
 | <code>/=</code> | ≠ |
 | <code>=/</code> | ≠ |
+| <code>&lt;&lt;</code> | ≪ |
+| <code>&gt;&gt;</code> | ≫ |
 | <code>&lt;=</code> | ≤ |
 | <code>&gt;=</code> | ≥ |
+| <code>&lt;~</code> | ≲ |
+| <code>&gt;~</code> | ≳ |
 | <code>:=</code> | ≔ |
 | <code>=:</code> | ≕ |
 | <code>~~</code> | ≈ |
-| <code>==</code> | ≡ |
+| <code>3=</code> | ≡ |
+| <code>=3</code> | ≡ |
+| <code>=-</code> | ≡ |
+| <code>-=</code> | ≡ |
 | <code>~=</code> | ≅ |
 | <code>.=</code> | ≐ |
 | <code>*=</code> | ≛ |
@@ -80,6 +87,7 @@
 | <code>**</code> | ∗ |
 | <code>*&vert;</code> | ⁑ |
 | <code>00</code> | ° |
+| <code>;;</code> | ⨾ |
 | <code>[[</code> | ⟦ |
 | <code>]]</code> | ⟧ |
 | <code>2[</code> | ⟦ |
@@ -120,7 +128,6 @@
 | <code>=v</code> | ⇓ |
 | <code>~&gt;</code> | ↝ |
 | <code>~&lt;</code> | ↜ |
-| <code>&lt;~</code> | ↜ |
 | <code>-.^</code> | ⇡ |
 | <code>-.&gt;</code> | ⇢ |
 | <code>-.v</code> | ⇣ |

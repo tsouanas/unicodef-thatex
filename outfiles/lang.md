@@ -1,10 +1,14 @@
 # lang (micro)
 | Sequence | Expansion |
 | :------- | :-------: |
-| <code>&gt;&gt;</code> | » |
-| <code>&lt;&lt;</code> | « |
-| <code>&gt;.</code> | › |
-| <code>&lt;.</code> | ‹ |
+| <code>&lt;"</code> | « |
+| <code>&gt;"</code> | » |
+| <code>"&lt;</code> | « |
+| <code>"&gt;</code> | » |
+| <code>&lt;'</code> | ‹ |
+| <code>&gt;'</code> | › |
+| <code>'&lt;</code> | ‹ |
+| <code>'&gt;</code> | › |
 | <code>('</code> | ‘ |
 | <code>)'</code> | ’ |
 | <code>'(</code> | ‘ |

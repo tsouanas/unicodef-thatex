@@ -56,12 +56,19 @@ inoremap \+- ±
 inoremap \-+ ∓
 inoremap \/= ≠
 inoremap \=/ ≠
+inoremap \<< ≪
+inoremap \>> ≫
 inoremap \<= ≤
 inoremap \>= ≥
+inoremap \<~ ≲
+inoremap \>~ ≳
 inoremap \:= ≔
 inoremap \=: ≕
 inoremap \~~ ≈
-inoremap \== ≡
+inoremap \3= ≡
+inoremap \=3 ≡
+inoremap \=- ≡
+inoremap \-= ≡
 inoremap \~= ≅
 inoremap \.= ≐
 inoremap \*= ≛
@@ -79,6 +86,7 @@ inoremap \*. ·
 inoremap \** ∗
 inoremap \*<Bar> ⁑
 inoremap \00 °
+inoremap \;; ⨾
 inoremap \[[ ⟦
 inoremap \]] ⟧
 inoremap \2[ ⟦
@@ -119,7 +127,6 @@ inoremap \=^ ⇑
 inoremap \=v ⇓
 inoremap \~> ↝
 inoremap \~< ↜
-inoremap \<~ ↜
 inoremap \-.^ ⇡
 inoremap \-.> ⇢
 inoremap \-.v ⇣

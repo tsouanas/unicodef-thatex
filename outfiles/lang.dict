@@ -293,6 +293,8 @@
     "A" = ("insertText:", "Á");
     ")" = ("insertText:", "’");
     "(" = ("insertText:", "‘");
+    ">" = ("insertText:", "›");
+    "<" = ("insertText:", "‹");
   };
   "!" = {
     "z" = ("insertText:", "ẓ");
@@ -762,17 +764,19 @@
   "\"" = {
     ")" = ("insertText:", "”");
     "(" = ("insertText:", "“");
+    ">" = ("insertText:", "»");
+    "<" = ("insertText:", "«");
   };
   ")" = {
     "\"" = ("insertText:", "”");
     "'" = ("insertText:", "’");
   };
-  "<" = {
-    "." = ("insertText:", "‹");
-    "<" = ("insertText:", "«");
-  };
   ">" = {
-    "." = ("insertText:", "›");
-    ">" = ("insertText:", "»");
+    "'" = ("insertText:", "›");
+    "\"" = ("insertText:", "»");
+  };
+  "<" = {
+    "'" = ("insertText:", "‹");
+    "\"" = ("insertText:", "«");
   };
 };}
