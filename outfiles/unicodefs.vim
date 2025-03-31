@@ -1164,6 +1164,11 @@ inoremap \\beth ℶ
 inoremap \\gimel ℷ
 inoremap \\daleth ℸ
 inoremap \\comp ∘
+inoremap \\of ∘
+inoremap \\after ∘
+inoremap \\dcomp ⨾
+inoremap \\then ⨾
+inoremap \\fby ⨾
 inoremap \\to →
 inoremap \\from ←
 inoremap \\To ⟶

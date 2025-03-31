@@ -241,6 +241,11 @@
 | <code>gimel</code> | ℷ |
 | <code>daleth</code> | ℸ |
 | <code>comp</code> | ∘ |
+| <code>of</code> | ∘ |
+| <code>after</code> | ∘ |
+| <code>dcomp</code> | ⨾ |
+| <code>then</code> | ⨾ |
+| <code>fby</code> | ⨾ |
 | <code>to</code> | → |
 | <code>from</code> | ← |
 | <code>To</code> | ⟶ |

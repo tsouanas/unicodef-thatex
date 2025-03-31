@@ -253,6 +253,11 @@ daleth            ℸ
 
 # fun/rel
 comp              ∘
+of                ∘
+after             ∘
+dcomp             ⨾
+then              ⨾
+fby               ⨾
 to                →
 from              ←
 To                ⟶
