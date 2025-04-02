@@ -7,6 +7,7 @@ inoremap \\thin  
 inoremap \\hair  
 inoremap \\para ¶
 inoremap \\sect §
+inoremap \\sects §§
 inoremap \\return ⏎
 inoremap \\cmd ⌘
 inoremap \\esc ␛

@@ -1719,6 +1719,7 @@
 | <code>hair</code> |   |
 | <code>para</code> | ¶ |
 | <code>sect</code> | § |
+| <code>sects</code> | §§ |
 | <code>return</code> | ⏎ |
 | <code>cmd</code> | ⌘ |
 | <code>esc</code> | ␛ |
