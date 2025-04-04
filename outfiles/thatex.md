@@ -16,6 +16,8 @@
 | <code>tab</code> | ↹ |
 | <code>shift</code> | ⇧ |
 | <code>caps</code> | ⇪ |
+| <code>undo</code> | ↶ |
+| <code>redo</code> | ↷ |
 | <code>flat</code> | ♭ |
 | <code>sharp</code> | ♯ |
 | <code>natu</code> | ♮ |
@@ -467,6 +469,8 @@
 | <code>trigt</code> | ⊳ |
 | <code>ntrilt</code> | ⋪ |
 | <code>ntrigt</code> | ⋫ |
+| <code>ccwloop</code> | ↺ |
+| <code>cwloop</code> | ↻ |
 | <code>CAT</code> | 𝐂𝐚𝐭 |
 | <code>SET</code> | 𝐒𝐞𝐭 |
 | <code>PSET</code> | 𝐏𝐒𝐞𝐭 |

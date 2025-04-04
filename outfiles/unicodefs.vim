@@ -942,6 +942,8 @@ inoremap \\esc ␛
 inoremap \\tab ↹
 inoremap \\shift ⇧
 inoremap \\caps ⇪
+inoremap \\undo ↶
+inoremap \\redo ↷
 inoremap \\spades ♠
 inoremap \\hearts ♡
 inoremap \\diamonds ♢
@@ -1390,6 +1392,8 @@ inoremap \\trilt ⊲
 inoremap \\trigt ⊳
 inoremap \\ntrilt ⋪
 inoremap \\ntrigt ⋫
+inoremap \\ccwloop ↺
+inoremap \\cwloop ↻
 inoremap \\CAT 𝐂𝐚𝐭
 inoremap \\SET 𝐒𝐞𝐭
 inoremap \\PSET 𝐏𝐒𝐞𝐭

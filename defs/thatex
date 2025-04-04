@@ -14,6 +14,8 @@ esc               ␛
 tab               ↹
 shift             ⇧
 caps              ⇪
+undo              ↶
+redo              ↷
 
 # misc
 flat              ♭
@@ -491,6 +493,8 @@ trilt             ⊲
 trigt             ⊳
 ntrilt            ⋪
 ntrigt            ⋫
+ccwloop           ↺
+cwloop            ↻
 
 # cats
 CAT               𝐂𝐚𝐭
