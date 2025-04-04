@@ -933,6 +933,7 @@ inoremap \\nnbsp  
 inoremap \\thin  
 inoremap \\hair  
 inoremap \\para ¶
+inoremap \\paras ¶¶
 inoremap \\sect §
 inoremap \\sects §§
 inoremap \\return ⏎

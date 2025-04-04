@@ -1718,6 +1718,7 @@
 | <code>thin</code> |   |
 | <code>hair</code> |   |
 | <code>para</code> | ¶ |
+| <code>paras</code> | ¶¶ |
 | <code>sect</code> | § |
 | <code>sects</code> | §§ |
 | <code>return</code> | ⏎ |
