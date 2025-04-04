@@ -104,6 +104,7 @@
 | <code>vimplied</code> | ⇑ |
 | <code>viff</code> | ⇕ |
 | <code>barr</code> | ↔ |
+| <code>vbarr</code> | ↕ |
 | <code>longbarr</code> | ⟷ |
 | <code>rlarr</code> | ⇄ |
 | <code>lrarr</code> | ⇆ |

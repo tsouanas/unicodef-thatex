@@ -103,6 +103,7 @@ inoremap \\vimplies ⇓
 inoremap \\vimplied ⇑
 inoremap \\viff ⇕
 inoremap \\barr ↔
+inoremap \\vbarr ↕
 inoremap \\longbarr ⟷
 inoremap \\rlarr ⇄
 inoremap \\lrarr ⇆
