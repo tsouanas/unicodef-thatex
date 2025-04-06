@@ -98,7 +98,6 @@ forall            ∀
 exists            ∃
 nexists           ∄
 unique            ∃!
-not               ¬
 implies           ⇒
 implied           ⇐
 iff               ⇔
@@ -257,6 +256,7 @@ gimel             ℷ
 daleth            ℸ
 
 # fun/rel
+lam               λ
 comp              ∘
 of                ∘
 after             ∘
@@ -330,6 +330,11 @@ inv               ⁻¹
 eqs               ▸
 
 # logic
+not               ¬
+and               ∧
+or                ∨
+And               ⋀
+Or                ⋁
 lnot              ¬
 lforall           ∀
 lexists           ∃
@@ -557,8 +562,8 @@ impd              ⇐
 himps             ⥰
 timps             ⟹
 timpd             ⟸
-limps             ⟹
-limpd             ⟸
+Imps              ⟹
+Impd              ⟸
 vimps             ⇓
 vimpd             ⇑
 nimpd             ⇍

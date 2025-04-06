@@ -1801,7 +1801,6 @@
 | <code>exists</code> | ∃ |
 | <code>nexists</code> | ∄ |
 | <code>unique</code> | ∃! |
-| <code>not</code> | ¬ |
 | <code>implies</code> | ⇒ |
 | <code>implied</code> | ⇐ |
 | <code>iff</code> | ⇔ |
@@ -1956,6 +1955,7 @@
 | <code>beth</code> | ℶ |
 | <code>gimel</code> | ℷ |
 | <code>daleth</code> | ℸ |
+| <code>lam</code> | λ |
 | <code>comp</code> | ∘ |
 | <code>of</code> | ∘ |
 | <code>after</code> | ∘ |
@@ -2023,6 +2023,11 @@
 | <code>concat</code> | ⧺ |
 | <code>inv</code> | ⁻¹ |
 | <code>eqs</code> | ▸ |
+| <code>not</code> | ¬ |
+| <code>and</code> | ∧ |
+| <code>or</code> | ∨ |
+| <code>And</code> | ⋀ |
+| <code>Or</code> | ⋁ |
 | <code>lnot</code> | ¬ |
 | <code>lforall</code> | ∀ |
 | <code>lexists</code> | ∃ |
@@ -2240,8 +2245,8 @@
 | <code>himps</code> | ⥰ |
 | <code>timps</code> | ⟹ |
 | <code>timpd</code> | ⟸ |
-| <code>limps</code> | ⟹ |
-| <code>limpd</code> | ⟸ |
+| <code>Imps</code> | ⟹ |
+| <code>Impd</code> | ⟸ |
 | <code>vimps</code> | ⇓ |
 | <code>vimpd</code> | ⇑ |
 | <code>nimpd</code> | ⇍ |

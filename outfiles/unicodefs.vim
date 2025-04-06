@@ -1013,7 +1013,6 @@ inoremap \\forall ∀
 inoremap \\exists ∃
 inoremap \\nexists ∄
 inoremap \\unique ∃!
-inoremap \\not ¬
 inoremap \\implies ⇒
 inoremap \\implied ⇐
 inoremap \\iff ⇔
@@ -1168,6 +1167,7 @@ inoremap \\aleph ℵ
 inoremap \\beth ℶ
 inoremap \\gimel ℷ
 inoremap \\daleth ℸ
+inoremap \\lam λ
 inoremap \\comp ∘
 inoremap \\of ∘
 inoremap \\after ∘
@@ -1235,6 +1235,11 @@ inoremap \\cons ∷
 inoremap \\concat ⧺
 inoremap \\inv ⁻¹
 inoremap \\eqs ▸
+inoremap \\not ¬
+inoremap \\and ∧
+inoremap \\or ∨
+inoremap \\And ⋀
+inoremap \\Or ⋁
 inoremap \\lnot ¬
 inoremap \\lforall ∀
 inoremap \\lexists ∃
@@ -1452,8 +1457,8 @@ inoremap \\impd ⇐
 inoremap \\himps ⥰
 inoremap \\timps ⟹
 inoremap \\timpd ⟸
-inoremap \\limps ⟹
-inoremap \\limpd ⟸
+inoremap \\Imps ⟹
+inoremap \\Impd ⟸
 inoremap \\vimps ⇓
 inoremap \\vimpd ⇑
 inoremap \\nimpd ⇍
