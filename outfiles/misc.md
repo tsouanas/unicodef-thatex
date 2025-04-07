@@ -25,6 +25,14 @@
 | <code>checkb</code> | ☐ |
 | <code>checkc</code> | ☑ |
 | <code>checkx</code> | ☒ |
+| <code>ymark</code> | ✓ |
+| <code>nmark</code> | ✗ |
+| <code>yeap</code> | ✓ |
+| <code>nope</code> | ✗ |
+| <code>bmark</code> | ◎ |
+| <code>omark</code> | ○ |
+| <code>tmark</code> | △ |
+| <code>xmark</code> | ✕ |
 | <code>flat</code> | ♭ |
 | <code>sharp</code> | ♯ |
 | <code>natu</code> | ♮ |
@@ -32,5 +40,9 @@
 | <code>enote</code> | ♪ |
 | <code>enotes</code> | ♫ |
 | <code>snotes</code> | ♬ |
+| <code>4note</code> | ♩ |
+| <code>8note</code> | ♪ |
+| <code>8notes</code> | ♫ |
+| <code>16notes</code> | ♬ |
 | <code>umbrel</code> | ☂ |
 | <code>snowma</code> | ☃ |

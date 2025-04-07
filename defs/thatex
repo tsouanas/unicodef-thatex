@@ -36,11 +36,10 @@ regist            ®
 tm                ™
 estim             ℮
 caret             ‸
+lucas             ⌖
 crosshair         ⌖
 target            ⌖
-lucas             ⌖
-lozenge           ◊
-blozenge          ⧫
+bullseye          ◎
 
 # money
 eur               €
@@ -365,6 +364,7 @@ nece              □
 poss              ◊
 vnece             ◻
 vposs             ◇
+circle            ○
 
 # order
 top               ⊤
@@ -500,6 +500,8 @@ ntrilt            ⋪
 ntrigt            ⋫
 ccwloop           ↺
 cwloop            ↻
+lozenge           ◊
+blozenge          ⧫
 
 # cats
 CAT               𝐂𝐚𝐭

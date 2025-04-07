@@ -25,6 +25,14 @@ notes       ♫
 checkb      ☐
 checkc      ☑
 checkx      ☒
+ymark       ✓
+nmark       ✗
+yeap        ✓
+nope        ✗
+bmark       ◎
+omark       ○
+tmark       △
+xmark       ✕
 
 # music
 flat        ♭
@@ -34,10 +42,12 @@ qnote       ♩
 enote       ♪
 enotes      ♫
 snotes      ♬
+4note       ♩
+8note       ♪
+8notes      ♫
+16notes     ♬
 
-
-# XXX shortcuts for 6-char-limit
-
+# shortcuts for 6-char-limit
 umbrel      ☂
 snowma      ☃
 

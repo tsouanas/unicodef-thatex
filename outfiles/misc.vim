@@ -24,6 +24,14 @@ inoremap \\notes ♫
 inoremap \\checkb ☐
 inoremap \\checkc ☑
 inoremap \\checkx ☒
+inoremap \\ymark ✓
+inoremap \\nmark ✗
+inoremap \\yeap ✓
+inoremap \\nope ✗
+inoremap \\bmark ◎
+inoremap \\omark ○
+inoremap \\tmark △
+inoremap \\xmark ✕
 inoremap \\flat ♭
 inoremap \\sharp ♯
 inoremap \\natu ♮
@@ -31,5 +39,9 @@ inoremap \\qnote ♩
 inoremap \\enote ♪
 inoremap \\enotes ♫
 inoremap \\snotes ♬
+inoremap \\4note ♩
+inoremap \\8note ♪
+inoremap \\8notes ♫
+inoremap \\16notes ♬
 inoremap \\umbrel ☂
 inoremap \\snowma ☃

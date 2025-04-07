@@ -36,11 +36,10 @@
 | <code>tm</code> | ™ |
 | <code>estim</code> | ℮ |
 | <code>caret</code> | ‸ |
+| <code>lucas</code> | ⌖ |
 | <code>crosshair</code> | ⌖ |
 | <code>target</code> | ⌖ |
-| <code>lucas</code> | ⌖ |
-| <code>lozenge</code> | ◊ |
-| <code>blozenge</code> | ⧫ |
+| <code>bullseye</code> | ◎ |
 | <code>eur</code> | € |
 | <code>gbp</code> | £ |
 | <code>usd</code> | $ |
@@ -347,6 +346,7 @@
 | <code>poss</code> | ◊ |
 | <code>vnece</code> | ◻ |
 | <code>vposs</code> | ◇ |
+| <code>circle</code> | ○ |
 | <code>top</code> | ⊤ |
 | <code>bottom</code> | ⊥ |
 | <code>cmeet</code> | ⋏ |
@@ -476,6 +476,8 @@
 | <code>ntrigt</code> | ⋫ |
 | <code>ccwloop</code> | ↺ |
 | <code>cwloop</code> | ↻ |
+| <code>lozenge</code> | ◊ |
+| <code>blozenge</code> | ⧫ |
 | <code>CAT</code> | 𝐂𝐚𝐭 |
 | <code>SET</code> | 𝐒𝐞𝐭 |
 | <code>PSET</code> | 𝐏𝐒𝐞𝐭 |

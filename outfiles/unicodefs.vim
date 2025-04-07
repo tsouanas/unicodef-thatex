@@ -918,6 +918,14 @@ inoremap \\notes ♫
 inoremap \\checkb ☐
 inoremap \\checkc ☑
 inoremap \\checkx ☒
+inoremap \\ymark ✓
+inoremap \\nmark ✗
+inoremap \\yeap ✓
+inoremap \\nope ✗
+inoremap \\bmark ◎
+inoremap \\omark ○
+inoremap \\tmark △
+inoremap \\xmark ✕
 inoremap \\flat ♭
 inoremap \\sharp ♯
 inoremap \\natu ♮
@@ -925,6 +933,10 @@ inoremap \\qnote ♩
 inoremap \\enote ♪
 inoremap \\enotes ♫
 inoremap \\snotes ♬
+inoremap \\4note ♩
+inoremap \\8note ♪
+inoremap \\8notes ♫
+inoremap \\16notes ♬
 inoremap \\umbrel ☂
 inoremap \\snowma ☃
 inoremap \\spc ␣
@@ -959,11 +971,10 @@ inoremap \\regist ®
 inoremap \\tm ™
 inoremap \\estim ℮
 inoremap \\caret ‸
+inoremap \\lucas ⌖
 inoremap \\crosshair ⌖
 inoremap \\target ⌖
-inoremap \\lucas ⌖
-inoremap \\lozenge ◊
-inoremap \\blozenge ⧫
+inoremap \\bullseye ◎
 inoremap \\eur €
 inoremap \\gbp £
 inoremap \\usd $
@@ -1270,6 +1281,7 @@ inoremap \\nece □
 inoremap \\poss ◊
 inoremap \\vnece ◻
 inoremap \\vposs ◇
+inoremap \\circle ○
 inoremap \\top ⊤
 inoremap \\bottom ⊥
 inoremap \\cmeet ⋏
@@ -1399,6 +1411,8 @@ inoremap \\ntrilt ⋪
 inoremap \\ntrigt ⋫
 inoremap \\ccwloop ↺
 inoremap \\cwloop ↻
+inoremap \\lozenge ◊
+inoremap \\blozenge ⧫
 inoremap \\CAT 𝐂𝐚𝐭
 inoremap \\SET 𝐒𝐞𝐭
 inoremap \\PSET 𝐏𝐒𝐞𝐭

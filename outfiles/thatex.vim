@@ -35,11 +35,10 @@ inoremap \\regist ®
 inoremap \\tm ™
 inoremap \\estim ℮
 inoremap \\caret ‸
+inoremap \\lucas ⌖
 inoremap \\crosshair ⌖
 inoremap \\target ⌖
-inoremap \\lucas ⌖
-inoremap \\lozenge ◊
-inoremap \\blozenge ⧫
+inoremap \\bullseye ◎
 inoremap \\eur €
 inoremap \\gbp £
 inoremap \\usd $
@@ -346,6 +345,7 @@ inoremap \\nece □
 inoremap \\poss ◊
 inoremap \\vnece ◻
 inoremap \\vposs ◇
+inoremap \\circle ○
 inoremap \\top ⊤
 inoremap \\bottom ⊥
 inoremap \\cmeet ⋏
@@ -475,6 +475,8 @@ inoremap \\ntrilt ⋪
 inoremap \\ntrigt ⋫
 inoremap \\ccwloop ↺
 inoremap \\cwloop ↻
+inoremap \\lozenge ◊
+inoremap \\blozenge ⧫
 inoremap \\CAT 𝐂𝐚𝐭
 inoremap \\SET 𝐒𝐞𝐭
 inoremap \\PSET 𝐏𝐒𝐞𝐭
