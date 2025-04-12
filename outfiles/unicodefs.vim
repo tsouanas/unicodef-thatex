@@ -982,6 +982,7 @@ inoremap \\yen ¥
 inoremap \\brl R$
 inoremap \\crz ₢$
 inoremap \\cent ¢
+inoremap \\cur ¤
 inoremap \\Eth Ð
 inoremap \\eth ð
 inoremap \\Thorn Þ

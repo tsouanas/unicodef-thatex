@@ -1770,6 +1770,7 @@
 | <code>brl</code> | R$ |
 | <code>crz</code> | ₢$ |
 | <code>cent</code> | ¢ |
+| <code>cur</code> | ¤ |
 | <code>Eth</code> | Ð |
 | <code>eth</code> | ð |
 | <code>Thorn</code> | Þ |
