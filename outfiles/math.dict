@@ -52,7 +52,7 @@
     "|" = ("insertText:", "‖");
     ")" = ("insertText:", "⦆");
     "(" = ("insertText:", "⦅");
-    "};" = ("insertText:", "⦄");
+    "}" = ("insertText:", "⦄");
     "{" = ("insertText:", "⦃");
     ">" = ("insertText:", "⟫");
     "<" = ("insertText:", "⟪");
@@ -86,8 +86,8 @@
     "<" = ("insertText:", "⟨");
     "S" = ("insertText:", "⟅");
   };
-  "};" = {
-    "};" = ("insertText:", "⦄");
+  "}" = {
+    "}" = ("insertText:", "⦄");
   };
   "{" = {
     "{" = ("insertText:", "⦃");
@@ -202,4 +202,5 @@
     "1" = ("insertText:", "¹");
     "0" = ("insertText:", "⁰");
   };
-};}
+};
+}
