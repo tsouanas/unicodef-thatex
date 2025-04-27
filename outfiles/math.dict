@@ -38,17 +38,29 @@
     "'" = ("insertText:", "⌈");
     "." = ("insertText:", "⌊");
     ")" = ("insertText:", "⦈");
+    ">" = ("insertText:", "⦊");
     "-" = ("insertText:", "⊢");
     "=" = ("insertText:", "⊨");
   };
   "<" = {
     "-" = ("insertText:", "←");
+    "|" = ("insertText:", "⦉");
     "(" = ("insertText:", "⟨");
+    "{" = ("insertText:", "⧼");
     "\\~" = ("insertText:", "≲");
     "=" = ("insertText:", "≤");
     "<" = ("insertText:", "≪");
   };
+  "3" = {
+    "+" = ("insertText:", "⧻");
+    "|" = ("insertText:", "⦀");
+    "=" = ("insertText:", "≡");
+    "8" = ("insertText:", "⅜");
+    "5" = ("insertText:", "⅗");
+    "4" = ("insertText:", "¾");
+  };
   "2" = {
+    "+" = ("insertText:", "⧺");
     "|" = ("insertText:", "‖");
     ")" = ("insertText:", "⦆");
     "(" = ("insertText:", "⦅");
@@ -86,17 +98,25 @@
     "<" = ("insertText:", "⟨");
     "S" = ("insertText:", "⟅");
   };
+  ">" = {
+    "|" = ("insertText:", "⦊");
+    ")" = ("insertText:", "⟩");
+    "}" = ("insertText:", "⧽");
+    "\\~" = ("insertText:", "≳");
+    "=" = ("insertText:", "≥");
+    ">" = ("insertText:", "≫");
+  };
   "}" = {
     "}" = ("insertText:", "⦄");
   };
   "{" = {
     "{" = ("insertText:", "⦃");
   };
-  ">" = {
-    ")" = ("insertText:", "⟩");
-    "\\~" = ("insertText:", "≳");
-    "=" = ("insertText:", "≥");
-    ">" = ("insertText:", "≫");
+  "0" = {
+    ">" = ("insertText:", "⧽");
+    "<" = ("insertText:", "⧼");
+    "0" = ("insertText:", "°");
+    "3" = ("insertText:", "↉");
   };
   "S" = {
     ")" = ("insertText:", "⟆");
@@ -110,10 +130,6 @@
   };
   ";" = {
     ";" = ("insertText:", "⨾");
-  };
-  "0" = {
-    "0" = ("insertText:", "°");
-    "3" = ("insertText:", "↉");
   };
   "*" = {
     "|" = ("insertText:", "⁑");
@@ -129,12 +145,6 @@
   };
   "?" = {
     "=" = ("insertText:", "≟");
-  };
-  "3" = {
-    "=" = ("insertText:", "≡");
-    "8" = ("insertText:", "⅜");
-    "5" = ("insertText:", "⅗");
-    "4" = ("insertText:", "¾");
   };
   "/" = {
     "=" = ("insertText:", "≠");

@@ -250,6 +250,7 @@ psupset           ⊋
 subsetneq         ⊊
 supsetneq         ⊋
 pset              ℘
+power             ℘
 aleph             ℵ
 beth              ℶ
 gimel             ℷ
@@ -273,6 +274,7 @@ gets              ←
 nto               ↛
 nfrom             ↚
 parto             ⇀
+parfrom           ↼
 mapsto            ↦
 mapsfrom          ↤
 tmapsto           ⟼
@@ -281,7 +283,6 @@ Mapsto            ⟼
 Mapsfrom          ⟻
 mapsup            ↥
 mapsdown          ↧
-parfrom           ↼
 rest              ↾
 surto             ↠
 surfrom           ↞
@@ -503,6 +504,7 @@ ccwloop           ↺
 cwloop            ↻
 lozenge           ◊
 blozenge          ⧫
+wp                ℘
 
 # cats
 CAT               𝐂𝐚𝐭

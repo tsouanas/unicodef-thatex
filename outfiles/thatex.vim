@@ -239,6 +239,7 @@ inoremap \\psupset ⊋
 inoremap \\subsetneq ⊊
 inoremap \\supsetneq ⊋
 inoremap \\pset ℘
+inoremap \\power ℘
 inoremap \\aleph ℵ
 inoremap \\beth ℶ
 inoremap \\gimel ℷ
@@ -260,6 +261,7 @@ inoremap \\gets ←
 inoremap \\nto ↛
 inoremap \\nfrom ↚
 inoremap \\parto ⇀
+inoremap \\parfrom ↼
 inoremap \\mapsto ↦
 inoremap \\mapsfrom ↤
 inoremap \\tmapsto ⟼
@@ -268,7 +270,6 @@ inoremap \\Mapsto ⟼
 inoremap \\Mapsfrom ⟻
 inoremap \\mapsup ↥
 inoremap \\mapsdown ↧
-inoremap \\parfrom ↼
 inoremap \\rest ↾
 inoremap \\surto ↠
 inoremap \\surfrom ↞
@@ -478,6 +479,7 @@ inoremap \\ccwloop ↺
 inoremap \\cwloop ↻
 inoremap \\lozenge ◊
 inoremap \\blozenge ⧫
+inoremap \\wp ℘
 inoremap \\CAT 𝐂𝐚𝐭
 inoremap \\SET 𝐒𝐞𝐭
 inoremap \\PSET 𝐏𝐒𝐞𝐭

@@ -1175,6 +1175,7 @@ inoremap \\psupset ⊋
 inoremap \\subsetneq ⊊
 inoremap \\supsetneq ⊋
 inoremap \\pset ℘
+inoremap \\power ℘
 inoremap \\aleph ℵ
 inoremap \\beth ℶ
 inoremap \\gimel ℷ
@@ -1196,6 +1197,7 @@ inoremap \\gets ←
 inoremap \\nto ↛
 inoremap \\nfrom ↚
 inoremap \\parto ⇀
+inoremap \\parfrom ↼
 inoremap \\mapsto ↦
 inoremap \\mapsfrom ↤
 inoremap \\tmapsto ⟼
@@ -1204,7 +1206,6 @@ inoremap \\Mapsto ⟼
 inoremap \\Mapsfrom ⟻
 inoremap \\mapsup ↥
 inoremap \\mapsdown ↧
-inoremap \\parfrom ↼
 inoremap \\rest ↾
 inoremap \\surto ↠
 inoremap \\surfrom ↞
@@ -1414,6 +1415,7 @@ inoremap \\ccwloop ↺
 inoremap \\cwloop ↻
 inoremap \\lozenge ◊
 inoremap \\blozenge ⧫
+inoremap \\wp ℘
 inoremap \\CAT 𝐂𝐚𝐭
 inoremap \\SET 𝐒𝐞𝐭
 inoremap \\PSET 𝐏𝐒𝐞𝐭
@@ -2221,6 +2223,10 @@ inoremap \(S ⟅
 inoremap \)S ⟆
 inoremap \S( ⟅
 inoremap \S) ⟆
+inoremap \<{ ⧼
+inoremap \>} ⧽
+inoremap \0< ⧼
+inoremap \0> ⧽
 inoremap \(< ⟨
 inoremap \)> ⟩
 inoremap \<( ⟨
@@ -2231,6 +2237,9 @@ inoremap \{{ ⦃
 inoremap \}} ⦄
 inoremap \2{ ⦃
 inoremap \2} ⦄
+inoremap \<<Bar> ⦉
+inoremap \><Bar> ⦊
+inoremap \<Bar>> ⦊
 inoremap \(<Bar> ⦇
 inoremap \)<Bar> ⦈
 inoremap \<Bar>) ⦈
@@ -2246,6 +2255,9 @@ inoremap \<Bar>' ⌈
 inoremap \'<Bar> ⌉
 inoremap \<Bar><Bar> ‖
 inoremap \2<Bar> ‖
+inoremap \3<Bar> ⦀
+inoremap \2+ ⧺
+inoremap \3+ ⧻
 inoremap \-> →
 inoremap \-< ←
 inoremap \-^ ↑

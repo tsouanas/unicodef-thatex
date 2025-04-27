@@ -240,6 +240,7 @@
 | <code>subsetneq</code> | ⊊ |
 | <code>supsetneq</code> | ⊋ |
 | <code>pset</code> | ℘ |
+| <code>power</code> | ℘ |
 | <code>aleph</code> | ℵ |
 | <code>beth</code> | ℶ |
 | <code>gimel</code> | ℷ |
@@ -261,6 +262,7 @@
 | <code>nto</code> | ↛ |
 | <code>nfrom</code> | ↚ |
 | <code>parto</code> | ⇀ |
+| <code>parfrom</code> | ↼ |
 | <code>mapsto</code> | ↦ |
 | <code>mapsfrom</code> | ↤ |
 | <code>tmapsto</code> | ⟼ |
@@ -269,7 +271,6 @@
 | <code>Mapsfrom</code> | ⟻ |
 | <code>mapsup</code> | ↥ |
 | <code>mapsdown</code> | ↧ |
-| <code>parfrom</code> | ↼ |
 | <code>rest</code> | ↾ |
 | <code>surto</code> | ↠ |
 | <code>surfrom</code> | ↞ |
@@ -479,6 +480,7 @@
 | <code>cwloop</code> | ↻ |
 | <code>lozenge</code> | ◊ |
 | <code>blozenge</code> | ⧫ |
+| <code>wp</code> | ℘ |
 | <code>CAT</code> | 𝐂𝐚𝐭 |
 | <code>SET</code> | 𝐒𝐞𝐭 |
 | <code>PSET</code> | 𝐏𝐒𝐞𝐭 |

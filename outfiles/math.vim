@@ -95,6 +95,10 @@ inoremap \(S ⟅
 inoremap \)S ⟆
 inoremap \S( ⟅
 inoremap \S) ⟆
+inoremap \<{ ⧼
+inoremap \>} ⧽
+inoremap \0< ⧼
+inoremap \0> ⧽
 inoremap \(< ⟨
 inoremap \)> ⟩
 inoremap \<( ⟨
@@ -105,6 +109,9 @@ inoremap \{{ ⦃
 inoremap \}} ⦄
 inoremap \2{ ⦃
 inoremap \2} ⦄
+inoremap \<<Bar> ⦉
+inoremap \><Bar> ⦊
+inoremap \<Bar>> ⦊
 inoremap \(<Bar> ⦇
 inoremap \)<Bar> ⦈
 inoremap \<Bar>) ⦈
@@ -120,6 +127,9 @@ inoremap \<Bar>' ⌈
 inoremap \'<Bar> ⌉
 inoremap \<Bar><Bar> ‖
 inoremap \2<Bar> ‖
+inoremap \3<Bar> ⦀
+inoremap \2+ ⧺
+inoremap \3+ ⧻
 inoremap \-> →
 inoremap \-< ←
 inoremap \-^ ↑

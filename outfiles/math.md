@@ -96,6 +96,10 @@
 | <code>)S</code> | ⟆ |
 | <code>S(</code> | ⟅ |
 | <code>S)</code> | ⟆ |
+| <code>&lt;{</code> | ⧼ |
+| <code>&gt;}</code> | ⧽ |
+| <code>0&lt;</code> | ⧼ |
+| <code>0&gt;</code> | ⧽ |
 | <code>(&lt;</code> | ⟨ |
 | <code>)&gt;</code> | ⟩ |
 | <code>&lt;(</code> | ⟨ |
@@ -106,6 +110,9 @@
 | <code>}}</code> | ⦄ |
 | <code>2{</code> | ⦃ |
 | <code>2}</code> | ⦄ |
+| <code>&lt;&vert;</code> | ⦉ |
+| <code>&gt;&vert;</code> | ⦊ |
+| <code>&vert;&gt;</code> | ⦊ |
 | <code>(&vert;</code> | ⦇ |
 | <code>)&vert;</code> | ⦈ |
 | <code>&vert;)</code> | ⦈ |
@@ -121,6 +128,9 @@
 | <code>'&vert;</code> | ⌉ |
 | <code>&vert;&vert;</code> | ‖ |
 | <code>2&vert;</code> | ‖ |
+| <code>3&vert;</code> | ⦀ |
+| <code>2+</code> | ⧺ |
+| <code>3+</code> | ⧻ |
 | <code>-&gt;</code> | → |
 | <code>-&lt;</code> | ← |
 | <code>-^</code> | ↑ |
