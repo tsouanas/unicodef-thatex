@@ -1342,6 +1342,8 @@ inoremap \\semnleq ⋢
 inoremap \\semngeq ⋣
 inoremap \\nsemleq ⋢
 inoremap \\nsemgeq ⋣
+inoremap \\tiny ⧾
+inoremap \\miny ⧿
 inoremap \\lolli ⊸
 inoremap \\sqmeet ⊓
 inoremap \\sqjoin ⊔
@@ -1415,6 +1417,7 @@ inoremap \\ccwloop ↺
 inoremap \\cwloop ↻
 inoremap \\lozenge ◊
 inoremap \\blozenge ⧫
+inoremap \\spot ⦁
 inoremap \\wp ℘
 inoremap \\CAT 𝐂𝐚𝐭
 inoremap \\SET 𝐒𝐞𝐭

@@ -407,6 +407,8 @@
 | <code>semngeq</code> | ⋣ |
 | <code>nsemleq</code> | ⋢ |
 | <code>nsemgeq</code> | ⋣ |
+| <code>tiny</code> | ⧾ |
+| <code>miny</code> | ⧿ |
 | <code>lolli</code> | ⊸ |
 | <code>sqmeet</code> | ⊓ |
 | <code>sqjoin</code> | ⊔ |
@@ -480,6 +482,7 @@
 | <code>cwloop</code> | ↻ |
 | <code>lozenge</code> | ◊ |
 | <code>blozenge</code> | ⧫ |
+| <code>spot</code> | ⦁ |
 | <code>wp</code> | ℘ |
 | <code>CAT</code> | 𝐂𝐚𝐭 |
 | <code>SET</code> | 𝐒𝐞𝐭 |

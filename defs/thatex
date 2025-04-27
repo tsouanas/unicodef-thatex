@@ -430,6 +430,10 @@ semngeq           ⋣
 nsemleq           ⋢
 nsemgeq           ⋣
 
+# games
+tiny              ⧾
+miny              ⧿
+
 # named
 lolli             ⊸
 sqmeet            ⊓
@@ -504,6 +508,7 @@ ccwloop           ↺
 cwloop            ↻
 lozenge           ◊
 blozenge          ⧫
+spot              ⦁
 wp                ℘
 
 # cats
