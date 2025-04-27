@@ -131,6 +131,8 @@
 | <code>3&vert;</code> | ⦀ |
 | <code>2+</code> | ⧺ |
 | <code>3+</code> | ⧻ |
+| <code>2;</code> | ⨾ |
+| <code>2:</code> | ⦂ |
 | <code>-&gt;</code> | → |
 | <code>-&lt;</code> | ← |
 | <code>-^</code> | ↑ |

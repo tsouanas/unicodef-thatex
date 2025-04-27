@@ -130,6 +130,8 @@
 <Multi_key><3><bar> : "⦀"
 <Multi_key><2><plus> : "⧺"
 <Multi_key><3><plus> : "⧻"
+<Multi_key><2><semicolon> : "⨾"
+<Multi_key><2><colon> : "⦂"
 <Multi_key><minus><greater> : "→"
 <Multi_key><minus><less> : "←"
 <Multi_key><minus><asciicircum> : "↑"

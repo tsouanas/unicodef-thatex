@@ -51,15 +51,9 @@
     "=" = ("insertText:", "≤");
     "<" = ("insertText:", "≪");
   };
-  "3" = {
-    "+" = ("insertText:", "⧻");
-    "|" = ("insertText:", "⦀");
-    "=" = ("insertText:", "≡");
-    "8" = ("insertText:", "⅜");
-    "5" = ("insertText:", "⅗");
-    "4" = ("insertText:", "¾");
-  };
   "2" = {
+    ":" = ("insertText:", "⦂");
+    ";" = ("insertText:", "⨾");
     "+" = ("insertText:", "⧺");
     "|" = ("insertText:", "‖");
     ")" = ("insertText:", "⦆");
@@ -72,6 +66,14 @@
     "[" = ("insertText:", "⟦");
     "5" = ("insertText:", "⅖");
     "3" = ("insertText:", "⅔");
+  };
+  "3" = {
+    "+" = ("insertText:", "⧻");
+    "|" = ("insertText:", "⦀");
+    "=" = ("insertText:", "≡");
+    "8" = ("insertText:", "⅜");
+    "5" = ("insertText:", "⅗");
+    "4" = ("insertText:", "¾");
   };
   "'" = {
     "|" = ("insertText:", "⌉");

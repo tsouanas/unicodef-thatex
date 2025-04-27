@@ -2258,6 +2258,8 @@ inoremap \2<Bar> ‖
 inoremap \3<Bar> ⦀
 inoremap \2+ ⧺
 inoremap \3+ ⧻
+inoremap \2; ⨾
+inoremap \2: ⦂
 inoremap \-> →
 inoremap \-< ←
 inoremap \-^ ↑
