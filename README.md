@@ -6,7 +6,7 @@ You can install and use them without installing [unicodef].
 
 For each input file (under `defs/`) see the correpsonding
 markdown file under outfiles for a list of all sequences
-defined by it.  [unicodefs.md] contain all of them.
+defined by it.  The file [unicodefs.md] contains all of them.
 
 See [unicodef] for more info on how to install and use these.
 
@@ -37,7 +37,6 @@ If you are already using a `DefaultKeyBinding.dict`, then `make macosinstall`
 will overwrite the existing file, and `make macosuninstall` will delete it.
 
 
-[unicodefs.md]: outfiles/unicodefs.md
 [unicodefs.md]: outfiles/unicodefs.md
 [unicodef]:     https://github.com/tsouanas/unicodef
 [ThaTeX]:       https://github.com/tsouanas/thatex
