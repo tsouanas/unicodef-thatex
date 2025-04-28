@@ -29,6 +29,7 @@
 | <code>bowtie</code> | ⨝ |
 | <code>hrmf</code> | ⍨ |
 | <code>smooch</code> | ⍣ |
+| <code>sad</code> | ᑥ |
 | <code>degree</code> | ° |
 | <code>copyr</code> | © |
 | <code>copyl</code> | 🄯 |

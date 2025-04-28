@@ -981,6 +981,7 @@ inoremap \\magic ⛤
 inoremap \\bowtie ⨝
 inoremap \\hrmf ⍨
 inoremap \\smooch ⍣
+inoremap \\sad ᑥ
 inoremap \\degree °
 inoremap \\copyr ©
 inoremap \\copyl 🄯
