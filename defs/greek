@@ -62,6 +62,24 @@ chi             χ
 psi             ψ
 omega           ω
 
+# superscripts and subscripts
+^alpha          ᵅ
+^beta           ᵝ
+^gamma          ᵞ
+^delta          ᵟ
+^epsilon        ᵋ
+^theta          ᶿ
+^iota           ᶥ
+^omicron        ᵒ
+^upsilon        ᶹ
+^phi            ᵠ
+^chi            ᵡ
+_beta           ᵦ
+_gamma          ᵧ
+_rho            ᵨ
+_phi            ᵩ
+_chi            ᵪ
+
 # XXX shortcuts for 6-char-limit or convenience
 Epsi            Ε
 Omicro          Ο
@@ -84,3 +102,4 @@ fsigma          ς
 upsi            υ
 vphi            ϕ
 cphi            ϕ
+^epsi           ᵋ

@@ -885,6 +885,22 @@
 | <code>chi</code> | χ |
 | <code>psi</code> | ψ |
 | <code>omega</code> | ω |
+| <code>^alpha</code> | ᵅ |
+| <code>^beta</code> | ᵝ |
+| <code>^gamma</code> | ᵞ |
+| <code>^delta</code> | ᵟ |
+| <code>^epsilon</code> | ᵋ |
+| <code>^theta</code> | ᶿ |
+| <code>^iota</code> | ᶥ |
+| <code>^omicron</code> | ᵒ |
+| <code>^upsilon</code> | ᶹ |
+| <code>^phi</code> | ᵠ |
+| <code>^chi</code> | ᵡ |
+| <code>_beta</code> | ᵦ |
+| <code>_gamma</code> | ᵧ |
+| <code>_rho</code> | ᵨ |
+| <code>_phi</code> | ᵩ |
+| <code>_chi</code> | ᵪ |
 | <code>Epsi</code> | Ε |
 | <code>Omicro</code> | Ο |
 | <code>Upsi</code> | Υ |
@@ -906,6 +922,7 @@
 | <code>upsi</code> | υ |
 | <code>vphi</code> | ϕ |
 | <code>cphi</code> | ϕ |
+| <code>^epsi</code> | ᵋ |
 ## lang (micro)
 | Sequence | Expansion |
 | :------- | :-------: |
