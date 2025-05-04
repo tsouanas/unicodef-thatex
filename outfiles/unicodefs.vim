@@ -1474,6 +1474,7 @@ inoremap \\BALG 𝐁𝐨𝐨𝐥𝐞𝐚𝐧
 inoremap \\HA 𝐇𝐀
 inoremap \\BA 𝐁𝐀
 inoremap \\MODEL 𝐌𝐨𝐝𝐞𝐥
+inoremap \\bot ⊥
 inoremap \\loz ◊
 inoremap \\bloz ⧫
 inoremap \\subs ⊆
