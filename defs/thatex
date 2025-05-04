@@ -327,6 +327,16 @@ op                ᵒᵖ
 cons              ∷
 concat            ⧺
 inv               ⁻¹
+jeq               ≐
+deq               ≡
+defjeq            :≐
+defdeq            :≡
+assjeq            :≐
+assdeq            :≡
+jeqass            ≐:
+deqass            ≡:
+matches           ≡:
+matcheq           ≕
 
 # lean
 eqs               ▸

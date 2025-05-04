@@ -312,6 +312,16 @@ inoremap \\op ᵒᵖ
 inoremap \\cons ∷
 inoremap \\concat ⧺
 inoremap \\inv ⁻¹
+inoremap \\jeq ≐
+inoremap \\deq ≡
+inoremap \\defjeq :≐
+inoremap \\defdeq :≡
+inoremap \\assjeq :≐
+inoremap \\assdeq :≡
+inoremap \\jeqass ≐:
+inoremap \\deqass ≡:
+inoremap \\matches ≡:
+inoremap \\matcheq ≕
 inoremap \\eqs ▸
 inoremap \\not ¬
 inoremap \\and ∧

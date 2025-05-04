@@ -313,6 +313,16 @@
 | <code>cons</code> | ∷ |
 | <code>concat</code> | ⧺ |
 | <code>inv</code> | ⁻¹ |
+| <code>jeq</code> | ≐ |
+| <code>deq</code> | ≡ |
+| <code>defjeq</code> | :≐ |
+| <code>defdeq</code> | :≡ |
+| <code>assjeq</code> | :≐ |
+| <code>assdeq</code> | :≡ |
+| <code>jeqass</code> | ≐: |
+| <code>deqass</code> | ≡: |
+| <code>matches</code> | ≡: |
+| <code>matcheq</code> | ≕ |
 | <code>eqs</code> | ▸ |
 | <code>not</code> | ¬ |
 | <code>and</code> | ∧ |
