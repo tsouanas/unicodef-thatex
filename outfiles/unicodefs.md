@@ -1894,6 +1894,7 @@
 | <code>stareq</code> | ≛ |
 | <code>asseq</code> | ≔ |
 | <code>eqass</code> | ≕ |
+| <code>bnfeq</code> | ⩴ |
 | <code>defiff</code> | ⇐≝⇒ |
 | <code>intiff</code> | ⇚⇛ |
 | <code>intimplies</code> | ⇛ |

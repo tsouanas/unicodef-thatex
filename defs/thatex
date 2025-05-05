@@ -144,6 +144,7 @@ asteq             ⩮
 stareq            ≛
 asseq             ≔
 eqass             ≕
+bnfeq             ⩴
 defiff            ⇐≝⇒
 intiff            ⇚⇛
 intimplies        ⇛

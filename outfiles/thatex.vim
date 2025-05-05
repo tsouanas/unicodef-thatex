@@ -135,6 +135,7 @@ inoremap \\asteq ⩮
 inoremap \\stareq ≛
 inoremap \\asseq ≔
 inoremap \\eqass ≕
+inoremap \\bnfeq ⩴
 inoremap \\defiff ⇐≝⇒
 inoremap \\intiff ⇚⇛
 inoremap \\intimplies ⇛
