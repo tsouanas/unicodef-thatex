@@ -1287,6 +1287,8 @@ inoremap \\lforall ∀
 inoremap \\lexists ∃
 inoremap \\limplies →
 inoremap \\limplied ←
+inoremap \\himplies ⥰
+inoremap \\horse ⥰
 inoremap \\liff ↔
 inoremap \\longliff ⟷
 inoremap \\Liff ⟷
@@ -1306,8 +1308,6 @@ inoremap \\linnot ⊥
 inoremap \\linto ⊸
 inoremap \\linwith &
 inoremap \\linpar ⅋
-inoremap \\himplies ⥰
-inoremap \\horse ⥰
 inoremap \\nece □
 inoremap \\poss ◊
 inoremap \\vnece ◻

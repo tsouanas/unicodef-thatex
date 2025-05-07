@@ -353,6 +353,8 @@ lforall           ∀
 lexists           ∃
 limplies          →
 limplied          ←
+himplies          ⥰
+horse             ⥰
 liff              ↔
 longliff          ⟷
 Liff              ⟷
@@ -372,8 +374,6 @@ linnot            ⊥
 linto             ⊸
 linwith           &
 linpar            ⅋
-himplies          ⥰
-horse             ⥰
 nece              □
 poss              ◊
 vnece             ◻

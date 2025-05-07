@@ -2093,6 +2093,8 @@
 | <code>lexists</code> | ∃ |
 | <code>limplies</code> | → |
 | <code>limplied</code> | ← |
+| <code>himplies</code> | ⥰ |
+| <code>horse</code> | ⥰ |
 | <code>liff</code> | ↔ |
 | <code>longliff</code> | ⟷ |
 | <code>Liff</code> | ⟷ |
@@ -2112,8 +2114,6 @@
 | <code>linto</code> | ⊸ |
 | <code>linwith</code> | & |
 | <code>linpar</code> | ⅋ |
-| <code>himplies</code> | ⥰ |
-| <code>horse</code> | ⥰ |
 | <code>nece</code> | □ |
 | <code>poss</code> | ◊ |
 | <code>vnece</code> | ◻ |
