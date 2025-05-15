@@ -257,6 +257,17 @@ aleph             ℵ
 beth              ℶ
 gimel             ℷ
 daleth            ℸ
+continuum         𝔠
+eqc               =꜀
+leqc              ≤꜀
+ltc               <꜀
+geqc              ≥꜀
+gtc               >꜀
+eqo               =ₒ
+leqo              ≤ₒ
+lto               <ₒ
+geqo              ≥ₒ
+gto               >ₒ
 
 # fun/rel
 lam               λ
