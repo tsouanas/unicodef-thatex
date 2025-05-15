@@ -1122,6 +1122,7 @@ inoremap \\asseq ≔
 inoremap \\eqass ≕
 inoremap \\bnfeq ⩴
 inoremap \\defiff ⇐≝⇒
+inoremap \\askiff ⇐≟⇒
 inoremap \\intiff ⇚⇛
 inoremap \\intimplies ⇛
 inoremap \\vintimplied ⤊

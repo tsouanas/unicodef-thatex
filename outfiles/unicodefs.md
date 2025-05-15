@@ -1928,6 +1928,7 @@
 | <code>eqass</code> | ≕ |
 | <code>bnfeq</code> | ⩴ |
 | <code>defiff</code> | ⇐≝⇒ |
+| <code>askiff</code> | ⇐≟⇒ |
 | <code>intiff</code> | ⇚⇛ |
 | <code>intimplies</code> | ⇛ |
 | <code>vintimplied</code> | ⤊ |

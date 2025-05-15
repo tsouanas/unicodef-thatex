@@ -146,6 +146,7 @@ asseq             ≔
 eqass             ≕
 bnfeq             ⩴
 defiff            ⇐≝⇒
+askiff            ⇐≟⇒
 intiff            ⇚⇛
 intimplies        ⇛
 vintimplied       ⤊
