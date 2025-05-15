@@ -144,9 +144,6 @@
     "E" = ("insertText:", "Ë");
     "A" = ("insertText:", "Ä");
     "|" = ("insertText:", "¦");
-    "-" = ("insertText:", "⋯");
-    "\\" = ("insertText:", "⋱");
-    "/" = ("insertText:", "⋰");
     "3" = ("insertText:", "⋮");
   };
   "/" = {
@@ -337,6 +334,7 @@
     "A" = ("insertText:", "Ạ");
     "!" = ("insertText:", "‼");
     "?" = ("insertText:", "⁉");
+    "(" = ("insertText:", "¡");
   };
   "Z" = {
     "!" = ("insertText:", "Ẓ");
@@ -737,6 +735,7 @@
   };
   "?" = {
     "!" = ("insertText:", "⁈");
+    "(" = ("insertText:", "¿");
   };
   "(" = {
     "?" = ("insertText:", "¿");

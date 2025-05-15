@@ -26,9 +26,6 @@
 | <code>..-</code> | ⋯ |
 | <code>..&vert;</code> | ⋮ |
 | <code>:3</code> | ⋮ |
-| <code>:/</code> | ⋰ |
-| <code>:\</code> | ⋱ |
-| <code>:-</code> | ⋯ |
 | <code>:&vert;</code> | ¦ |
 | <code>&vert;:</code> | ¦ |
 | <code>*2</code> | ⁑ |
@@ -47,7 +44,9 @@
 | <code>^_</code> | ‾ |
 | <code>**</code> | ∗ |
 | <code>(!</code> | ¡ |
+| <code>!(</code> | ¡ |
 | <code>(?</code> | ¿ |
+| <code>?(</code> | ¿ |
 | <code>?!</code> | ⁈ |
 | <code>!?</code> | ⁉ |
 | <code>!!</code> | ‼ |

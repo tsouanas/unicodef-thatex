@@ -30,6 +30,23 @@
           };
         };
       };
+      "p" = {
+        "l" = {
+          "u" = {
+            "s" = {
+              " " = ("insertText:", "⨢");
+            };
+          };
+        };
+        "h" = {
+          "i" = {
+            " " = ("insertText:", "ϕ");
+          };
+        };
+        "i" = {
+          " " = ("insertText:", "ϖ");
+        };
+      };
       "a" = {
         "u" = {
           "s" = {
@@ -233,6 +250,27 @@
           };
         };
       };
+      "i" = {
+        "r" = {
+          "c" = {
+            "p" = {
+              "l" = {
+                "u" = {
+                  "s" = {
+                    " " = ("insertText:", "⨢");
+                  };
+                };
+              };
+            };
+            "l" = {
+              "e" = {
+                " " = ("insertText:", "○");
+              };
+            };
+            " " = ("insertText:", "∘");
+          };
+        };
+      };
       "g" = {
         "t" = {
           "s" = {
@@ -299,18 +337,6 @@
         };
         "d" = {
           " " = ("insertText:", "⌘");
-        };
-      };
-      "i" = {
-        "r" = {
-          "c" = {
-            "l" = {
-              "e" = {
-                " " = ("insertText:", "○");
-              };
-            };
-            " " = ("insertText:", "∘");
-          };
         };
       };
       "o" = {
@@ -470,16 +496,6 @@
         };
         "i" = {
           " " = ("insertText:", "χ");
-        };
-      };
-      "p" = {
-        "h" = {
-          "i" = {
-            " " = ("insertText:", "ϕ");
-          };
-        };
-        "i" = {
-          " " = ("insertText:", "ϖ");
         };
       };
       "k" = {
@@ -725,6 +741,11 @@
         };
         "i" = {
           "m" = {
+            "e" = {
+              "q" = {
+                " " = ("insertText:", "≄");
+              };
+            };
             " " = ("insertText:", "≁");
           };
         };
@@ -1000,21 +1021,30 @@
           };
         };
       };
-      "n" = {
-        "d" = {
-          " " = ("insertText:", "∧");
-        };
-        "c" = {
-          "h" = {
-            "o" = {
-              "r" = {
-                " " = ("insertText:", "⚓");
+      "s" = {
+        "k" = {
+          "b" = {
+            "a" = {
+              "n" = {
+                "g" = {
+                  " " = ("insertText:", "⁈");
+                };
               };
             };
           };
+          "i" = {
+            "f" = {
+              "f" = {
+                " " = ("insertText:", "⇐≟⇒");
+              };
+            };
+          };
+          "e" = {
+            "q" = {
+              " " = ("insertText:", "≟");
+            };
+          };
         };
-      };
-      "s" = {
         "s" = {
           "d" = {
             "e" = {
@@ -1044,17 +1074,20 @@
             };
           };
         };
-        "k" = {
-          "i" = {
-            "f" = {
-              "f" = {
-                " " = ("insertText:", "⇐≟⇒");
-              };
-            };
+      };
+      "n" = {
+        "d" = {
+          "v" = {
+            " " = ("insertText:", "⩚");
           };
-          "e" = {
-            "q" = {
-              " " = ("insertText:", "≟");
+          " " = ("insertText:", "∧");
+        };
+        "c" = {
+          "h" = {
+            "o" = {
+              "r" = {
+                " " = ("insertText:", "⚓");
+              };
             };
           };
         };
@@ -1109,13 +1142,19 @@
       };
       "i" = {
         "n" = {
-          "y" = {
-            " " = ("insertText:", "⧿");
-          };
           "u" = {
             "s" = {
-              " " = ("insertText:", "∖");
+              "d" = {
+                "o" = {
+                  "t" = {
+                    " " = ("insertText:", "⨪");
+                  };
+                };
+              };
             };
+          };
+          "y" = {
+            " " = ("insertText:", "⧿");
           };
           "f" = {
             "t" = {
@@ -1124,6 +1163,9 @@
               };
             };
           };
+        };
+        "s" = {
+          " " = ("insertText:", "∽");
         };
         "l" = {
           "a" = {
@@ -1241,6 +1283,13 @@
               };
             };
           };
+          "p" = {
+            "t" = {
+              "o" = {
+                " " = ("insertText:", "∝");
+              };
+            };
+          };
         };
       };
       "s" = {
@@ -1273,6 +1322,26 @@
         };
         "i" = {
           " " = ("insertText:", "ψ");
+        };
+      };
+      "l" = {
+        "u" = {
+          "s" = {
+            "s" = {
+              "i" = {
+                "m" = {
+                  " " = ("insertText:", "⨦");
+                };
+              };
+            };
+            "d" = {
+              "o" = {
+                "t" = {
+                  " " = ("insertText:", "⨥");
+                };
+              };
+            };
+          };
         };
       };
       "o" = {
@@ -1436,6 +1505,24 @@
         };
         "s" = {
           " " = ("insertText:", "≲");
+        };
+        "h" = {
+          "r" = {
+            "e" = {
+              "e" = {
+                " " = ("insertText:", "⋋");
+              };
+            };
+          };
+        };
+        "i" = {
+          "m" = {
+            "e" = {
+              "s" = {
+                " " = ("insertText:", "⋉");
+              };
+            };
+          };
         };
         "o" = {
           " " = ("insertText:", "<ₒ");
@@ -1898,6 +1985,24 @@
             " " = ("insertText:", "▷");
           };
         };
+        "h" = {
+          "r" = {
+            "e" = {
+              "e" = {
+                " " = ("insertText:", "⋌");
+              };
+            };
+          };
+        };
+        "i" = {
+          "m" = {
+            "e" = {
+              "s" = {
+                " " = ("insertText:", "⋊");
+              };
+            };
+          };
+        };
       };
       "m" = {
         "a" = {
@@ -2156,7 +2261,7 @@
         "l" = {
           "u" = {
             "s" = {
-              " " = ("insertText:", "⨢");
+              " " = ("insertText:", "∔");
             };
           };
         };
@@ -2195,6 +2300,45 @@
               };
             };
           };
+          "j" = {
+            "o" = {
+              "i" = {
+                "n" = {
+                  " " = ("insertText:", "⩒");
+                };
+              };
+            };
+          };
+          "m" = {
+            "e" = {
+              "e" = {
+                "t" = {
+                  " " = ("insertText:", "⩑");
+                };
+              };
+            };
+            "i" = {
+              "n" = {
+                "u" = {
+                  "s" = {
+                    " " = ("insertText:", "∸");
+                  };
+                };
+              };
+            };
+          };
+          "o" = {
+            "r" = {
+              " " = ("insertText:", "⩒");
+            };
+          };
+          "a" = {
+            "n" = {
+              "d" = {
+                " " = ("insertText:", "⩑");
+              };
+            };
+          };
           "t" = {
             "i" = {
               "m" = {
@@ -2210,18 +2354,7 @@
             "l" = {
               "u" = {
                 "s" = {
-                  " " = ("insertText:", "⨢");
-                };
-              };
-            };
-          };
-          "m" = {
-            "i" = {
-              "n" = {
-                "u" = {
-                  "s" = {
-                    " " = ("insertText:", "∸");
-                  };
+                  " " = ("insertText:", "∔");
                 };
               };
             };
@@ -2244,6 +2377,9 @@
           "n" = {
             " " = ("insertText:", "↓");
           };
+        };
+        "r" = {
+          " " = ("insertText:", "⩒");
         };
       };
       "b" = {
@@ -2368,6 +2504,27 @@
                 " " = ("insertText:", "⊎");
               };
             };
+          };
+        };
+      };
+      "a" = {
+        "n" = {
+          "d" = {
+            " " = ("insertText:", "⩑");
+          };
+        };
+        "l" = {
+          "e" = {
+            "t" = {
+              "h" = {
+                " " = ("insertText:", "ℸ");
+              };
+            };
+          };
+        };
+        "r" = {
+          "r" = {
+            " " = ("insertText:", "↓");
           };
         };
       };
@@ -2524,22 +2681,6 @@
           };
         };
       };
-      "a" = {
-        "l" = {
-          "e" = {
-            "t" = {
-              "h" = {
-                " " = ("insertText:", "ℸ");
-              };
-            };
-          };
-        };
-        "r" = {
-          "r" = {
-            " " = ("insertText:", "↓");
-          };
-        };
-      };
       "i" = {
         "s" = {
           "j" = {
@@ -2557,6 +2698,17 @@
           };
         };
         "v" = {
+          "t" = {
+            "i" = {
+              "m" = {
+                "e" = {
+                  "s" = {
+                    " " = ("insertText:", "⋇");
+                  };
+                };
+              };
+            };
+          };
           " " = ("insertText:", "∣");
         };
         "a" = {
@@ -2721,6 +2873,23 @@
             };
           };
         };
+        "a" = {
+          "n" = {
+            "s" = {
+              "v" = {
+                "e" = {
+                  "r" = {
+                    "s" = {
+                      "e" = {
+                        " " = ("insertText:", "⫛");
+                      };
+                    };
+                  };
+                };
+              };
+            };
+          };
+        };
       };
       "o" = {
         "p" = {
@@ -2740,6 +2909,17 @@
           "i" = {
             "c" = {
               " " = ("insertText:", "☢");
+            };
+          };
+        };
+      };
+      "v" = {
+        "e" = {
+          "r" = {
+            "s" = {
+              "e" = {
+                " " = ("insertText:", "⫛");
+              };
             };
           };
         };
@@ -2980,6 +3160,15 @@
             };
           };
         };
+        "i" = {
+          "n" = {
+            "u" = {
+              "s" = {
+                " " = ("insertText:", "⩁");
+              };
+            };
+          };
+        };
         "b" = {
           "r" = {
             "e" = {
@@ -3061,6 +3250,20 @@
           };
         };
       };
+      "d" = {
+        "o" = {
+          "t" = {
+            " " = ("insertText:", "⨃");
+          };
+        };
+        "a" = {
+          "r" = {
+            "r" = {
+              " " = ("insertText:", "⇅");
+            };
+          };
+        };
+      };
       "a" = {
         "r" = {
           "r" = {
@@ -3073,15 +3276,6 @@
           "r" = {
             "r" = {
               " " = ("insertText:", "⇈");
-            };
-          };
-        };
-      };
-      "d" = {
-        "a" = {
-          "r" = {
-            "r" = {
-              " " = ("insertText:", "⇅");
             };
           };
         };
@@ -3223,6 +3417,7 @@
           };
         };
         "n" = {
+          " " = ("insertText:", "⫙");
           "t" = {
             "i" = {
               "m" = {
@@ -3250,6 +3445,20 @@
           };
         };
       };
+      "e" = {
+        "e" = {
+          "v" = {
+            " " = ("insertText:", "⩛");
+          };
+        };
+        "p" = {
+          "s" = {
+            "i" = {
+              " " = ("insertText:", "ϵ");
+            };
+          };
+        };
+      };
       "p" = {
         "o" = {
           "s" = {
@@ -3274,6 +3483,9 @@
               " " = ("insertText:", "◻");
             };
           };
+        };
+        "i" = {
+          " " = ("insertText:", "⟒");
         };
       };
       "d" = {
@@ -3337,15 +3549,6 @@
               "a" = {
                 " " = ("insertText:", "θ");
               };
-            };
-          };
-        };
-      };
-      "e" = {
-        "p" = {
-          "s" = {
-            "i" = {
-              " " = ("insertText:", "ϵ");
             };
           };
         };
@@ -3506,6 +3709,33 @@
           };
         };
       };
+      "a" = {
+        "t" = {
+          "p" = {
+            "l" = {
+              "u" = {
+                "s" = {
+                  " " = ("insertText:", "⨣");
+                };
+              };
+            };
+          };
+        };
+        "l" = {
+          "m" = {
+            "o" = {
+              "s" = {
+                " " = ("insertText:", "∎");
+              };
+            };
+          };
+        };
+        "i" = {
+          "r" = {
+            " " = ("insertText:", " ");
+          };
+        };
+      };
       "o" = {
         "r" = {
           "s" = {
@@ -3526,22 +3756,6 @@
             "s" = {
               " " = ("insertText:", "⋯");
             };
-          };
-        };
-      };
-      "a" = {
-        "l" = {
-          "m" = {
-            "o" = {
-              "s" = {
-                " " = ("insertText:", "∎");
-              };
-            };
-          };
-        };
-        "i" = {
-          "r" = {
-            " " = ("insertText:", " ");
           };
         };
       };
@@ -3640,6 +3854,13 @@
             "g" = {
               " " = ("insertText:", "‽");
             };
+          };
+        };
+      };
+      "d" = {
+        "o" = {
+          "t" = {
+            " " = ("insertText:", "⩀");
           };
         };
       };
@@ -4135,6 +4356,13 @@
             };
           };
         };
+        "d" = {
+          "o" = {
+            "t" = {
+              " " = ("insertText:", "⩦");
+            };
+          };
+        };
       };
       "m" = {
         "b" = {
@@ -4241,6 +4469,9 @@
           };
         };
         "a" = {
+          "c" = {
+            " " = ("insertText:", "÷");
+          };
           "k" = {
             "z" = {
               " " = ("insertText:", "𝔷");
@@ -4561,6 +4792,13 @@
             };
           };
         };
+        "a" = {
+          "s" = {
+            "h" = {
+              " " = ("insertText:", "⨳");
+            };
+          };
+        };
         "o" = {
           "o" = {
             "c" = {
@@ -4634,6 +4872,20 @@
               };
             };
           };
+          "i" = {
+            "d" = {
+              "i" = {
+                "r" = {
+                  "r" = {
+                    " " = ("insertText:", "⋊");
+                  };
+                  "l" = {
+                    " " = ("insertText:", "⋉");
+                  };
+                };
+              };
+            };
+          };
         };
         "q" = {
           "u" = {
@@ -4647,6 +4899,15 @@
           };
         };
         "t" = {
+          "d" = {
+            "i" = {
+              "f" = {
+                "f" = {
+                  " " = ("insertText:", "∖");
+                };
+              };
+            };
+          };
           "m" = {
             "i" = {
               "n" = {
@@ -4856,7 +5117,21 @@
       };
       "i" = {
         "m" = {
-          " " = ("insertText:", "~");
+          "p" = {
+            "l" = {
+              "u" = {
+                "s" = {
+                  " " = ("insertText:", "⨤");
+                };
+              };
+            };
+          };
+          "e" = {
+            "q" = {
+              " " = ("insertText:", "≃");
+            };
+          };
+          " " = ("insertText:", "∼");
         };
         "g" = {
           "m" = {
@@ -4867,6 +5142,20 @@
         };
       };
       "d" = {
+        "p" = {
+          "r" = {
+            "o" = {
+              "d" = {
+                "r" = {
+                  " " = ("insertText:", "⋊");
+                };
+                "l" = {
+                  " " = ("insertText:", "⋉");
+                };
+              };
+            };
+          };
+        };
         "i" = {
           "f" = {
             "f" = {
@@ -4901,6 +5190,13 @@
         };
       };
       "a" = {
+        "m" = {
+          "e" = {
+            "q" = {
+              " " = ("insertText:", "≣");
+            };
+          };
+        };
         "d" = {
           " " = ("insertText:", "ᑥ");
         };
@@ -5278,18 +5574,19 @@
         };
       };
       "a" = {
-        "s" = {
-          "k" = {
-            " " = ("insertText:", "⁉");
-            "e" = {
-              "t" = {
-                " " = ("insertText:", "🏀");
-              };
-            };
-          };
-        };
         "n" = {
           "g" = {
+            "q" = {
+              " " = ("insertText:", "⁉");
+            };
+            "a" = {
+              " " = ("insertText:", "⁉");
+              "s" = {
+                "k" = {
+                  " " = ("insertText:", "⁉");
+                };
+              };
+            };
             " " = ("insertText:", "!");
           };
         };
@@ -5302,6 +5599,15 @@
           "h" = {
             "o" = {
               " " = ("insertText:", "⛧");
+            };
+          };
+        };
+        "s" = {
+          "k" = {
+            "e" = {
+              "t" = {
+                " " = ("insertText:", "🏀");
+              };
             };
           };
         };
@@ -5538,6 +5844,38 @@
         };
         "A" = {
           " " = ("insertText:", "𝔸");
+        };
+      };
+      "u" = {
+        "m" = {
+          "p" = {
+            "e" = {
+              "q" = {
+                " " = ("insertText:", "⪮");
+              };
+            };
+          };
+        };
+        "l" = {
+          "l" = {
+            "e" = {
+              "t" = {
+                " " = ("insertText:", "∙");
+              };
+            };
+            "s" = {
+              "e" = {
+                "y" = {
+                  "e" = {
+                    " " = ("insertText:", "◎");
+                  };
+                };
+              };
+            };
+          };
+          "b" = {
+            " " = ("insertText:", "💡");
+          };
         };
       };
       "i" = {
@@ -5889,29 +6227,6 @@
                 };
               };
             };
-          };
-        };
-      };
-      "u" = {
-        "l" = {
-          "l" = {
-            "e" = {
-              "t" = {
-                " " = ("insertText:", "∙");
-              };
-            };
-            "s" = {
-              "e" = {
-                "y" = {
-                  "e" = {
-                    " " = ("insertText:", "◎");
-                  };
-                };
-              };
-            };
-          };
-          "b" = {
-            " " = ("insertText:", "💡");
           };
         };
       };
@@ -6905,6 +7220,17 @@
           };
         };
       };
+      "e" = {
+        "d" = {
+          "g" = {
+            "e" = {
+              "v" = {
+                " " = ("insertText:", "⩚");
+              };
+            };
+          };
+        };
+      };
       "a" = {
         "y" = {
           "a" = {
@@ -7010,6 +7336,40 @@
         " " = ("insertText:", "♔");
       };
     };
+    "q" = {
+      "b" = {
+        "a" = {
+          "n" = {
+            "g" = {
+              " " = ("insertText:", "⁈");
+            };
+          };
+        };
+      };
+      "e" = {
+        "d" = {
+          " " = ("insertText:", "∎");
+        };
+      };
+      "n" = {
+        "o" = {
+          "t" = {
+            "e" = {
+              " " = ("insertText:", "♩");
+            };
+          };
+        };
+      };
+      "u" = {
+        "e" = {
+          "e" = {
+            "n" = {
+              " " = ("insertText:", "♛");
+            };
+          };
+        };
+      };
+    };
     "g" = {
       "n" = {
         "a" = {
@@ -7059,6 +7419,17 @@
           };
         };
       };
+      "r" = {
+        "a" = {
+          "m" = {
+            "e" = {
+              "q" = {
+                " " = ("insertText:", "⩴");
+              };
+            };
+          };
+        };
+      };
       "b" = {
         "p" = {
           " " = ("insertText:", "£");
@@ -7103,52 +7474,44 @@
         };
       };
     };
-    "J" = {
-      "o" = {
-        "i" = {
-          "n" = {
-            " " = ("insertText:", "⋁");
-          };
-        };
-      };
-    };
-    "j" = {
-      "o" = {
-        "i" = {
-          "n" = {
-            " " = ("insertText:", "∨");
-          };
-        };
-      };
-      "e" = {
-        "q" = {
-          "a" = {
+    "U" = {
+      "p" = {
+        "l" = {
+          "u" = {
             "s" = {
-              "s" = {
-                " " = ("insertText:", "≐:");
+              " " = ("insertText:", "⨄");
+            };
+          };
+        };
+        "s" = {
+          "i" = {
+            " " = ("insertText:", "Υ");
+            "l" = {
+              "o" = {
+                "n" = {
+                  " " = ("insertText:", "Υ");
+                };
               };
             };
           };
-          " " = ("insertText:", "≐");
+        };
+      };
+      "n" = {
+        "i" = {
+          "o" = {
+            "n" = {
+              " " = ("insertText:", "⋃");
+            };
+          };
         };
       };
     };
     "o" = {
       "r" = {
-        " " = ("insertText:", "∨");
-      };
-      "p" = {
-        " " = ("insertText:", "ᵒᵖ");
-        "l" = {
-          "u" = {
-            "s" = {
-              " " = ("insertText:", "⊕");
-            };
-          };
+        "v" = {
+          " " = ("insertText:", "⩛");
         };
-      };
-      "f" = {
-        " " = ("insertText:", "∘");
+        " " = ("insertText:", "∨");
       };
       "d" = {
         "o" = {
@@ -7159,6 +7522,17 @@
         "i" = {
           "v" = {
             " " = ("insertText:", "⊘");
+          };
+        };
+      };
+      "s" = {
+        "l" = {
+          "a" = {
+            "s" = {
+              "h" = {
+                " " = ("insertText:", "⊘");
+              };
+            };
           };
         };
       };
@@ -7224,6 +7598,19 @@
           };
         };
       };
+      "p" = {
+        "l" = {
+          "u" = {
+            "s" = {
+              " " = ("insertText:", "⊕");
+            };
+          };
+        };
+        " " = ("insertText:", "ᵒᵖ");
+      };
+      "f" = {
+        " " = ("insertText:", "∘");
+      };
       "i" = {
         "n" = {
           "t" = {
@@ -7233,6 +7620,36 @@
               };
             };
           };
+        };
+      };
+    };
+    "J" = {
+      "o" = {
+        "i" = {
+          "n" = {
+            " " = ("insertText:", "⋁");
+          };
+        };
+      };
+    };
+    "j" = {
+      "o" = {
+        "i" = {
+          "n" = {
+            " " = ("insertText:", "∨");
+          };
+        };
+      };
+      "e" = {
+        "q" = {
+          "a" = {
+            "s" = {
+              "s" = {
+                " " = ("insertText:", "≐:");
+              };
+            };
+          };
+          " " = ("insertText:", "≐");
         };
       };
     };
@@ -7296,63 +7713,6 @@
           "t" = {
             "a" = {
               " " = ("insertText:", "Δ");
-            };
-          };
-        };
-      };
-    };
-    "U" = {
-      "n" = {
-        "i" = {
-          "o" = {
-            "n" = {
-              " " = ("insertText:", "⋃");
-            };
-          };
-        };
-      };
-      "p" = {
-        "l" = {
-          "u" = {
-            "s" = {
-              " " = ("insertText:", "⨄");
-            };
-          };
-        };
-        "s" = {
-          "i" = {
-            " " = ("insertText:", "Υ");
-            "l" = {
-              "o" = {
-                "n" = {
-                  " " = ("insertText:", "Υ");
-                };
-              };
-            };
-          };
-        };
-      };
-    };
-    "q" = {
-      "e" = {
-        "d" = {
-          " " = ("insertText:", "∎");
-        };
-      };
-      "n" = {
-        "o" = {
-          "t" = {
-            "e" = {
-              " " = ("insertText:", "♩");
-            };
-          };
-        };
-      };
-      "u" = {
-        "e" = {
-          "e" = {
-            "n" = {
-              " " = ("insertText:", "♛");
             };
           };
         };
@@ -7950,46 +8310,76 @@
       };
     };
   };
-  "-" = {
+  "." = {
     "." = {
       "<" = ("insertText:", "⇠");
       "v" = ("insertText:", "⇣");
       ">" = ("insertText:", "⇢");
       "\\^" = ("insertText:", "⇡");
+      "|" = ("insertText:", "⋮");
+      "-" = ("insertText:", "⋯");
+      "\\" = ("insertText:", "⋱");
+      "/" = ("insertText:", "⋰");
+      "." = ("insertText:", "…");
     };
-    "v" = ("insertText:", "↓");
-    "\\^" = ("insertText:", "↑");
-    "<" = ("insertText:", "←");
-    ">" = ("insertText:", "→");
-    "=" = ("insertText:", "≡");
-    "+" = ("insertText:", "∓");
-    "y" = ("insertText:", "ȳ");
-    "u" = ("insertText:", "ū");
-    "t" = ("insertText:", "ŧ");
-    "o" = ("insertText:", "ō");
-    "i" = ("insertText:", "ī");
-    "e" = ("insertText:", "ē");
-    "d" = ("insertText:", "đ");
-    "a" = ("insertText:", "ā");
-    "Y" = ("insertText:", "Ȳ");
-    "U" = ("insertText:", "Ū");
-    "T" = ("insertText:", "Ŧ");
-    "O" = ("insertText:", "Ō");
-    "I" = ("insertText:", "Ī");
-    "E" = ("insertText:", "Ē");
-    "D" = ("insertText:", "Đ");
-    "A" = ("insertText:", "Ā");
-    "*" = ("insertText:", "•");
-    "-" = {
-      "m" = ("insertText:", "–");
-      "-" = ("insertText:", "—");
-      "n" = ("insertText:", "–");
-      "." = ("insertText:", "–");
-    };
+    "|" = ("insertText:", "⌋");
+    "*" = ("insertText:", "⨰");
+    "+" = ("insertText:", "∔");
+    "-" = ("insertText:", "∸");
+    ":" = ("insertText:", "∴");
+    "=" = ("insertText:", "≐");
+    "z" = ("insertText:", "ż");
+    "y" = ("insertText:", "ẏ");
+    "x" = ("insertText:", "ẋ");
+    "w" = ("insertText:", "ẇ");
+    "t" = ("insertText:", "ṫ");
+    "s" = ("insertText:", "ṡ");
+    "r" = ("insertText:", "ṙ");
+    "p" = ("insertText:", "ṗ");
+    "o" = ("insertText:", "ȯ");
+    "n" = ("insertText:", "ṅ");
+    "m" = ("insertText:", "ṁ");
+    "j" = ("insertText:", "ȷ");
+    "i" = ("insertText:", "ı");
+    "h" = ("insertText:", "ḣ");
+    "g" = ("insertText:", "ġ");
+    "f" = ("insertText:", "ḟ");
+    "e" = ("insertText:", "ė");
+    "d" = ("insertText:", "ḋ");
+    "c" = ("insertText:", "ċ");
+    "b" = ("insertText:", "ḃ");
+    "a" = ("insertText:", "ȧ");
+    "Z" = ("insertText:", "Ż");
+    "Y" = ("insertText:", "Ẏ");
+    "X" = ("insertText:", "Ẋ");
+    "W" = ("insertText:", "Ẇ");
+    "T" = ("insertText:", "Ṫ");
+    "S" = ("insertText:", "Ṡ");
+    "R" = ("insertText:", "Ṙ");
+    "P" = ("insertText:", "Ṗ");
+    "O" = ("insertText:", "Ȯ");
+    "N" = ("insertText:", "Ṅ");
+    "M" = ("insertText:", "Ṁ");
+    "J" = ("insertText:", "ȷ");
+    "I" = ("insertText:", "I");
+    "H" = ("insertText:", "Ḣ");
+    "G" = ("insertText:", "Ġ");
+    "F" = ("insertText:", "Ḟ");
+    "E" = ("insertText:", "Ė");
+    "D" = ("insertText:", "Ḋ");
+    "C" = ("insertText:", "Ċ");
+    "B" = ("insertText:", "Ḃ");
+    "A" = ("insertText:", "Ȧ");
+    "3" = ("insertText:", "…");
+    "2" = ("insertText:", "‥");
+    "\\^" = ("insertText:", "·");
   };
   "\\~" = {
     "<" = ("insertText:", "↜");
     ">" = ("insertText:", "↝");
+    "+" = ("insertText:", "⨤");
+    ":" = ("insertText:", "∻");
+    "-" = ("insertText:", "≃");
     "=" = ("insertText:", "≅");
     "\\~" = ("insertText:", "≈");
     "y" = ("insertText:", "ỹ");
@@ -8014,8 +8404,10 @@
     "\\^" = ("insertText:", "⇑");
     "<" = ("insertText:", "⇐");
     ">" = ("insertText:", "⇒");
+    "." = ("insertText:", "⩦");
+    "\\~" = ("insertText:", "≅");
     "-" = ("insertText:", "≡");
-    "3" = ("insertText:", "≡");
+    "=" = ("insertText:", "≣");
     ":" = ("insertText:", "≕");
     "/" = ("insertText:", "≠");
     "u" = ("insertText:", "ű");
@@ -8046,6 +8438,43 @@
     "'" = ("insertText:", "‹");
     "\"" = ("insertText:", "«");
   };
+  "-" = {
+    "v" = ("insertText:", "↓");
+    "\\^" = ("insertText:", "↑");
+    "<" = ("insertText:", "←");
+    ">" = ("insertText:", "→");
+    "." = ("insertText:", "⨪");
+    ":" = ("insertText:", "÷");
+    "\\~" = ("insertText:", "≂");
+    "2" = {
+      "\\~" = ("insertText:", "≊");
+    };
+    "=" = ("insertText:", "≡");
+    "+" = ("insertText:", "∓");
+    "y" = ("insertText:", "ȳ");
+    "u" = ("insertText:", "ū");
+    "t" = ("insertText:", "ŧ");
+    "o" = ("insertText:", "ō");
+    "i" = ("insertText:", "ī");
+    "e" = ("insertText:", "ē");
+    "d" = ("insertText:", "đ");
+    "a" = ("insertText:", "ā");
+    "Y" = ("insertText:", "Ȳ");
+    "U" = ("insertText:", "Ū");
+    "T" = ("insertText:", "Ŧ");
+    "O" = ("insertText:", "Ō");
+    "I" = ("insertText:", "Ī");
+    "E" = ("insertText:", "Ē");
+    "D" = ("insertText:", "Đ");
+    "A" = ("insertText:", "Ā");
+    "*" = ("insertText:", "•");
+    "-" = {
+      "m" = ("insertText:", "–");
+      "-" = ("insertText:", "—");
+      "n" = ("insertText:", "–");
+      "." = ("insertText:", "–");
+    };
+  };
   "2" = {
     ":" = ("insertText:", "⦂");
     ";" = ("insertText:", "⨾");
@@ -8059,6 +8488,7 @@
     "<" = ("insertText:", "⟪");
     "]" = ("insertText:", "⟧");
     "[" = ("insertText:", "⟦");
+    "\\~" = ("insertText:", "≈");
     "5" = ("insertText:", "⅖");
     "3" = ("insertText:", "⅔");
     "*" = ("insertText:", "⁑");
@@ -8067,7 +8497,9 @@
   "3" = {
     "+" = ("insertText:", "⧻");
     "|" = ("insertText:", "⦀");
+    "#" = ("insertText:", "⩩");
     "=" = ("insertText:", "≡");
+    "\\~" = ("insertText:", "≋");
     "8" = ("insertText:", "⅜");
     "5" = ("insertText:", "⅗");
     "4" = ("insertText:", "¾");
@@ -8114,66 +8546,6 @@
     ">" = ("insertText:", "›");
     "<" = ("insertText:", "‹");
   };
-  "." = {
-    "|" = ("insertText:", "⌋");
-    "*" = ("insertText:", "⨰");
-    "+" = ("insertText:", "⨢");
-    "-" = ("insertText:", "∸");
-    ":" = ("insertText:", "∴");
-    "=" = ("insertText:", "≐");
-    "z" = ("insertText:", "ż");
-    "y" = ("insertText:", "ẏ");
-    "x" = ("insertText:", "ẋ");
-    "w" = ("insertText:", "ẇ");
-    "t" = ("insertText:", "ṫ");
-    "s" = ("insertText:", "ṡ");
-    "r" = ("insertText:", "ṙ");
-    "p" = ("insertText:", "ṗ");
-    "o" = ("insertText:", "ȯ");
-    "n" = ("insertText:", "ṅ");
-    "m" = ("insertText:", "ṁ");
-    "j" = ("insertText:", "ȷ");
-    "i" = ("insertText:", "ı");
-    "h" = ("insertText:", "ḣ");
-    "g" = ("insertText:", "ġ");
-    "f" = ("insertText:", "ḟ");
-    "e" = ("insertText:", "ė");
-    "d" = ("insertText:", "ḋ");
-    "c" = ("insertText:", "ċ");
-    "b" = ("insertText:", "ḃ");
-    "a" = ("insertText:", "ȧ");
-    "Z" = ("insertText:", "Ż");
-    "Y" = ("insertText:", "Ẏ");
-    "X" = ("insertText:", "Ẋ");
-    "W" = ("insertText:", "Ẇ");
-    "T" = ("insertText:", "Ṫ");
-    "S" = ("insertText:", "Ṡ");
-    "R" = ("insertText:", "Ṙ");
-    "P" = ("insertText:", "Ṗ");
-    "O" = ("insertText:", "Ȯ");
-    "N" = ("insertText:", "Ṅ");
-    "M" = ("insertText:", "Ṁ");
-    "J" = ("insertText:", "ȷ");
-    "I" = ("insertText:", "I");
-    "H" = ("insertText:", "Ḣ");
-    "G" = ("insertText:", "Ġ");
-    "F" = ("insertText:", "Ḟ");
-    "E" = ("insertText:", "Ė");
-    "D" = ("insertText:", "Ḋ");
-    "C" = ("insertText:", "Ċ");
-    "B" = ("insertText:", "Ḃ");
-    "A" = ("insertText:", "Ȧ");
-    "." = {
-      "|" = ("insertText:", "⋮");
-      "-" = ("insertText:", "⋯");
-      "\\" = ("insertText:", "⋱");
-      "/" = ("insertText:", "⋰");
-      "." = ("insertText:", "…");
-    };
-    "3" = ("insertText:", "…");
-    "2" = ("insertText:", "‥");
-    "\\^" = ("insertText:", "·");
-  };
   ")" = {
     ")" = ("insertText:", "⦆");
     "|" = ("insertText:", "⦈");
@@ -8211,6 +8583,7 @@
   "0" = {
     ">" = ("insertText:", "⧽");
     "<" = ("insertText:", "⧼");
+    "+" = ("insertText:", "⨢");
     "3" = ("insertText:", "↉");
     "y" = ("insertText:", "ẙ");
     "w" = ("insertText:", "ẘ");
@@ -8238,6 +8611,23 @@
   "[" = {
     "[" = ("insertText:", "⟦");
   };
+  "o" = {
+    "c" = ("insertText:", "∝");
+    "/" = ("insertText:", "ø");
+    "," = ("insertText:", "ǫ");
+    "!" = ("insertText:", "ọ");
+    "=" = ("insertText:", "ő");
+    ":" = ("insertText:", "ö");
+    "." = ("insertText:", "ȯ");
+    "\\^" = ("insertText:", "ô");
+    "-" = ("insertText:", "ō");
+    "\\~" = ("insertText:", "õ");
+    "v" = ("insertText:", "ǒ");
+    "'" = ("insertText:", "ó");
+    "`" = ("insertText:", "ò");
+    "o" = ("insertText:", "ᵒ");
+    "e" = ("insertText:", "œ");
+  };
   ";" = {
     ";" = ("insertText:", "⨾");
   };
@@ -8250,9 +8640,41 @@
     "3" = ("insertText:", "⁂");
     "2" = ("insertText:", "⁑");
   };
+  "+" = {
+    "\\~" = ("insertText:", "⨦");
+    "." = ("insertText:", "⨥");
+    "-" = ("insertText:", "±");
+  };
+  "," = {
+    "-" = ("insertText:", "⨩");
+    "u" = ("insertText:", "ų");
+    "o" = ("insertText:", "ǫ");
+    "l" = ("insertText:", "ļ");
+    "k" = ("insertText:", "ķ");
+    "i" = ("insertText:", "į");
+    "h" = ("insertText:", "ḩ");
+    "g" = ("insertText:", "ģ");
+    "e" = ("insertText:", "ę");
+    "d" = ("insertText:", "ḑ");
+    "c" = ("insertText:", "ç");
+    "a" = ("insertText:", "ą");
+    "U" = ("insertText:", "Ų");
+    "O" = ("insertText:", "Ǫ");
+    "L" = ("insertText:", "Ļ");
+    "K" = ("insertText:", "Ķ");
+    "I" = ("insertText:", "Į");
+    "H" = ("insertText:", "Ḩ");
+    "G" = ("insertText:", "Ģ");
+    "E" = ("insertText:", "Ę");
+    "D" = ("insertText:", "Ḑ");
+    "C" = ("insertText:", "Ç");
+    "A" = ("insertText:", "Ą");
+  };
   ":" = {
     "." = ("insertText:", "∵");
     ":" = ("insertText:", "∷");
+    "\\~" = ("insertText:", "∻");
+    "-" = ("insertText:", "÷");
     "=" = ("insertText:", "≔");
     "y" = ("insertText:", "ÿ");
     "x" = ("insertText:", "ẍ");
@@ -8275,16 +8697,23 @@
     "E" = ("insertText:", "Ë");
     "A" = ("insertText:", "Ä");
     "|" = ("insertText:", "¦");
-    "-" = ("insertText:", "⋯");
-    "\\" = ("insertText:", "⋱");
-    "/" = ("insertText:", "⋰");
     "3" = ("insertText:", "⋮");
   };
   "?" = {
     "=" = ("insertText:", "≟");
     "!" = ("insertText:", "⁈");
+    "(" = ("insertText:", "¿");
   };
   "/" = {
+    "-" = {
+      "\\~" = ("insertText:", "≄");
+    };
+    "2" = {
+      "\\~" = ("insertText:", "≉");
+    };
+    "\\~" = {
+      "\\~" = ("insertText:", "≉");
+    };
     "=" = ("insertText:", "≠");
     "/" = ("insertText:", "⁄");
     "o" = ("insertText:", "ø");
@@ -8294,8 +8723,9 @@
     "L" = ("insertText:", "Ł");
     "D" = ("insertText:", "Ð");
   };
-  "+" = {
-    "-" = ("insertText:", "±");
+  "4" = {
+    "=" = ("insertText:", "≣");
+    "5" = ("insertText:", "⅘");
   };
   "8" = {
     "8" = ("insertText:", "∞");
@@ -8316,9 +8746,6 @@
   "5" = {
     "8" = ("insertText:", "⅝");
     "6" = ("insertText:", "⅚");
-  };
-  "4" = {
-    "5" = ("insertText:", "⅘");
   };
   "_" = {
     "*" = ("insertText:", "⁎");
@@ -8440,30 +8867,6 @@
     "E" = ("insertText:", "È");
     "A" = ("insertText:", "À");
   };
-  "," = {
-    "u" = ("insertText:", "ų");
-    "o" = ("insertText:", "ǫ");
-    "l" = ("insertText:", "ļ");
-    "k" = ("insertText:", "ķ");
-    "i" = ("insertText:", "į");
-    "h" = ("insertText:", "ḩ");
-    "g" = ("insertText:", "ģ");
-    "e" = ("insertText:", "ę");
-    "d" = ("insertText:", "ḑ");
-    "c" = ("insertText:", "ç");
-    "a" = ("insertText:", "ą");
-    "U" = ("insertText:", "Ų");
-    "O" = ("insertText:", "Ǫ");
-    "L" = ("insertText:", "Ļ");
-    "K" = ("insertText:", "Ķ");
-    "I" = ("insertText:", "Į");
-    "H" = ("insertText:", "Ḩ");
-    "G" = ("insertText:", "Ģ");
-    "E" = ("insertText:", "Ę");
-    "D" = ("insertText:", "Ḑ");
-    "C" = ("insertText:", "Ç");
-    "A" = ("insertText:", "Ą");
-  };
   "!" = {
     "z" = ("insertText:", "ẓ");
     "y" = ("insertText:", "ỵ");
@@ -8505,6 +8908,7 @@
     "A" = ("insertText:", "Ạ");
     "!" = ("insertText:", "‼");
     "?" = ("insertText:", "⁉");
+    "(" = ("insertText:", "¡");
   };
   "Z" = {
     "!" = ("insertText:", "Ẓ");
@@ -8766,22 +9170,6 @@
   "p" = {
     "." = ("insertText:", "ṗ");
     "p" = ("insertText:", "¶");
-  };
-  "o" = {
-    "/" = ("insertText:", "ø");
-    "," = ("insertText:", "ǫ");
-    "!" = ("insertText:", "ọ");
-    "=" = ("insertText:", "ő");
-    ":" = ("insertText:", "ö");
-    "." = ("insertText:", "ȯ");
-    "\\^" = ("insertText:", "ô");
-    "-" = ("insertText:", "ō");
-    "\\~" = ("insertText:", "õ");
-    "v" = ("insertText:", "ǒ");
-    "'" = ("insertText:", "ó");
-    "`" = ("insertText:", "ò");
-    "o" = ("insertText:", "ᵒ");
-    "e" = ("insertText:", "œ");
   };
   "n" = {
     "!" = ("insertText:", "ṇ");

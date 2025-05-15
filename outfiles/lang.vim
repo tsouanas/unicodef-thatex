@@ -25,9 +25,6 @@ inoremap \..\ ⋱
 inoremap \..- ⋯
 inoremap \..<Bar> ⋮
 inoremap \:3 ⋮
-inoremap \:/ ⋰
-inoremap \:\ ⋱
-inoremap \:- ⋯
 inoremap \:<Bar> ¦
 inoremap \<Bar>: ¦
 inoremap \*2 ⁑
@@ -46,7 +43,9 @@ inoremap \^. ·
 inoremap \^_ ‾
 inoremap \** ∗
 inoremap \(! ¡
+inoremap \!( ¡
 inoremap \(? ¿
+inoremap \?( ¿
 inoremap \?! ⁈
 inoremap \!? ⁉
 inoremap \!! ‼
