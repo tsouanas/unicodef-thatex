@@ -589,8 +589,6 @@ fa                ∀
 ex                ∃
 un                ∃!
 nex               ∄
-lto               ⟶
-lfrom             ⟵
 imps              ⇒
 impd              ⇐
 himps             ⥰
