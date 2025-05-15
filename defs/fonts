@@ -781,6 +781,40 @@ _u                ᵤ
 _v                ᵥ
 _x                ₓ
 
+# sc: small-caps
+sca               ᴀ
+scb               ʙ
+scc               ᴄ
+scd               ᴅ
+sce               ᴇ
+scf               ꜰ
+scg               ɢ
+sch               ʜ
+sci               ɪ
+scj               ᴊ
+sck               ᴋ
+scl               ʟ
+scm               ᴍ
+scn               ɴ
+sco               ᴏ
+scp               ᴘ
+scq               ꞯ
+scr               ʀ
+scs               ꜱ
+sct               ᴛ
+scu               ᴜ
+scv               ᴠ
+scw               ᴡ
+scy               ʏ
+scz               ᴢ
+scgamma           ᴦ
+sclambda          ᴧ
+scpi              ᴨ
+scrho             ᴩ
+scpsi             ᴪ
+scgam             ᴦ
+sclam             ᴧ
+
 # braille
 blank             ⠀
 
