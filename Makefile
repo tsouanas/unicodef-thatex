@@ -6,7 +6,6 @@ install:
 	cp -p outfiles/* ~/.unicodef
 
 xorginstall: install
-	touch ~/.XCompose
 	cp -f examples/.XCompose ~/.XCompose
 
 macosinstall: install
@@ -16,6 +15,9 @@ macosinstall: install
 
 uninstall:
 	rm -rf ~/.unicodef
+
+xorguninstall: uninstall
+	rm -i ~/.XCompose
 
 macosuninstall: uninstall
 	rm -i ~/Library/KeyBindings/DefaultKeyBinding.dict

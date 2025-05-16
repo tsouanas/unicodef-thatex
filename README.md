@@ -20,10 +20,12 @@ git clone https://github.com/tsouanas/unicodef-thatex
 Now, inside the `unicodef-thatex` directory you can run:
 
 * `make` runs `unicodef.py` on `defs/*` generating files at `outfiles/`;
-* `make install` copies all oufiles to `~/.unicodef/`;
+* `make install` installs the compiled files, i.e., copies all oufiles to `~/.unicodef/`;
+* `make xorginstall` installs and then creates/replaces `~/.XCompose` to make use of the installed files;
+* `make macosinstall` installs and then copies `unicodefs.dict` to `~/Library/KeyBindings/DefaultKeyBinding.dict`;
 * `make uninstall` removes `~/.unicodef/`;
-* `make macosinstall` installs then copies `unicodefs.dict` to `~/Library/KeyBindings/DefaultKeyBinding.dict`;
-* `make macosuninstall` uninstalls and also removes `~/Library/KeyBindings/DefaultKeyBinding.dict`;
+* `make macosuninstall` uninstalls and then removes `~/Library/KeyBindings/DefaultKeyBinding.dict`;
+* `make xorguninstall` uninstalls and then removes `~/.XCompose`;
 * `make clean` removes all outfiles.
 
 Since this repo already comes with the compiled outfiles, you do not need to
@@ -33,11 +35,14 @@ Note that `make` is the only one that requires [unicodef]; the rest of the
 recipes works without it.
 
 **Warning for macOS users.**
-If you are already using a `DefaultKeyBinding.dict`, then `make macosinstall`
+If you are already using a `DefaultKeyBinding.dict` then `make macosinstall`
 will overwrite the existing file, and `make macosuninstall` will delete it.
+
+**Warning for Xorg users.**
+If you are already using a `~/.XCompose` then `make xorginstall`
+will overwrite the existing file, and `make xorguninstall` will delete it.
 
 
 [unicodefs.md]: outfiles/unicodefs.md
 [unicodef]:     https://github.com/tsouanas/unicodef
 [ThaTeX]:       https://github.com/tsouanas/thatex
-
