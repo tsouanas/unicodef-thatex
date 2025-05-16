@@ -39,6 +39,3 @@ inoremap \\die4 ⚃
 inoremap \\die5 ⚄
 inoremap \\die6 ⚅
 inoremap \\trinca 𝓔𝓧𝟑
-inoremap \\basket 🏀
-inoremap \\bball 🏀
-inoremap \\tennis 🎾

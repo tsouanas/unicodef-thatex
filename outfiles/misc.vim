@@ -21,6 +21,8 @@ inoremap \\fight ⚔
 inoremap \\music ♪
 inoremap \\note ♪
 inoremap \\notes ♫
+inoremap \\mrhappy ☺
+inoremap \\mrsad ☹
 inoremap \\checkb ☐
 inoremap \\checkc ☑
 inoremap \\checkx ☒

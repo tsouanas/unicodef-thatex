@@ -22,6 +22,8 @@
 | <code>music</code> | ♪ |
 | <code>note</code> | ♪ |
 | <code>notes</code> | ♫ |
+| <code>mrhappy</code> | ☺ |
+| <code>mrsad</code> | ☹ |
 | <code>checkb</code> | ☐ |
 | <code>checkc</code> | ☑ |
 | <code>checkx</code> | ☒ |
