@@ -756,6 +756,10 @@
 | <code>_u</code> | ᵤ |
 | <code>_v</code> | ᵥ |
 | <code>_x</code> | ₓ |
+| <code>_-^</code> | ￪ |
+| <code>_-v</code> | ￬ |
+| <code>_-&lt;</code> | ￩ |
+| <code>_-&gt;</code> | ￫ |
 | <code>sca</code> | ᴀ |
 | <code>scb</code> | ʙ |
 | <code>scc</code> | ᴄ |

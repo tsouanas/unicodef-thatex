@@ -781,6 +781,12 @@ _u                ᵤ
 _v                ᵥ
 _x                ₓ
 
+# hw-abuse (not really subscripts)
+_-^               ￪
+_-v               ￬
+_-<               ￩
+_->               ￫
+
 # sc: small-caps
 sca               ᴀ
 scb               ʙ

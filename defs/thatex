@@ -252,27 +252,36 @@ cdot              ·
 ntimes            ·
 cross             ×
 times             ×
-circ              ∘
-tensor            ⊗
-monus             ∸
-dhole             –
-hole              _
 divtimes          ⋇
 frac              ÷
 divby             ∕
+circ              ∘
+monus             ∸
+Prod              ∏
+Sum               ∑
+Times             ⨉
+Odot              ⨀
+Oplus             ⨁
+Otimes            ⨂
+dhole             –
+hole              _
+coprime           ⊥
+percen            %
+permil            ‰
+permyr            ‱
+
+# geom
 angle             ∠
 mangle            ∡
 righta            ∟
 triangle          △
 perp              ⊥
+ortho             ⊥
 paral             ∥
 nparal            ∦
 dparal            ⫽
 slparal           ⫽
 eqparal           ⋕
-percen            %
-permil            ‰
-permyr            ‱
 
 # sets
 emptyset          Ø
@@ -416,10 +425,8 @@ nrateq            ≭
 propto            ∝
 
 # algebra/cats/types/topo
-Prod              ∏
 Coprod            ∐
 coprod            ⨿
-Sum               ∑
 op                ᵒᵖ
 cons              ∷
 concat            ⧺
@@ -434,6 +441,8 @@ jeqass            ≐:
 deqass            ≡:
 matches           ≡:
 matcheq           ≕
+tensor            ⊗
+dirsum            ⊕
 smash             ⨳
 ltimes            ⋉
 rtimes            ⋊
@@ -447,6 +456,11 @@ transverse        ⫛
 tverse            ⫛
 wreath            ≀
 wr                ≀
+false             𝚏𝚊𝚕𝚜𝚎
+true              𝚝𝚛𝚞𝚎
+tt                𝘵𝘵
+ff                𝘧𝘧
+
 
 # lean
 eqs               ▸
@@ -490,10 +504,6 @@ land              ∧
 lor               ∨
 Land              ⋀
 Lor               ⋁
-oor               ⩖
-aand              ⩕
-Oor               ⩔
-Aand              ⩓
 andor             ⩙
 orand             ⩙
 andstem           ⩚
@@ -509,18 +519,6 @@ meet              ∧
 join              ∨
 Meet              ⋀
 Join              ⋁
-mmeet             ⩖
-jjoin             ⩕
-Mmeet             ⩔
-Jjoin             ⩓
-2meet             ⩔
-2join             ⩓
-Ssubs             ⋐
-Ssups             ⋑
-Iinter            ⋒
-Uunion            ⋓
-Llt               ⪡
-Ggt               ⪢
 glb               ∧
 lub               ∨
 Glb               ⋀
@@ -555,12 +553,12 @@ blowlt            ⊰
 blowgt            ⊱
 smeet             ⊓
 sjoin             ⊔
-sMeet             ⨅
-sJoin             ⨆
+Smeet             ⨅
+Sjoin             ⨆
 sglb              ⊓
 slub              ⊔
-sGlb              ⨅
-sLub              ⨆
+Sglb              ⨅
+Slub              ⨆
 sleq              ⊑
 sgeq              ⊒
 slt               ⊏
@@ -578,6 +576,34 @@ joineq            ≚
 tiny              ⧾
 miny              ⧿
 
+# dvsymbols (double-vision)
+dvmeet            ⩕
+dvjoin            ⩖
+dvMeet            ⨇
+dvJoin            ⨈
+dvand             ⩕
+dvor              ⩖
+dvAnd             ⨇
+dvOr              ⨈
+dvwedge           ⩕
+dvvee             ⩖
+dvWedge           ⨇
+dvVee             ⨈
+
+# bbsymbols (blackboard bold)
+bbor              ⩔
+bband             ⩓
+bbvee             ⩔
+bbwedge           ⩓
+bbjoin            ⩔
+bbmeet            ⩓
+bbsubs            ⋐
+bbsups            ⋑
+bbunion           ⋓
+bbinter           ⋒
+bblt              ⪡
+bbgt              ⪢
+
 # named
 lolli             ⊸
 baldeq            ≘
@@ -588,12 +614,10 @@ veeq              ≚
 diamop            ⋄
 slash             ∕
 bslash            ∖
+wedge             ∧
+vee               ∨
 Wedge             ⋀
 Vee               ⋁
-vvee              ⩖
-wwedge            ⩕
-Vvee              ⩔
-Wwedge            ⩓
 bumpeq            ⪮
 oplus             ⊕
 ominus            ⊖
@@ -622,8 +646,8 @@ veevert           ⩛
 uplus             ⊎
 Uplus             ⨄
 uminus            ⩁
-uniondot          ⨃
-interdot          ⩀
+udot              ⨃
+idot              ⩀
 dand              ⩑
 dor               ⩒
 dotand            ⩑
@@ -651,10 +675,14 @@ nwimps            ⇖
 neimps            ⇗
 swimps            ⇙
 seimps            ⇘
-duparrow          ⇡
-drightarrow       ⇢
-ddownarrow        ⇣
-dleftarrow        ⇠
+dashu             ⇡
+dashd             ⇣
+dashl             ⇠
+dashr             ⇢
+halfu             ￪
+halfd             ￬
+halfl             ￩
+halfr             ￫
 up                ↑
 down              ↓
 left              ←
@@ -809,6 +837,4 @@ into              ↣
 infrom            ↢
 bito              ⤖
 bifrom            ⬻
-udot              ⨃
-idot              ⩀
 

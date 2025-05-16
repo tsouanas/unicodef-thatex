@@ -755,6 +755,10 @@ inoremap \\_t ₜ
 inoremap \\_u ᵤ
 inoremap \\_v ᵥ
 inoremap \\_x ₓ
+inoremap \\_-^ ￪
+inoremap \\_-v ￬
+inoremap \\_-< ￩
+inoremap \\_-> ￫
 inoremap \\sca ᴀ
 inoremap \\scb ʙ
 inoremap \\scc ᴄ
