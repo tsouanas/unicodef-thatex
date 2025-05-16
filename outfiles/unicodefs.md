@@ -957,6 +957,14 @@
 | <code>_-v</code> | ￬ |
 | <code>_-&lt;</code> | ￩ |
 | <code>_-&gt;</code> | ￫ |
+| <code>_-u</code> | ￪ |
+| <code>_-d</code> | ￬ |
+| <code>_-l</code> | ￩ |
+| <code>_-r</code> | ￫ |
+| <code>_up</code> | ￪ |
+| <code>_down</code> | ￬ |
+| <code>_left</code> | ￩ |
+| <code>_right</code> | ￫ |
 | <code>sca</code> | ᴀ |
 | <code>scb</code> | ʙ |
 | <code>scc</code> | ᴄ |

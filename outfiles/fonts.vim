@@ -759,6 +759,14 @@ inoremap \\_-^ ￪
 inoremap \\_-v ￬
 inoremap \\_-< ￩
 inoremap \\_-> ￫
+inoremap \\_-u ￪
+inoremap \\_-d ￬
+inoremap \\_-l ￩
+inoremap \\_-r ￫
+inoremap \\_up ￪
+inoremap \\_down ￬
+inoremap \\_left ￩
+inoremap \\_right ￫
 inoremap \\sca ᴀ
 inoremap \\scb ʙ
 inoremap \\scc ᴄ
