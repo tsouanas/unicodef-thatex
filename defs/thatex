@@ -8,14 +8,45 @@ para              ¶
 paras             ¶¶
 sect              §
 sects             §§
+
+# computer keyboard / icons
 return            ⏎
 cmd               ⌘
+opt               ⌥
+alt               ⎇
 esc               ␛
 tab               ↹
+vtab              ⭿
 shift             ⇧
 caps              ⇪
+rerase            ⌦
+lerase            ⌫
+del               ⌦
+backs             ⌫
+bspace            ⌫
 undo              ↶
 redo              ↷
+
+# music player
+play              ⏵
+pause             ⏸
+playpause         ⏯
+stop              ⏹
+rec               ⏺
+eject             ⏏
+reverse           ⏴
+ffwd              ⏩
+rewind            ⏪
+next              ⏭
+prev              ⏮
+ntrack            ⏭
+ptrack            ⏮
+skipf             ⏭
+skipb             ⏮
+shuffle           🔀
+repeat            🔁
+repeat1           🔂
+onoff             ⏻
 
 # misc
 flat              ♭
