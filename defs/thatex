@@ -140,6 +140,7 @@ qed               ∎
 leq               ≤
 geq               ≥
 neq               ≠
+nneq              ⧣
 nlt               ≮
 ngt               ≯
 nleq              ≰
@@ -188,14 +189,10 @@ nimplies          ⇏
 niff              ⇎
 inteq             ≡
 intneq            ≢
+intjeq            ⩧
 sameq             ≣
 defeq             ≝
 askeq             ≟
-asteq             ⩮
-doteq             ≐
-eqdot             ⩦
-stareq            ≛
-circeq            ≗
 asseq             ≔
 eqass             ≕
 bnfeq             ⩴
@@ -237,6 +234,8 @@ pinfty            +∞
 minfty            -∞
 pminfty           ±∞
 mpinfty           ∓∞
+incinfty          ⧜
+tinfty            ⧝
 surd              √
 root              √
 sqrt              √
@@ -291,15 +290,17 @@ permyr            ‱
 # geom
 angle             ∠
 mangle            ∡
+sangle            ∢
 righta            ∟
 triangle          △
 perp              ⊥
 ortho             ⊥
 paral             ∥
 nparal            ∦
-dparal            ⫽
 slparal           ⫽
 eqparal           ⋕
+paraleq           ⋕
+slparaleq         ⧣
 
 # sets
 emptyset          Ø
@@ -328,7 +329,7 @@ Disjunion         ⨄
 dunion            ⊎
 Dunion            ⨄
 symdiff           ∆
-sdiff             ∆
+symd              ∆
 setminus          ∖
 setdiff           ∖
 subset            ⊆
@@ -342,6 +343,7 @@ psupset           ⊋
 subsetneq         ⊊
 supsetneq         ⊋
 pset              ℘
+pfset             ℘ғ
 power             ℘
 aleph             ℵ
 beth              ℶ
@@ -364,6 +366,8 @@ overlap           ≬
 olap              ≬
 meets             ≬
 isects            ≬
+compl             ᶜ
+mpl               ᵓ
 
 # fun/rel
 lam               λ
@@ -474,11 +478,7 @@ transverse        ⫛
 tverse            ⫛
 wreath            ≀
 wr                ≀
-false             𝚏𝚊𝚕𝚜𝚎
-true              𝚝𝚛𝚞𝚎
-tt                𝘵𝘵
-ff                𝘧𝘧
-
+shuffle           ⧢
 
 # lean
 eqs               ▸
@@ -526,11 +526,16 @@ andor             ⩙
 orand             ⩙
 andstem           ⩚
 orstem            ⩛
+false             𝚏𝚊𝚕𝚜𝚎
+true              𝚝𝚛𝚞𝚎
+tt                𝘵𝘵
+ff                𝘧𝘧
 
 # order
 absurd            ↯
 top               ⊤
 bottom            ⊥
+bot               ⊥
 cmeet             ⋏
 cjoin             ⋎
 meet              ∧
@@ -623,12 +628,22 @@ bblt              ⪡
 bbgt              ⪢
 
 # named
+rect              ▭
 lolli             ⊸
+bilolli           ⧟
 baldeq            ≘
-triangeq          ≜
+triangleq         ≜
 deltaeq           ≜
 wedgeq            ≙
 veeq              ≚
+asteq             ⩮
+doteq             ≐
+eqdot             ⩦
+stareq            ≛
+circeq            ≗
+eqcirc            ≖
+meq               ≞
+dotinteq          ⩧
 diamop            ⋄
 slash             ∕
 bslash            ∖
@@ -636,20 +651,43 @@ wedge             ∧
 vee               ∨
 Wedge             ⋀
 Vee               ⋁
+bump              ≏
+bumps             ≎
 bumpeq            ⪮
 oplus             ⊕
 ominus            ⊖
 otimes            ⊗
 ocross            ⊗
-odiv              ⊘
+odivby            ⊘
 oslash            ⊘
 odot              ⊙
 oast              ⊛
 oeq               ⊜
+olt               ⧀
+ort               ⧁
+obot              ⦹
+operp             ⦹
+oparal            ⦷
+onorm             ⦷
+odiv              ⦶
+obslash           ⦸
+osminus           ⦸
+obullet           ⦿
+ocirc             ⦾
+ocomp             ⦾
+oof               ⦾
 sqplus            ⊞
 sqminus           ⊟
 sqtimes           ⊠
 sqdot             ⊡
+sqast             ⧆
+sqcirc            ⧇
+sqcomp            ⧇
+sqof              ⧇
+trplus            ⨹
+trminus           ⨺
+trtimes           ⨻
+trdot             ◬
 dotminus          ∸
 minusdot          ⨪
 dotplus           ∔
@@ -659,11 +697,12 @@ plussim           ⨦
 simplus           ⨤
 circplus          ⨢
 hatplus           ⨣
-wedgevert         ⩚
-veevert           ⩛
+wedgemid          ⩚
+veemid            ⩛
 uplus             ⊎
 Uplus             ⨄
 uminus            ⩁
+Udot              ⨃
 udot              ⨃
 idot              ⩀
 dand              ⩑
@@ -757,7 +796,24 @@ blozenge          ⧫
 spot              ⦁
 wp                ℘
 twixt             ≬
+convr             ⚞
+convl             ⚟
 zap               ↯
+
+# (abused) superscripts
+^triangle         ᐞ
+^slash            ᐟ
+^divby            ᐟ
+^bslash           ᐠ
+^sminus           ᐠ
+^sdiff            ᐠ
+^union            ᐡ
+^inter            ᐢ
+^hsubs            ᒼ
+^hsups            ᐣ
+^meet             ᣔ
+^lt               ᑉ
+^dot              ᐧ
 
 # cats
 CAT               𝐂𝐚𝐭
@@ -789,7 +845,8 @@ BA                𝐁𝐀
 MODEL             𝐌𝐨𝐝𝐞𝐥
 
 # abbrevs for 6-char-limit (or for convenience)
-bot               ⊥
+treq              ≜
+Deq               ≜
 loz               ◊
 bloz              ⧫
 subs              ⊆
@@ -810,6 +867,8 @@ psubs             ⊊
 psups             ⊋
 subsne            ⊊
 supsne            ⊋
+sminus            ∖
+sdiff             ∖
 covd              ⤙
 covs              ⤚
 fa                ∀
@@ -855,4 +914,12 @@ into              ↣
 infrom            ↢
 bito              ⤖
 bifrom            ⬻
+ieq               ≡
+ineq              ≢
+nieq              ≢
+ijeq              ⩧
+iiff              ⇚⇛
+bul               ∙
+obul              ⦿
+shuf              ⧢
 
