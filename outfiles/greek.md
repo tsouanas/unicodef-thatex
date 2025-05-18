@@ -54,6 +54,7 @@
 | <code>varrho</code> | ϱ |
 | <code>currho</code> | ϱ |
 | <code>sigma</code> | σ |
+| <code>varsigma</code> | σ |
 | <code>finsigma</code> | ς |
 | <code>tau</code> | τ |
 | <code>upsilon</code> | υ |
@@ -63,6 +64,9 @@
 | <code>chi</code> | χ |
 | <code>psi</code> | ψ |
 | <code>omega</code> | ω |
+| <code>^Gamma</code> | ᣘ |
+| <code>^Delta</code> | ᐞ |
+| <code>^Lambda</code> | ᣔ |
 | <code>^alpha</code> | ᵅ |
 | <code>^beta</code> | ᵝ |
 | <code>^gamma</code> | ᵞ |
@@ -71,6 +75,10 @@
 | <code>^theta</code> | ᶿ |
 | <code>^iota</code> | ᶥ |
 | <code>^omicron</code> | ᵒ |
+| <code>^rho</code> | ᣖ |
+| <code>^sigma</code> | ᣙ |
+| <code>^varsigma</code> | ᕐ |
+| <code>^finsigma</code> | ᕐ |
 | <code>^upsilon</code> | ᶹ |
 | <code>^phi</code> | ᵠ |
 | <code>^chi</code> | ᵡ |

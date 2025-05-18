@@ -53,6 +53,7 @@ inoremap \\rho ρ
 inoremap \\varrho ϱ
 inoremap \\currho ϱ
 inoremap \\sigma σ
+inoremap \\varsigma σ
 inoremap \\finsigma ς
 inoremap \\tau τ
 inoremap \\upsilon υ
@@ -62,6 +63,9 @@ inoremap \\clophi ϕ
 inoremap \\chi χ
 inoremap \\psi ψ
 inoremap \\omega ω
+inoremap \\^Gamma ᣘ
+inoremap \\^Delta ᐞ
+inoremap \\^Lambda ᣔ
 inoremap \\^alpha ᵅ
 inoremap \\^beta ᵝ
 inoremap \\^gamma ᵞ
@@ -70,6 +74,10 @@ inoremap \\^epsilon ᵋ
 inoremap \\^theta ᶿ
 inoremap \\^iota ᶥ
 inoremap \\^omicron ᵒ
+inoremap \\^rho ᣖ
+inoremap \\^sigma ᣙ
+inoremap \\^varsigma ᕐ
+inoremap \\^finsigma ᕐ
 inoremap \\^upsilon ᶹ
 inoremap \\^phi ᵠ
 inoremap \\^chi ᵡ

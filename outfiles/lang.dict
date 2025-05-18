@@ -224,6 +224,10 @@
     "A" = ("insertText:", "Ā");
     "*" = ("insertText:", "•");
     "-" = {
+      "\\~" = {
+        "\\~" = ("insertText:", "〰");
+        "." = ("insertText:", "〜");
+      };
       "m" = ("insertText:", "–");
       "-" = ("insertText:", "—");
       "n" = ("insertText:", "–");
@@ -253,6 +257,9 @@
     "D" = ("insertText:", "Ḑ");
     "C" = ("insertText:", "Ç");
     "A" = ("insertText:", "Ą");
+    "<" = ("insertText:", "⹁");
+    ")" = ("insertText:", ",");
+    "(" = ("insertText:", "⹁");
   };
   "'" = {
     "z" = ("insertText:", "ź");
@@ -331,6 +338,7 @@
     "A" = ("insertText:", "Ạ");
     "!" = ("insertText:", "‼");
     "?" = ("insertText:", "⁉");
+    ")" = ("insertText:", "!");
     "(" = ("insertText:", "¡");
   };
   "Z" = {
@@ -731,10 +739,28 @@
     "e" = ("insertText:", "æ");
   };
   "?" = {
+    "?" = ("insertText:", "⁇");
     "!" = ("insertText:", "⁈");
+    "<" = ("insertText:", "⸮");
+    ")" = ("insertText:", "?");
     "(" = ("insertText:", "¿");
   };
+  ";" = {
+    "<" = ("insertText:", "⁏");
+    ")" = ("insertText:", ";");
+    "(" = ("insertText:", "⁏");
+  };
+  ")" = {
+    ";" = ("insertText:", ";");
+    "," = ("insertText:", ",");
+    "?" = ("insertText:", "?");
+    "!" = ("insertText:", "!");
+    "\"" = ("insertText:", "”");
+    "'" = ("insertText:", "’");
+  };
   "(" = {
+    ";" = ("insertText:", "⁏");
+    "," = ("insertText:", "⹁");
     "?" = ("insertText:", "¿");
     "!" = ("insertText:", "¡");
     "\"" = ("insertText:", "“");
@@ -742,6 +768,9 @@
   };
   "*" = {
     "*" = ("insertText:", "∗");
+  };
+  "8" = {
+    "*" = ("insertText:", "⁕");
   };
   "3" = {
     "*" = ("insertText:", "⁂");
@@ -755,15 +784,14 @@
   "|" = {
     ":" = ("insertText:", "¦");
   };
+  "4" = {
+    ":" = ("insertText:", "⦙");
+  };
   "\"" = {
     ")" = ("insertText:", "”");
     "(" = ("insertText:", "“");
     ">" = ("insertText:", "»");
     "<" = ("insertText:", "«");
-  };
-  ")" = {
-    "\"" = ("insertText:", "”");
-    "'" = ("insertText:", "’");
   };
   ">" = {
     "'" = ("insertText:", "›");
