@@ -49,6 +49,35 @@ snotes      ♬
 8notes      ♫
 16notes     ♬
 
+# music player (/-prefixed)
+/play       ⏵
+/pause      ⏸
+/playpause  ⏯
+/pp         ⏯
+/stop       ⏹
+/rec        ⏺
+/eject      ⏏
+/reverse    ⏴
+/rev        ⏴
+/ffwd       ⏩
+/fastfwd    ⏩
+/rewind     ⏪
+/fastf      ⏩
+/fastb      ⏩
+/next       ⏭
+/prev       ⏮
+/ntrack     ⏭
+/ptrack     ⏮
+/skipf      ⏭
+/skipb      ⏮
+/shuffle    🔀
+/repeat     🔁
+/repeat1    🔂
+/rep        🔁
+/rep1       🔂
+/onoff      ⏻
+/power      ⏻
+
 # abbrevs for 6-char-limit
 umbrel      ☂
 snowma      ☃

@@ -28,27 +28,6 @@ bspace            ⌫
 undo              ↶
 redo              ↷
 
-# music player
-play              ⏵
-pause             ⏸
-playpause         ⏯
-stop              ⏹
-rec               ⏺
-eject             ⏏
-reverse           ⏴
-ffwd              ⏩
-rewind            ⏪
-next              ⏭
-prev              ⏮
-ntrack            ⏭
-ptrack            ⏮
-skipf             ⏭
-skipb             ⏮
-shuffle           🔀
-repeat            🔁
-repeat1           🔂
-onoff             ⏻
-
 # misc
 flat              ♭
 sharp             ♯
