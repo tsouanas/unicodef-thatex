@@ -85,6 +85,9 @@ Rangle            ⟫
 lAngle            ⦉
 rAngle            ⦊
 ltor              ⦗
+rtor              ⦘
+ltur              ⦗
+rtur              ⦘
 Lpar              ⸨
 Rpar              ⸩
 lPar              ⦅
