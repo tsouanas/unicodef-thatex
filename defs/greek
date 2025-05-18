@@ -52,6 +52,7 @@ rho             ρ
 varrho          ϱ
 currho          ϱ
 sigma           σ
+varsigma        σ
 finsigma        ς
 tau             τ
 upsilon         υ
@@ -62,7 +63,10 @@ chi             χ
 psi             ψ
 omega           ω
 
-# superscripts and subscripts
+# superscripts and subscripts (some abuse)
+^Gamma          ᣘ
+^Delta          ᐞ
+^Lambda         ᣔ
 ^alpha          ᵅ
 ^beta           ᵝ
 ^gamma          ᵞ
@@ -71,6 +75,10 @@ omega           ω
 ^theta          ᶿ
 ^iota           ᶥ
 ^omicron        ᵒ
+^rho            ᣖ
+^sigma          ᣙ
+^varsigma       ᕐ
+^finsigma       ᕐ
 ^upsilon        ᶹ
 ^phi            ᵠ
 ^chi            ᵡ

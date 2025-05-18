@@ -781,7 +781,12 @@ _u                ᵤ
 _v                ᵥ
 _x                ₓ
 
-# hw-abuse (not really subscripts)
+# abuse: not really superscripts
+^!                ꜝ
+^bang             ꜝ
+^gnab             ꜞ
+
+# abuse: not really subscripts
 _-^               ￪
 _-v               ￬
 _-<               ￩
@@ -794,6 +799,19 @@ _up               ￪
 _down             ￬
 _left             ￩
 _right            ￫
+_!                ﹗
+_bang             ﹗
+_?                ﹕
+_ask              ﹕
+_#                ﹟
+_&                ﹠
+_@                ﹫
+_:                ﹕
+_;                ﹔
+_,                ﹐
+_.                ﹒
+hypo              ⸒
+,_                ⸒
 
 # sc: small-caps
 sca               ᴀ
