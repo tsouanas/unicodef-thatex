@@ -30,7 +30,21 @@ _)    ₎
 _+    ₊
 _-    ₋
 _=    ₌
+
+# abuse: not really superscripts
+^!    ꜝ
+^<    ᑉ
+^/=   ᙾ
+
+# abuse: not really subscripts
 _*    ⁎
+_!    ﹗
+_?    ﹕
+_#    ﹟
+_:    ﹕
+_;    ﹔
+_,    ﹐
+_.    ﹒
 
 # fractions
 //    ⁄
