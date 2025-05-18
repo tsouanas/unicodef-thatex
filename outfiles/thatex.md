@@ -77,6 +77,9 @@
 | <code>lAngle</code> | ⦉ |
 | <code>rAngle</code> | ⦊ |
 | <code>ltor</code> | ⦗ |
+| <code>rtor</code> | ⦘ |
+| <code>ltur</code> | ⦗ |
+| <code>rtur</code> | ⦘ |
 | <code>Lpar</code> | ⸨ |
 | <code>Rpar</code> | ⸩ |
 | <code>lPar</code> | ⦅ |

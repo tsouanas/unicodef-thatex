@@ -1302,6 +1302,9 @@ inoremap \\Rangle ⟫
 inoremap \\lAngle ⦉
 inoremap \\rAngle ⦊
 inoremap \\ltor ⦗
+inoremap \\rtor ⦘
+inoremap \\ltur ⦗
+inoremap \\rtur ⦘
 inoremap \\Lpar ⸨
 inoremap \\Rpar ⸩
 inoremap \\lPar ⦅
