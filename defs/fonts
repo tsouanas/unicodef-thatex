@@ -787,6 +787,7 @@ _x                ₓ
 ^gnab             ꜞ
 
 # abuse: not really subscripts
+_c                ꜀
 _-^               ￪
 _-v               ￬
 _-<               ￩
@@ -801,8 +802,8 @@ _left             ￩
 _right            ￫
 _!                ﹗
 _bang             ﹗
-_?                ﹕
-_ask              ﹕
+_?                ﹖
+_ask              ﹖
 _#                ﹟
 _&                ﹠
 _@                ﹫

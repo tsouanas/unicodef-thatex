@@ -311,7 +311,7 @@
 | <code>subsetneq</code> | ⊊ |
 | <code>supsetneq</code> | ⊋ |
 | <code>pset</code> | ℘ |
-| <code>pfset</code> | ℘ғ |
+| <code>pfset</code> | ℘𝒻 |
 | <code>power</code> | ℘ |
 | <code>aleph</code> | ℵ |
 | <code>beth</code> | ℶ |

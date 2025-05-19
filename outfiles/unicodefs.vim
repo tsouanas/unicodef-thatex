@@ -950,6 +950,7 @@ inoremap \\_x ₓ
 inoremap \\^! ꜝ
 inoremap \\^bang ꜝ
 inoremap \\^gnab ꜞ
+inoremap \\_c ꜀
 inoremap \\_-^ ￪
 inoremap \\_-v ￬
 inoremap \\_-< ￩
@@ -964,8 +965,8 @@ inoremap \\_left ￩
 inoremap \\_right ￫
 inoremap \\_! ﹗
 inoremap \\_bang ﹗
-inoremap \\_? ﹕
-inoremap \\_ask ﹕
+inoremap \\_? ﹖
+inoremap \\_ask ﹖
 inoremap \\_# ﹟
 inoremap \\_& ﹠
 inoremap \\_@ ﹫
@@ -1536,7 +1537,7 @@ inoremap \\psupset ⊋
 inoremap \\subsetneq ⊊
 inoremap \\supsetneq ⊋
 inoremap \\pset ℘
-inoremap \\pfset ℘ғ
+inoremap \\pfset ℘𝒻
 inoremap \\power ℘
 inoremap \\aleph ℵ
 inoremap \\beth ℶ

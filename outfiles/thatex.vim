@@ -310,7 +310,7 @@ inoremap \\psupset ⊋
 inoremap \\subsetneq ⊊
 inoremap \\supsetneq ⊋
 inoremap \\pset ℘
-inoremap \\pfset ℘ғ
+inoremap \\pfset ℘𝒻
 inoremap \\power ℘
 inoremap \\aleph ℵ
 inoremap \\beth ℶ

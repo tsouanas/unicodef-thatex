@@ -956,6 +956,7 @@
 | <code>^!</code> | ꜝ |
 | <code>^bang</code> | ꜝ |
 | <code>^gnab</code> | ꜞ |
+| <code>_c</code> | ꜀ |
 | <code>_-^</code> | ￪ |
 | <code>_-v</code> | ￬ |
 | <code>_-&lt;</code> | ￩ |
@@ -970,8 +971,8 @@
 | <code>_right</code> | ￫ |
 | <code>_!</code> | ﹗ |
 | <code>_bang</code> | ﹗ |
-| <code>_?</code> | ﹕ |
-| <code>_ask</code> | ﹕ |
+| <code>_?</code> | ﹖ |
+| <code>_ask</code> | ﹖ |
 | <code>_#</code> | ﹟ |
 | <code>_&</code> | ﹠ |
 | <code>_@</code> | ﹫ |
@@ -2433,7 +2434,7 @@
 | <code>subsetneq</code> | ⊊ |
 | <code>supsetneq</code> | ⊋ |
 | <code>pset</code> | ℘ |
-| <code>pfset</code> | ℘ғ |
+| <code>pfset</code> | ℘𝒻 |
 | <code>power</code> | ℘ |
 | <code>aleph</code> | ℵ |
 | <code>beth</code> | ℶ |

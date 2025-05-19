@@ -758,6 +758,7 @@ inoremap \\_x ₓ
 inoremap \\^! ꜝ
 inoremap \\^bang ꜝ
 inoremap \\^gnab ꜞ
+inoremap \\_c ꜀
 inoremap \\_-^ ￪
 inoremap \\_-v ￬
 inoremap \\_-< ￩
@@ -772,8 +773,8 @@ inoremap \\_left ￩
 inoremap \\_right ￫
 inoremap \\_! ﹗
 inoremap \\_bang ﹗
-inoremap \\_? ﹕
-inoremap \\_ask ﹕
+inoremap \\_? ﹖
+inoremap \\_ask ﹖
 inoremap \\_# ﹟
 inoremap \\_& ﹠
 inoremap \\_@ ﹫

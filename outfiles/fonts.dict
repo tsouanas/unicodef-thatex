@@ -1380,25 +1380,25 @@
       ":" = {
         " " = ("insertText:", "﹕");
       };
-      "@" = {
+      "\\@" = {
         " " = ("insertText:", "﹫");
       };
       "&" = {
         " " = ("insertText:", "﹠");
       };
-      "#" = {
+      "\\#" = {
         " " = ("insertText:", "﹟");
       };
       "a" = {
         "s" = {
           "k" = {
-            " " = ("insertText:", "﹕");
+            " " = ("insertText:", "﹖");
           };
         };
         " " = ("insertText:", "ₐ");
       };
       "?" = {
-        " " = ("insertText:", "﹕");
+        " " = ("insertText:", "﹖");
       };
       "b" = {
         "a" = {
@@ -1475,6 +1475,9 @@
           " " = ("insertText:", "￪");
         };
         " " = ("insertText:", "₋");
+      };
+      "c" = {
+        " " = ("insertText:", "꜀");
       };
       "x" = {
         " " = ("insertText:", "ₓ");

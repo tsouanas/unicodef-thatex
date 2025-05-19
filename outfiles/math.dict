@@ -69,7 +69,7 @@
     "'" = ("insertText:", "‴");
     "%" = ("insertText:", "‱");
     "+" = ("insertText:", "⧻");
-    "#" = ("insertText:", "⩩");
+    "\\#" = ("insertText:", "⩩");
     "=" = ("insertText:", "≡");
     "\\~" = ("insertText:", "≋");
     "8" = ("insertText:", "⅜");
@@ -99,7 +99,7 @@
     ":" = ("insertText:", "⦂");
     ";" = ("insertText:", "⨾");
     "+" = ("insertText:", "⧺");
-    "#" = ("insertText:", "⋕");
+    "\\#" = ("insertText:", "⋕");
     "\\~" = ("insertText:", "≈");
     "5" = ("insertText:", "⅖");
     "3" = ("insertText:", "⅔");
@@ -270,7 +270,7 @@
     "," = ("insertText:", "﹐");
     ";" = ("insertText:", "﹔");
     ":" = ("insertText:", "﹕");
-    "#" = ("insertText:", "﹟");
+    "\\#" = ("insertText:", "﹟");
     "?" = ("insertText:", "﹕");
     "!" = ("insertText:", "﹗");
     "*" = ("insertText:", "⁎");
