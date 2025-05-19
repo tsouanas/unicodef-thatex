@@ -615,6 +615,7 @@ bbunion           ⋓
 bbinter           ⋒
 bblt              ⪡
 bbgt              ⪢
+bbnot             ⫬
 
 # named
 rect              ▭
