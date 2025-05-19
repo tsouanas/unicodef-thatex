@@ -310,9 +310,9 @@
 | <code>psupset</code> | ⊋ |
 | <code>subsetneq</code> | ⊊ |
 | <code>supsetneq</code> | ⊋ |
-| <code>pset</code> | ℘ |
-| <code>pfset</code> | ℘𝒻 |
 | <code>power</code> | ℘ |
+| <code>pset</code> | ℘ |
+| <code>pfset</code> | ℘ᶠ |
 | <code>aleph</code> | ℵ |
 | <code>beth</code> | ℶ |
 | <code>gimel</code> | ℷ |

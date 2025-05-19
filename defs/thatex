@@ -324,9 +324,9 @@ psubset           ⊊
 psupset           ⊋
 subsetneq         ⊊
 supsetneq         ⊋
-pset              ℘
-pfset             ℘𝒻
 power             ℘
+pset              ℘
+pfset             ℘ᶠ
 aleph             ℵ
 beth              ℶ
 gimel             ℷ
