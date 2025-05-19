@@ -97,6 +97,8 @@
 | <code>?=</code> | ≟ |
 | <code>&vert;=</code> | ⊨ |
 | <code>&vert;-</code> | ⊢ |
+| <code>=&vert;</code> | ⫤ |
+| <code>-&vert;</code> | ⊣ |
 | <code>:-</code> | ÷ |
 | <code>-:</code> | ÷ |
 | <code>:~</code> | ∻ |

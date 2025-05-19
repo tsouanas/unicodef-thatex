@@ -96,6 +96,8 @@
 <Multi_key><question><equal> : "≟"
 <Multi_key><bar><equal> : "⊨"
 <Multi_key><bar><minus> : "⊢"
+<Multi_key><equal><bar> : "⫤"
+<Multi_key><minus><bar> : "⊣"
 <Multi_key><colon><minus> : "÷"
 <Multi_key><minus><colon> : "÷"
 <Multi_key><colon><asciitilde> : "∻"

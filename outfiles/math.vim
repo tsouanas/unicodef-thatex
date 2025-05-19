@@ -96,6 +96,8 @@ inoremap \*= ≛
 inoremap \?= ≟
 inoremap \<Bar>= ⊨
 inoremap \<Bar>- ⊢
+inoremap \=<Bar> ⫤
+inoremap \-<Bar> ⊣
 inoremap \:- ÷
 inoremap \-: ÷
 inoremap \:~ ∻
