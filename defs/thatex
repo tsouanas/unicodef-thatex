@@ -17,12 +17,13 @@ opt               ⌥
 alt               ⎇
 esc               ␛
 tab               ↹
-vtab              ⭿
+vtab              ⭿  # [v]ertical tab
 shift             ⇧
 caps              ⇪
 rerase            ⌦
 lerase            ⌫
-del               ⌦
+del               ␡
+vdel              ⌫  # [v]ar del
 backs             ⌫
 bspace            ⌫
 undo              ↶
@@ -47,15 +48,22 @@ copyl             🄯
 reg               ®
 tm                ™
 estim             ℮
-caret             ‸
 lucas             ⌖
 crosshair         ⌖
+crossh            ⌖
 target            ⌖
 bullseye          ◎
+fisheye           ◉
 gnd               ⏚
+hbar              ℏ
+hslash            ℏ
 percont           ⸮
 rheto             ⸮
 warn              ⚠
+incinfty          ⧜
+tinfty            ⧝
+baldinfty         ⧝
+caret             ‸
 
 # money
 eur               €
@@ -72,8 +80,11 @@ Eth               Ð
 eth               ð
 Thorn             Þ
 thorn             þ
+prescr            ℞
 
-# math quotes and brackets
+# math punctuation, quotes, brackets, dots
+lquasi            ⌜
+rquasi            ⌝
 lqua              ⌜
 rqua              ⌝
 langle            ⟨
@@ -84,10 +95,10 @@ Langle            ⟪
 Rangle            ⟫
 lAngle            ⦉
 rAngle            ⦊
-ltor              ⦗
-rtor              ⦘
-ltur              ⦗
+ltur              ⦗  # [l]eft [tur]tle
 rtur              ⦘
+ltor              ⟬  # [l]eft [tor]toise
+rtor              ⟭
 Lpar              ⸨
 Rpar              ⸩
 lPar              ⦅
@@ -123,100 +134,6 @@ obrack            ⎴
 ubrack            ⎵
 oparen            ⏜
 uparen            ⏝
-
-# common math
-halmos            ∎
-qed               ∎
-leq               ≤
-geq               ≥
-neq               ≠
-nneq              ⧣
-nlt               ≮
-ngt               ≯
-nleq              ≰
-ngeq              ≱
-div               ∣
-ndiv              ∤
-forall            ∀
-exists            ∃
-nexists           ∄
-unique            ∃!
-implies           ⇒
-implied           ⇐
-iff               ⇔
-longimplies       ⟹
-longimplied       ⟸
-longiff           ⟺
-timplies          ⟹
-timplied          ⟸
-tiff              ⟺
-Implies           ⟹
-Implied           ⟸
-Iff               ⟺
-vimplies          ⇓
-vimplied          ⇑
-viff              ⇕
-imapsto           ⤇
-imapsfrom         ⤆
-Imapsto           ⟾
-Imapsfrom         ⟽
-barr              ↔
-vbarr             ↕
-longbarr          ⟷
-Barr              ⟷
-rlarr             ⇄
-lrarr             ⇆
-tofrom            ⇄
-fromto            ⇆
-udarr             ⇅
-uuarr             ⇈
-ddarr             ⇊
-llarr             ⇇
-rrarr             ⇉
-uarr              ↑
-darr              ↓
-larr              ←
-rarr              →
-longlarr          ⟶
-longrarr          ⟵
-Larr              ⟶
-Rarr              ⟵
-nimplied          ⇍
-nimplies          ⇏
-niff              ⇎
-inteq             ≡
-intneq            ≢
-intjeq            ⩧
-sameq             ≣
-defeq             ≝
-askeq             ≟
-asseq             ≔
-eqass             ≕
-bnfeq             ⩴
-grameq            ⩴
-defiff            ⇐≝⇒
-askiff            ⇐≟⇒
-intiff            ⇚⇛
-intimplies        ⇛
-vintimplied       ⤊
-vintimplies       ⤋
-intimplied        ⇚
-leadsto           ↝
-leadsfrom         ↜
-ledfrom           ↜
-rleads            ↝
-lleads            ↜
-zigl              ⇜
-zigr              ⇝
-zigb              ↭
-zigto             ⇜
-zigfrom           ⇝
-zigbi             ↭
-eqto              ⥱
-isoto             ⥲
-Funto             ⥤
-therefore         ∴
-because           ∵
 vdots             ⋮
 hdots             ⋯
 cdots             ⋯
@@ -227,6 +144,20 @@ nedots            ⋰
 swdots            ⋰
 sedots            ⋱
 nwdots            ⋱
+sdots             ⋰  # [s]lash
+bdots             ⋱  # [b]ackslash
+
+# common math
+inv               ⁻¹ # [inv]erse
+halmos            ∎
+qed               ∎
+neq               ≠
+leq               ≤
+geq               ≥
+nlt               ≮
+ngt               ≯
+nleq              ≰
+ngeq              ≱
 pm                ±
 mp                ∓
 infty             ∞
@@ -234,12 +165,156 @@ pinfty            +∞
 minfty            -∞
 pminfty           ±∞
 mpinfty           ∓∞
-incinfty          ⧜
-tinfty            ⧝
 surd              √
 root              √
 sqrt              √
 cbrt              ∛
+3rt               ∛
+4rt               ∜
+percen            %
+permil            ‰
+permyr            ‱
+ast               ∗
+star              ⋆
+bullet            ∙
+bul               ∙
+cdot              ·
+ntimes            ·
+plus              +
+cross             ×
+times             ×
+frac              ÷
+monus             ∸
+fractimes         ⋇
+divtimes          ⋇
+divby             ∕
+circ              ∘
+Prod              ∏
+Sum               ∑
+Times             ⨉
+div               ∣
+ndiv              ∤
+coprime           ⊥
+therefore         ∴
+there             ∴
+hence             ∴
+because           ∵
+cause             ∵
+inteq             ≡
+ieq               ≡
+intneq            ≢
+ineq              ≢
+ninteq            ≢
+nieq              ≢
+sameq             ≣
+sameimpd          ⭅
+sameimps          ⭆
+defeq             ≝
+askeq             ≟
+asklt             ⩻
+askgt             ⩼
+asseq             ≔
+eqass             ≕
+bnfeq             ⩴
+grameq            ⩴
+defiff            ⇐≝⇒
+askiff            ⇐≟⇒
+intiff            ⇚⇛
+iiff              ⇚⇛
+leadsto           ↝
+leadsfrom         ↜
+ledfrom           ↜
+leadsr            ↝
+leadsl            ↜
+propto            ∝  # [prop]ortional [to]
+
+## implications
+implies           ⇒
+implied           ⇐
+iff               ⇔
+imps              ⇒  # [imp]lie[s]
+impd              ⇐  # [imp]lie[d by]
+impr              ⇒
+impl              ⇐
+impb              ⇔
+nimplied          ⇍
+nimplies          ⇏
+niff              ⇎
+nimpd             ⇍
+nimps             ⇏
+vimplies          ⇓
+vimplied          ⇑
+viff              ⇕
+vimps             ⇓
+vimpd             ⇑
+longimplies       ⟹
+longimplied       ⟸
+longiff           ⟺
+Implies           ⟹
+Implied           ⟸
+Iff               ⟺
+Imps              ⟹
+Impd              ⟸
+Impr              ⟹
+Impl              ⟸
+Impb              ⟺
+timplies          ⟹  # [t]extmode
+timplied          ⟸
+timps             ⟹
+timpd             ⟸
+timpr             ⟹
+timpl             ⟸
+timpb             ⟺
+tiff              ⟺
+intimplies        ⇛
+intimplied        ⇚
+intimps           ⇛
+intimpd           ⇚
+vintimplies       ⤋
+vintimplied       ⤊
+vintimps          ⤋
+vintimpd          ⤊
+
+## arrows
+imapsto           ⤇  # [i]mplies-like
+imapsfrom         ⤆
+Imapsto           ⟾
+Imapsfrom         ⟽
+barr              ↔
+vbarr             ↕
+Barr              ⟷
+rlarr             ⇄
+lrarr             ⇆
+udarr             ⇅
+uuarr             ⇈
+ddarr             ⇊
+llarr             ⇇
+rrarr             ⇉
+rrrarr            ⇶
+lllarr            ⬱
+uarr              ↑
+darr              ↓
+larr              ←
+rarr              →
+Larr              ⟶
+Rarr              ⟵
+
+# geom
+angle             ∠
+mangle            ∡  # [m]easured
+sangle            ∢  # [s]pherical
+righta            ∟  # [a]ngle
+tria              △  # [tria]ngle
+perp              ⟂  # [perp]endicular
+ortho             ⟂  # [ortho]gonal
+paral             ∥
+nparal            ∦
+eqparal           ⋕
+paraleq           ⋕
+slparal           ⫽  # [sl]anted
+slparaleq         ⧣
+
+# analysis
 int               ∫
 iint              ∬
 iiint             ∭
@@ -258,54 +333,19 @@ o2int             ∯
 o3int             ∰
 uint              ⨛
 lint              ⨜
-nabla             ∇
 partial           ∂
-ast               ∗
-star              ⋆
-bstar             ★
-wstar             ☆
-bullet            ∙
-cdot              ·
-ntimes            ·
-cross             ×
-times             ×
-divtimes          ⋇
-frac              ÷
-divby             ∕
-circ              ∘
-monus             ∸
-Prod              ∏
-Sum               ∑
-Times             ⨉
-Odot              ⨀
-Oplus             ⨁
-Otimes            ⨂
-dhole             –
-hole              _
-coprime           ⊥
-percen            %
-permil            ‰
-permyr            ‱
-
-# geom
-angle             ∠
-mangle            ∡
-sangle            ∢
-righta            ∟
-triangle          △
-perp              ⊥
-ortho             ⊥
-paral             ∥
-nparal            ∦
-slparal           ⫽
-eqparal           ⋕
-paraleq           ⋕
-slparaleq         ⧣
+parder            ∂  # [par]tial [der]ivative
+pderiv            ∂  # [p]artial
+pder              ∂
+nabla             ∇
 
 # sets
 emptyset          Ø
 empty             Ø
-algs              𝔸
+emptys            ∅  # [s]lash
+emptyb            ⦰  # [b]ackslash
+coempty           ⦰
+algs              𝔸  # algebraics
 bools             𝔹
 nats              ℕ
 ints              ℤ
@@ -313,14 +353,21 @@ rats              ℚ
 reals             ℝ
 comps             ℂ
 complex           ℂ
+quarts            ℍ
+qi                𝐢
+qj                𝐣
+qk                𝐤
+Im                ℑ
+Re                ℜ
+bloch             ℬ
 field             𝕜
 in                ∈
 notin             ∉
 nin               ∉
-ni                ∋
+ni                ∋  # in backwards
 notni             ∌
 nni               ∌
-vin               ⫙
+vin               ⫙  # [v]ertical
 vni               ⟒
 Inter             ⋂
 Union             ⋃
@@ -328,59 +375,116 @@ inter             ∩
 union             ∪
 disjunion         ⊎
 Disjunion         ⨄
-dunion            ⊎
-Dunion            ⨄
+dunion            ⊎  # [d]isjoint union
+Dunion            ⨄  # [D]isjoint union
 symdiff           ∆
-symd              ∆
+symd              ∆  # [sym]metric [d]ifference
 setminus          ∖
+sminus            ∖  # [s]et [minus]
 setdiff           ∖
+sdiff             ∖  # [s]et [diff]erence
 subset            ⊆
 supset            ⊇
+subs              ⊆
+sups              ⊇
 nsubset           ⊈
 nsupset           ⊉
-hsubset           ⊂
+nsubs             ⊈
+nsups             ⊉
+hsubset           ⊂  # [h]orseshoe
 hsupset           ⊃
-psubset           ⊊
+hsubs             ⊂
+hsups             ⊃
+substo            ⥹
+supsfrom          ⥻
+dothsubs          ⪽
+dothsups          ⪾
+dhsubs            ⪽
+dhsups            ⪾
+chsubs            ⟃  # [c]irc hsubs
+chsups            ⟄  # [c]irc hsubs
+nhsubset          ⊄
+nhsupset          ⊅
+nhsubs            ⊄
+nhsups            ⊅
+psubset           ⊊  # [p]roper
 psupset           ⊋
+psubs             ⊊
+psups             ⊋
 subsetneq         ⊊
 supsetneq         ⊋
+subsneq           ⊊
+supsneq           ⊋
+isubset           ⫃  # [i]nhabited
+isupset           ⫄
+isubs             ⫃
+isups             ⫄
+ihsubset          ⪽  # [i]nhabited [h]orseshoe
+ihsupset          ⪾
+ihsubs            ⪽
+ihsups            ⪾
+powerset          ℘
 power             ℘
 pset              ℘
-pfset             ℘ᶠ
-aleph             ℵ
-beth              ℶ
-gimel             ℷ
-daleth            ℸ
-continuum         𝔠
-eqc               =꜀
-leqc              ≤꜀
-ltc               <꜀
-geqc              ≥꜀
-gtc               >꜀
-eqo               =ₒ
-leqo              ≤ₒ
-lto               <ₒ
-geqo              ≥ₒ
-gto               >ₒ
+psetr             ℘⃗   # covariant pset
+psetl             ℘⃖   # contravariant pset
+pfset             ℘ᶠ  # XXX: should be _f
 disjoint          )(
 conjoint          ≬
 overlap           ≬
 olap              ≬
 meets             ≬
-isects            ≬
+isects            ≬  # intersects
 compl             ᶜ
-mpl               ᵓ
+Compl             ∁
+mpl               ᵓ  # cocomplement
+genby             ⥺  # [gen]erated [by]
+ingen             ⥺  # [in] [gen]erator
+fromgen           ⥺  # [from] [gen]erator
+generates         ⭄
+nigen             ⭄  # [ni] [gen]erator
+
+# set theory
+aleph             ℵ
+beth              ℶ
+gimel             ℷ
+daleth            ℸ
+continuum         𝔠
+eqc               =꜀  # in [c]ardinality
+leqc              ≤꜀
+ltc               <꜀
+geqc              ≥꜀
+gtc               >꜀
+eqo               =ₒ  # [o]rder type
+leqo              ≤ₒ
+lto               <ₒ
+geqo              ≥ₒ
+gto               >ₒ
+forces            ⊩
+nforces           ⊮
 
 # fun/rel
 lam               λ
+dhole             –
+uhole             _
+phole             ·
+hole              ·
 comp              ∘
 of                ∘
 after             ∘
-dcomp             ⨾
+dcomp             ⨾  # [d]iagramatic
 then              ⨾
-fby               ⨾
+fby               ⨾  # [f]ollowed [by]
+assymp            ≍
+nassymp           ≭
+samerog           ≍
+diffrog           ≭  # [r]ate [o]f [g]rowth
+rateq             ≍  # [rate] [eq]
+nrateq            ≭
 to                →
 from              ←
+tofrom            ⇄
+fromto            ⇆
 To                ⟶
 From              ⟵
 longto            ⟶
@@ -388,17 +492,31 @@ longfrom          ⟵
 gets              ←
 nto               ↛
 nfrom             ↚
-parto             ⇀
+oparto            ⇴  # [par]tial notation with [o]
+oparfrom          ⬰
+oparbi            ⥈
+parto             ⇀  # [par]tial
 parfrom           ↼
+partofrom         ⇌
+parfromto         ⇋
+xto               ⥇
 mapsto            ↦
 mapsfrom          ↤
-tmapsto           ⟼
+mapsr             ↦
+mapsl             ↤
+mapsup            ↥
+mapsdown          ↧
+mapsu             ↥
+mapsd             ↧
+vmapsto           ↧
+vmapsfrom         ↥
+tmapsto           ⟼  # [t]ext
 tmapsfrom         ⟻
 Mapsto            ⟼
 Mapsfrom          ⟻
-mapsup            ↥
-mapsdown          ↧
-rest              ↾
+Mapsr             ⟼
+Mapsl             ⟻
+rest              ↾  # [rest]riction
 surjto            ↠
 surjfrom          ↞
 injto             ↣
@@ -407,76 +525,136 @@ bijto             ⤖
 bijfrom           ⬻
 embto             ↪
 embfrom           ↩
-relto             ⇾
+embnw             ⤣
+embne             ⤤
+embse             ⤥
+embsw             ⤦
+surto             ↠
+surfrom           ↞
+into              ↣
+infrom            ↢
+bito              ⤖
+bifrom            ⬻
+emto              ↪
+emfrom            ↩
+eqto              ⥱
+isoto             ⥲
+rcomp             ⋄  # [r]elational composition
+relto             ⇾  # [rel]ation
 relfrom           ⇽
 relbi             ⇿
-fishfrom          ⬹
-fishto            ⤔
-Fishfrom          ⬺
-Fishto            ⤕
+ndetto            ⇝  # [n]on-[det]erministic
+ndetfrom          ⇜
+dto               ⇢  # [d]ashed
+dfrom             ⇠
+dotto             ⤑
+dotfrom           ⬸
 squigto           ⇝
 squigfrom         ⇜
 squigbi           ↭
-dual              ∂
-parder            ∂
-pderiv            ∂
-pder              ∂
-ndetfrom          ⇜
-ndetto            ⇝
-dfrom             ⇠
-dto               ⇢
-equiv             ≅
-nequiv            ≇
+zigto             ⇝
+zigfrom           ⇜
+zigbi             ↭
+loopfrom          ↫
+loopto            ↬
+sparkto           ⟢
+sparkfrom         ⟣
+fishto            ⤔
+fishfrom          ⬹
+Fishto            ⤕
+Fishfrom          ⬺
+equiv             ≃
+nequiv            ≄
 iso               ≅
 niso              ≇
-rcomp             ⋄
-cong              ≡
-ncong             ≢
-normaleq          ⊴
-normal            ⊲
-lamroneq          ⊵
-lamron            ⊳
+dotiso            ⩭
+diso              ⩭
 sim               ∼
-mis               ∽
+ssim              ≈
+sssim             ≋
 nsim              ≁
 simeq             ≃
 nsimeq            ≄
+mis               ∽  # (sim backwards)
 approx            ≈
 napprox           ≉
-assymp            ≍
-nassymp           ≭
-samerog           ≍
-diffrog           ≭
-rateq             ≍
-nrateq            ≭
-propto            ∝
+appr              ≈
+nappr             ≉
+approxeq          ≊
+happrox           ⩯  # [h]at
+happr             ⩯
 
-# algebra/cats/types/topo
-Coprod            ∐
-coprod            ⨿
-op                ᵒᵖ
+# relational algebra
+loutj             ⟕  # [l]eft [out]er [j]oin
+routj             ⟖
+foutj             ⟗  # [f]ull [out]er [j]oin
+antij             ▷  # [antij]oin
+semij             ⋉  # [semij]oin
+equij             ⋈₌ # [equij]oin
+natuj             ⨝  # [natu]ral[j]oin
+
+# lean
+eqs               ▸
+
+# type theory / programming
 cons              ∷
 concat            ⧺
-inv               ⁻¹
-jeq               ≐
-deq               ≡
+jeq               ≐  # [j]udgementally
+deq               ≡  # [d]efinitionally
+intjeq            ⩧
+ijeq              ⩧
+jieq              ⩧
 defjeq            :≐
 defdeq            :≡
-assjeq            :≐
+assjeq            :≐ # [ass]igned
 assdeq            :≡
 jeqass            ≐:
 deqass            ≡:
-matches           ≡:
-matcheq           ≕
+matches           ≡: # pattern [matches]
+matcheq           ≕  # (with = instead of ≡)
+unit              ⥠
+counit            ⥡
+lcar              𝚌𝚊𝚛  # [l]isp
+lcdr              𝚌𝚍𝚛
+Lcar              ᴄᴀʀ  # [L]ISP
+Lcdr              ᴄᴅʀ
+
+# algebra/topology/cats
+cong              ≡
+ncong             ≢
+coprod            ⨿
+Coprod            ∐
+op                ᵒᵖ # [op]posite
+subgroup          ≤
+nsubgroup         ≰
+subgrp            ≤
+nsubgrp           ≰
+normal            ⊴
+nnormal           ⋬
+lamron            ⊵  # (normal backwards)
+nlamron           ⋭
+normsub           ⊴
+nnormsub          ⋬
+normsup           ⊵
+nnormsup          ⋭
+snormal           ⊲  # [s]imply/[s]trict
+slamron           ⊳
+nsnormal          ⋪  # [n]ot [s]imply/[s]trict
+nslamron          ⋫
 tensor            ⊗
-dirsum            ⊕
+dirsum            ⊕  # directed sum
 smash             ⨳
-ltimes            ⋉
-rtimes            ⋊
-sdprodl           ⋉
+timesl            ⋉
+timesr            ⋊
+timesd            ⨲
+sdprodl           ⋉  # [s]emi[d]irect product
 sdprodr           ⋊
+sdprodd           ⨲
 semidirl          ⋉
 semidirr          ⋊
+semidird          ⨲
+ltimes            ⋉  # TeX compat
+rtimes            ⋊
 lthree            ⋋
 rthree            ⋌
 transverse        ⫛
@@ -484,9 +662,13 @@ tverse            ⫛
 wreath            ≀
 wr                ≀
 shuffle           ⧢
+shuf              ⧢
+deloop            𝗕
+inf0              (∞,0)-
+inf1              (∞,1)-
+inf2              (∞,2)-
+infn              (∞,n)-
 
-# lean
-eqs               ▸
 
 # logic
 not               ¬
@@ -496,43 +678,41 @@ And               ⋀
 Or                ⋁
 conj              ∧
 disj              ∨
-lnot              ¬
-lforall           ∀
-lexists           ∃
-limplies          →
-limplied          ←
+Conj              ⋀
+Disj              ⋁
+forall            ∀
+exists            ∃
+nexists           ∄
+unique            ∃!
+fa                ∀  # [f]or[a]ll
+ex                ∃  # [ex]ists
+un                ∃! # [u]nique
+nex               ∄
+horse             ⥰  # horseshoe
 himplies          ⥰
-horse             ⥰
-liff              ↔
-longliff          ⟷
-Liff              ⟷
+himps             ⥰
 sequent           ⊢
 proves            ⊢
 nproves           ⊬
 proved            ⊣
+provs             ⊢  # [prov]e[s]
+provd             ⊣  # [prov]e[d by]
+nprovs            ⊬
+proveds           ⟛
+provds            ⟛
+provesd           ⊢⊣
+provsd            ⊢⊣
 models            ⊨
 nmodels           ⊭
 modeld            ⫤
-bimodel           ⧦
-forces            ⊩
-nforces           ⊮
-linnot            ⊥
-linto             ⊸
-linwith           &
-linpar            ⅋
-nece              □
-poss              ◊
-vnece             ◻
-vposs             ◇
-circle            ○
-land              ∧
-lor               ∨
-Land              ⋀
-Lor               ⋁
+mods              ⊨  # [mod]el[s]
+nmods             ⊭
+modelsd           ⧦
+modelds           ⟚
 andor             ⩙
 orand             ⩙
-andstem           ⩚
-orstem            ⩛
+nand              ⩚
+nor               ⩛
 dotand            ⩑
 dotor             ⩒
 dand              ⩑
@@ -542,13 +722,48 @@ true              𝚝𝚛𝚞𝚎
 tt                𝘵𝘵
 ff                𝘧𝘧
 
+## linear logic
+linto             ⊸
+linwith           &
+linpar            ⅋
+linnot            ᗮ  # XXX: should be ^⊥
+linneg            ᗮ  # XXX: should be ^⊥
+lintimes          ⊗
+linplus           ⊕
+ofcourse          !
+whynot            ?
+adisj             ⊕
+mconj             ⊗
+aconj             &
+mdisj             ⅋
+
+## modal logic
+nece              □  # [nece]ssary
+poss              ◊  # [poss]ible
+vnece             ◻  # [v]ar
+vposs             ◇  # [v]ar
+
+# l- prefixed [l]ogic symbols (compat)
+land              ∧
+lor               ∨
+Land              ⋀
+Lor               ⋁
+limplies          →
+limplied          ←
+lnot              ¬
+lforall           ∀
+lexists           ∃
+liff              ↔
+longliff          ⟷
+Liff              ⟷
+
 # order
 absurd            ↯
+dual              ∂
 top               ⊤
 bottom            ⊥
 bot               ⊥
-cmeet             ⋏
-cjoin             ⋎
+lift              ˔
 meet              ∧
 join              ∨
 Meet              ⋀
@@ -557,29 +772,38 @@ glb               ∧
 lub               ∨
 Glb               ⋀
 Lub               ⋁
-incompar          ≸
-incompat          ‖
-covby             ⤙
+incompar          ≸  # [incompar]able
+incompat          ‖  # [incompat]ible
+covby             ⤙  # [cov]ered [by]
 covers            ⤚
-lts               ≲
+coverd            ⤙  # [cover]e[d]
+covd              ⤙  # [cov]ere[d] by
+covs              ⤚  # [cov]er[s]
+lts               ≲  # [s]im(ilar)
 gts               ≳
 nlts              ≴
 ngts              ≵
+cmeet             ⋏  # [c]urly/vy
+cjoin             ⋎
 clt               ≺
 cgt               ≻
-cleq              ≼
-cgeq              ≽
-clts              ≾
-cgts              ≿
 nclt              ⊀
 ncgt              ⊁
-wbelow            ≪
+cleq              ≼
+cgeq              ≽
+ncleq             ⋠
+ncgeq             ⋡
+clts              ≾
+cgts              ≿
+blowlt            ⊰
+blowgt            ⊱
+wbelow            ≪  # [w]ay below
 wabove            ≫
 wayb              ≪
 waya              ≫
 wb                ≪
 wa                ≫
-wwbelow           ⋘
+wwbelow           ⋘  # [w]ay-[w]ay below
 wwabove           ⋙
 wwayb             ⋘
 wwaya             ⋙
@@ -591,16 +815,36 @@ cwayb             ⪻
 cwaya             ⪼
 cwb               ⪻
 cwa               ⪼
-dotgt             ⋗
-dotlt             ⋖
-dgt               ⋗
-dlt               ⋖
+dotleq            ⪁
+dotgeq            ⪂
+dleq              ⪁
+dgeq              ⪂
 dotmeet           ⩑
 dotjoin           ⩒
 dmeet             ⩑
 djoin             ⩒
-blowlt            ⊰
-blowgt            ⊱
+leqdot            ⩿
+geqdot            ⪀
+ltdot             ⋖
+gtdot             ⋗
+ltd               ⋖
+gtd               ⋗
+meetdot           ⟑
+joindot           ⟇
+mdot              ⟑  # [m]eet [dot]
+jdot              ⟇  # [j]oin [dot]
+meeteq            ≙
+joineq            ≚
+ujoin             ⩅  # [u]nion
+imeet             ⩄  # [i]nter
+joinu             ⩅  # [u]nion
+meeti             ⩄  # [i]nter
+junion            ⩅  # [j]oin
+minter            ⩄  # [m]eet
+unionj            ⩅  # [j]oin
+interm            ⩄  # [m]eet
+
+# [s]quare-based orders
 smeet             ⊓
 sjoin             ⊔
 Smeet             ⨅
@@ -619,66 +863,105 @@ snleq             ⋢
 sngeq             ⋣
 nsleq             ⋢
 nsgeq             ⋣
-meeteq            ≙
-joineq            ≚
 
 # games
 tiny              ⧾
 miny              ⧿
 
+# named shapes
+circle            ○
+Circle            ◯  # large
+dcircle           ◌  # [d]otted
+triangle          △
+square            ◻
+diamond           ◇
+diam              ◇
+lozenge           ◊
+loz               ◊
+paragram          ▱
+rectangle         ▭
+wstar             ☆  # [w]hite
+spark             ⟡
+bcircle           ●  # [b]lack
+btriangle         ▲
+bsquare           ◼
+bdiamond          ◆
+bdiam             ◆
+blozenge          ⧫
+bloz              ⧫
+bparagram         ▰
+brectangle        ▬
+bstar             ★
+
 # named misc/ops
-cwloop            ↻
-ccwloop           ↺
-loop              ↺
-Ell               ℒ
 ell               ℓ
-rect              ▭
-rectop            ▭
-diamop            ⋄
+Ell               ℒ
+cwloop            ↻  # [c]lock[w]ise
+ccwloop           ↺  # [c]ounter[c]lock[wise]
+loop              ↺
+wp                ℘  # [W]eierstrass p
+twixt             ≬
+zap               ↯
+spot              ⦁
+carop             ˆ  # [car]et [op]erator
+diamop            ⋄  # [diam]ond
+starop            ⋆
+lozop             ⬫  # [loz]enge
+blozop            ⬪  # [b]lack
+sqop              ▫  # [sq]uare
+bsqop             ▪  # [b]lack
+rectop            ▭  # [rect]angle [op]
+rect              ▭  # [rect]angle
+brect             ▬  # [b]lack
 slash             ∕
 bslash            ∖
 wedge             ∧
 vee               ∨
 Wedge             ⋀
 Vee               ⋁
+dotwedge          ⩑
+dotvee            ⩒
+dwedge            ⩑
+dvee              ⩒
+wedgemid          ⩚
+veemid            ⩛
+commaminus        ⨩
+apominus          ⨩  # [apo]strophe
 dotminus          ∸
 minusdot          ⨪
+dotsim            ⩪
+dsim              ⩪
 dotplus           ∔
+dplus             ∔
 plusdot           ⨥
 dottimes          ⨰
+dtimes            ⨰
 plussim           ⨦
 simplus           ⨤
 circplus          ⨢
+cplus             ⨢
 hatplus           ⨣
-wedgemid          ⩚
-veemid            ⩛
-uplus             ⊎
+hplus             ⨣
+uplus             ⊎  # [u]nion
 Uplus             ⨄
 uminus            ⩁
-Udot              ⨃
 udot              ⨃
-idot              ⩀
-dwedge            ⩑
-dotvee            ⩒
-dotwedge          ⩑
-dvee              ⩒
+Udot              ⨃
+uvee              ⩅
+idot              ⩀  # [i]nter
+iwedge            ⩄
 bang              !
-gnab              ¡
+gnab              ¡  # (bang backwards)
 bbang             ‼
-ibang             ‽
+ibang             ‽  # [i]nterro[bang]
 ignab             ⸘
 askbang           ⁈
 bangask           ⁉
 abang             ⁈
 banga             ⁉
-qbang             ⁈
+qbang             ⁈  # [q]uestion
 bangq             ⁉
-lozenge           ◊
-blozenge          ⧫
-spot              ⦁
-wp                ℘
-twixt             ≬
-zap               ↯
+
 
 # dvsymbols (double-vision)
 dvmeet            ⩕
@@ -694,7 +977,7 @@ dvvee             ⩖
 dvWedge           ⨇
 dvVee             ⨈
 
-# bbsymbols (blackboard bold)
+# bbsymbols (blackboard-bold)
 bbor              ⩔
 bband             ⩓
 bbvee             ⩔
@@ -708,11 +991,19 @@ bbinter           ⋒
 bblt              ⪡
 bbgt              ⪢
 bbnot             ⫬
+bbtri             ⟁
 
 # named eq-like
+nneq              ⧣  # [n]ot[n]ot
+nninteq           ⧥
+intnneq           ⧥
+nnieq             ⧥
+inneq             ⧥
 baldeq            ≘
 triangleq         ≜
+treq              ≜
 deltaeq           ≜
+Deq               ≜
 wedgeq            ≙
 veeq              ≚
 asteq             ⩮
@@ -722,6 +1013,7 @@ stareq            ≛
 circeq            ≗
 eqcirc            ≖
 meq               ≞
+pluseq            ⩲
 dotinteq          ⩧
 bump              ≏
 bumps             ≎
@@ -736,6 +1028,7 @@ odivby            ⊘
 oslash            ⊘
 odot              ⊙
 oast              ⊛
+ostar             ⍟
 oeq               ⊜
 olt               ⧀
 ort               ⧁
@@ -747,14 +1040,19 @@ odiv              ⦶
 obslash           ⦸
 osminus           ⦸
 obullet           ⦿
+obul              ⦿
 ocirc             ⦾
 ocomp             ⦾
 oof               ⦾
+Odot              ⨀
+Oplus             ⨁
+Otimes            ⨂
 sqplus            ⊞
 sqminus           ⊟
 sqtimes           ⊠
 sqdot             ⊡
 sqast             ⧆
+sqdiv             ◫
 sqcirc            ⧇
 sqcomp            ⧇
 sqof              ⧇
@@ -764,61 +1062,37 @@ trtimes           ⨻
 trdot             ◬
 
 # named directed
+fishtl            ⥼  # [fisht]ail [l]eft
+fishtr            ⥽
+fishtu            ⥾
+fishtd            ⥿
 lolli             ⊸
 lollil            ⟜
 lollir            ⊸
 lolliu            ⫯
 lollid            ⫰
-bilolli           ⧟
 lollib            ⧟
+lollibi           ⧟
+sparkr            ⟢
+sparkl            ⟣
 rturnstile        ⊢
-nrturnstile       ⊬
 lturnstile        ⊣
+rturns            ⊢
+lturns            ⊣
+nrturnstile       ⊬
+nrturns           ⊬
 Rturnstile        ⊨
 nRturnstile       ⊭
-squigr            ⇝
-squigl            ⇜
-squigb            ↭
-fishr             ⤔
-fishl             ⬹
-Fishr             ⤕
-Fishl             ⬺
-nw                ↖
-ne                ↗
-sw                ↙
-se                ↘
-nwimps            ⇖
-neimps            ⇗
-swimps            ⇙
-seimps            ⇘
-dashu             ⇡
-dashd             ⇣
-dashl             ⇠
-dashr             ⇢
-halfu             ￪
-halfd             ￬
-halfl             ￩
-halfr             ￫
-up                ↑
-down              ↓
-left              ←
-right             →
-utri              △
-dtri              ▽
-ltri              ◁
-rtri              ▷
-utris             ▵
-dtris             ▿
-ltris             ◃
-rtris             ▹
-ubtri             ▲
-dbtri             ▼
-lbtri             ◄
-rbtri             ►
-ubtris            ▴
-dbtris            ▾
-lbtris            ◂
-rbtris            ▸
+Rturns            ⊨
+nRturns           ⊭
+convr             ⚞  # lines [conv]erge
+convl             ⚟
+jailr             ⚞  # two cops one drunk
+jaill             ⚟
+sandr             ⚞  # [sand]wich
+sandl             ⚟
+blowr             ⊰
+blowl             ⊱
 trileq            ⊴
 trigeq            ⊵
 ntrileq           ⋬
@@ -827,11 +1101,76 @@ trilt             ⊲
 trigt             ⊳
 ntrilt            ⋪
 ntrigt            ⋫
-convr             ⚞
-convl             ⚟
+
+## arrows
+squigr            ⇝
+squigl            ⇜
+squigb            ↭
+zigr              ⇝
+zigl              ⇜
+zigb              ↭
+loopl             ↫
+loopr             ↬
+fishr             ⤔
+fishl             ⬹
+Fishr             ⤕
+Fishl             ⬺
+nw                ↖  # [n]orth-[w]est
+ne                ↗
+sw                ↙
+se                ↘
+nwimplies         ⇖
+neimplies         ⇗
+swimplies         ⇙
+seimplies         ⇘
+nwimps            ⇖
+neimps            ⇗
+swimps            ⇙
+seimps            ⇘
+dashu             ⇡
+dashd             ⇣
+dashl             ⇠
+dashr             ⇢
+up                ↑
+down              ↓
+left              ←
+right             →
+harplu            ↼  # harpoons
+harpld            ↽
+harpru            ⇀
+harprd            ⇁
+harpur            ↾
+harpul            ↿
+harpdr            ⇂
+harpdl            ⇃
+Harpr             ⥤
+Harpl             ⥢
+halfu             ￪  # half-width arrows
+halfd             ￬
+halfl             ￩
+halfr             ￫
+
+## triangles
+triu              △
+trid              ▽
+tril              ◁
+trir              ▷
+striu             ▵  # [s]mall
+strid             ▿
+stril             ◃
+strir             ▹
+btriu             ▲  # [b]lack
+btrid             ▼
+btril             ◄
+btrir             ►
+sbtriu            ▴  # [s]mall [b]lack
+sbtrid            ▾
+sbtril            ◂
+sbtrir            ▸
 
 # (abused) superscripts
 ^triangle         ᐞ
+^tri              ᐞ
 ^slash            ᐟ
 ^divby            ᐟ
 ^bslash           ᐠ
@@ -845,7 +1184,7 @@ convl             ⚟
 ^lt               ᑉ
 ^dot              ᐧ
 
-# cats
+# names of cats
 CAT               𝐂𝐚𝐭
 SET               𝐒𝐞𝐭
 PSET              𝐏𝐒𝐞𝐭
@@ -874,85 +1213,29 @@ HA                𝐇𝐀
 BA                𝐁𝐀
 MODEL             𝐌𝐨𝐝𝐞𝐥
 
-# abbrevs for 6-char-limit (or for convenience)
-treq              ≜
-Deq               ≜
-loz               ◊
-bloz              ⧫
-subs              ⊆
-sups              ⊇
-nsubs             ⊈
-nsups             ⊉
-isubs             ⫃
-isups             ⫄
-hsubs             ⊂
-hsups             ⊃
-nhsubs            ⊄
-nhsups            ⊅
-ihsubs            ⪽
-ihsups            ⪾
-dothsubs          ⪽
-dothsups          ⪾
-psubs             ⊊
-psups             ⊋
-subsne            ⊊
-supsne            ⊋
-sminus            ∖
-sdiff             ∖
-covd              ⤙
-covs              ⤚
-fa                ∀
-ex                ∃
-un                ∃!
-nex               ∄
-imps              ⇒
-impd              ⇐
-himps             ⥰
-timps             ⟹
-timpd             ⟸
-Imps              ⟹
-Impd              ⟸
-vimps             ⇓
-vimpd             ⇑
-nimpd             ⇍
-nimps             ⇏
-rmaps             ↦
-lmaps             ↤
-Rmaps             ⟼
-Lmaps             ⟻
-umaps             ↥
-dmaps             ↧
-there             ∴
-hence             ∴
-cause             ∵
-cplus             ⨢
-dplus             ∔
-dtimes            ⨰
-rturns            ⊢
-lturns            ⊣
-provs             ⊢
-provd             ⊣
-nprovs            ⊬
-mods              ⊨
-nmods             ⊭
-appr              ≈
-nappr             ≉
-crossh            ⌖
-surto             ↠
-surfrom           ↞
-into              ↣
-infrom            ↢
-bito              ⤖
-bifrom            ⬻
-emto              ↪
-emfrom            ↩
-ieq               ≡
-ineq              ≢
-nieq              ≢
-ijeq              ⩧
-jieq              ⩧
-iiff              ⇚⇛
-bul               ∙
-obul              ⦿
-shuf              ⧢
+# combining decorators
+@oast       ⃰  # [o]ver
+@oal        ⃖  # [a]rrow [l]eft
+@oar        ⃗
+@ohat      ̂
+@obar      ̅
+@obbar     ̿
+@odot      ̇
+@oddot     ̈
+@ual        ⃮  # [u]nder [a]rrow [l]eft
+@uar        ⃯
+@ult        ͔
+@ugt        ͕
+@ubot      ̝
+@utop      ̞
+@uinfty     ͚
+@ch        ̶   # [c]ancel [h]orizontally
+@cd        ̷   # [d]iagonal
+@cs        ̸   # [s]lash
+
+## named
+@cantorc   ̿   # [cantor]'s [c]ardinality
+@vec        ⃗  # [vec]tor
+@rvec       ⃗  # [r]ight
+@lvec       ⃖  # [l]eft
 
