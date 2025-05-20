@@ -184,7 +184,7 @@
 | <code>Times</code> | ⨉ |
 | <code>div</code> | ∣ |
 | <code>ndiv</code> | ∤ |
-| <code>coprime</code> | ⊥ |
+| <code>coprime</code> | ⟂ |
 | <code>therefore</code> | ∴ |
 | <code>there</code> | ∴ |
 | <code>hence</code> | ∴ |

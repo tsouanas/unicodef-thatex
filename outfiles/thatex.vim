@@ -183,7 +183,7 @@ inoremap \\Sum ∑
 inoremap \\Times ⨉
 inoremap \\div ∣
 inoremap \\ndiv ∤
-inoremap \\coprime ⊥
+inoremap \\coprime ⟂
 inoremap \\therefore ∴
 inoremap \\there ∴
 inoremap \\hence ∴
