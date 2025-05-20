@@ -1727,6 +1727,7 @@ inoremap \\Mapsfrom ⟻
 inoremap \\Mapsr ⟼
 inoremap \\Mapsl ⟻
 inoremap \\rest ↾
+inoremap \\corest ⇂
 inoremap \\surjto ↠
 inoremap \\surjfrom ↞
 inoremap \\injto ↣

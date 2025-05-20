@@ -493,6 +493,7 @@
 | <code>Mapsr</code> | ⟼ |
 | <code>Mapsl</code> | ⟻ |
 | <code>rest</code> | ↾ |
+| <code>corest</code> | ⇂ |
 | <code>surjto</code> | ↠ |
 | <code>surjfrom</code> | ↞ |
 | <code>injto</code> | ↣ |
