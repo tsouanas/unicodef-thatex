@@ -671,6 +671,13 @@ infn              (∞,n)-
 
 
 # logic
+truth             ⊤
+verum             ⊤
+falsity           ⊥
+falsum            ⊥
+contra            ⊥
+absurdum          ⊥
+absurd            ⊥
 not               ¬
 and               ∧
 or                ∨
@@ -717,6 +724,8 @@ dotand            ⩑
 dotor             ⩒
 dand              ⩑
 dor               ⩒
+anddot            ⟑
+ordot             ⟇
 false             𝚏𝚊𝚕𝚜𝚎
 true              𝚝𝚛𝚞𝚎
 tt                𝘵𝘵
@@ -758,7 +767,6 @@ longliff          ⟷
 Liff              ⟷
 
 # order
-absurd            ↯
 dual              ∂
 top               ⊤
 bottom            ⊥
@@ -964,34 +972,34 @@ bangq             ⁉
 
 
 # dvsymbols (double-vision)
-dvmeet            ⩕
-dvjoin            ⩖
-dvMeet            ⨇
-dvJoin            ⨈
-dvand             ⩕
+dvand             ⩕  # logic
 dvor              ⩖
 dvAnd             ⨇
 dvOr              ⨈
-dvwedge           ⩕
+dvmeet            ⩕  # order
+dvjoin            ⩖
+dvMeet            ⨇
+dvJoin            ⨈
+dvwedge           ⩕  # named
 dvvee             ⩖
 dvWedge           ⨇
 dvVee             ⨈
 
 # bbsymbols (blackboard-bold)
+bbnot             ⫬  # logic 
 bbor              ⩔
 bband             ⩓
-bbvee             ⩔
-bbwedge           ⩓
-bbjoin            ⩔
-bbmeet            ⩓
-bbsubs            ⋐
+bbsubs            ⋐  # sets
 bbsups            ⋑
 bbunion           ⋓
 bbinter           ⋒
+bbjoin            ⩔  # order
+bbmeet            ⩓
 bblt              ⪡
 bbgt              ⪢
-bbnot             ⫬
-bbtri             ⟁
+bbtri             ⟁  # named
+bbvee             ⩔
+bbwedge           ⩓
 
 # named eq-like
 nneq              ⧣  # [n]ot[n]ot
