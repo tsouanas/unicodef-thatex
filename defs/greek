@@ -1,9 +1,12 @@
 # greek
+
+# uppercase
 Alpha           Α
 Beta            Β
 Gamma           Γ
 Delta           Δ
 Epsilon         Ε
+Epsi            Ε
 Zeta            Ζ
 Eta             Η
 Theta           Θ
@@ -19,27 +22,44 @@ Rho             Ρ
 Sigma           Σ
 Tau             Τ
 Upsilon         Υ
+Upsi            Υ
 Phi             Φ
 Chi             Χ
 Psi             Ψ
 Omega           Ω
+
+# lowercase
 alpha           α
 beta            β
 varbeta         ϐ
 curbeta         ϐ
+vbeta           ϐ
+cbeta           ϐ
 gamma           γ
 delta           δ
 epsilon         ε
+epsi            ε
 varepsilon      ϵ
 lunepsilon      ϵ
+vepsilon        ϵ
+lepsilon        ϵ
+vepsi           ϵ
+lepsi           ϵ  # [l]unate
+revlunepsilon   ϶
+revlepsilon     ϶
+revlepsi        ϶
+rlepsi          ϶  # [r]eversed
 zeta            ζ
 eta             η
 theta           ϑ
 vartheta        θ
+vtheta          θ
 iota            ι
 kappa           κ
 varkappa        ϰ
 curkappa        ϰ
+vkappa          ϰ
+ckappa          ϰ
 lambda          λ
 mu              μ
 nu              ν
@@ -48,22 +68,31 @@ omicron         ο
 pi              π
 varpi           ϖ
 curpi           ϖ
+vpi             ϖ
+cpi             ϖ
 rho             ρ
 varrho          ϱ
 currho          ϱ
+vrho            ϱ
+crho            ϱ
 sigma           σ
 varsigma        σ
 finsigma        ς
+vsigma          σ
+fsigma          ς
 tau             τ
 upsilon         υ
+upsi            υ
 phi             φ
 varphi          ϕ
 clophi          ϕ
+vphi            ϕ
+cphi            ϕ
 chi             χ
 psi             ψ
 omega           ω
 
-# superscripts and subscripts (some abuse)
+# superscripts (some abuse)
 ^Gamma          ᣘ
 ^Delta          ᐞ
 ^Lambda         ᣔ
@@ -72,6 +101,7 @@ omega           ω
 ^gamma          ᵞ
 ^delta          ᵟ
 ^epsilon        ᵋ
+^epsi           ᵋ
 ^theta          ᶿ
 ^iota           ᶥ
 ^omicron        ᵒ
@@ -82,32 +112,14 @@ omega           ω
 ^upsilon        ᶹ
 ^phi            ᵠ
 ^chi            ᵡ
+
+# subscripts (some abuse)
 _beta           ᵦ
 _gamma          ᵧ
 _rho            ᵨ
 _phi            ᵩ
 _chi            ᵪ
 
-# abbrevs for 6-char-limit or convenience
-Epsi            Ε
+# abbrevs for 6-char limit
 Omicro          Ο
-Upsi            Υ
-vbeta           ϐ
-cbeta           ϐ
-epsi            ε
-vepsi           ϵ
-lepsi           ϵ
-vtheta          θ
-vkappa          ϰ
-ckappa          ϰ
 omicro          ο
-cpi             ϖ
-vpi             ϖ
-vrho            ϱ
-crho            ϱ
-vsigma          ς
-fsigma          ς
-upsi            υ
-vphi            ϕ
-cphi            ϕ
-^epsi           ᵋ
