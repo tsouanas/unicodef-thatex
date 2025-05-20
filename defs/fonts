@@ -1,3 +1,22 @@
+# ToC
+
+# scr: script
+# cal: caligraphic
+# tt: monospace
+# it: italic (serif)
+# its: italic ([s]ans-serif)
+# bf: boldface (serif)
+# bfs: boldface ([s]ans-serif)
+# bi: bold italic (serif)
+# bis: bold italic [s]ans-serif)
+# bb: blackboard bold
+# frak: fraktur
+# bfrak: bold fraktur
+# sc: small-caps
+# ^: superscripts
+# _: subscripts
+# braille
+
 # scr: script
 scrA              𝒜
 scrB              ℬ
@@ -686,7 +705,41 @@ bfrakx            𝖝
 bfraky            𝖞
 bfrakz            𝖟
 
-# superscripts
+# sc: small-caps
+sca               ᴀ
+scb               ʙ
+scc               ᴄ
+scd               ᴅ
+sce               ᴇ
+scf               ꜰ
+scg               ɢ
+sch               ʜ
+sci               ɪ
+scj               ᴊ
+sck               ᴋ
+scl               ʟ
+scm               ᴍ
+scn               ɴ
+sco               ᴏ
+scp               ᴘ
+scq               ꞯ
+scr               ʀ
+scs               ꜱ
+sct               ᴛ
+scu               ᴜ
+scv               ᴠ
+scw               ᴡ
+scy               ʏ
+scz               ᴢ
+scgamma           ᴦ
+sclambda          ᴧ
+scpi              ᴨ
+scrho             ᴩ
+scpsi             ᴪ
+scgam             ᴦ
+sclam             ᴧ
+
+# ^: superscripts
 ^0                ⁰
 ^1                ¹
 ^2                ²
@@ -747,7 +800,7 @@ bfrakz            𝖟
 ^y                ʸ
 ^z                ᶻ
 
-# subscripts
+# _: subscripts
 _0                ₀
 _1                ₁
 _2                ₂
@@ -813,40 +866,6 @@ _,                ﹐
 _.                ﹒
 hypo              ⸒
 ,_                ⸒
-
-# sc: small-caps
-sca               ᴀ
-scb               ʙ
-scc               ᴄ
-scd               ᴅ
-sce               ᴇ
-scf               ꜰ
-scg               ɢ
-sch               ʜ
-sci               ɪ
-scj               ᴊ
-sck               ᴋ
-scl               ʟ
-scm               ᴍ
-scn               ɴ
-sco               ᴏ
-scp               ᴘ
-scq               ꞯ
-scr               ʀ
-scs               ꜱ
-sct               ᴛ
-scu               ᴜ
-scv               ᴠ
-scw               ᴡ
-scy               ʏ
-scz               ᴢ
-scgamma           ᴦ
-sclambda          ᴧ
-scpi              ᴨ
-scrho             ᴩ
-scpsi             ᴪ
-scgam             ᴦ
-sclam             ᴧ
 
 # braille
 blank             ⠀
