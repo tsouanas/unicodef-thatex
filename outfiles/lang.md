@@ -66,9 +66,11 @@
 | <code>!!</code> | ‼ |
 | <code>??</code> | ⁇ |
 | <code>^~</code> | ˜ |
-| <code>^'</code> | ´ |
-| <code>^&#96;</code> | &#96; |
 | <code>^^</code> | ˆ |
+| <code>)&#96;</code> | ´ |
+| <code>&#96;)</code> | ´ |
+| <code>&#96;&lt;</code> | ´ |
+| <code>&#96;&gt;</code> | ´ |
 | <code>ff</code> | ﬀ |
 | <code>fi</code> | ﬁ |
 | <code>fl</code> | ﬂ |

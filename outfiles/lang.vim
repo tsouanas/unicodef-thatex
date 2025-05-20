@@ -65,9 +65,11 @@ inoremap \!? ⁉
 inoremap \!! ‼
 inoremap \?? ⁇
 inoremap \^~ ˜
-inoremap \^' ´
-inoremap \^` `
 inoremap \^^ ˆ
+inoremap \)` ´
+inoremap \`) ´
+inoremap \`< ´
+inoremap \`> ´
 inoremap \ff ﬀ
 inoremap \fi ﬁ
 inoremap \fl ﬂ
