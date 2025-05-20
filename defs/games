@@ -25,14 +25,16 @@ Knight       ♘
 Pawn         ♙
 
 # cards
-bspade       ♠
-wheart       ♡
-wdiam        ♢
-bclub        ♣
-wspade       ♤
-bheart       ♥
-bdiam        ♦
-wclub        ♧
+bspades      ♠
+whearts      ♡
+wdiamonds    ♢
+wdiams       ♢
+bclubs       ♣
+wspades      ♤
+bhearts      ♥
+bdiamonds    ♦
+bdiams       ♦
+wclubs       ♧
 
 # dice
 die1         ⚀
