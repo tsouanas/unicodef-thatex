@@ -24,11 +24,13 @@
 | <code>notes</code> | ♫ |
 | <code>mrhappy</code> | ☺ |
 | <code>mrsad</code> | ☹ |
+| <code>gandalf</code> | ᚠ |
 | <code>checkb</code> | ☐ |
 | <code>checkc</code> | ☑ |
 | <code>checkx</code> | ☒ |
 | <code>ymark</code> | ✓ |
 | <code>nmark</code> | ✗ |
+| <code>tick</code> | ✓ |
 | <code>yeap</code> | ✓ |
 | <code>nope</code> | ✗ |
 | <code>bmark</code> | ◎ |

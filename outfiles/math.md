@@ -255,4 +255,5 @@
 | <code>@^:</code> | ̈ |
 | <code>@_&lt;</code> | ⃮ |
 | <code>@_&gt;</code> | ⃯ |
+| <code>@_*</code> | ͙ |
 | <code>@_88</code> | ͚ |

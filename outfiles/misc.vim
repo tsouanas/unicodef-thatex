@@ -23,11 +23,13 @@ inoremap \\note ♪
 inoremap \\notes ♫
 inoremap \\mrhappy ☺
 inoremap \\mrsad ☹
+inoremap \\gandalf ᚠ
 inoremap \\checkb ☐
 inoremap \\checkc ☑
 inoremap \\checkx ☒
 inoremap \\ymark ✓
 inoremap \\nmark ✗
+inoremap \\tick ✓
 inoremap \\yeap ✓
 inoremap \\nope ✗
 inoremap \\bmark ◎

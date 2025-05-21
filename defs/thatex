@@ -33,7 +33,9 @@ redo              ↷
 flat              ♭
 sharp             ♯
 natu              ♮
-ttt               ⌗  # [t]ic-[t]ac-[t]oe
+tictactoe         ⌗
+titato            ⌗
+tic               ⌗
 replay            ↺
 spades            ♠
 hearts            ♡
@@ -947,8 +949,8 @@ brect             ▬
 wminus            ▭  # [w]hite
 bminus            ▬  # [b]lack
 slash             ∕
+backslash         ∖
 bslash            ∖  # [b]ack[slash]
-backs             ∖  # [back][s]lash
 wedge             ∧
 vee               ∨
 Wedge             ⋀

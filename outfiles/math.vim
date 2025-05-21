@@ -254,4 +254,5 @@ inoremap \@^. ̇
 inoremap \@^: ̈
 inoremap \@_< ⃮
 inoremap \@_> ⃯
+inoremap \@_* ͙
 inoremap \@_88 ͚

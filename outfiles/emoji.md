@@ -193,3 +193,5 @@
 | <code>EU</code> | 🇪🇺 |
 | <code>BLACK</code> | 🏴 |
 | <code>WHITE</code> | 🏳️ |
+| <code>BFLAG</code> | 🏴 |
+| <code>WFLAG</code> | 🏳️ |

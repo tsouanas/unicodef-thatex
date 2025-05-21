@@ -192,3 +192,5 @@ inoremap \\SCOT 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 inoremap \\EU 🇪🇺
 inoremap \\BLACK 🏴
 inoremap \\WHITE 🏳️
+inoremap \\BFLAG 🏴
+inoremap \\WFLAG 🏳️
