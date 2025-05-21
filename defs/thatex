@@ -86,49 +86,68 @@ thorn             þ
 prescr            ℞
 
 # math punctuation, quotes, brackets, dots
-lquasi            ⌜
-rquasi            ⌝
-lqua              ⌜
-rqua              ⌝
+## syntactic
 langle            ⟨
 rangle            ⟩
-ldangle           ⦑
+ldangle           ⦑  # [d]ot
 rdangle           ⦒
+lcangle           ⧼  # [c]urly/vy
+rcangle           ⧽
 Langle            ⟪
 Rangle            ⟫
 lAngle            ⦉
 rAngle            ⦊
-ltur              ⦗  # [l]eft [tur]tle
-rtur              ⦘
+ltur              〔 # [l]eft [tur]tle
+rtur              〕
+lbtur             ⦗  # [b]lack/[b]old
+rbtur             ⦘
+lwtur             〘 # [w]hite
+rwtur             〙
 ltor              ⟬  # [l]eft [tor]toise
 rtor              ⟭
 Lpar              ⸨
 Rpar              ⸩
 lPar              ⦅
 rPar              ⦆
-lceil             ⌈
-rceil             ⌉
-lfloor            ⌊
-rfloor            ⌋
-lbag              ⟅
-rbag              ⟆
 lBra              ⟦
 rBra              ⟧
-lsem              ⟦
-rsem              ⟧
-lSet              ⦃
-rSet              ⦄
-lban              ⦇
-rban              ⦈
-lnorm             ‖
-rnorm             ‖
-norm              ‖
+llen              〖 # [l]eft [lent]
+rlen              〗
+lblen             【 # [b]lack
+rblen             】
 lfence            ⧘
 rfence            ⧙
 Rfence            ⧛
 Lfence            ⧚
 dfence            ⦙
 fence             ⦚
+
+## semantic
+lquasi            ⌜
+rquasi            ⌝
+lqua              ⌜
+rqua              ⌝
+lceil             ⌈
+rceil             ⌉
+lfloor            ⌊
+rfloor            ⌋
+lset              {
+rset              }
+mid               |
+lSet              ⦃
+rSet              ⦄
+Mid               ⫾
+lbag              ⟅
+rbag              ⟆
+lsem              ⟦
+rsem              ⟧
+lban              ⦇
+rban              ⦈
+lnorm             ‖
+rnorm             ‖
+norm              ‖
+
+## vertical
 frown             ⌢
 smile             ⌣
 obrace            ⏞
@@ -137,6 +156,8 @@ obrack            ⎴
 ubrack            ⎵
 oparen            ⏜
 uparen            ⏝
+
+## dots
 vdots             ⋮
 hdots             ⋯
 cdots             ⋯
@@ -313,7 +334,7 @@ righta            ∟  # [a]ngle
 tria              △  # [tria]ngle
 perp              ⟂  # [perp]endicular
 ortho             ⟂  # [ortho]gonal
-paral             ∥
+paral             ∥  # [paral]lel
 nparal            ∦
 eqparal           ⋕
 paraleq           ⋕
@@ -341,15 +362,15 @@ uint              ⨛
 lint              ⨜
 partial           ∂
 parder            ∂  # [par]tial [der]ivative
-pderiv            ∂  # [p]artial
+pderiv            ∂  # [p]artial [deriv]ative
 pder              ∂
 nabla             ∇
 
 # sets
 emptyset          Ø
 empty             Ø
-emptys            ∅  # [s]lash
-emptyb            ⦰  # [b]ackslash
+sempty            ∅  # [s]lash
+bempty            ⦰  # [b]ackslash
 coempty           ⦰
 algs              𝔸  # algebraics
 bools             𝔹
@@ -389,7 +410,7 @@ setminus          ∖
 sminus            ∖  # [s]et [minus]
 setdiff           ∖
 sdiff             ∖  # [s]et [diff]erence
-containd          ⊆
+containd          ⊆  # [contain]e[d] in
 contains          ⊇
 subset            ⊆
 supset            ⊇
@@ -681,6 +702,8 @@ wreath            ≀
 wr                ≀
 shuffle           ⧢
 shuf              ⧢
+lgen              ⟨
+rgen              ⟩
 adj               ⊣  # [adj]unction
 ladjto            ⊣  # [l]eft [adj]oint [to]
 adjto             ⊣  # [l]eft [adj]oint [to]
