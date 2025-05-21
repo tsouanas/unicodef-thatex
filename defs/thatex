@@ -33,6 +33,8 @@ redo              ↷
 flat              ♭
 sharp             ♯
 natu              ♮
+ttt               ⌗  # [t]ic-[t]ac-[t]oe
+replay            ↺
 spades            ♠
 hearts            ♡
 diamonds          ♢
@@ -55,11 +57,10 @@ target            ⌖
 bullseye          ◎
 fisheye           ◉
 gnd               ⏚
-hbar              ℏ
-hslash            ℏ
 percont           ⸮
 rheto             ⸮
 warn              ⚠
+diameter          ⌀
 incinfty          ⧜
 tinfty            ⧝
 baldinfty         ⧝
@@ -161,8 +162,8 @@ ngeq              ≱
 pm                ±
 mp                ∓
 infty             ∞
-pinfty            +∞
-minfty            -∞
+pinfty            +∞  # [p]lus
+minfty            -∞  # [m]inus
 pminfty           ±∞
 mpinfty           ∓∞
 surd              √
@@ -171,11 +172,14 @@ sqrt              √
 cbrt              ∛
 3rt               ∛
 4rt               ∜
+longdiv           ⟌
 percen            %
 permil            ‰
 permyr            ‱
 ast               ∗
-star              ⋆
+star              ★
+sstar             ⋆  # [s]mall star
+spark             ⟡
 bullet            ∙
 bul               ∙
 cdot              ·
@@ -364,7 +368,7 @@ field             𝕜
 in                ∈
 notin             ∉
 nin               ∉
-ni                ∋  # in backwards
+ni                ∋  # (in backwards)
 notni             ∌
 nni               ∌
 vin               ⫙  # [v]ertical
@@ -383,6 +387,8 @@ setminus          ∖
 sminus            ∖  # [s]et [minus]
 setdiff           ∖
 sdiff             ∖  # [s]et [diff]erence
+containd          ⊆
+contains          ⊇
 subset            ⊆
 supset            ⊇
 subs              ⊆
@@ -395,8 +401,6 @@ hsubset           ⊂  # [h]orseshoe
 hsupset           ⊃
 hsubs             ⊂
 hsups             ⊃
-substo            ⥹
-supsfrom          ⥻
 dothsubs          ⪽
 dothsups          ⪾
 dhsubs            ⪽
@@ -423,12 +427,23 @@ ihsubset          ⪽  # [i]nhabited [h]orseshoe
 ihsupset          ⪾
 ihsubs            ⪽
 ihsups            ⪾
+substo            ⥹
+supsfrom          ⥻
 powerset          ℘
 power             ℘
 pset              ℘
 psetr             ℘⃗   # covariant pset
 psetl             ℘⃖   # contravariant pset
 pfset             ℘ᶠ  # XXX: should be _f
+pimg              ℘⃗   # covariant pset function-image
+ppre              ℘⃖   # contravariant pset function-preimage
+rwimg             “   # [r]ussell & [w]hitehead
+rwof              ‘   # [rw] (the) _ [of] _
+astimg            ⁎
+astpre             ⃰
+shriek            !
+shrieku           ꜝ
+shriekd           ﹗
 disjoint          )(
 conjoint          ≬
 overlap           ≬
@@ -664,12 +679,14 @@ wreath            ≀
 wr                ≀
 shuffle           ⧢
 shuf              ⧢
+adj               ⊣  # [adj]unction
+ladjto            ⊣  # [l]eft [adj]oint [to]
+adjto             ⊣  # [l]eft [adj]oint [to]
 deloop            𝗕
 inf0              (∞,0)-
 inf1              (∞,1)-
 inf2              (∞,2)-
 infn              (∞,n)-
-
 
 # logic
 truth             ⊤
@@ -696,9 +713,14 @@ fa                ∀  # [f]or[a]ll
 ex                ∃  # [ex]ists
 un                ∃! # [u]nique
 nex               ∄
+russell           ℩  # [russell] descriptor
+rdesc             ℩  # [r]ussell [desc]riptor
+theonly           ℩ 
 horse             ⥰  # horseshoe
 himplies          ⥰
 himps             ⥰
+hiff              ⫗
+assert            ⊢
 sequent           ⊢
 proves            ⊢
 nproves           ⊬
@@ -706,17 +728,24 @@ proved            ⊣
 provs             ⊢  # [prov]e[s]
 provd             ⊣  # [prov]e[d by]
 nprovs            ⊬
-proveds           ⟛
-provds            ⟛
 provesd           ⊢⊣
+proveds           ⟛
 provsd            ⊢⊣
+provds            ⟛
+biproves          ⟛
+biprovs           ⟛
 models            ⊨
 nmodels           ⊭
+modeled           ⫤
 modeld            ⫤
 mods              ⊨  # [mod]el[s]
+modd              ⫤  # [mod]ele[d]
 nmods             ⊭
 modelsd           ⧦
+modeleds          ⟚
 modelds           ⟚
+bimodels          ⊨
+bimods            ⊨
 andor             ⩙
 orand             ⩙
 nand              ⩚
@@ -752,20 +781,6 @@ nece              □  # [nece]ssary
 poss              ◊  # [poss]ible
 vnece             ◻  # [v]ar
 vposs             ◇  # [v]ar
-
-# l- prefixed [l]ogic symbols (compat)
-land              ∧
-lor               ∨
-Land              ⋀
-Lor               ⋁
-limplies          →
-limplied          ←
-lnot              ¬
-lforall           ∀
-lexists           ∃
-liff              ↔
-longliff          ⟷
-Liff              ⟷
 
 # order
 dual              ∂
@@ -878,19 +893,19 @@ tiny              ⧾
 miny              ⧿
 
 # named shapes
-circle            ○
-Circle            ◯  # large
+circle            ○  # (white)
+Circle            ◯  # big
 dcircle           ◌  # [d]otted
-triangle          △
+triangle          △  # see also: triangles
 square            ◻
 diamond           ◇
 diam              ◇
 lozenge           ◊
 loz               ◊
-paragram          ▱
+paragram          ▱  # [para]llelo[gram]
 rectangle         ▭
+fpstar            ☆  # [f]ive-[p]ointed star
 wstar             ☆  # [w]hite
-spark             ⟡
 bcircle           ●  # [b]lack
 btriangle         ▲
 bsquare           ◼
@@ -901,29 +916,39 @@ bloz              ⧫
 bparagram         ▰
 brectangle        ▬
 bstar             ★
+wloz              ◊
+wparagram         ▱  # [para]llelo[gram]
+wrectangle        ▭
 
 # named misc/ops
 ell               ℓ
 Ell               ℒ
+hbar              ℏ
+hslash            ℏ
 cwloop            ↻  # [c]lock[w]ise
 ccwloop           ↺  # [c]ounter[c]lock[wise]
 loop              ↺
-wp                ℘  # [W]eierstrass p
+pool              ↻  # (loop backwards)
+wp                ℘  # [W]eierstraß p
 twixt             ≬
 zap               ↯
 spot              ⦁
-carop             ˆ  # [car]et [op]erator
+starop            ⋆  # [op]erator
+carop             ˆ  # [car]et
 diamop            ⋄  # [diam]ond
-starop            ⋆
 lozop             ⬫  # [loz]enge
 blozop            ⬪  # [b]lack
 sqop              ▫  # [sq]uare
 bsqop             ▪  # [b]lack
-rectop            ▭  # [rect]angle [op]
-rect              ▭  # [rect]angle
-brect             ▬  # [b]lack
+rectop            ▭  # [rect]angle
+rect              ▭
+brectop           ▬  # [b]lack
+brect             ▬
+wminus            ▭  # [w]hite
+bminus            ▬  # [b]lack
 slash             ∕
-bslash            ∖
+bslash            ∖  # [b]ack[slash]
+backs             ∖  # [back][s]lash
 wedge             ∧
 vee               ∨
 Wedge             ⋀
@@ -970,7 +995,6 @@ abang             ⁈
 banga             ⁉
 qbang             ⁈  # [q]uestion
 bangq             ⁉
-
 
 # dvsymbols (double-vision)
 dvand             ⩕  # logic
@@ -1023,12 +1047,14 @@ circeq            ≗
 eqcirc            ≖
 meq               ≞
 pluseq            ⩲
+eqplus            ⩱
 dotinteq          ⩧
 bump              ≏
 bumps             ≎
 bumpeq            ⪮
+poemeq            ⌯
 
-# named decorated (o,sq,tr)
+# named decorated (o,sq,tr,diam,loz)
 oplus             ⊕
 ominus            ⊖
 otimes            ⊗
@@ -1069,15 +1095,17 @@ trplus            ⨹
 trminus           ⨺
 trtimes           ⨻
 trdot             ◬
+diamdot           ⟐
+lozminus          ⟠
 
 # named directed
-fishtl            ⥼  # [fisht]ail [l]eft
-fishtr            ⥽
+fishtr            ⥽  # [fisht]ail [r]ight
+fishtl            ⥼
 fishtu            ⥾
 fishtd            ⥿
 lolli             ⊸
-lollil            ⟜
 lollir            ⊸
+lollil            ⟜
 lolliu            ⫯
 lollid            ⫰
 lollib            ⧟
@@ -1096,7 +1124,7 @@ Rturns            ⊨
 nRturns           ⊭
 convr             ⚞  # lines [conv]erge
 convl             ⚟
-jailr             ⚞  # two cops one drunk
+jailr             ⚞  # two cops one drunk, jail on the [r]
 jaill             ⚟
 sandr             ⚞  # [sand]wich
 sandl             ⚟
@@ -1203,10 +1231,12 @@ FINORD            𝐅𝐢𝐧𝐎𝐫𝐝
 ORD               𝐎𝐫𝐝
 PROSET            𝐏𝐫𝐨𝐬𝐞𝐭
 POSET             𝐏𝐨𝐬𝐞𝐭
+SEMIGROUP         𝐒𝐞𝐦𝐢𝐠𝐫𝐨𝐮𝐩
 SGROUP            𝐒𝐞𝐦𝐢𝐠𝐫𝐨𝐮𝐩
+SEMIGRP           𝐒𝐞𝐦𝐢𝐠𝐫𝐨𝐮𝐩
 SGRP              𝐒𝐞𝐦𝐢𝐠𝐫𝐩
-MON               𝐌𝐨𝐧
 MONOID            𝐌𝐨𝐧𝐨𝐢𝐝
+MON               𝐌𝐨𝐧
 GROUP             𝐆𝐫𝐨𝐮𝐩
 GRP               𝐆𝐫𝐩
 ABEL              𝐀𝐛𝐞𝐥
@@ -1214,9 +1244,14 @@ RING              𝐑𝐢𝐧𝐠
 RNG               𝐑𝐧𝐠
 RIG               𝐑𝐢𝐠
 MOD               𝐌𝐨𝐝
+VECT              𝐕𝐞𝐜𝐭
+MATRIX            𝐌𝐚𝐭𝐫𝐢𝐱
 MAT               𝐌𝐚𝐭𝐫𝐢𝐱
+LATTICE           𝐋𝐚𝐭𝐭𝐢𝐜𝐞
 LAT               𝐋𝐚𝐭𝐭𝐢𝐜𝐞
+HEYTING           𝐇𝐞𝐲𝐭𝐢𝐧𝐠
 HALG              𝐇𝐞𝐲𝐭𝐢𝐧𝐠
+BOOLEAN           𝐁𝐨𝐨𝐥𝐞𝐚𝐧
 BALG              𝐁𝐨𝐨𝐥𝐞𝐚𝐧
 HA                𝐇𝐀
 BA                𝐁𝐀
@@ -1245,6 +1280,21 @@ MODEL             𝐌𝐨𝐝𝐞𝐥
 ## named
 @cantorc   ̿   # [cantor]'s [c]ardinality
 @vec        ⃗  # [vec]tor
+@cev        ⃖  # (vec backwards)
 @rvec       ⃗  # [r]ight
 @lvec       ⃖  # [l]eft
+
+# compat: l- prefixed [l]ogic symbols
+land              ∧
+lor               ∨
+Land              ⋀
+Lor               ⋁
+limplies          →
+limplied          ←
+lnot              ¬
+lforall           ∀
+lexists           ∃
+liff              ↔
+longliff          ⟷
+Liff              ⟷
 
