@@ -834,12 +834,10 @@ _u                ᵤ
 _v                ᵥ
 _x                ₓ
 
-# abuse: not really superscripts
+# XXX: abuse: not really superscripts
 ^!                ꜝ
-^bang             ꜝ
-^gnab             ꜞ
 
-# abuse: not really subscripts
+# XXX: abuse: not really subscripts
 _c                ꜀
 _-^               ￪
 _-v               ￬
@@ -849,14 +847,8 @@ _-u               ￪
 _-d               ￬
 _-l               ￩
 _-r               ￫
-_up               ￪
-_down             ￬
-_left             ￩
-_right            ￫
 _!                ﹗
-_bang             ﹗
 _?                ﹖
-_ask              ﹖
 _#                ﹟
 _&                ﹠
 _@                ﹫
@@ -864,7 +856,6 @@ _:                ﹕
 _;                ﹔
 _,                ﹐
 _.                ﹒
-hypo              ⸒
 ,_                ⸒
 
 # braille
