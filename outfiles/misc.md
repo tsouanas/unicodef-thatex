@@ -16,6 +16,8 @@
 | <code>bflag</code> | ⚑ |
 | <code>penta</code> | ⛤ |
 | <code>bapho</code> | ⛧ |
+| <code>bflower</code> | ✿ |
+| <code>wflower</code> | ❀ |
 | <code>milaki</code> | ❀ |
 | <code>swords</code> | ⚔ |
 | <code>fight</code> | ⚔ |
@@ -24,7 +26,15 @@
 | <code>notes</code> | ♫ |
 | <code>mrhappy</code> | ☺ |
 | <code>mrsad</code> | ☹ |
+| <code>sad</code> | ᑥ |
+| <code>hrmf</code> | ⍨ |
+| <code>hm</code> | ⸚ |
+| <code>smooch</code> | ⍣ |
+| <code>lucas</code> | ⌖ |
 | <code>gandalf</code> | ᚠ |
+| <code>provatinaa</code> | 𐘐 |
+| <code>provatinab</code> | 𐂆 |
+| <code>provatina</code> | 𐘐 |
 | <code>checkb</code> | ☐ |
 | <code>checkc</code> | ☑ |
 | <code>checkx</code> | ☒ |
@@ -48,6 +58,7 @@
 | <code>8note</code> | ♪ |
 | <code>8notes</code> | ♫ |
 | <code>16notes</code> | ♬ |
+| <code>turn</code> | ∾ |
 | <code>/play</code> | ⏵ |
 | <code>/pause</code> | ⏸ |
 | <code>/playpause</code> | ⏯ |

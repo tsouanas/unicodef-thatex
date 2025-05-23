@@ -93,13 +93,15 @@
 | <code>beers</code> | 🍻 |
 | <code>burger</code> | 🍔 |
 | <code>cafe</code> | ☕ |
-| <code>popcorn</code> | 🍿 |
-| <code>pipoca</code> | 🍿 |
 | <code>coco</code> | 🥥 |
+| <code>icecream</code> | 🍨 |
 | <code>kebab</code> | 🌯 |
 | <code>martini</code> | 🍸 |
 | <code>pizza</code> | 🍕 |
+| <code>popcorn</code> | 🍿 |
+| <code>pipoca</code> | 🍿 |
 | <code>portobello</code> | 🍄‍🟫 |
+| <code>provar</code> | 🍨 |
 | <code>scotch</code> | 🥃 |
 | <code>wine</code> | 🍷 |
 | <code>speak</code> | 💬 |

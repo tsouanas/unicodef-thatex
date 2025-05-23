@@ -789,8 +789,6 @@
 | <code>_v</code> | ᵥ |
 | <code>_x</code> | ₓ |
 | <code>^!</code> | ꜝ |
-| <code>^bang</code> | ꜝ |
-| <code>^gnab</code> | ꜞ |
 | <code>_c</code> | ꜀ |
 | <code>_-^</code> | ￪ |
 | <code>_-v</code> | ￬ |
@@ -800,14 +798,8 @@
 | <code>_-d</code> | ￬ |
 | <code>_-l</code> | ￩ |
 | <code>_-r</code> | ￫ |
-| <code>_up</code> | ￪ |
-| <code>_down</code> | ￬ |
-| <code>_left</code> | ￩ |
-| <code>_right</code> | ￫ |
 | <code>_!</code> | ﹗ |
-| <code>_bang</code> | ﹗ |
 | <code>_?</code> | ﹖ |
-| <code>_ask</code> | ﹖ |
 | <code>_#</code> | ﹟ |
 | <code>_&</code> | ﹠ |
 | <code>_@</code> | ﹫ |
@@ -815,6 +807,5 @@
 | <code>_;</code> | ﹔ |
 | <code>_,</code> | ﹐ |
 | <code>_.</code> | ﹒ |
-| <code>hypo</code> | ⸒ |
 | <code>,_</code> | ⸒ |
 | <code>blank</code> | ⠀ |

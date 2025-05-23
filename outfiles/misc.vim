@@ -15,6 +15,8 @@ inoremap \\wflag ⚐
 inoremap \\bflag ⚑
 inoremap \\penta ⛤
 inoremap \\bapho ⛧
+inoremap \\bflower ✿
+inoremap \\wflower ❀
 inoremap \\milaki ❀
 inoremap \\swords ⚔
 inoremap \\fight ⚔
@@ -23,7 +25,15 @@ inoremap \\note ♪
 inoremap \\notes ♫
 inoremap \\mrhappy ☺
 inoremap \\mrsad ☹
+inoremap \\sad ᑥ
+inoremap \\hrmf ⍨
+inoremap \\hm ⸚
+inoremap \\smooch ⍣
+inoremap \\lucas ⌖
 inoremap \\gandalf ᚠ
+inoremap \\provatinaa 𐘐
+inoremap \\provatinab 𐂆
+inoremap \\provatina 𐘐
 inoremap \\checkb ☐
 inoremap \\checkc ☑
 inoremap \\checkx ☒
@@ -47,6 +57,7 @@ inoremap \\4note ♩
 inoremap \\8note ♪
 inoremap \\8notes ♫
 inoremap \\16notes ♬
+inoremap \\turn ∾
 inoremap \\/play ⏵
 inoremap \\/pause ⏸
 inoremap \\/playpause ⏯

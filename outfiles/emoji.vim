@@ -92,13 +92,15 @@ inoremap \\beer 🍺
 inoremap \\beers 🍻
 inoremap \\burger 🍔
 inoremap \\cafe ☕
-inoremap \\popcorn 🍿
-inoremap \\pipoca 🍿
 inoremap \\coco 🥥
+inoremap \\icecream 🍨
 inoremap \\kebab 🌯
 inoremap \\martini 🍸
 inoremap \\pizza 🍕
+inoremap \\popcorn 🍿
+inoremap \\pipoca 🍿
 inoremap \\portobello 🍄‍🟫
+inoremap \\provar 🍨
 inoremap \\scotch 🥃
 inoremap \\wine 🍷
 inoremap \\speak 💬

@@ -32,6 +32,7 @@
 | <code>_+</code> | ₊ |
 | <code>_-</code> | ₋ |
 | <code>_=</code> | ₌ |
+| <code>_^</code> | ‸ |
 | <code>^!</code> | ꜝ |
 | <code>^&lt;</code> | ᑉ |
 | <code>^/=</code> | ᙾ |
@@ -125,6 +126,8 @@
 | <code>*.</code> | · |
 | <code>**</code> | ∗ |
 | <code>*&vert;</code> | ⁑ |
+| <code>*:</code> | ⁑ |
+| <code>:*</code> | ⁑ |
 | <code>00</code> | ° |
 | <code>0+</code> | ⨢ |
 | <code>+0</code> | ⨢ |

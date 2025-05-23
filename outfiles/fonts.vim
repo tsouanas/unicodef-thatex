@@ -788,8 +788,6 @@ inoremap \\_u ᵤ
 inoremap \\_v ᵥ
 inoremap \\_x ₓ
 inoremap \\^! ꜝ
-inoremap \\^bang ꜝ
-inoremap \\^gnab ꜞ
 inoremap \\_c ꜀
 inoremap \\_-^ ￪
 inoremap \\_-v ￬
@@ -799,14 +797,8 @@ inoremap \\_-u ￪
 inoremap \\_-d ￬
 inoremap \\_-l ￩
 inoremap \\_-r ￫
-inoremap \\_up ￪
-inoremap \\_down ￬
-inoremap \\_left ￩
-inoremap \\_right ￫
 inoremap \\_! ﹗
-inoremap \\_bang ﹗
 inoremap \\_? ﹖
-inoremap \\_ask ﹖
 inoremap \\_# ﹟
 inoremap \\_& ﹠
 inoremap \\_@ ﹫
@@ -814,6 +806,5 @@ inoremap \\_: ﹕
 inoremap \\_; ﹔
 inoremap \\_, ﹐
 inoremap \\_. ﹒
-inoremap \\hypo ⸒
 inoremap \\,_ ⸒
 inoremap \\blank ⠀
