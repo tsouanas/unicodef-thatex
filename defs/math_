@@ -30,13 +30,14 @@ _)    ₎
 _+    ₊
 _-    ₋
 _=    ₌
+_^    ‸
 
-# abuse: not really superscripts
+# XXX: abuse: not really superscripts
 ^!    ꜝ
 ^<    ᑉ
 ^/=   ᙾ
 
-# abuse: not really subscripts
+# XXX: abuse: not really subscripts
 _*    ⁎
 _!    ﹗
 _?    ﹕
@@ -131,6 +132,8 @@ _.    ﹒
 *.     ·
 **     ∗
 *|     ⁑
+*:     ⁑
+:*     ⁑
 00     °
 0+     ⨢
 +0     ⨢
@@ -253,7 +256,10 @@ N<     ⇜
 :>     ⤑
 :<     ⬸
 
+
+################################################################
 # combining decorators
+
 @^`      ̀
 @^'      ́
 @^^      ̂
