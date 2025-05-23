@@ -14,6 +14,8 @@ wflag       ⚐
 bflag       ⚑
 penta       ⛤
 bapho       ⛧
+bflower     ✿
+wflower     ❀
 milaki      ❀
 swords      ⚔
 fight       ⚔
@@ -22,7 +24,15 @@ note        ♪
 notes       ♫
 mrhappy     ☺
 mrsad       ☹
+sad         ᑥ
+hrmf        ⍨
+hm          ⸚
+smooch      ⍣
+lucas       ⌖
 gandalf     ᚠ
+provatinaa  𐘐  # Linear A
+provatinab  𐂆  # Linear B
+provatina   𐘐  # pick Linear A as default
 
 # checkboxes
 checkb      ☐
@@ -50,6 +60,7 @@ snotes      ♬
 8note       ♪
 8notes      ♫
 16notes     ♬
+turn        ∾
 
 # music player (/-prefixed)
 /play       ⏵
