@@ -31,6 +31,7 @@
 | <code>estim</code> | ℮ |
 | <code>arabd</code> | ٫ |
 | <code>arabth</code> | ٬ |
+| <code>arabsc</code> | ؛ |
 | <code>hypo</code> | ⸒ |
 | <code>diameter</code> | ⌀ |
 | <code>diam</code> | ⌀ |
@@ -1263,6 +1264,10 @@
 | <code>Horse</code> | Ʊ |
 | <code>hbar</code> | ℏ |
 | <code>hslash</code> | ℏ |
+| <code>cothree</code> | ƹ |
+| <code>coThree</code> | Ƹ |
+| <code>scythe</code> | ʕ |
+| <code>ramshorn</code> | ɤ |
 | <code>pilcrow</code> | ¶ |
 | <code>silcrow</code> | § |
 | <code>pil</code> | ¶ |

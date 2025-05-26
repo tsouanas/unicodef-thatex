@@ -30,6 +30,7 @@ inoremap \\tm ™
 inoremap \\estim ℮
 inoremap \\arabd ٫
 inoremap \\arabth ٬
+inoremap \\arabsc ؛
 inoremap \\hypo ⸒
 inoremap \\diameter ⌀
 inoremap \\diam ⌀
@@ -1262,6 +1263,10 @@ inoremap \\horse ʊ
 inoremap \\Horse Ʊ
 inoremap \\hbar ℏ
 inoremap \\hslash ℏ
+inoremap \\cothree ƹ
+inoremap \\coThree Ƹ
+inoremap \\scythe ʕ
+inoremap \\ramshorn ɤ
 inoremap \\pilcrow ¶
 inoremap \\silcrow §
 inoremap \\pil ¶
