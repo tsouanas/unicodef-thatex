@@ -47,6 +47,7 @@ tm                ™  # [t]rade[m]ark
 estim             ℮  # [estim]ated
 arabd             ٫  # [arab]ic [d]ecimal separator
 arabth            ٬  # [arab]ic [th]ousands separator
+arabsc            ؛  # [arab]ic [s]emi[c]olon
 hypo              ⸒  # [hypo]diastole
 diameter          ⌀
 diam              ⌀
@@ -234,6 +235,7 @@ halmos            ∎
 qed               ∎
 
 # %}}}
+
 ## punctuation for common math %{{{
 
 lceil             ⌈  # [ceil]ing
@@ -246,6 +248,7 @@ lflo              ⌊
 rflo              ⌋
 
 # %}}}
+
 ## implications %{{{
 
 iff               ⇔
@@ -305,6 +308,7 @@ sameimps          ⭆
 sameimpd          ⭅
 
 # %}}}
+
 # sets %{{{
 
 emptyset          Ø
@@ -404,6 +408,7 @@ genby             ⥺  # [gen]erated [by]
 fromgen           ⥺  # [from] [gen]erator
 
 # %}}}
+
 ## punctuation for sets %{{{
 
 lset              {
@@ -426,6 +431,7 @@ rmul              ⟆
 emul              ⟅⟆
 
 # %}}}
+
 ## additional (no long forms) %{{{
 
 dotin             ⋵
@@ -456,6 +462,7 @@ uunion            ⋓
 iin               ⋹  # ALSO: [i]ntensionally [in]
 
 # %}}}
+
 # geometry %{{{
 
 angle             ∠
@@ -473,6 +480,7 @@ slparal           ⫽  # [sl]anted
 slparaleq         ⧣
 
 # %}}}
+
 # analysis %{{{
 
 int               ∫
@@ -506,6 +514,7 @@ convol            ∗  # [convol]ution
 crocor            ⋆  # [cro]ss-[cor]relation
 
 # %}}}
+
 # set theory %{{{
 
 aleph             ℵ
@@ -532,6 +541,7 @@ latinfty          ꝏ  # [lat]in-abusing
 Latinfty          Ꝏ  # (big)
 
 # %}}}
+
 ## punctuation for set theory %{{{
 
 leclass           ⦃  # [e]quivalence [class]
@@ -557,6 +567,7 @@ rcls              ⦄
 ecls              ⦃⦄
 
 # %}}}
+
 # functions %{{{
 
 lam               λ  # [lam]bda
@@ -674,6 +685,7 @@ sbito             ⤗  # XXX: abuse: strike for not
 sbifrom           ⬼  # XXX: abuse: strike for not
 
 # %}}}
+
 ## additional %{{{
 
 Tofrom            ⥂
@@ -739,6 +751,7 @@ substo            ⥹
 supsfrom          ⥻
 
 # %}}}
+
 # relations %{{{
 
 rcomp             ⋄  # [r]elational composition
@@ -781,6 +794,7 @@ nrogeq            ≭
 rogneq            ≭
 
 # %}}}
+
 # type theory / programming languages %{{{
 
 cons              ∷
@@ -816,6 +830,7 @@ Lcar              ᴄᴀʀ  # [L]ISP
 Lcdr              ᴄᴅʀ
 
 # %}}}
+
 ## punctuation for logic / languages %{{{
 
 lquasi            ⌜  # [quasi]quote
@@ -828,12 +843,14 @@ lsem              ⟦  # [sem]antics
 rsem              ⟧
 
 # %}}}
+
 ## lean %{{{
 
 eqs               ▸
 gets              ←
 
 # %}}}
+
 ## names of types / elements %{{{
 
 =0                𝟘
@@ -848,6 +865,7 @@ tt                𝘵𝘵
 ff                𝘧𝘧
 
 # %}}}
+
 # algebra / topology %{{{
 
 cong              ≡
@@ -902,6 +920,7 @@ krprod            ∗  # [K]hatri–[R]ao [prod]uct
 fsprod            ∙  # [f]ace-[s]plitting [prod]uct
 
 # %}}}
+
 ## punctuation for algebra %{{{
 
 lgen              ⟨  # [gen]erated
@@ -940,6 +959,7 @@ inf2              (∞,2)-
 infn              (∞,n)-
 
 # %}}}
+
 ## names of cats %{{{
 
 -0                𝟎
@@ -982,6 +1002,7 @@ BA                𝐁𝐀
 MODEL             𝐌𝐨𝐝𝐞𝐥
 
 # %}}}
+
 # logic %{{{
 
 truth             ⊤
@@ -1052,6 +1073,7 @@ bimodels          ⊨
 bimods            ⊨
 
 # %}}}
+
 ## additional %{{{
 
 ton               ⌐  # (not backwards)
@@ -1083,6 +1105,7 @@ oor               ⩔
 aand              ⩓
 
 # %}}}
+
 # linear logic %{{{
 
 linto             ⊸
@@ -1102,6 +1125,7 @@ aconj             &
 mdisj             ⅋
 
 # %}}}
+
 # modal logic %{{{
 
 nece              □  # [nece]ssary
@@ -1110,6 +1134,7 @@ vnece             ◻  # [v]ar
 vposs             ◇  # [v]ar
 
 # %}}}
+
 # order %{{{
 
 dual              ∂
@@ -1163,6 +1188,7 @@ wb                ≪
 wa                ≫
 
 # %}}}
+
 ## additional %{{{
 
 meeteq            ≙
@@ -1275,6 +1301,7 @@ llt               ⪡
 ggt               ⪢
 
 # %}}}
+
 # relational algebra %{{{
 
 loutj             ⟕  # [l]eft [out]er [j]oin
@@ -1286,12 +1313,14 @@ equij             ⋈₌ # [equij]oin
 natuj             ⨝  # [natu]ral[j]oin
 
 # %}}}
+
 # games %{{{
 
 tiny              ⧾
 miny              ⧿
 
 # %}}}
+
 # common %{{{
 
 topdown           ꜜ
@@ -1458,6 +1487,10 @@ horse             ʊ
 Horse             Ʊ
 hbar              ℏ
 hslash            ℏ
+cothree           ƹ
+coThree           Ƹ
+scythe            ʕ
+ramshorn          ɤ
 
 # %}}}
 
