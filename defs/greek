@@ -45,10 +45,6 @@ vepsilon        ϵ
 lepsilon        ϵ
 vepsi           ϵ
 lepsi           ϵ  # [l]unate
-revlunepsilon   ϶
-revlepsilon     ϶
-revlepsi        ϶
-rlepsi          ϶  # [r]eversed
 zeta            ζ
 eta             η
 theta           ϑ
@@ -123,4 +119,32 @@ _chi            ᵪ
 # abbrevs for 6-char limit
 Omicro          Ο
 omicro          ο
+
+
+# transformed characters: reversed, upside-down, etc.
+# [: h-flip
+# ]: v-flip
+# {: π-rotate
+# }: other
+
+repsilon        ɜ  # [r]everse
+rlepsilon       ϶ 
+repsi           ɜ
+rlepsi          ϶
+
+## {: π-rotate
+Beta{           ꓭ
+Gamma{          ⅃
+Delta{          ∇
+Pi{             ⨿
+Omega{          ℧
+alpha{          ɒ
+delta{          ƍ
+iota{           ℩
+lepsi{          ϶
+
+## [: h-flip
+alpha[          ɒ
+epsi[           ɜ
+lepsi[          ϶
 

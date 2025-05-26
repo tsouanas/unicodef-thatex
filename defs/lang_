@@ -661,3 +661,92 @@ vz    ž
 ~u    ũ
 ~v    ṽ
 ~y    ỹ
+
+# transformed characters: reversed, upside-down, etc.
+# [: h-flip
+# ]: v-flip
+# {: π-rotate
+# }: other
+
+## {: π-rotate
+A{    ꓯ
+B{    ꓭ
+C{    ꓛ
+D{    ꓷ
+E{    ꓱ
+F{    ꓞ
+G{    ꓨ
+H{    H
+I{    I
+J{    ꓩ
+K{    ꓘ
+L{    ꓶ
+M{    ꟽ
+N{    N
+O{    O
+P{    ꓒ
+R{    ꓤ
+S{    S
+T{    ꓕ
+U{    ꓵ
+V{    ꓥ
+X{    Z
+Y{    ⅄
+Z{    Z
+a{    ɐ
+b{    q
+c{    ɔ
+d{    p
+e{    ǝ
+f{    ɟ
+g{    ƃ
+h{    ɥ
+i{    ı
+j{    ɾ
+k{    ʞ
+l{    ʃ
+m{    ɯ
+n{    u
+o{    o
+p{    d
+q{    b
+r{    ɹ
+s{    s
+t{    ʇ
+u{    n
+v{    ʌ
+w{    ʍ
+x{    x
+y{    ʎ
+z{    z
+&{    ⅋
+;{    ؛
+;[    ⁏
+
+## v-flip
+A]    ꓯ
+B]    B  # XXX: not really symmetrical
+C]    C
+D]    D
+E]    E
+O]    O
+R]    ʁ
+T]    ꓕ
+U]    ꓵ
+V]    ꓥ
+Y]    ⅄
+
+## h-flip
+B[    ꓭ
+C[    ꓛ
+D[    ꓷ
+E[    ꓱ
+F[    ꟻ
+K[    ꓘ
+L[    ⅃
+P[    ꟼ
+R[    Я
+S[    Ƨ
+e[    ɘ
+s[    ƨ
+
