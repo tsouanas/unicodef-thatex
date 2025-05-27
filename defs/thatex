@@ -27,8 +27,12 @@ hhyph             ⸗  # oblique (double) [hh]yphen
 
 para              ¶
 paras             ¶¶
+par               ¶
+pars              ¶¶
 sect              §
 sects             §§
+sec               §
+secs              §§
 dag               †
 ddag              ‡
 bullet            •
