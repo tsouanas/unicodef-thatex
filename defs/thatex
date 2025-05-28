@@ -19,7 +19,7 @@ nbh               ‑  # [n]o-[b]reak [h]yphen
 nb-               ‑  #
 thin               
 hair               
-hhyph             ⸗  # oblique (double) [hh]yphen
+hhyph             ⸗  # oblique (double) [hhyph]en
 
 # %}}}
 
@@ -49,9 +49,15 @@ phono             ℗  # [phono]gram
 reg               ®  # [reg]istered
 tm                ™  # [t]rade[m]ark
 estim             ℮  # [estim]ated
-arabd             ٫  # [arab]ic [d]ecimal separator
-arabth            ٬  # [arab]ic [th]ousands separator
-arabsc            ؛  # [arab]ic [s]emi[c]olon
+arabdec           ٫  # [arab]ic [dec]imal separator
+arabth            ٬  # [th]ousands separator
+arabdate          ؍  # [date] separator
+arabsc            ؛  # [s]emi[c]olon
+arabc             ،  # [c]omma
+arabq             ؟  # [q]uestion mark
+arabask           ؟  #
+arabstar          ٭  # 
+arabdots          ؞  # triple [dots]
 hypo              ⸒  # [hypo]diastole
 diameter          ⌀
 diam              ⌀
@@ -87,8 +93,9 @@ shift             ⇧
 caps              ⇪
 rerase            ⌦
 lerase            ⌫
+erase             ⌫  # default: l
 del               ␡
-vdel              ⌫  # [v]ar del
+vdel              ⌦  # [v]ar del
 backs             ⌫
 bspace            ⌫
 undo              ↶
@@ -146,12 +153,27 @@ eth               ð
 Thorn             Þ
 thorn             þ
 prescr            ℞
+sho               Ϸ  # Bactrian Ϸ "sho"
+tsan              ͷ  # Arcadian "tsan"
+digamma           Ϝ
+Pdigamma          Ͷ  # [P]amphylian digamma
+pdigamma          ͷ
+San               Ϻ  # San
+san               ϻ
 
 # %}}}
 
 # %}}}
 
 # math (sem-named) %{{{
+
+## ancient greek numerals %{{{
+
+sampi             ϡ  # 900
+Koppa             Ϟ  # 90
+koppa             ϟ
+
+# %}}}
 
 # general math %{{{
 
@@ -1474,6 +1496,7 @@ blozenge          ⧫
 bparagram         ▰
 brectangle        ▬
 bstar             ★
+bfpstar           ★
 wlozenge          ◊
 wparagram         ▱  # [para]llelo[gram]
 wrectangle        ▭
@@ -1554,8 +1577,8 @@ star              ⋆  # [s]mall star (bin op)
 astcol            ⁑  # [ast]erisk [col]on
 ast               ∗  # [ast]erisk op
 caret             ^  # [car]et op
-dia               ⋄  # [diam]ond
-bdia              ⬩  # [b]lack]
+dia               ⋄  # [dia]mond
+bdia              ⬩  # [b]lack
 loz               ⬫  # [loz]enge
 bloz              ⬪  # [b]lack
 sq                ▫  # [sq]uare
@@ -1807,20 +1830,20 @@ arr2l             ⇇
 arr2r             ⇉
 arr3l             ⬱
 arr3r             ⇶
-squigr            ⇝
 squigl            ⇜
+squigr            ⇝
 squigb            ↭
 Squigl            ⬳  # (long)
 Squigr            ⟿
-zigr              ⇝
 zigl              ⇜
+zigr              ⇝
 zigb              ↭
 Zigl              ⬳  # (long)
 Zigr              ⟿
 loopl             ↫
 loopr             ↬
-fishr             ⤕
 fishl             ⬺
+fishr             ⤕
 dashu             ⇡
 dashd             ⇣
 dashl             ⇠
@@ -1829,12 +1852,12 @@ harplu            ↼  # [harp]oons
 harpld            ↽
 harpru            ⇀
 harprd            ⇁
-harpur            ↾
 harpul            ↿
-harpdr            ⇂
+harpur            ↾
 harpdl            ⇃
-Harpr             ⥤
+harpdr            ⇂
 Harpl             ⥢
+Harpr             ⥤
 aarru             ⇑
 aarrd             ⇓
 aarrl             ⇐
@@ -1852,8 +1875,8 @@ naarrb            ⇎
 saarrl            ⤂  # [s]trike
 saarrr            ⤃
 saarrb            ⤄
-baarrr            ⤇  # [b]arred arrow
-baarrl            ⤆
+baarrl            ⤆  # [b]arred arrow
+baarrr            ⤇
 turnul            ↰  # [turn] [u]p [l]eft
 turnur            ↱
 turndl            ↲
@@ -1905,31 +1928,31 @@ rrr               ⇶
 
 ## misc directed symbols %{{{
 
-fishtr            ⥽  # [fisht]ail [r]ight
-fishtl            ⥼
+fishtl            ⥼  # [fisht]ail [r]ight
+fishtr            ⥽
 fishtu            ⥾
 fishtd            ⥿
-lollir            ⊸  # [lolli]pop [r]ight
-lollil            ⟜
+lollil            ⟜  # [lolli]pop [r]ight
+lollir            ⊸
+lollib            ⧟
 lolliu            ⫯
 lollid            ⫰
-lollib            ⧟
 lolli             ⊸  # default: r
 bwlolli           ⊷  # [b]lack [w]hite
 wblolli           ⊶
-sparkr            ⟢  # (spark is the arrow head)
-sparkl            ⟣
-turnsr            ⊢  # [turns]tile [r]ight
-turnsl            ⊣
+sparkl            ⟣  # (spark is the arrow head)
+sparkr            ⟢
+turnsl            ⊣  # [turns]tile [r]ight
+turnsr            ⊢
 nturnsr           ⊬
 turns             ⊢  # default: r
 nturns            ⊬
-tackr             ⊢
 tackl             ⊣
+tackr             ⊢
 tacku             ⊥
 tackd             ⊤
-Tackr             ⟝
 Tackl             ⟞
+Tackr             ⟝
 Tacku             ⟘
 Tackd             ⟙
 tturnsr           ⊨
@@ -1938,14 +1961,14 @@ ttturnsr          ⫢
 tturns            ⊨  # default: r
 ntturns           ⊭
 ttturns           ⫢
-convr             ⚞  # lines [conv]erge
-convl             ⚟
-jailr             ⚞  # two cops one drunk, jail on the [r]
-jaill             ⚟
-sandr             ⚞  # [sand]wich
-sandl             ⚟
-blowr             ⊰
+convl             ⚟  # lines [conv]erge
+convr             ⚞
+jaill             ⚟  # two cops one drunk, jail on the [r]
+jailr             ⚞
+sandl             ⚟  # [sand]wich
+sandr             ⚞
 blowl             ⊱
+blowr             ⊰
 
 # %}}}
 
