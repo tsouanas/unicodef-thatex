@@ -23,6 +23,10 @@
 | <code>Tau</code> | Τ |
 | <code>Upsilon</code> | Υ |
 | <code>Upsi</code> | Υ |
+| <code>0Upsilon</code> | ϒ |
+| <code>0Upsi</code> | ϒ |
+| <code>vUpsilon</code> | ϒ |
+| <code>vUpsi</code> | ϒ |
 | <code>Phi</code> | Φ |
 | <code>Chi</code> | Χ |
 | <code>Psi</code> | Ψ |

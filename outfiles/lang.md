@@ -1,12 +1,8 @@
 # lang (micro)
 | Sequence | Expansion |
 | :------- | :-------: |
-| <code>&lt;"</code> | « |
-| <code>&gt;"</code> | » |
 | <code>"&lt;</code> | « |
 | <code>"&gt;</code> | » |
-| <code>&lt;'</code> | ‹ |
-| <code>&gt;'</code> | › |
 | <code>'&lt;</code> | ‹ |
 | <code>'&gt;</code> | › |
 | <code>('</code> | ‘ |
@@ -50,6 +46,8 @@
 | <code>--m</code> | – |
 | <code>--~.</code> | 〜 |
 | <code>--~~</code> | 〰 |
+| <code>--=</code> | ⹀ |
+| <code>--/</code> | ⸗ |
 | <code>-*</code> | • |
 | <code>^.</code> | ˙ |
 | <code>^_</code> | ‾ |
@@ -62,13 +60,10 @@
 | <code>?(</code> | ¿ |
 | <code>)?</code> | ? |
 | <code>?)</code> | ? |
-| <code>?&lt;</code> | ⸮ |
-| <code>,&lt;</code> | ⹁ |
 | <code>(;</code> | ⁏ |
 | <code>;(</code> | ⁏ |
 | <code>;)</code> | ; |
 | <code>);</code> | ; |
-| <code>;&lt;</code> | ⁏ |
 | <code>?!</code> | ⁈ |
 | <code>!?</code> | ⁉ |
 | <code>!!</code> | ‼ |
@@ -77,8 +72,6 @@
 | <code>^^</code> | ˆ |
 | <code>)&#96;</code> | ´ |
 | <code>&#96;)</code> | ´ |
-| <code>&#96;&lt;</code> | ´ |
-| <code>&#96;&gt;</code> | ´ |
 | <code>ff</code> | ﬀ |
 | <code>fi</code> | ﬁ |
 | <code>fl</code> | ﬂ |
@@ -103,6 +96,8 @@
 | <code>co</code> | © |
 | <code>RO</code> | ® |
 | <code>ro</code> | ® |
+| <code>PO</code> | ℗ |
+| <code>po</code> | ℗ |
 | <code>00</code> | ° |
 | <code>ee</code> | ℮ |
 | <code>a&#96;</code> | à |
@@ -707,7 +702,8 @@
 | <code>z{</code> | z |
 | <code>&{</code> | ⅋ |
 | <code>;{</code> | ؛ |
-| <code>;[</code> | ⁏ |
+| <code>?{</code> | ¿ |
+| <code>!{</code> | ¡ |
 | <code>A]</code> | ꓯ |
 | <code>B]</code> | B |
 | <code>C]</code> | C |
@@ -719,6 +715,7 @@
 | <code>U]</code> | ꓵ |
 | <code>V]</code> | ꓥ |
 | <code>Y]</code> | ⅄ |
+| <code>!]</code> | ¡ |
 | <code>B[</code> | ꓭ |
 | <code>C[</code> | ꓛ |
 | <code>D[</code> | ꓷ |
@@ -731,3 +728,7 @@
 | <code>S[</code> | Ƨ |
 | <code>e[</code> | ɘ |
 | <code>s[</code> | ƨ |
+| <code>;[</code> | ⁏ |
+| <code>?[</code> | ⸮ |
+| <code>,[</code> | ⹁ |
+| <code>&#96;[</code> | ´ |

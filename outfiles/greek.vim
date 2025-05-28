@@ -22,6 +22,10 @@ inoremap \\Sigma Σ
 inoremap \\Tau Τ
 inoremap \\Upsilon Υ
 inoremap \\Upsi Υ
+inoremap \\0Upsilon ϒ
+inoremap \\0Upsi ϒ
+inoremap \\vUpsilon ϒ
+inoremap \\vUpsi ϒ
 inoremap \\Phi Φ
 inoremap \\Chi Χ
 inoremap \\Psi Ψ
