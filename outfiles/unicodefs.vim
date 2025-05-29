@@ -119,6 +119,7 @@ inoremap \\rofl 🤣
 inoremap \\erm 🫤
 inoremap \\woah 😲
 inoremap \\blush 😳
+inoremap \\gasp 😦
 inoremap \\fear 😨
 inoremap \\lygm 😢
 inoremap \\cry 😭

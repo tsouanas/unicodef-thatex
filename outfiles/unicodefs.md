@@ -122,6 +122,7 @@
 | <code>erm</code> | 🫤 |
 | <code>woah</code> | 😲 |
 | <code>blush</code> | 😳 |
+| <code>gasp</code> | 😦 |
 | <code>fear</code> | 😨 |
 | <code>lygm</code> | 😢 |
 | <code>cry</code> | 😭 |
