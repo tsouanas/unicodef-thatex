@@ -170,6 +170,10 @@ inoremap \\coprime ⟂
 inoremap \\eq =
 inoremap \\neq ≠
 inoremap \\nneq ⧣
+inoremap \\ssapart ⧣
+inoremap \\shapart ♯
+inoremap \\apart ♯
+inoremap \\vapart ⧣
 inoremap \\leq ≤
 inoremap \\geq ≥
 inoremap \\nlt ≮
@@ -354,6 +358,7 @@ inoremap \\pset ℘
 inoremap \\pfinset ℘ᶠ
 inoremap \\pfset ℘ᶠ
 inoremap \\disjoint )(
+inoremap \\idisj ꖻ
 inoremap \\conjoint ≬
 inoremap \\overlap ≬
 inoremap \\olap ≬
@@ -980,9 +985,9 @@ inoremap \\ofcourse !
 inoremap \\ofc !
 inoremap \\whynot ?
 inoremap \\adisj ⊕
-inoremap \\mconj ⊗
 inoremap \\aconj &
 inoremap \\mdisj ⅋
+inoremap \\mconj ⊗
 inoremap \\nece □
 inoremap \\poss ◊
 inoremap \\vnece ◻

@@ -171,6 +171,10 @@
 | <code>eq</code> | = |
 | <code>neq</code> | ≠ |
 | <code>nneq</code> | ⧣ |
+| <code>ssapart</code> | ⧣ |
+| <code>shapart</code> | ♯ |
+| <code>apart</code> | ♯ |
+| <code>vapart</code> | ⧣ |
 | <code>leq</code> | ≤ |
 | <code>geq</code> | ≥ |
 | <code>nlt</code> | ≮ |
@@ -355,6 +359,7 @@
 | <code>pfinset</code> | ℘ᶠ |
 | <code>pfset</code> | ℘ᶠ |
 | <code>disjoint</code> | )( |
+| <code>idisj</code> | ꖻ |
 | <code>conjoint</code> | ≬ |
 | <code>overlap</code> | ≬ |
 | <code>olap</code> | ≬ |
@@ -981,9 +986,9 @@
 | <code>ofc</code> | ! |
 | <code>whynot</code> | ? |
 | <code>adisj</code> | ⊕ |
-| <code>mconj</code> | ⊗ |
 | <code>aconj</code> | & |
 | <code>mdisj</code> | ⅋ |
+| <code>mconj</code> | ⊗ |
 | <code>nece</code> | □ |
 | <code>poss</code> | ◊ |
 | <code>vnece</code> | ◻ |
