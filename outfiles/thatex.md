@@ -1762,6 +1762,7 @@
 | <code>@oal</code> | ⃖ |
 | <code>@oar</code> | ⃗ |
 | <code>@ohat</code> | ̂ |
+| <code>@ocirc</code> | ̊ |
 | <code>@obar</code> | ̅ |
 | <code>@obbar</code> | ̿ |
 | <code>@odot</code> | ̇ |
@@ -1773,6 +1774,7 @@
 | <code>@ubot</code> | ̝ |
 | <code>@utop</code> | ̞ |
 | <code>@uinfty</code> | ͚ |
+| <code>@ucirc</code> | ̥ |
 | <code>@ch</code> | ̶ |
 | <code>@cd</code> | ̷ |
 | <code>@cs</code> | ̸ |

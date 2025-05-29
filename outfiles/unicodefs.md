@@ -2456,14 +2456,18 @@
 | <code>@^~</code> | ̃ |
 | <code>@^_</code> | ̅ |
 | <code>@^=</code> | ̿ |
-| <code>@^&gt;</code> | ⃗ |
 | <code>@^&lt;</code> | ⃖ |
+| <code>@^&gt;</code> | ⃗ |
 | <code>@^*</code> | ⃰ |
 | <code>@^.</code> | ̇ |
 | <code>@^:</code> | ̈ |
-| <code>@_&lt;</code> | ⃮ |
-| <code>@_&gt;</code> | ⃯ |
+| <code>@^0</code> | ̊ |
+| <code>@_&lt;</code> | ͔ |
+| <code>@_&gt;</code> | ͕ |
+| <code>@_-&lt;</code> | ⃮ |
+| <code>@_-&gt;</code> | ⃯ |
 | <code>@_*</code> | ͙ |
+| <code>@_0</code> | ̥ |
 | <code>@_88</code> | ͚ |
 ## misc (macro)
 | Sequence | Expansion |
@@ -4319,6 +4323,7 @@
 | <code>@oal</code> | ⃖ |
 | <code>@oar</code> | ⃗ |
 | <code>@ohat</code> | ̂ |
+| <code>@ocirc</code> | ̊ |
 | <code>@obar</code> | ̅ |
 | <code>@obbar</code> | ̿ |
 | <code>@odot</code> | ̇ |
@@ -4330,6 +4335,7 @@
 | <code>@ubot</code> | ̝ |
 | <code>@utop</code> | ̞ |
 | <code>@uinfty</code> | ͚ |
+| <code>@ucirc</code> | ̥ |
 | <code>@ch</code> | ̶ |
 | <code>@cd</code> | ̷ |
 | <code>@cs</code> | ̸ |

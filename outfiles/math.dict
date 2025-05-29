@@ -6,16 +6,22 @@
       "8" = {
         "8" = ("insertText:", "͚");
       };
+      "0" = ("insertText:", "̥");
       "*" = ("insertText:", "͙");
-      ">" = ("insertText:", "⃯");
-      "<" = ("insertText:", "⃮");
+      "-" = {
+        ">" = ("insertText:", "⃯");
+        "<" = ("insertText:", "⃮");
+      };
+      ">" = ("insertText:", "͕");
+      "<" = ("insertText:", "͔");
     };
     "\\^" = {
+      "0" = ("insertText:", "̊");
       ":" = ("insertText:", "̈");
       "." = ("insertText:", "̇");
       "*" = ("insertText:", "⃰");
-      "<" = ("insertText:", "⃖");
       ">" = ("insertText:", "⃗");
+      "<" = ("insertText:", "⃖");
       "=" = ("insertText:", "̿");
       "_" = ("insertText:", "̅");
       "\\~" = ("insertText:", "̃");

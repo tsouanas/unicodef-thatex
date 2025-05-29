@@ -1761,6 +1761,7 @@ inoremap \\@oast ⃰
 inoremap \\@oal ⃖
 inoremap \\@oar ⃗
 inoremap \\@ohat ̂
+inoremap \\@ocirc ̊
 inoremap \\@obar ̅
 inoremap \\@obbar ̿
 inoremap \\@odot ̇
@@ -1772,6 +1773,7 @@ inoremap \\@ugt ͕
 inoremap \\@ubot ̝
 inoremap \\@utop ̞
 inoremap \\@uinfty ͚
+inoremap \\@ucirc ̥
 inoremap \\@ch ̶
 inoremap \\@cd ̷
 inoremap \\@cs ̸
