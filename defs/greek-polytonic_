@@ -1,6 +1,13 @@
 # These are to be used while having a (modern) greek layout
 # activated.
 
+# 0 (prefixed to the letter): alternative form
+# order of actions:
+#   breathing / diaeresis: > < "
+#   accent: ' ` ^
+#   ad/subscript: ,
+#   macron/breve: _ -
+
 # alternative forms
 0Υ     ϒ
 0ε     ϵ
