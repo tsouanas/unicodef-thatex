@@ -10,6 +10,7 @@ car         🚙
 fire        🔥
 hook        🪝
 gancho      🪝
+gift        🎁
 pill        💊
 poo         💩
 prrt        💨
@@ -152,10 +153,14 @@ zipface     🤐
 sleep       😴
 hmm         🤔
 huh         🤨
+eyebrow     🤨
+mrld        🤨
 sup         😏
 smirk       😏
 unamused    😒
 pff         😒
+notfunny    😒
+nfunny      😒
 eek         😬
 roll        🙄
 lookatme    😌
@@ -181,8 +186,8 @@ nerd        🤓
 geek        🤓
 monocle     🧐
 wally       🧐
-mistys      🥺
-mistyh      🥹
+mistys      🥺  # [misty]-eyed [s]ad
+mistyh      🥹  # [h]appy
 scream      😱
 grmf        😤
 skull       💀
@@ -200,6 +205,30 @@ nails       💅
 flex        💪
 foot        🦶
 eyes        👀
+look        👀
+peace       ✌
+handwave    👋
+hwave       👋
+hleft       👈  # [h]and pointing [left]
+hright      👉
+hup         👆
+hdown       👇
+handl       👈  # [h]and pointing [left]
+handr       👉
+handu       👆
+handd       👇
+me          ☝
+ok          👍
+nok         👎
+yea         👍
+nay         👎
+like        👍
+dislike     👎
+dlike       👎
+upv         👍  # [upv]ote
+downv       👎  # [downv]ote
+uvote       👍  # [u]p[vote]
+dvote       👎  # [d]own[vote]
 
 # place flags
 GR          🇬🇷
