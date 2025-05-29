@@ -221,6 +221,10 @@ coprime           ⟂
 eq                =
 neq               ≠
 nneq              ⧣  # [n]ot[n]ot
+ssapart           ⧣  # [s]lash-[s]lash [apart]ness
+shapart           ♯  # [sh]arp [apart]ness
+apart             ♯  # default: [sh]
+vapart            ⧣  # [v]ar: [ss]
 leq               ≤
 geq               ≥
 nlt               ≮
@@ -420,12 +424,13 @@ pset              ℘
 pfinset           ℘ᶠ  # XXX: should be _f
 pfset             ℘ᶠ  # XXX: should be _f
 disjoint          )(
+idisj             ꖻ  # [i]nhabited [disj]oint
 conjoint          ≬
 overlap           ≬
 olap              ≬
 meets             ≬
-isects            ≬  # intersects
-compl             ᶜ
+isects            ≬  # [i]nter[sects]
+compl             ᶜ  # [compl]ement
 Compl             ∁  # (large)
 mpl               ᵓ  # cocomplement
 ingen             ⥺  # [in] [gen]erator
@@ -1145,10 +1150,10 @@ linplus           ⊕
 ofcourse          !
 ofc               !
 whynot            ?
-adisj             ⊕
-mconj             ⊗
-aconj             &
-mdisj             ⅋
+adisj             ⊕  # [a]dditive [disj]unction
+aconj             &  # [a]dditive [conj]unction
+mdisj             ⅋  # [m]ultiplicative [disj]unction
+mconj             ⊗  # [m]ultiplicative [conj]unction
 
 # %}}}
 
