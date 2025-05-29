@@ -423,19 +423,22 @@ power             ℘
 pset              ℘
 pfinset           ℘ᶠ  # XXX: should be _f
 pfset             ℘ᶠ  # XXX: should be _f
-disjoint          )(
-idisj             ꖻ  # [i]nhabited [disj]oint
+idisjoint         ꖻ   # [i]nhabited [disjoint]
+pedisjoint        )(  # [p]ossibly [e]mpty [disjoint]
+disjoint          ꖻ   # default: i
+djoint            ꖻ
 conjoint          ≬
+cjoint            ≬
 overlap           ≬
 olap              ≬
 meets             ≬
-isects            ≬  # [i]nter[sects]
+isects            ≬  # [i]nter[sects] (with)
 compl             ᶜ  # [compl]ement
 Compl             ∁  # (large)
 mpl               ᵓ  # cocomplement
 ingen             ⥺  # [in] [gen]erator
 nigen             ⭄  # [ni] [gen]erator
-genby             ⥺  # [gen]erated [by]
+genfrom           ⥺  # [gen]erated [from]
 fromgen           ⥺  # [from] [gen]erator
 
 # %}}}
