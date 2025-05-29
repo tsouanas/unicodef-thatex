@@ -2919,9 +2919,12 @@
 | <code>pset</code> | ℘ |
 | <code>pfinset</code> | ℘ᶠ |
 | <code>pfset</code> | ℘ᶠ |
-| <code>disjoint</code> | )( |
-| <code>idisj</code> | ꖻ |
+| <code>idisjoint</code> | ꖻ |
+| <code>pedisjoint</code> | )( |
+| <code>disjoint</code> | ꖻ |
+| <code>djoint</code> | ꖻ |
 | <code>conjoint</code> | ≬ |
+| <code>cjoint</code> | ≬ |
 | <code>overlap</code> | ≬ |
 | <code>olap</code> | ≬ |
 | <code>meets</code> | ≬ |
@@ -2931,7 +2934,7 @@
 | <code>mpl</code> | ᵓ |
 | <code>ingen</code> | ⥺ |
 | <code>nigen</code> | ⭄ |
-| <code>genby</code> | ⥺ |
+| <code>genfrom</code> | ⥺ |
 | <code>fromgen</code> | ⥺ |
 | <code>lset</code> | { |
 | <code>rset</code> | } |

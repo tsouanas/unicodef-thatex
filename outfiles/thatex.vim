@@ -357,9 +357,12 @@ inoremap \\power ℘
 inoremap \\pset ℘
 inoremap \\pfinset ℘ᶠ
 inoremap \\pfset ℘ᶠ
-inoremap \\disjoint )(
-inoremap \\idisj ꖻ
+inoremap \\idisjoint ꖻ
+inoremap \\pedisjoint )(
+inoremap \\disjoint ꖻ
+inoremap \\djoint ꖻ
 inoremap \\conjoint ≬
+inoremap \\cjoint ≬
 inoremap \\overlap ≬
 inoremap \\olap ≬
 inoremap \\meets ≬
@@ -369,7 +372,7 @@ inoremap \\Compl ∁
 inoremap \\mpl ᵓ
 inoremap \\ingen ⥺
 inoremap \\nigen ⭄
-inoremap \\genby ⥺
+inoremap \\genfrom ⥺
 inoremap \\fromgen ⥺
 inoremap \\lset {
 inoremap \\rset }
