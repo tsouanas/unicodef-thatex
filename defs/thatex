@@ -2091,6 +2091,7 @@ _right            ￫
 @oal        ⃖  # [a]rrow [l]eft
 @oar        ⃗
 @ohat      ̂
+@ocirc     ̊
 @obar      ̅
 @obbar     ̿
 @odot      ̇
@@ -2102,6 +2103,7 @@ _right            ￫
 @ubot      ̝
 @utop      ̞
 @uinfty     ͚
+@ucirc     ̥
 @ch        ̶   # [c]ancel [h]orizontally
 @cd        ̷   # [d]iagonal
 @cs        ̸   # [s]lash
