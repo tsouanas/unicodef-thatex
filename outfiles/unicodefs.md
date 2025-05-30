@@ -2595,6 +2595,7 @@
 | <code>reg</code> | ® |
 | <code>tm</code> | ™ |
 | <code>estim</code> | ℮ |
+| <code>per</code> | ⅌ |
 | <code>arabdec</code> | ٫ |
 | <code>arabth</code> | ٬ |
 | <code>arabdate</code> | ؍ |

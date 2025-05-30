@@ -32,6 +32,7 @@ inoremap \\phono ℗
 inoremap \\reg ®
 inoremap \\tm ™
 inoremap \\estim ℮
+inoremap \\per ⅌
 inoremap \\arabdec ٫
 inoremap \\arabth ٬
 inoremap \\arabdate ؍
