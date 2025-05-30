@@ -330,6 +330,8 @@ inoremap \\setdiff ∖
 inoremap \\sdiff ∖
 inoremap \\containd ⊆
 inoremap \\contains ⊇
+inoremap \\contd ⊆
+inoremap \\conts ⊇
 inoremap \\subset ⊆
 inoremap \\supset ⊇
 inoremap \\subs ⊆
@@ -1034,6 +1036,10 @@ inoremap \\compareq ⋚
 inoremap \\ncompar ≸
 inoremap \\incompar ≸
 inoremap \\incompardp ‖
+inoremap \\lteq ≦
+inoremap \\gteq ≧
+inoremap \\ltneq ≨
+inoremap \\gtneq ≩
 inoremap \\gtlt ≷
 inoremap \\glt ≷
 inoremap \\ltgt ≶

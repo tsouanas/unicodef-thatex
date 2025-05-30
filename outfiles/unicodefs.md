@@ -2893,6 +2893,8 @@
 | <code>sdiff</code> | ∖ |
 | <code>containd</code> | ⊆ |
 | <code>contains</code> | ⊇ |
+| <code>contd</code> | ⊆ |
+| <code>conts</code> | ⊇ |
 | <code>subset</code> | ⊆ |
 | <code>supset</code> | ⊇ |
 | <code>subs</code> | ⊆ |
@@ -3597,6 +3599,10 @@
 | <code>ncompar</code> | ≸ |
 | <code>incompar</code> | ≸ |
 | <code>incompardp</code> | ‖ |
+| <code>lteq</code> | ≦ |
+| <code>gteq</code> | ≧ |
+| <code>ltneq</code> | ≨ |
+| <code>gtneq</code> | ≩ |
 | <code>gtlt</code> | ≷ |
 | <code>glt</code> | ≷ |
 | <code>ltgt</code> | ≶ |
