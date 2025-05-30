@@ -3036,6 +3036,8 @@ inoremap \\^square ⸋
 inoremap \\^sq ⸋
 inoremap \\^box ⸋
 inoremap \\^top ⸆
+inoremap \\^eth ᶞ
+inoremap \\^dual ᶞ
 inoremap \\_caret ‸
 inoremap \\_bul ٜ
 inoremap \\_bang ﹗

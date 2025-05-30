@@ -1748,6 +1748,8 @@
 | <code>^sq</code> | ⸋ |
 | <code>^box</code> | ⸋ |
 | <code>^top</code> | ⸆ |
+| <code>^eth</code> | ᶞ |
+| <code>^dual</code> | ᶞ |
 | <code>_caret</code> | ‸ |
 | <code>_bul</code> | ٜ |
 | <code>_bang</code> | ﹗ |
