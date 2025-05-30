@@ -276,6 +276,11 @@ lem               ⛤  # [l]aw of [e]xcluded [m]iddle
 raa               ⛤  # [r]eductio [a]d [a]bsurdum
 halmos            ∎
 qed               ∎
+QED               ꞯᴇᴅ  # [D]emonstrandum
+QEF               ꞯᴇꜰ  # [F]aciendum
+QEC               ꞯᴇᴄ  # [C]onstruendum
+OED               ΟΕΔ
+OEP               ΟΕΠ
 
 # %}}}
 
