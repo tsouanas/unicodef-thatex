@@ -2064,6 +2064,8 @@ timpb             ⟺
 ^sq               ⸋
 ^box              ⸋
 ^top              ⸆
+^eth              ᶞ
+^dual             ᶞ  # XXX: should be ^∂ (not ^ð)
 _caret            ‸
 _bul               ٜ
 _bang             ﹗
