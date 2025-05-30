@@ -71,9 +71,9 @@
     "\\^" = ("insertText:", "ŝ");
     "v" = ("insertText:", "š");
     "'" = ("insertText:", "ś");
+    "s" = ("insertText:", "ß");
     "|" = ("insertText:", "$");
     "o" = ("insertText:", "§");
-    "s" = ("insertText:", "ß");
   };
   "e" = {
     "[" = ("insertText:", "ɘ");
@@ -344,6 +344,8 @@
   };
   "v" = {
     "{" = ("insertText:", "ʌ");
+    "!" = ("insertText:", "ṿ");
+    "\\~" = ("insertText:", "ṽ");
     "z" = ("insertText:", "ž");
     "u" = ("insertText:", "ǔ");
     "t" = ("insertText:", "ť");
@@ -374,8 +376,6 @@
     "D" = ("insertText:", "Ď");
     "C" = ("insertText:", "Č");
     "A" = ("insertText:", "Ǎ");
-    "!" = ("insertText:", "ṿ");
-    "\\~" = ("insertText:", "ṽ");
   };
   "u" = {
     "{" = ("insertText:", "n");
@@ -431,8 +431,8 @@
     "v" = ("insertText:", "ǒ");
     "'" = ("insertText:", "ó");
     "`" = ("insertText:", "ò");
-    "o" = ("insertText:", "ᵒ");
     "e" = ("insertText:", "œ");
+    "o" = ("insertText:", "ᵒ");
   };
   "n" = {
     "{" = ("insertText:", "u");
@@ -543,8 +543,8 @@
     "v" = ("insertText:", "ǎ");
     "'" = ("insertText:", "á");
     "`" = ("insertText:", "à");
-    "a" = ("insertText:", "ᵃ");
     "e" = ("insertText:", "æ");
+    "a" = ("insertText:", "ᵃ");
   };
   "Z" = {
     "{" = ("insertText:", "Z");
@@ -610,6 +610,15 @@
     "\\^" = ("insertText:", "Ĝ");
     "v" = ("insertText:", "Ǧ");
     "'" = ("insertText:", "Ǵ");
+  };
+  "W" = {
+    "!" = ("insertText:", "Ẉ");
+    ":" = ("insertText:", "Ẅ");
+    "." = ("insertText:", "Ẇ");
+    "0" = ("insertText:", "ẘ");
+    "\\^" = ("insertText:", "Ŵ");
+    "`" = ("insertText:", "Ẁ");
+    "'" = ("insertText:", "Ẃ");
   };
   "\\~" = {
     "y" = ("insertText:", "ỹ");
@@ -828,15 +837,6 @@
     "(" = ("insertText:", "‘");
     ">" = ("insertText:", "›");
     "<" = ("insertText:", "‹");
-  };
-  "W" = {
-    "!" = ("insertText:", "Ẉ");
-    ":" = ("insertText:", "Ẅ");
-    "." = ("insertText:", "Ẇ");
-    "0" = ("insertText:", "ẘ");
-    "\\^" = ("insertText:", "Ŵ");
-    "`" = ("insertText:", "Ẁ");
-    "'" = ("insertText:", "Ẃ");
   };
   ")" = {
     "`" = ("insertText:", "´");
