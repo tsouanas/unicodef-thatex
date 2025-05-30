@@ -396,6 +396,8 @@ setdiff           ∖  # [set] [diff]erence
 sdiff             ∖
 containd          ⊆  # [contain]e[d] in
 contains          ⊇
+contd             ⊆
+conts             ⊇
 subset            ⊆
 supset            ⊇
 subs              ⊆
@@ -1210,6 +1212,10 @@ compareq          ⋚
 ncompar           ≸
 incompar          ≸  # [incompar]able
 incompardp        ‖  # [d]avey [p]riestley
+lteq              ≦
+gteq              ≧
+ltneq             ≨
+gtneq             ≩
 gtlt              ≷
 glt               ≷
 ltgt              ≶
