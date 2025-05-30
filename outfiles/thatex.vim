@@ -19,10 +19,13 @@ inoremap \\secs §§
 inoremap \\dag †
 inoremap \\ddag ‡
 inoremap \\bullet •
+inoremap \\tribul ‣
+inoremap \\tbul ‣
 inoremap \\fleuron ❦
 inoremap \\hedera ❦
 inoremap \\heder ❧
 inoremap \\hedel ☙
+inoremap \\flobul ❧
 inoremap \\fbul ❧
 inoremap \\aldus ❦
 inoremap \\aleaf ❦
@@ -222,6 +225,11 @@ inoremap \\lem ⛤
 inoremap \\raa ⛤
 inoremap \\halmos ∎
 inoremap \\qed ∎
+inoremap \\QED ꞯᴇᴅ
+inoremap \\QEF ꞯᴇꜰ
+inoremap \\QEC ꞯᴇᴄ
+inoremap \\OED ΟΕΔ
+inoremap \\OEP ΟΕΠ
 inoremap \\lceil ⌈
 inoremap \\rceil ⌉
 inoremap \\lcei ⌈

@@ -2582,10 +2582,13 @@
 | <code>dag</code> | † |
 | <code>ddag</code> | ‡ |
 | <code>bullet</code> | • |
+| <code>tribul</code> | ‣ |
+| <code>tbul</code> | ‣ |
 | <code>fleuron</code> | ❦ |
 | <code>hedera</code> | ❦ |
 | <code>heder</code> | ❧ |
 | <code>hedel</code> | ☙ |
+| <code>flobul</code> | ❧ |
 | <code>fbul</code> | ❧ |
 | <code>aldus</code> | ❦ |
 | <code>aleaf</code> | ❦ |
@@ -2785,6 +2788,11 @@
 | <code>raa</code> | ⛤ |
 | <code>halmos</code> | ∎ |
 | <code>qed</code> | ∎ |
+| <code>QED</code> | ꞯᴇᴅ |
+| <code>QEF</code> | ꞯᴇꜰ |
+| <code>QEC</code> | ꞯᴇᴄ |
+| <code>OED</code> | ΟΕΔ |
+| <code>OEP</code> | ΟΕΠ |
 | <code>lceil</code> | ⌈ |
 | <code>rceil</code> | ⌉ |
 | <code>lcei</code> | ⌈ |
