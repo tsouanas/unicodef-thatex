@@ -1324,7 +1324,16 @@ inoremap \\phono ℗
 inoremap \\reg ®
 inoremap \\tm ™
 inoremap \\estim ℮
+inoremap \\libra ℔
+inoremap \\ounce ℥
+inoremap \\dram ℨ
+inoremap \\scruple ℈
+inoremap \\scrup ℈
 inoremap \\per ⅌
+inoremap \\versicle ℣
+inoremap \\ver ℣
+inoremap \\response ℟
+inoremap \\res ℟
 inoremap \\arabdec ٫
 inoremap \\arabth ٬
 inoremap \\arabdate ؍

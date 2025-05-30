@@ -2595,7 +2595,16 @@
 | <code>reg</code> | ® |
 | <code>tm</code> | ™ |
 | <code>estim</code> | ℮ |
+| <code>libra</code> | ℔ |
+| <code>ounce</code> | ℥ |
+| <code>dram</code> | ℨ |
+| <code>scruple</code> | ℈ |
+| <code>scrup</code> | ℈ |
 | <code>per</code> | ⅌ |
+| <code>versicle</code> | ℣ |
+| <code>ver</code> | ℣ |
+| <code>response</code> | ℟ |
+| <code>res</code> | ℟ |
 | <code>arabdec</code> | ٫ |
 | <code>arabth</code> | ٬ |
 | <code>arabdate</code> | ؍ |
