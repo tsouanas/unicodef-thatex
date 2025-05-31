@@ -5,6 +5,7 @@ inoremap \\boat ⛵
 inoremap \\brick 🧱
 inoremap \\tijolo 🧱
 inoremap \\broke 💸
+inoremap \\bubbles 🫧
 inoremap \\bulb 💡
 inoremap \\buoy 🛟
 inoremap \\car 🚙
@@ -125,6 +126,9 @@ inoremap \\embar 😳
 inoremap \\shy ☺️
 inoremap \\gasp 😦
 inoremap \\fear 😨
+inoremap \\worry 😰
+inoremap \\sweat 😅
+inoremap \\mourn 😪
 inoremap \\lygm 😢
 inoremap \\cry 😭
 inoremap \\grr 😠
@@ -172,7 +176,9 @@ inoremap \\cold 🥶
 inoremap \\freezing 🥶
 inoremap \\hot 🥵
 inoremap \\nausea 🤢
+inoremap \\yikes 🤢
 inoremap \\vomit 🤮
+inoremap \\puke 🤮
 inoremap \\sniff 🤧
 inoremap \\mind 🤯
 inoremap \\party 🥳

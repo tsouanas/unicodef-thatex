@@ -1211,8 +1211,8 @@
 | <code>rbrack</code> | [ |
 | <code>lbrace</code> | { |
 | <code>rbrace</code> | } |
-| <code>lsquare</code> | ⁅ |
-| <code>rsquare</code> | ⁆ |
+| <code>lsquaq</code> | ⁅ |
+| <code>rsquaq</code> | ⁆ |
 | <code>langle</code> | ⟨ |
 | <code>rangle</code> | ⟩ |
 | <code>lang</code> | ⟨ |
@@ -1277,6 +1277,10 @@
 | <code>fen</code> | ⦚ |
 | <code>dfence</code> | ⦙ |
 | <code>dfen</code> | ⦙ |
+| <code>lmous</code> | ⎰ |
+| <code>rmous</code> | ⎱ |
+| <code>lshrug</code> | ⎱ |
+| <code>rshrug</code> | ⎰ |
 | <code>oparen</code> | ⏜ |
 | <code>uparen</code> | ⏝ |
 | <code>vparen</code> | ⁐ |
@@ -1287,6 +1291,14 @@
 | <code>ubrace</code> | ⏟ |
 | <code>obrack</code> | ⎴ |
 | <code>ubrack</code> | ⎵ |
+| <code>sumt</code> | ⎲ |
+| <code>sumb</code> | ⎳ |
+| <code>intt</code> | ⌠ |
+| <code>intb</code> | ⌡ |
+| <code>intu</code> | ⌠ |
+| <code>intm</code> | ⎮ |
+| <code>intx</code> | ⎮ |
+| <code>intl</code> | ⌡ |
 | <code>circle</code> | ○ |
 | <code>Circle</code> | ◯ |
 | <code>dcircle</code> | ◌ |

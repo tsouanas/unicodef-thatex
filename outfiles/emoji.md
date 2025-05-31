@@ -6,6 +6,7 @@
 | <code>brick</code> | 🧱 |
 | <code>tijolo</code> | 🧱 |
 | <code>broke</code> | 💸 |
+| <code>bubbles</code> | 🫧 |
 | <code>bulb</code> | 💡 |
 | <code>buoy</code> | 🛟 |
 | <code>car</code> | 🚙 |
@@ -126,6 +127,9 @@
 | <code>shy</code> | ☺️ |
 | <code>gasp</code> | 😦 |
 | <code>fear</code> | 😨 |
+| <code>worry</code> | 😰 |
+| <code>sweat</code> | 😅 |
+| <code>mourn</code> | 😪 |
 | <code>lygm</code> | 😢 |
 | <code>cry</code> | 😭 |
 | <code>grr</code> | 😠 |
@@ -173,7 +177,9 @@
 | <code>freezing</code> | 🥶 |
 | <code>hot</code> | 🥵 |
 | <code>nausea</code> | 🤢 |
+| <code>yikes</code> | 🤢 |
 | <code>vomit</code> | 🤮 |
+| <code>puke</code> | 🤮 |
 | <code>sniff</code> | 🤧 |
 | <code>mind</code> | 🤯 |
 | <code>party</code> | 🥳 |

@@ -25,6 +25,10 @@
 | <code>99'</code> | ” |
 | <code>99,</code> | „ |
 | <code>99&#96;</code> | ‟ |
+| <code>_[</code> | ⸤ |
+| <code>_]</code> | ⸥ |
+| <code>^[</code> | ⸢ |
+| <code>^]</code> | ⸣ |
 | <code>.^</code> | · |
 | <code>2.</code> | ‥ |
 | <code>3.</code> | … |
@@ -40,10 +44,11 @@
 | <code>2*</code> | ⁑ |
 | <code>3*</code> | ⁂ |
 | <code>8*</code> | ⁕ |
-| <code>--.</code> | – |
 | <code>--n</code> | – |
-| <code>---</code> | — |
+| <code>--.</code> | – |
 | <code>--m</code> | – |
+| <code>---</code> | — |
+| <code>--:</code> | ― |
 | <code>--~.</code> | 〜 |
 | <code>--~~</code> | 〰 |
 | <code>--=</code> | ⹀ |

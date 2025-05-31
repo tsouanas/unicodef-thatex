@@ -1210,8 +1210,8 @@ inoremap \\lbrack [
 inoremap \\rbrack [
 inoremap \\lbrace {
 inoremap \\rbrace }
-inoremap \\lsquare ⁅
-inoremap \\rsquare ⁆
+inoremap \\lsquaq ⁅
+inoremap \\rsquaq ⁆
 inoremap \\langle ⟨
 inoremap \\rangle ⟩
 inoremap \\lang ⟨
@@ -1276,6 +1276,10 @@ inoremap \\fence ⦚
 inoremap \\fen ⦚
 inoremap \\dfence ⦙
 inoremap \\dfen ⦙
+inoremap \\lmous ⎰
+inoremap \\rmous ⎱
+inoremap \\lshrug ⎱
+inoremap \\rshrug ⎰
 inoremap \\oparen ⏜
 inoremap \\uparen ⏝
 inoremap \\vparen ⁐
@@ -1286,6 +1290,14 @@ inoremap \\obrace ⏞
 inoremap \\ubrace ⏟
 inoremap \\obrack ⎴
 inoremap \\ubrack ⎵
+inoremap \\sumt ⎲
+inoremap \\sumb ⎳
+inoremap \\intt ⌠
+inoremap \\intb ⌡
+inoremap \\intu ⌠
+inoremap \\intm ⎮
+inoremap \\intx ⎮
+inoremap \\intl ⌡
 inoremap \\circle ○
 inoremap \\Circle ◯
 inoremap \\dcircle ◌

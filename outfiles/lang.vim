@@ -24,6 +24,10 @@ inoremap \66` “
 inoremap \99' ”
 inoremap \99, „
 inoremap \99` ‟
+inoremap \_[ ⸤
+inoremap \_] ⸥
+inoremap \^[ ⸢
+inoremap \^] ⸣
 inoremap \.^ ·
 inoremap \2. ‥
 inoremap \3. …
@@ -39,10 +43,11 @@ inoremap \<Bar>: ¦
 inoremap \2* ⁑
 inoremap \3* ⁂
 inoremap \8* ⁕
-inoremap \--. –
 inoremap \--n –
-inoremap \--- —
+inoremap \--. –
 inoremap \--m –
+inoremap \--- —
+inoremap \--: ―
 inoremap \--~. 〜
 inoremap \--~~ 〰
 inoremap \--= ⹀
