@@ -698,6 +698,7 @@ inoremap \\Fishfrom ⬺
 inoremap \\substo ⥹
 inoremap \\supsfrom ⥻
 inoremap \\rcomp ⋄
+inoremap \\rof ⋄
 inoremap \\relto ⇾
 inoremap \\relfrom ⇽
 inoremap \\relbi ⇿

@@ -3270,6 +3270,7 @@
 | <code>substo</code> | ⥹ |
 | <code>supsfrom</code> | ⥻ |
 | <code>rcomp</code> | ⋄ |
+| <code>rof</code> | ⋄ |
 | <code>relto</code> | ⇾ |
 | <code>relfrom</code> | ⇽ |
 | <code>relbi</code> | ⇿ |
