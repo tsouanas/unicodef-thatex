@@ -106,8 +106,10 @@
 | <code>scotch</code> | 🥃 |
 | <code>wine</code> | 🍷 |
 | <code>speak</code> | 💬 |
+| <code>say</code> | 💬 |
 | <code>think</code> | 💭 |
 | <code>yell</code> | 🗯️ |
+| <code>shout</code> | 🗯️ |
 | <code>zzz</code> | 💤 |
 | <code>inbed</code> | 🛌 |
 | <code>pawp</code> | 🐾 |
@@ -120,6 +122,8 @@
 | <code>erm</code> | 🫤 |
 | <code>woah</code> | 😲 |
 | <code>blush</code> | 😳 |
+| <code>embar</code> | 😳 |
+| <code>shy</code> | ☺️ |
 | <code>gasp</code> | 😦 |
 | <code>fear</code> | 😨 |
 | <code>lygm</code> | 😢 |
@@ -130,7 +134,9 @@
 | <code>muah</code> | 😈 |
 | <code>sadin</code> | 🥲 |
 | <code>weary</code> | 😩 |
-| <code>wah</code> | 😫 |
+| <code>wah</code> | 😩 |
+| <code>Wah</code> | 😫 |
+| <code>aarg</code> | 😫 |
 | <code>yawn</code> | 🥱 |
 | <code>zany</code> | 🤪 |
 | <code>slurp</code> | 😋 |
@@ -139,6 +145,8 @@
 | <code>prr</code> | 😝 |
 | <code>shh</code> | 🤫 |
 | <code>zipface</code> | 🤐 |
+| <code>melt</code> | 🫠 |
+| <code>peek</code> | 🫣 |
 | <code>sleep</code> | 😴 |
 | <code>hmm</code> | 🤔 |
 | <code>huh</code> | 🤨 |
@@ -206,6 +214,7 @@
 | <code>handr</code> | 👉 |
 | <code>handu</code> | 👆 |
 | <code>handd</code> | 👇 |
+| <code>handrl</code> | 👉👈 |
 | <code>me</code> | ☝ |
 | <code>ok</code> | 👍 |
 | <code>nok</code> | 👎 |

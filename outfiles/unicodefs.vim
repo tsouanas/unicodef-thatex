@@ -105,8 +105,10 @@ inoremap \\provar 🍨
 inoremap \\scotch 🥃
 inoremap \\wine 🍷
 inoremap \\speak 💬
+inoremap \\say 💬
 inoremap \\think 💭
 inoremap \\yell 🗯️
+inoremap \\shout 🗯️
 inoremap \\zzz 💤
 inoremap \\inbed 🛌
 inoremap \\pawp 🐾
@@ -119,6 +121,8 @@ inoremap \\rofl 🤣
 inoremap \\erm 🫤
 inoremap \\woah 😲
 inoremap \\blush 😳
+inoremap \\embar 😳
+inoremap \\shy ☺️
 inoremap \\gasp 😦
 inoremap \\fear 😨
 inoremap \\lygm 😢
@@ -129,7 +133,9 @@ inoremap \\swear 🤬
 inoremap \\muah 😈
 inoremap \\sadin 🥲
 inoremap \\weary 😩
-inoremap \\wah 😫
+inoremap \\wah 😩
+inoremap \\Wah 😫
+inoremap \\aarg 😫
 inoremap \\yawn 🥱
 inoremap \\zany 🤪
 inoremap \\slurp 😋
@@ -138,6 +144,8 @@ inoremap \\winky 😜
 inoremap \\prr 😝
 inoremap \\shh 🤫
 inoremap \\zipface 🤐
+inoremap \\melt 🫠
+inoremap \\peek 🫣
 inoremap \\sleep 😴
 inoremap \\hmm 🤔
 inoremap \\huh 🤨
@@ -205,6 +213,7 @@ inoremap \\handl 👈
 inoremap \\handr 👉
 inoremap \\handu 👆
 inoremap \\handd 👇
+inoremap \\handrl 👉👈
 inoremap \\me ☝
 inoremap \\ok 👍
 inoremap \\nok 👎
