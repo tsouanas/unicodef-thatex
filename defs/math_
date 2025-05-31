@@ -217,6 +217,46 @@ S)     ⟆
 <>     ⪤
 ><     ⪥
 
+# multiline brackets, integrals, summations
+# for height > 2: [u]pper, e[x]tension, [m]iddle, [l]ower
+# for height = 2: [t]op, [b]ottom
+(u     ⎛
+(m     ⎜
+(x     ⎜
+(l     ⎝
+)u     ⎞
+)m     ⎟
+)x     ⎟
+)l     ⎠
+[u     ⎡
+[m     ⎢
+[x     ⎢
+[l     ⎣
+]u     ⎤
+]m     ⎥
+]x     ⎥
+]l     ⎦
+{u     ⎧
+{m     ⎨
+{x     ⎪
+{l     ⎩
+}u     ⎫
+}m     ⎬
+}x     ⎪
+}l     ⎭
+(t     ⎛
+(b     ⎝
+)t     ⎞
+)b     ⎠
+[t     ⎡
+[b     ⎣
+]t     ⎤
+]b     ⎦
+{t     ⎰
+{b     ⎱
+}t     ⎱
+}b     ⎰
+
 # arrows
 # >: right
 # <: left
