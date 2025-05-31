@@ -43,10 +43,11 @@ _]     ⸥
 2*     ⁑
 3*     ⁂
 8*     ⁕
+--n    –  # endash
 --.    –
---n    –
+--m    –  # emdash
 ---    —
---m    –
+--:    ―  # quotation (dialogue) bar
 --~.   〜
 --~~   〰
 --=    ⹀  # double hyphen
