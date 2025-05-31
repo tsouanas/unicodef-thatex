@@ -218,6 +218,10 @@ S)     ⟆
 ><     ⪥
 
 # arrows
+# >: right
+# <: left
+# ^: up
+# v: down
 ->     →
 -<     ←
 -^     ↑

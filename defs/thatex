@@ -1422,8 +1422,8 @@ lbrack            [
 rbrack            [
 lbrace            {
 rbrace            }
-lsquare           ⁅  # [square] with quill
-rsquare           ⁆
+lsquaq            ⁅  # [squa]re with [q]uill
+rsquaq            ⁆
 langle            ⟨
 rangle            ⟩
 lang              ⟨
