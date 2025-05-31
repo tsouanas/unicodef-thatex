@@ -809,6 +809,7 @@ supsfrom          ⥻
 # relations %{{{
 
 rcomp             ⋄  # [r]elational composition
+rof               ⋄
 relto             ⇾  # [rel]ation
 relfrom           ⇽
 relbi             ⇿
