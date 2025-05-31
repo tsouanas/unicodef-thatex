@@ -118,8 +118,10 @@ wine        🍷
 
 # faces / emotions
 speak       💬
+say         💬
 think       💭
 yell        🗯️
+shout       🗯️
 zzz         💤
 inbed       🛌
 pawp        🐾
@@ -132,6 +134,8 @@ rofl        🤣
 erm         🫤
 woah        😲
 blush       😳
+embar       😳
+shy         ☺️
 gasp        😦
 fear        😨
 lygm        😢
@@ -142,7 +146,9 @@ swear       🤬
 muah        😈
 sadin       🥲
 weary       😩
-wah         😫
+wah         😩
+Wah         😫
+aarg        😫
 yawn        🥱
 zany        🤪
 slurp       😋
@@ -151,6 +157,8 @@ winky       😜
 prr         😝
 shh         🤫
 zipface     🤐
+melt        🫠
+peek        🫣
 sleep       😴
 hmm         🤔
 huh         🤨
@@ -218,6 +226,7 @@ handl       👈  # [h]and pointing [left]
 handr       👉
 handu       👆
 handd       👇
+handrl      👉👈
 me          ☝
 ok          👍
 nok         👎
