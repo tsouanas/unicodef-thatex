@@ -1510,6 +1510,20 @@ ubrack            ⎵
 
 # %}}}
 
+# %{{{ multi-line sum and integral
+# for height > 2: [u]pper, e[x]tension, [m]iddle, [l]ower
+# for height = 2: [t]op, [b]ottom
+# (see also: multiline brackets in defs/math_)
+sumt   ⎲  # sum
+sumb   ⎳  #
+intt   ⌠  # [int]egral (height = 2)
+intb   ⌡  #
+intu   ⌠  # [int]egral (height > 2)
+intm   ⎮  #
+intx   ⎮  #
+intl   ⌡  #
+# %}}}
+
 # %}}}
 
 # shapes %{{{
