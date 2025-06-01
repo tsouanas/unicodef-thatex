@@ -543,6 +543,8 @@ Inter             ⋂
 Union             ⋃
 inter             ∩
 union             ∪
+interunion        ⩇
+unioninter        ⩆
 disjunion         ⊎
 Disjunion         ⨄
 dunion            ⊎  # [d]isjoint union
