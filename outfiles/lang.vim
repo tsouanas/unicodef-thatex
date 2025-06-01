@@ -52,6 +52,7 @@ inoremap \--~. 〜
 inoremap \--~~ 〰
 inoremap \--= ⹀
 inoremap \--/ ⸗
+inoremap \-" ⸚
 inoremap \-* •
 inoremap \^. ˙
 inoremap \^_ ‾
@@ -710,6 +711,7 @@ inoremap \&{ ⅋
 inoremap \;{ ؛
 inoremap \?{ ¿
 inoremap \!{ ¡
+inoremap \1{ ⥝
 inoremap \A] ꓯ
 inoremap \B] B
 inoremap \C] C
@@ -722,6 +724,7 @@ inoremap \U] ꓵ
 inoremap \V] ꓥ
 inoremap \Y] ⅄
 inoremap \!] ¡
+inoremap \1] ⥡
 inoremap \B[ ꓭ
 inoremap \C[ ꓛ
 inoremap \D[ ꓷ
@@ -738,3 +741,4 @@ inoremap \;[ ⁏
 inoremap \?[ ⸮
 inoremap \,[ ⹁
 inoremap \`[ ´
+inoremap \1[ ⥜

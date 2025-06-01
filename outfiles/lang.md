@@ -53,6 +53,7 @@
 | <code>--~~</code> | 〰 |
 | <code>--=</code> | ⹀ |
 | <code>--/</code> | ⸗ |
+| <code>-"</code> | ⸚ |
 | <code>-*</code> | • |
 | <code>^.</code> | ˙ |
 | <code>^_</code> | ‾ |
@@ -711,6 +712,7 @@
 | <code>;{</code> | ؛ |
 | <code>?{</code> | ¿ |
 | <code>!{</code> | ¡ |
+| <code>1{</code> | ⥝ |
 | <code>A]</code> | ꓯ |
 | <code>B]</code> | B |
 | <code>C]</code> | C |
@@ -723,6 +725,7 @@
 | <code>V]</code> | ꓥ |
 | <code>Y]</code> | ⅄ |
 | <code>!]</code> | ¡ |
+| <code>1]</code> | ⥡ |
 | <code>B[</code> | ꓭ |
 | <code>C[</code> | ꓛ |
 | <code>D[</code> | ꓷ |
@@ -739,3 +742,4 @@
 | <code>?[</code> | ⸮ |
 | <code>,[</code> | ⹁ |
 | <code>&#96;[</code> | ´ |
+| <code>1[</code> | ⥜ |
