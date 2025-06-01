@@ -896,6 +896,12 @@ lqq               ⌜  # [q]uasi[q]uote
 rqq               ⌝
 lsem              ⟦  # [sem]antics
 rsem              ⟧
+lgod              ⸢  # [göd]el numbering
+rgod              ⸣
+lenc              ⸢  # [enc]oding
+renc              ⸣
+lcod              ⸤  # [cod]e or [co]enco[d]ing
+rcod              ⸥
 
 # %}}}
 
@@ -1492,6 +1498,19 @@ lmous             ⎰  # [mous]tache
 rmous             ⎱
 lshrug            ⎱
 rshrug            ⎰
+lquine            ⌜  # [qui]ne
+rquine            ⌝
+lqui              ⌜  # [qui]ne
+rqui              ⌝
+lucor             ⸢  # [u]pper [cor]ner
+rucor             ⸣
+llcor             ⸤  # [l]ower
+rlcor             ⸥
+lbcor             ⸤  # [b]ottom
+rbcor             ⸥
+ltcor             ⸢  # [t]op
+lcjk              ⸢  # CJK-influenced
+rcjk              ⸥
 
 # %}}}
 
