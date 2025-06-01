@@ -2259,7 +2259,7 @@ sparkr            ⟢
 turnsl            ⊣  # [turns]tile [r]ight
 turnsr            ⊢
 nturnsr           ⊬
-turns             ⊢  # default: r
+turns             ⊢  # default: [r]
 nturns            ⊬
 tackl             ⊣
 tackr             ⊢
@@ -2272,7 +2272,7 @@ Tackd             ⟙
 tturnsr           ⊨
 ntturnsr          ⊭
 ttturnsr          ⫢
-tturns            ⊨  # default: r
+tturns            ⊨  # default: [r]
 ntturns           ⊭
 ttturns           ⫢
 convl             ⚟  # lines [conv]erge
