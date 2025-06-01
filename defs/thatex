@@ -714,9 +714,15 @@ pderiv            ∂  # [p]artial [deriv]ative
 pder              ∂
 nabla             ∇
 tends             →  # [tends] to
-ntends            ↛
 limof             ←
+vtends            ↓
+vlimof            ↑
+ntends            ↛
 nlimof            ↚
+nvtends           ⤈  # XXX: abuse: strike as not
+vntends           ⤈
+nvlimof           ⤉
+vnlimof           ⤉
 convol            ∗  # [convol]ution
 crocor            ⋆  # [cro]ss-[cor]relation
 
