@@ -1793,6 +1793,8 @@ sil               §
 spot              ⦁
 scarab            ¤
 pillow            ⌑
+bullseye          ◎
+fisheye           ◉
 
 # %}}}
 
@@ -1830,9 +1832,9 @@ bangq             ⁉
 # individuals / ops / rels %{{{
 
 cdot              ·  # [c]enter [dot]
-dot               ·  # default: c
+dot               ·  # default: [c]
 point             ·
-bul               ∙
+bul               ∙  # WARN: bul is not short for bullet but for bullet op
 spark             ⟡
 circ              ∘  # [circ]le op
 Star              ★  # (large) star (nul op / individual)
@@ -1863,7 +1865,6 @@ hearts            ♡
 diamonds          ♢
 clubs             ♣
 tictactoe         ⌗
-titato            ⌗
 tic               ⌗
 crosshair         ⌖
 crossh            ⌖
@@ -1915,6 +1916,7 @@ obul              ⦿
 ocirc             ⦾
 ocomp             ⦾
 oof               ⦾
+oinfty            ♾
 Odot              ⨀
 Oplus             ⨁
 Otimes            ⨂
@@ -1927,6 +1929,8 @@ sqdiv             ◫
 sqcirc            ⧇
 sqcomp            ⧇
 sqof              ⧇
+sqneq             ⍯
+sqask             ⍰
 trplus            ⨹
 trminus           ⨺
 trtimes           ⨻
@@ -1936,7 +1940,7 @@ lozminus          ⟠
 
 # %}}}
 
-# (based on) well-known op/rel symbols (except =) %{{{
+# (based on) well-known op/rel symbols (except (=)) %{{{
 
 cup               ∪
 cap               ∩
