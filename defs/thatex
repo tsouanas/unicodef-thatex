@@ -2062,23 +2062,22 @@ arrnw             ↖  # [n]orth-[w]est
 arrne             ↗
 arrsw             ↙
 arrse             ↘
-arrb              ↔  # [b]idirectional
-arrbh             ↔  # [h]orizontal
-arrbv             ↕  # [v]ertical
-arrbs             ⤢  # [s]lash
-arrbb             ⤡  # [b]ackslash
-arrb-             ↔
-arrb|             ↕
-arrb/             ⤢
-arrb\             ⤡
+arrh              ↔  # [h]orizontal
+arrv              ↕  # [v]ertical
+arrs              ⤢  # [s]lash
+arrb              ⤡  # [b]ackslash
+arr-              ↔
+arr|              ↕
+arr/              ⤢
+arr\              ⤡
 sarru             ⤉  # [s]trike
 sarrd             ⤈
 sarrl             ⇷
 sarrr             ⇸
-sarrb             ⇹
+sarrh             ⇹
 narrl             ↚  # [n]egated
 narrr             ↛
-narrb             ↮
+narrh             ↮
 narru             ⤉  # XXX: abuse: strike for not
 narrd             ⤈  # XXX: abuse: strike for not
 arruu             ⇈
@@ -2115,7 +2114,7 @@ dashu             ⇡
 dashd             ⇣
 dashl             ⇠
 dashr             ⇢
-harplu            ↼  # [harp]oons
+harplu            ↼  # [harp]oon [l]eft with barb [u]p
 harpld            ↽
 harpru            ⇀
 harprd            ⇁
@@ -2123,9 +2122,35 @@ harpul            ↿
 harpur            ↾
 harpdl            ⇃
 harpdr            ⇂
-Harpl             ⥢
-Harpr             ⥤
-aarru             ⇑
+harpll            ⥢
+harprr            ⥤
+harpuu            ⥣
+harpdd            ⥥
+harprl            ⇌
+harplr            ⇋
+harpud            ⥮
+harpdu            ⥯
+harprlu           ⥨
+harprld           ⥩
+harplru           ⥦
+harplrd           ⥧
+harphud           ⥊  # [h]orizontal [u]p [d]own
+harphdu           ⥋
+harphuu           ⥎
+harphdd           ⥐
+harpvrr           ⥏
+harpvrl           ⥌
+harpvlr           ⥍
+harpvll           ⥑
+bharplu           ⥚  # [b]ar-[harp]oon
+bharpru           ⥛
+bharpur           ⥜
+bharpdr           ⥝
+bharpld           ⥞
+bharprd           ⥟
+bharpul           ⥠
+bharpdl           ⥡
+aarru             ⇑  # (double)
 aarrd             ⇓
 aarrl             ⇐
 aarrr             ⇒
@@ -2133,18 +2158,29 @@ aarrnw            ⇖
 aarrne            ⇗
 aarrsw            ⇙
 aarrse            ⇘
-aarrb             ⇔
-aarrbh            ⇔
-aarrbv            ⇕
+aarrh             ⇔
+aarrv             ⇕
 naarrl            ⇍  # [n]egated
 naarrr            ⇏
-naarrb            ⇎
+naarrh            ⇎
 saarrl            ⤂  # [s]trike
 saarrr            ⤃
-saarrb            ⤄
+saarrh            ⤄
 baarrl            ⤆  # [b]arred arrow
 baarrr            ⤇
-turnul            ↰  # [turn] [u]p [l]eft
+sharpul           ↰  # [sharp] turn [u]p [l]eft
+sharpur           ↱
+sharpdl           ↲
+sharpdr           ↳
+sharpld           ⬐
+sharprd           ⬎
+sharplu           ⬑
+sharpru           ⬏
+smoothru          ⤴  # [smooth] turn [r]
+smoothrd          ⤵
+smoothdl          ⤶
+smoothdr          ⤷
+turnul            ↰  # default: [sharp]
 turnur            ↱
 turndl            ↲
 turndr            ↳
@@ -2152,27 +2188,38 @@ turnld            ⬐
 turnrd            ⬎
 turnlu            ⬑
 turnru            ⬏
+cturnru           ⤴  # [c]urvy
+cturnrd           ⤵
+cturndl           ⤶
+cturndr           ⤷
+arclu             ⤺  # arc [l]eft curving [u]p
+arcrd             ⤻
+arcdl             ⤹
+arcdr             ⤸
+arcl              ⤺  # default: [u]
+arcr              ⤻  # default: [d]
+arcd              ⤹  # default: [l]
 halfu             ￪  # half-width arrows
 halfd             ￬
 halfl             ￩
 halfr             ￫
 
-## arrow (brutal) abbrevs %{{{
+## arrow (BRUTAL) abbrevs %{{{
 u                 ↑
 d                 ↓
 l                 ←
 r                 →
-n                 ↑  # [n]orth
-s                 ↓
-w                 ←
-e                 →
-nw                ↖
+h                 ↔  # [h]orizontal (bidirectional)
+v                 ↕  # [v]ertical
+s                 ⤢  # [s]lash
+b                 ⤡  # [b]ackslash
+nw                ↖  # [n]orth-[w]est
 ne                ↗
 sw                ↙
 se                ↘
-L                 ⟵
+L                 ⟵  # (long)
 R                 ⟶
-B                 ⟷  # (long)
+H                 ⟷
 uu                ⇈
 dd                ⇊
 ll                ⇇
@@ -2204,7 +2251,7 @@ lollir            ⊸
 lollib            ⧟
 lolliu            ⫯
 lollid            ⫰
-lolli             ⊸  # default: r
+lolli             ⊸  # default: [r]
 bwlolli           ⊷  # [b]lack [w]hite
 wblolli           ⊶
 sparkl            ⟣  # (spark is the arrow head)
