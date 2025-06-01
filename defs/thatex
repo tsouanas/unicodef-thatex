@@ -814,20 +814,34 @@ From              ⟵
 nto               ↛
 nfrom             ↚
 nvto              ⤈  # XXX: abuse: strike for not
-nvfrom            ⤉  # XXX: abuse: strike for not
+nvfrom            ⤉
+vnto              ⤈
+vnfrom            ⤉
 sto               ⇸  # [s]trike
 sfrom             ⇸
 svto              ⤈
 svfrom            ⤉
+vsto              ⤈
+vsfrom            ⤉
 oparto            ⇴  # [par]tial notation with [o]
 oparfrom          ⬰
 oparbi            ⥈
 parto             ⇀  # [par]tial
 parfrom           ↼
+vparto            ⇂
+vparfrom          ↿
+parr              ⇀
+parl              ↼
+paru              ↿
+pard              ⇂
 partofrom         ⇌
 parfromto         ⇋
-divers            ↑  # partial function [diver]ge[s]
-pardivs           ↑
+vparfromto        ⥮
+vpartofrom        ⥯
+diverges          ↑
+diverge           ↑
+diver             ↑
+pardiv            ↑  # [par]tial function [div]erges
 xto               ⥇
 xfrom             ⬾
 mapsto            ↦
@@ -842,12 +856,26 @@ Mapsto            ⟼  # (long)
 Mapsfrom          ⟻
 Mapsr             ⟼
 Mapsl             ⟻
+parmapsto         ⥛  # [par]tially [mapsto]
+parmapsfrom       ⥚
+vparmapsto        ⥡
+vparmapsfrom      ⥠
+mapsparto         ⥛  # [maps] [par]tially [to]
+mapsparfrom       ⥚
+vmapsparto        ⥡
+vmapsparfrom      ⥠
 imapsto           ⤇  # [i]mplies-like
 imapsfrom         ⤆
 imapsr            ⤇
 imapsl            ⤆
 Imapsr            ⟾
 Imapsl            ⟽
+mmapsto           ⤇  # (double)
+mmapsfrom         ⤆
+mmapsr            ⤇
+mmapsl            ⤆
+Mmapsr            ⟾
+Mmapsl            ⟽
 rest              ↾  # [rest]riction
 corest            ⇂  # [corest]riction
 rwimg             “  # [r]ussell & [w]hitehead [im]a[g]e
@@ -858,44 +886,48 @@ astimg            ⁎  # covariant [ast]erisk [im]a[g]e
 astpre             ⃰  # contravariant [ast]erisk [pre]image
 surjto            ↠  # [surj]ection
 surjfrom          ↞
+vsurjfrom         ↟
+vsurjto           ↡
+surjr             ↠
+surjl             ↞
+surju             ↟
+surjd             ↡
+surto             ↠
+surfrom           ↞  # WARN: inconsistent shortcut
+vsurfrom          ↟
+vsurto            ↡
 injto             ↣  # [inj]ection
 injfrom           ↢
+injr              ↣
+injl              ↢
 bijto             ⤖  # [bij]ection
 bijfrom           ⬻
+bijr              ⤖
+bijl              ⬻
 embto             ↪  # [emb]edding
 embfrom           ↩
+embr              ↪
+embl              ↩
 embnw             ⤣
 embne             ⤤
 embse             ⤥
 embsw             ⤦
-surto             ↠  # [sur]jection
-surfrom           ↞
-into              ↣  # [in]jection
-infrom            ↢
-bito              ⤖  # [bi]jection
-bifrom            ⬻
-emto              ↪  # [em]bedding
-emfrom            ↩
-ninjto            ⤔  # [n]ot (via strike)
+ninjto            ⤔  # [n]ot (via strike) XXX: abuse: strike for not
 ninjfrom          ⬹
 nsurjto           ⤀
 nsurjfrom         ⬴
-nbijto            ⤗  # XXX: abuse: strike for not
-nbijfrom          ⬼  # XXX: abuse: strike for not
-ninto             ⤔  # XXX: abuse: strike for not
-ninfrom           ⬹  # XXX: abuse: strike for not
-nsurto            ⤀  # XXX: abuse: strike for not
-nsurfrom          ⬴  # XXX: abuse: strike for not
-nbito             ⤗  # XXX: abuse: strike for not
-nbifrom           ⬼  # XXX: abuse: strike for not
-sbijto            ⤗  # XXX: abuse: strike for not
-sbijfrom          ⬼  # XXX: abuse: strike for not
-sinto             ⤔  # XXX: abuse: strike for not
-sinfrom           ⬹  # XXX: abuse: strike for not
-ssurto            ⤀  # XXX: abuse: strike for not
-ssurfrom          ⬴  # XXX: abuse: strike for not
-sbito             ⤗  # XXX: abuse: strike for not
-sbifrom           ⬼  # XXX: abuse: strike for not
+nbijto            ⤗
+nbijfrom          ⬼
+nsurto            ⤀
+nsurfrom          ⬴
+sinjto            ⤔  # [s]trike
+sinjfrom          ⬹
+ssurjto           ⤀
+ssurjfrom         ⬴
+sbijto            ⤗
+sbijfrom          ⬼
+ssurto            ⤀
+ssurfrom          ⬴
 
 # %}}}
 
@@ -1031,7 +1063,7 @@ jeqass            ≐:
 deqass            ≡:
 matches           ≡: # pattern [matches]
 matcheq           ≕  # (with = instead of ≡)
-unit              ⥠
+unit              ⥠  # XXX: abuse: harpoons
 counit            ⥡
 j                 ·  # (co)pro[j]ect
 outl              ·l
