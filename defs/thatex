@@ -21,6 +21,16 @@ thin               
 hair               
 hhyph             ⸗  # oblique (double) [hhyph]en
 dhyph             ⸚  # [hyph]en with [d]iaeresis
+arabdec           ٫  # [arab]ic [dec]imal separator
+arabth            ٬  # [th]ousands separator
+arabdate          ؍  # [date] separator
+arabsc            ؛  # [s]emi[c]olon
+arabc             ،  # [c]omma
+arabq             ؟  # [q]uestion mark
+arabask           ؟  #
+arabstar          ٭  # 
+arabdots          ؞  # triple [dots]
+hypo              ⸒  # [hypo]diastole
 
 # %}}}
 
@@ -43,29 +53,50 @@ wbul              ◦
 tribul            ‣  # [tri]angular [bul]let
 tbullet           ‣
 tbul              ‣
-tainome           ◉
-fleuron           ❦
-hedera            ❦
-heder             ❧  # [hede]ra [r]ight
-hedel             ☙
 flobul            ❧  # [flo]ral [bul]let
 fbullet           ❧
 fbul              ❧
+tainome           ◉
+taibul            ◉
+fleuron           ❦
 aldus             ❦  # [aldus] leaf
 aleaf             ❦  # [a]ldus [leaf]
+hedera            ❦
+heder             ❧  # [hede]ra [r]ight
+hedel             ☙
 
 versicle          ℣
 ver               ℣
 response          ℟
 res               ℟
 
+percont           ⸮  # [percont]ation point
+rheto             ⸮  # [rheto]rical question
 copyr             ©  # [copyr]ight
 copyl             🄯 # [copyl]eft
 phono             ℗  # [phono]gram
 reg               ®  # [reg]istered
 tm                ™  # [t]rade[m]ark
-percont           ⸮  # [percont]ation point
-rheto             ⸮  # [rheto]rical question
+
+degree            °
+deg               °
+degc              °C # [deg]ree [C]elcius
+degf              °F # [deg]ree [F]ahrenheit
+
+estim             ℮  # [estim]ated
+libra             ℔
+ounce             ℥
+dram              ℨ  # fluid drachm
+scruple           ℈
+scrup             ℈
+per               ⅌
+
+diameter          ⌀
+diam              ⌀
+gnd               ⏚
+ohm               Ω
+mho               Ʊ
+
 warn              ⚠
 knuthd            ☡  # [d]anger
 knuthwiz          ☡  # [wiz]ards-only
@@ -81,35 +112,6 @@ work              ⚒
 wip               ⚒  # [w]ork [i]n [p]rogress
 luck              ☘
 fight             ⚔
-
-estim             ℮  # [estim]ated
-libra             ℔
-ounce             ℥
-dram              ℨ  # fluid drachm
-scruple           ℈
-scrup             ℈
-per               ⅌
-
-arabdec           ٫  # [arab]ic [dec]imal separator
-arabth            ٬  # [th]ousands separator
-arabdate          ؍  # [date] separator
-arabsc            ؛  # [s]emi[c]olon
-arabc             ،  # [c]omma
-arabq             ؟  # [q]uestion mark
-arabask           ؟  #
-arabstar          ٭  # 
-arabdots          ؞  # triple [dots]
-hypo              ⸒  # [hypo]diastole
-
-diameter          ⌀
-diam              ⌀
-degree            °
-deg               °
-degc              °C # [deg]ree [C]elcius
-degf              °F # [deg]ree [F]ahrenheit
-gnd               ⏚
-ohm               Ω
-mho               Ʊ
 
 # %}}}
 
@@ -167,72 +169,6 @@ snotes      ♬  # [s]ixteenth
 8notes      ♫
 16notes     ♬
 turn        ∾
-
-# %}}}
-
-# %{{{ games 
-
-# chess %{{{
-
-wK           ♔
-wQ           ♕
-wR           ♖
-wB           ♗
-wN           ♘
-wP           ♙
-bK           ♚
-bQ           ♛
-bR           ♜
-bB           ♝
-bN           ♞
-bP           ♟
-king         ♚
-queen        ♛
-rook         ♜
-bishop       ♝
-knight       ♞
-pawn         ♟
-King         ♔
-Queen        ♕
-Rook         ♖
-Bishop       ♗
-Knight       ♘
-Pawn         ♙
-
-# %}}}
-
-# cards %{{{
-bspades      ♠
-whearts      ♡
-wdiamonds    ♢
-wdiams       ♢
-bclubs       ♣
-wspades      ♤
-bhearts      ♥
-bdiamonds    ♦
-bdiams       ♦
-wclubs       ♧
-# %}}}
-
-# dice %{{{
-
-die1         ⚀
-die2         ⚁
-die3         ⚂
-die4         ⚃
-die5         ⚄
-die6         ⚅
-
-# %}}}
-
-# checkers %{{{
-
-wman              ⛀  # [w]hite [man]
-wdam              ⛁  # [dam]a/e
-bman              ⛂  # [b]lack
-bdam              ⛃
-
-# %}}}
 
 # %}}}
 
