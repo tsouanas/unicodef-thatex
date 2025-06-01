@@ -20,6 +20,7 @@
     "E" = ("insertText:", "È");
     "A" = ("insertText:", "À");
     ")" = ("insertText:", "´");
+    "(" = ("insertText:", "`");
     "9" = ("insertText:", "‛");
     "6" = ("insertText:", "‘");
   };
@@ -850,6 +851,7 @@
     "'" = ("insertText:", "’");
   };
   "(" = {
+    "`" = ("insertText:", "`");
     ";" = ("insertText:", "⁏");
     "?" = ("insertText:", "¿");
     "!" = ("insertText:", "¡");
