@@ -1,4 +1,11 @@
-# misc
+#%{{{ [vim] 
+# vim:foldmarker=%{{{,%}}}
+# vim:foldmethod=marker
+# vim:foldcolumn=5
+#%}}}
+
+# misc %{{{
+
 anchor      ⚓
 boat        ⛵
 brick       🧱
@@ -26,7 +33,10 @@ gmedal      🥇
 smedal      🥈
 bmedal      🥉
 
-# violence-promoting
+# %}}}
+
+# violence-promoting %{{{
+
 blood       🩸
 bomb        💣
 boom        💥
@@ -49,20 +59,29 @@ ufo         🛸
 robot       🤖
 boo         👻
 
-# sports
+# %}}}
+
+# sports %{{{
+
 basket      🏀
 bball       🏀
 tennis      🎾
 pingpong    🏓
 
-# tech
+# %}}}
+
+# tech %{{{
+
 laptop      💻
 desktop     🖥️
 floppy      💾
 gamepad     🎮
 joystick    🕹
 
-# animals
+# %}}}
+
+# animals %{{{
+
 bat         🦇
 bee         🐝
 butterfly   🦋
@@ -92,15 +111,23 @@ tzi         🐢
 unicorn     🦄
 web         🕸️
 whale       🐳
+tsouf       🐳
 
-# plants
+# %}}}
+
+# plants %{{{
+
 rose        🌹
 wrose       🥀
 sunflower   🌻
 cactus      🌵
-luck        🍀
+lucky       🍀
+Luck        🍀
 
-# food & drinks
+# %}}}
+
+# food & drinks %{{{
+
 beer        🍺
 beers       🍻
 burger      🍔
@@ -117,7 +144,10 @@ provar      🍨
 scotch      🥃
 wine        🍷
 
-# faces / emotions
+# %}}}
+
+# faces / emotions %{{{
+
 speak       💬
 say         💬
 think       💭
@@ -246,16 +276,58 @@ downv       👎  # [downv]ote
 uvote       👍  # [u]p[vote]
 dvote       👎  # [d]own[vote]
 
-# place flags
+# %}}}
+
+# place flags %{{{
+
 GR          🇬🇷
 BR          🇧🇷
 FR          🇫🇷
 SCOT        🏴󠁧󠁢󠁳󠁣󠁴󠁿
 EU          🇪🇺
 
-# common flags
+# %}}}
+
+# common flags %{{{
+
 BLACK       🏴
 WHITE       🏳️
 BFLAG       🏴
 WFLAG       🏳️
+PIRATE      🏴‍☠️
+
+# %}}}
+
+# music player (/-prefixed) %{{{
+
+/play       ⏵
+/pause      ⏸
+/playpause  ⏯
+/pp         ⏯
+/stop       ⏹
+/rec        ⏺
+/eject      ⏏
+/eje        ⏏
+/reverse    ⏴
+/rev        ⏴
+/ffwd       ⏩
+/fastfwd    ⏩
+/rewind     ⏪
+/fastf      ⏩
+/fastb      ⏩
+/next       ⏭
+/prev       ⏮
+/ntrack     ⏭
+/ptrack     ⏮
+/skipf      ⏭
+/skipb      ⏮
+/shuffle    🔀
+/repeat     🔁
+/repeat1    🔂
+/rep        🔁
+/rep1       🔂
+/onoff      ⏻
+/power      ⏻
+
+# %}}}
 
