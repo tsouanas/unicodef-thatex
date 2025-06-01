@@ -1,24 +1,48 @@
-# drawings
+#%{{{ [vim] 
+# vim:foldmarker=%{{{,%}}}
+# vim:foldmethod=marker
+# vim:foldcolumn=5
+#%}}}
+
+# dingbats / drawings %{{{
+
 coffin      ⚰
 pirate      ☠
-sun         ☀
+wsun        ☼  # [w]hite
+bsun        ☀  # [b]lack
+sun         ☀  # default: [b]
+female      ♀
+male        ♂
+comet       ☄
 cloud       ☁
 umbrella    ☂
 snowman     ☃
-sham        ☘
-toxic       ☢
-biohaz      ☣
+sham        ☘  # [sham]rock
+atom        ⚛
+bhandl      ☚  # [b]lack hand [l]eft
+bhandr      ☛
+whandl      ☜  # [w]hite
+whandr      ☞
+whandu      ☝
+whandd      ☟
 bphone      ☎
 wphone      ☏
+mail        ✉
+email       ✉
+write       ✍
+gear        ⚙
+swords      ⚔
+justice     ⚖
 wflag       ⚐
 bflag       ⚑
+recycle     ♻
 penta       ⛤
+pentar      ⛥  # interlaced [r]ight-handed
+pental      ⛦
 bapho       ⛧
 bflower     ✿
 wflower     ❀
 milaki      ❀
-swords      ⚔
-fight       ⚔
 music       ♪
 note        ♪
 notes       ♫
@@ -28,70 +52,28 @@ sad         ᑥ
 hrmf        ⍨
 hm          ⸚
 smooch      ⍣
+woa         ⍤
+Woa         ⍥
+tsioud      ⍢
+tsiour      ⍩
+tsiou       ⍩  # default: [r]
+bichinho    ⍾
 lucas       ⌖
 gandalf     ᚠ
 provatinaa  𐘐  # Linear A
 provatinab  𐂆  # Linear B
 provatina   𐘐  # pick Linear A as default
 
-# checkboxes
-checkb      ☐
-checkc      ☑
-checkx      ☒
-ymark       ✓
-nmark       ✗
-tick        ✓
-yeap        ✓
-nope        ✗
-bmark       ◎
-omark       ○
-tmark       △
-xmark       ✕
+# %}}}
 
-# music
-flat        ♭
-sharp       ♯
-natu        ♮
-qnote       ♩
-enote       ♪
-enotes      ♫
-snotes      ♬
-4note       ♩
-8note       ♪
-8notes      ♫
-16notes     ♬
-turn        ∾
+# sports %{{{
 
-# music player (/-prefixed)
-/play       ⏵
-/pause      ⏸
-/playpause  ⏯
-/pp         ⏯
-/stop       ⏹
-/rec        ⏺
-/eject      ⏏
-/reverse    ⏴
-/rev        ⏴
-/ffwd       ⏩
-/fastfwd    ⏩
-/rewind     ⏪
-/fastf      ⏩
-/fastb      ⏩
-/next       ⏭
-/prev       ⏮
-/ntrack     ⏭
-/ptrack     ⏮
-/skipf      ⏭
-/skipb      ⏮
-/shuffle    🔀
-/repeat     🔁
-/repeat1    🔂
-/rep        🔁
-/rep1       🔂
-/onoff      ⏻
-/power      ⏻
+3x3          𝓔𝓧𝟑
+trinca       𝓔𝓧𝟑
 
-# abbrevs for 6-char limit
+# %}}}
+
+# XXX: abbrevs for 6-char limit
 umbrel      ☂
 snowma      ☃
 
