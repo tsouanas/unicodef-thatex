@@ -875,6 +875,9 @@ inoremap \\lcar 𝚌𝚊𝚛
 inoremap \\lcdr 𝚌𝚍𝚛
 inoremap \\Lcar ᴄᴀʀ
 inoremap \\Lcdr ᴄᴅʀ
+inoremap \\arat 𝟎
+inoremap \\arcom ⊗
+inoremap \\arto ↠
 inoremap \\lquasi ⌜
 inoremap \\rquasi ⌝
 inoremap \\lqua ⌜
@@ -891,6 +894,8 @@ inoremap \\lcod ⸤
 inoremap \\rcod ⸥
 inoremap \\eqs ▸
 inoremap \\gets ←
+inoremap \\lpre ⁻¹'
+inoremap \\limg ''
 inoremap \\=0 𝟘
 inoremap \\=1 𝟙
 inoremap \\=2 𝟚
@@ -951,6 +956,8 @@ inoremap \\kronsum ⊕
 inoremap \\kronprod ⊗
 inoremap \\krprod ∗
 inoremap \\fsprod ∙
+inoremap \\bdry ∂
+inoremap \\bd ∂
 inoremap \\lgen ⟨
 inoremap \\rgen ⟩
 inoremap \\egen ⟨⟩

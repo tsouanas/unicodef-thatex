@@ -22,9 +22,11 @@
 | <code>whandd</code> | ☟ |
 | <code>bphone</code> | ☎ |
 | <code>wphone</code> | ☏ |
+| <code>phone</code> | ☏ |
 | <code>mail</code> | ✉ |
 | <code>email</code> | ✉ |
 | <code>write</code> | ✍ |
+| <code>sign</code> | ✍ |
 | <code>gear</code> | ⚙ |
 | <code>swords</code> | ⚔ |
 | <code>justice</code> | ⚖ |

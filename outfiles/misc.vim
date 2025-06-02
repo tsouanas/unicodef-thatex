@@ -21,9 +21,11 @@ inoremap \\whandu ☝
 inoremap \\whandd ☟
 inoremap \\bphone ☎
 inoremap \\wphone ☏
+inoremap \\phone ☏
 inoremap \\mail ✉
 inoremap \\email ✉
 inoremap \\write ✍
+inoremap \\sign ✍
 inoremap \\gear ⚙
 inoremap \\swords ⚔
 inoremap \\justice ⚖

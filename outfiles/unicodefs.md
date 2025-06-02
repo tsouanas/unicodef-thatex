@@ -2590,9 +2590,11 @@
 | <code>whandd</code> | ☟ |
 | <code>bphone</code> | ☎ |
 | <code>wphone</code> | ☏ |
+| <code>phone</code> | ☏ |
 | <code>mail</code> | ✉ |
 | <code>email</code> | ✉ |
 | <code>write</code> | ✍ |
+| <code>sign</code> | ✍ |
 | <code>gear</code> | ⚙ |
 | <code>swords</code> | ⚔ |
 | <code>justice</code> | ⚖ |
@@ -3508,6 +3510,9 @@
 | <code>lcdr</code> | 𝚌𝚍𝚛 |
 | <code>Lcar</code> | ᴄᴀʀ |
 | <code>Lcdr</code> | ᴄᴅʀ |
+| <code>arat</code> | 𝟎 |
+| <code>arcom</code> | ⊗ |
+| <code>arto</code> | ↠ |
 | <code>lquasi</code> | ⌜ |
 | <code>rquasi</code> | ⌝ |
 | <code>lqua</code> | ⌜ |
@@ -3524,6 +3529,8 @@
 | <code>rcod</code> | ⸥ |
 | <code>eqs</code> | ▸ |
 | <code>gets</code> | ← |
+| <code>lpre</code> | ⁻¹' |
+| <code>limg</code> | '' |
 | <code>=0</code> | 𝟘 |
 | <code>=1</code> | 𝟙 |
 | <code>=2</code> | 𝟚 |
@@ -3584,6 +3591,8 @@
 | <code>kronprod</code> | ⊗ |
 | <code>krprod</code> | ∗ |
 | <code>fsprod</code> | ∙ |
+| <code>bdry</code> | ∂ |
+| <code>bd</code> | ∂ |
 | <code>lgen</code> | ⟨ |
 | <code>rgen</code> | ⟩ |
 | <code>egen</code> | ⟨⟩ |
