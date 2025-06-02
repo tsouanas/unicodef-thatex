@@ -1010,6 +1010,9 @@ lcar              𝚌𝚊𝚛  # [l]isp
 lcdr              𝚌𝚍𝚛
 Lcar              ᴄᴀʀ  # [L]ISP
 Lcdr              ᴄᴅʀ
+arat              𝟎  # [ar]ity [at]omic (single & saturated)
+arcom             ⊗  # [ar]ity [com]bination (combined)
+arto              ↠  # [ar]ity [to] (unsaturated)
 
 # %}}}
 
