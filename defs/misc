@@ -19,6 +19,7 @@ umbrella    ☂
 snowman     ☃
 sham        ☘  # [sham]rock
 atom        ⚛
+
 bhandl      ☚  # [b]lack hand [l]eft
 bhandr      ☛
 whandl      ☜  # [w]hite
@@ -27,9 +28,12 @@ whandu      ☝
 whandd      ☟
 bphone      ☎
 wphone      ☏
+phone       ☏  # default: [w]
 mail        ✉
 email       ✉
 write       ✍
+sign        ✍
+
 gear        ⚙
 swords      ⚔
 justice     ⚖
@@ -48,6 +52,7 @@ note        ♪
 notes       ♫
 mrhappy     ☺
 mrsad       ☹
+
 sad         ᑥ
 hrmf        ⍨
 hm          ⸚
