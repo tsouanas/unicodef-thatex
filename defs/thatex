@@ -1035,10 +1035,12 @@ rcod              ⸥
 
 # %}}}
 
-## lean %{{{
+## lean / mathlib %{{{
 
 eqs               ▸
 gets              ←
+lpre              ⁻¹'
+limg              ''
 
 # %}}}
 
