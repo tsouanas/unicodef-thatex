@@ -152,8 +152,13 @@ radfe       ◉  # [f]ish[e]ye
 
 # %{{{ music 
 
+fclef       𝄢
+cclef       𝄡
+gclef       𝄞
 natu        ♮  # [natu]ral
 flat        ♭
+fflat       𝄫
+dflat       𝄫
 sharp       ♯
 ssharp      𝄪  # (double)
 dsharp      𝄪  # [d]ouble
@@ -1798,9 +1803,6 @@ bminus            ▬  # [b]lack
 frown             ⌢
 smile             ⌣
 frosmi            ⁐  # [fro]wn [smi]le
-flat              ♭
-sharp             ♯
-natu              ♮  # [natu]ral
 magic             ⛤
 comagic           ⛧
 spades            ♠

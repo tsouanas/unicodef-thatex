@@ -2751,8 +2751,13 @@
 | <code>radb</code> | ◉ |
 | <code>radbe</code> | ◎ |
 | <code>radfe</code> | ◉ |
+| <code>fclef</code> | 𝄢 |
+| <code>cclef</code> | 𝄡 |
+| <code>gclef</code> | 𝄞 |
 | <code>natu</code> | ♮ |
 | <code>flat</code> | ♭ |
+| <code>fflat</code> | 𝄫 |
+| <code>dflat</code> | 𝄫 |
 | <code>sharp</code> | ♯ |
 | <code>ssharp</code> | 𝄪 |
 | <code>dsharp</code> | 𝄪 |
@@ -4159,9 +4164,6 @@
 | <code>frown</code> | ⌢ |
 | <code>smile</code> | ⌣ |
 | <code>frosmi</code> | ⁐ |
-| <code>flat</code> | ♭ |
-| <code>sharp</code> | ♯ |
-| <code>natu</code> | ♮ |
 | <code>magic</code> | ⛤ |
 | <code>comagic</code> | ⛧ |
 | <code>spades</code> | ♠ |

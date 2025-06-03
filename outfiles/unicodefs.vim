@@ -1433,8 +1433,13 @@ inoremap \\radw ◎
 inoremap \\radb ◉
 inoremap \\radbe ◎
 inoremap \\radfe ◉
+inoremap \\fclef 𝄢
+inoremap \\cclef 𝄡
+inoremap \\gclef 𝄞
 inoremap \\natu ♮
 inoremap \\flat ♭
+inoremap \\fflat 𝄫
+inoremap \\dflat 𝄫
 inoremap \\sharp ♯
 inoremap \\ssharp 𝄪
 inoremap \\dsharp 𝄪
