@@ -1118,6 +1118,9 @@ krprod            ∗  # [K]hatri–[R]ao [prod]uct
 fsprod            ∙  # [f]ace-[s]plitting [prod]uct
 bdry              ∂  # [b]oun[d]a[ry] (or frontier)
 bd                ∂
+clos              ⁻  # [clos]ure
+inte              °  # [inte]rior
+
 
 # %}}}
 
@@ -2334,26 +2337,32 @@ _right            ￫
 # sem-named %{{{
 
 @cantorc   ̿   # [cantor]'s [c]ardinality
+@oinv      ̅   # [o]ver [inv]erse
+@oiinv     ̿   # (double)
 @vec        ⃗  # [vec]tor
 @cev        ⃖  # (vec backwards)
-@rvec       ⃗  # [r]ight
-@lvec       ⃖  # [l]eft
+@vecr       ⃗  # [r]ight
+@vecl       ⃖  # [l]eft
 
 # %}}}
 
 # syn-named %{{{
 
 @oast       ⃰  # [o]ver
-@oal        ⃖  # [a]rrow [l]eft
-@oar        ⃗
+@oarrl      ⃖  # [arr]ow [l]eft
+@oarrr      ⃗
+@ol         ⃖  # (arrow)
+@or         ⃗
 @ohat      ̂
 @ocirc     ̊
 @obar      ̅
 @obbar     ̿
 @odot      ̇
 @oddot     ̈
-@ual        ⃮  # [u]nder [a]rrow [l]eft
-@uar        ⃯
+@uarrl      ⃮  # [u]nder [a]rrow [l]eft
+@uarrr      ⃯
+@ul         ⃮  # (arrow)
+@ur         ⃯
 @ult        ͔
 @ugt        ͕
 @ubot      ̝
