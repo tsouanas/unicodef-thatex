@@ -1,5 +1,10 @@
-################################################################
-# Punctuation, quotes, …
+#%{{{ [vim] 
+# vim:foldmarker=%{{{,%}}}
+# vim:foldmethod=marker
+# vim:foldcolumn=5
+#%}}}
+
+# Punctuation, quotes, … %{{{
 "<     «
 ">     »
 '<     ‹
@@ -79,15 +84,38 @@ _]     ⸥
 ??     ⁇
 ^~     ˜
 ^^     ˆ
+# %}}}
 
-################################################################
-# Letter-based symbols
-oo     ᵒ
-aa     ᵃ
+# Ordinals %{{{
+
+oo     º  # XXX: should expand to \oo\
+aa     ª
+nst    ˢᵗ
+nnd    ⁿᵈ
+nrd    ʳᵈ
+nth    ᵗʰ
+0th    0ᵗʰ
+1st    1ˢᵗ
+2nd    2ⁿᵈ
+3rd    3ʳᵈ
+4th    4ᵗʰ
+5th    5ᵗʰ
+6th    6ᵗʰ
+7th    7ᵗʰ
+8th    8ᵗʰ
+9th    9ᵗʰ
+
+# %}}}
+
+# Letter-based symbols %{{{
+
+No     №
+no     nᵒ
+TM     ™
 tm     ™
 PP     ¶
 pp     ¶
-so     §
+so     §  # (compat)
 c|     ¢
 c/     ¢
 s|     $
@@ -100,22 +128,80 @@ po     ℗
 00     °
 ee     ℮
 
-################################################################
-# Ligatures
-ff     ﬀ
+# %}}}
+
+# Ligatures and alt-forms %{{{
+
+# \lig\ to guarantee prefix code %{{{
+
+\fi\   ﬁ
+\fl\   ﬂ
+\ff\   ﬀ
+\ffi\  ﬃ
+\ffl\  ﬄ
+\sl\   ſ  # [s], [l]ong
+\slt\  ﬅ
+\sft\  ﬆ  # [s], [f]inal
+\st\   ﬅ
+\s.t\  ﬆ
+\ss\   ß
+\SS\   ẞ
+\al\   ɑ
+\el\   ℓ
+\ae\   æ
+\au\   ꜷ
+\av\   ꜹ
+\ay\   ꜽ
+\hv\   ƕ
+\ll\   ỻ
+\oe\   œ
+\oo\   ꝏ
+\ue\   ᵫ
+\vy\   ꝡ
+\Al\   Ɑ
+\AE\   Æ
+\AU\   Ꜷ
+\AV\   Ꜹ
+\AY\   Ꜽ
+\Hv\   Ƕ
+\LL\   Ỻ
+\OE\   Œ
+\OO\   Ꝏ
+\VY\   Ꝡ
+\et\   🙰
+
+# %}}}
+
+# living dangerously %{{{
+
 fi     ﬁ
 fl     ﬂ
+ff     ﬀ
 Fi     ﬃ
 Fl     ﬄ
-ae     æ
-oe     œ
-AE     Æ
-OE     Œ
+2fi    ﬃ
+2fl    ﬄ
+sl     ſ  # [s], [l]ong
+st     ﬅ
+sft    ﬆ  # [s], [f]inal
+s\t    ﬆ
 ss     ß
 SS     ẞ
+Ss     ẞ
+al     ɑ
+el     ℓ
+ae     æ
+oe     œ
+Al     Ɑ
+AE     Æ
+OE     Œ
+et     🙰
 
-################################################################
-# Extended latin, action first
+# %}}}
+
+# %}}}
+
+# Extended latin %{{{
 # !: underdot
 # ': acute, apostrophe
 # ,: cedilha, hypodiastole, ogonek
@@ -129,6 +215,9 @@ SS     ẞ
 # 0: overring
 # v: caron
 # ~: tilde
+
+## action first %{{{
+
 !A     Ạ
 !B     Ḅ
 !D     Ḍ
@@ -404,8 +493,10 @@ vz     ž
 ~v     ṽ
 ~y     ỹ
 
-################################################################
-# Extended latin, letter first
+# %}}}
+
+## letter first %{{{
+
 a`     à
 a'     á
 av     ǎ
@@ -683,14 +774,105 @@ Zv     Ž
 Z.     Ż
 Z!     Ẓ
 
-################################################################
-# transformed characters: reversed, upside-down, etc.
-# [: h-flip
-# ]: v-flip
-# {: π-rotate
-# }: other
+# %}}}
 
-## {: π-rotate
+# %}}}
+
+# Transformed characters %{{{
+# X[ or X#h: h-flip
+# X] or X#v: v-flip
+# X{ or X#p: π-rotate
+
+## h-flip %{{{
+
+### X[ %{{{
+B[     ꓭ
+C[     ꓛ
+D[     ꓷ
+E[     ꓱ
+F[     ꟻ
+K[     ꓘ
+L[     ⅃
+P[     ꟼ
+R[     Я
+S[     Ƨ
+e[     ɘ
+s[     ƨ
+;[     ⁏
+?[     ⸮
+,[     ⹁
+`[     ´
+1[     ⥜
+# %}}}
+
+### X#h %{{{
+
+B#h     ꓭ
+C#h     ꓛ
+D#h     ꓷ
+E#h     ꓱ
+F#h     ꟻ
+K#h     ꓘ
+L#h     ⅃
+P#h     ꟼ
+R#h     Я
+S#h     Ƨ
+e#h     ɘ
+s#h     ƨ
+;#h     ⁏
+?#h     ⸮
+,#h     ⹁
+`#h     ´
+1#h     ⥜
+
+# %}}}
+
+# %}}}
+
+## v-flip %{{{
+
+### X] %{{{
+
+A]     ꓯ
+B]     B  # XXX: not really symmetrical
+C]     C
+D]     D
+E]     E
+O]     O
+R]     ʁ
+T]     ꓕ
+U]     ꓵ
+V]     ꓥ
+Y]     ⅄
+!]     ¡
+1]     ⥡
+
+# %}}}
+
+### X#v %{{{
+
+A#v     ꓯ
+B#v     B  # XXX: not really symmetrical
+C#v     C
+D#v     D
+E#v     E
+O#v     O
+R#v     ʁ
+T#v     ꓕ
+U#v     ꓵ
+V#v     ꓥ
+Y#v     ⅄
+!#v     ¡
+1#v     ⥡
+
+# %}}}
+
+# %}}}
+
+## π-rotate %{{{
+
+### X{ %{{{
+
 A{     ꓯ
 B{     ꓭ
 C{     ꓛ
@@ -746,38 +928,76 @@ z{     z
 ?{     ¿
 !{     ¡
 1{     ⥝
+\ae{\  ᴂ
+\ao{\  ᴔ
+\al{\  ɒ
 
-## v-flip
-A]     ꓯ
-B]     B  # XXX: not really symmetrical
-C]     C
-D]     D
-E]     E
-O]     O
-R]     ʁ
-T]     ꓕ
-U]     ꓵ
-V]     ꓥ
-Y]     ⅄
-!]     ¡
-1]     ⥡
+# %}}}
 
-## h-flip
-B[     ꓭ
-C[     ꓛ
-D[     ꓷ
-E[     ꓱ
-F[     ꟻ
-K[     ꓘ
-L[     ⅃
-P[     ꟼ
-R[     Я
-S[     Ƨ
-e[     ɘ
-s[     ƨ
-;[     ⁏
-?[     ⸮
-,[     ⹁
-`[     ´
-1[     ⥜
+### X#p %{{{
+
+A#p     ꓯ
+B#p     ꓭ
+C#p     ꓛ
+D#p     ꓷ
+E#p     ꓱ
+F#p     ꓞ
+G#p     ꓨ
+H#p     H
+I#p     I
+J#p     ꓩ
+K#p     ꓘ
+L#p     ꓶ
+M#p     ꟽ
+N#p     N
+O#p     O
+P#p     ꓒ
+R#p     ꓤ
+S#p     S
+T#p     ꓕ
+U#p     ꓵ
+V#p     ꓥ
+X#p     Z
+Y#p     ⅄
+Z#p     Z
+a#p     ɐ
+b#p     q
+c#p     ɔ
+d#p     p
+e#p     ǝ
+f#p     ɟ
+g#p     ƃ
+h#p     ɥ
+i#p     ı
+j#p     ɾ
+k#p     ʞ
+l#p     ʃ
+m#p     ɯ
+n#p     u
+o#p     o
+p#p     d
+q#p     b
+r#p     ɹ
+s#p     s
+t#p     ʇ
+u#p     n
+v#p     ʌ
+w#p     ʍ
+x#p     x
+y#p     ʎ
+z#p     z
+&#p     ⅋
+;#p     ؛
+?#p     ¿
+!#p     ¡
+1#p     ⥝
+\ae#p\  ᴂ
+\ao#p\  ᴔ
+\al#p\  ɒ
+
+# %}}}
+
+# %}}}
+
+# %}}}
 
