@@ -1118,8 +1118,10 @@ krprod            ∗  # [K]hatri–[R]ao [prod]uct
 fsprod            ∙  # [f]ace-[s]plitting [prod]uct
 bdry              ∂  # [b]oun[d]a[ry] (or frontier)
 bd                ∂
-clos              ⁻  # [clos]ure
-inte              °  # [inte]rior
+closure           ˉ  # [clos]ure
+clos              ˉ
+interior          ˚  # [inte]rior
+inte              ˚
 
 
 # %}}}
@@ -1338,7 +1340,7 @@ vposs             ◇  # [v]ar
 
 # %}}}
 
-# order %{{{
+# order theory %{{{
 
 dual              ∂
 top               ⊤
@@ -1792,6 +1794,7 @@ Star              ★  # (large) star (nul op / individual)
 star              ⋆  # [s]mall star (bin op)
 astcol            ⁑  # [ast]erisk [col]on
 ast               ∗  # [ast]erisk op
+tricol            ː  # [tri]angular [col]on
 caret             ^  # [car]et op
 dia               ⋄  # [dia]mond
 bdia              ⬩  # [b]lack
@@ -1997,6 +2000,8 @@ sbtriu            ▴  # [s]mall [b]lack
 sbtrid            ▾
 sbtril            ◂
 sbtrir            ▸
+dottrir           ᐉ
+dtrir             ᐉ
 
 # %}}}
 
@@ -2292,42 +2297,90 @@ timpb             ⟺
 
 # %}}}
 
-# superscripts and subscripts %{{{
+# superscripts, subscripts, modifiers %{{{
 
-^bul              ᣟ
+wdot              ᐧ  # [w]ith [dot]
+wudot             ᐧ  # [u]pper
+
 ^ast              *  # plain old [ast]erisk
+^bul              ᣟ
 ^bang             ꜝ
 ^gnab             ꜞ
-^down             ꜜ
-^up               ꜛ
+^caret            ˆ
+^cflex            ˆ  # [c]ircum[flex]
+^caron            ˇ
+^tilde            ˜
+^circ             ˚
+^ring             ˚
+^macron           ˉ
+^breve            ˘
+^dot              ˙
+^square           ⸋
+^sq               ⸋
+^box              ⸋
 ^triangle         ᐞ
 ^tri              ᐞ
 ^slash            ᐟ
-^divby            ᐟ
 ^bslash           ᐠ
+^eth              ᶞ
+^up               ꜛ
+^down             ꜜ
+^lang             ˂
+^rang             ˃
+^uang             ˄
+^dang             ˅
+
+_back             ˿
+_bul               ٜ
+_bang             ﹗
+_ask              ﹖
+_caret            ‸
+_cflex            ‸  # [c]ircum[flex]
+_caron            ˬ
+_tilde            ˷
+_circ             ˳
+_ring             ˳
+_up               ￪
+_down             ￬
+_left             ￩
+_right            ￫
+_lang             ˱
+_rang             ˲
+_uang             ˰
+_dang             ˯
+
+^divby            ᐟ
+_plus             ˖
+_minus            ˗
+
+## superscripts / subscripts: relations 
+^sim              ˜
+_sim              ˷
+
+## superscripts / subscripts: sets
+^symdiff          ᐞ
+^symd             ᐞ
 ^sminus           ᐠ
 ^sdiff            ᐠ
 ^union            ᐡ
 ^inter            ᐢ
 ^hsubs            ᒼ
 ^hsups            ᐣ
-^meet             ᣔ
-^lt               ᑉ
-^dot              ᐧ
-^square           ⸋
-^sq               ⸋
-^box              ⸋
-^top              ⸆
-^eth              ᶞ
+
+## superscripts / subscripts: order theory
+^lt               ˂
+^rt               ˃
+^meet             ˄
+^join             ˅
 ^dual             ᶞ  # XXX: should be ^∂ (not ^ð)
-_caret            ‸
-_bul               ٜ
-_bang             ﹗
-_ask              ﹖
-_up               ￪
-_down             ￬
-_left             ￩
-_right            ￫
+^top              ⸆
+_lt               ˱
+_rt               ˲
+_meet             ˰
+_join             ˯
+_bot              ˔
+_top              ˕
+
 
 # %}}}
 
