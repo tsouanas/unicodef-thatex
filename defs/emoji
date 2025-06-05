@@ -16,6 +16,7 @@ bulb        💡
 buoy        🛟
 car         🚙
 fire        🔥
+flame       🔥
 hook        🪝
 gancho      🪝
 gift        🎁
@@ -32,6 +33,18 @@ imedal      🏅
 gmedal      🥇
 smedal      🥈
 bmedal      🥉
+WIP         🚧
+TOP         🔝
+
+# %}}}
+
+# text %{{{
+
+NO          ❌
+YES         ✅
+N           ❌
+Y           ✅
+WARN        ⚠️
 
 # %}}}
 
@@ -41,6 +54,7 @@ blood       🩸
 bomb        💣
 boom        💥
 boxing      🥊
+burn        🔥
 dead        💀
 hammer      🔨
 jack        🎃
@@ -74,9 +88,47 @@ pingpong    🏓
 
 laptop      💻
 desktop     🖥️
+computer    🖥
 floppy      💾
 gamepad     🎮
 joystick    🕹
+joy         🕹
+wifi        🛜
+signal      📶
+camera      📷
+cam         📷
+camf        📸
+photo       📷
+video       📹
+
+# %}}}
+
+# weather / space %{{{
+
+Cloud       ☁️
+Suncloud    🌤️
+Cloudsun    🌥️
+Sun         ☀️
+Moon        🌙
+mrsun       🌞
+mrmoon      🌚
+mrmoonb     🌚
+mrmoonw     🌝
+mrmoonl     🌛
+mrmoonr     🌜
+moony       🌚
+moonb       🌑
+moonbbw     🌒
+moonbw      🌓
+moonbww     🌔
+moonw       🌕
+moonwwb     🌖
+moonwb      🌗
+moonwbb     🌘
+nmoon       🌑
+fmoon       🌕
+fog         🌫️
+mist        🌫
 
 # %}}}
 
@@ -92,6 +144,7 @@ elephant    🐘
 flamingo    🦩
 goat        🐐
 gorilla     🦍
+grl         🦍
 goose       🪿
 ganso       🪿
 hippo       🦛
@@ -112,6 +165,7 @@ unicorn     🦄
 web         🕸️
 whale       🐳
 tsouf       🐳
+wolf        🐺
 
 # %}}}
 
@@ -128,6 +182,10 @@ Luck        🍀
 
 # food & drinks %{{{
 
+apple       🍎
+rapple      🍎
+gapple      🍏
+banana      🍌
 beer        🍺
 beers       🍻
 burger      🍔
@@ -136,6 +194,8 @@ coco        🥥
 icecream    🍨
 kebab       🌯
 martini     🍸
+pear        🍐
+pera        🍐
 pizza       🍕
 popcorn     🍿
 pipoca      🍿
@@ -275,6 +335,21 @@ upv         👍  # [upv]ote
 downv       👎  # [downv]ote
 uvote       👍  # [u]p[vote]
 dvote       👎  # [d]own[vote]
+heart       ❤️
+brokenh     💔
+hurth       ❤️‍🩹
+pinkh       🩷
+orangeh     🧡
+yellowh     💛
+greenh      💚
+blueh       💙
+cyanh       🩵
+purpleh     💜
+brownh      🤎
+blackh      🖤
+greyh       🩶
+grayh       🩶
+whiteh      🤍
 
 # %}}}
 
