@@ -257,6 +257,20 @@ Eth               Ð
 eth               ð
 Thorn             Þ
 thorn             þ
+That              ꝥ
+that              Ꝥ
+Thru              Ꝧ
+thru              ꝧ
+Welshv            Ỽ  # middle [Welsh] [v]
+welshv            ỽ
+Wynn              Ƿ
+wynn              ƿ
+Vend              Ꝩ
+vend              ꝩ
+Tiroet            ⹒  # [Tiro]nian [et]
+tiroet            ⁊
+
+
 prescr            ℞
 sho               Ϸ  # Bactrian Ϸ "sho"
 tsan              ͷ  # Arcadian "tsan"
@@ -649,6 +663,9 @@ o2int             ∯
 o3int             ∰
 uint              ⨛  # [u]pper
 lint              ⨜  # [l]ower
+osum              ⨊
+sumint            ⨋
+intsum            ⨋
 partial           ∂
 parder            ∂  # [par]tial [der]ivative
 pderiv            ∂  # [p]artial [deriv]ative
@@ -1642,8 +1659,12 @@ lmous             ⎰  # [mous]tache
 rmous             ⎱
 lshrug            ⎱
 rshrug            ⎰
-moonl             ❨
-moonr             ❩
+lbmoon            ❨
+rbmoon            ❩
+lwmoon            ☾
+rwmoon            ☽︎
+lmoon             ❨  # default: [b]
+rmoon             ❩
 lquine            ⌜  # [qui]ne
 rquine            ⌝
 lqui              ⌜  # [qui]ne
@@ -1724,16 +1745,83 @@ hourglass         ⧖
 # letterish %{{{
 
 wp                ℘  # [W]eierstraß p
+hbar              ħ
+hb                ħ
+h-                ħ
+hslash            ℏ
+hs                ℏ
+h/                ℏ
 ell               ℓ
-Ell               ℒ
+Ell               ℒ  # WARN: abuse: not really its uppercase
+ohring            ⱺ  # [oh] with [ring]
+oho               ⱺ
 horse             ʊ
 Horse             Ʊ
-hbar              ℏ
-hslash            ℏ
 cothree           ƹ
 coThree           Ƹ
 scythe            ʕ
 ramshorn          ɤ
+
+# %}}}
+
+# ,-fancified %{{{
+
+a,                ɑ
+A,                Ɑ
+b,                ɓ
+B,                Ɓ
+c,                ɕ
+C,                𝒞  # WARN: abuse: not really its uppercase
+d,                ɗ
+D,                Ɗ
+d,,               ꝺ
+D,,               Ꝺ
+g,                ɠ
+G,                Ɠ
+g,,               ɡ
+G,,               Ɡ
+h,                ɦ
+H,                Ɦ
+h,,               ɧ
+H,,               ℋ  # WARN: abuse: not really its uppercase
+k,                ƙ
+K,                Ƙ
+l,                ℓ
+L,                ℒ  # WARN: abuse: not really its uppercase
+m,                ɱ
+M,                Ɱ
+n,                ɲ
+N,                Ɲ
+n,,               ɳ
+p,                ƥ
+P,                Ƥ
+q,                ɋ
+Q,                Ɋ
+r,                ɽ
+R,                Ɽ
+cor,              ⱹ
+t,                ƭ
+T,                Ƭ
+t,,               ꞇ
+T,,               Ꞇ
+v,                ⱴ
+V,                𝒱  # WARN: abuse: not really its uppercase
+v,,               ʋ
+V,,               Ʋ
+v,,,              ỽ
+V,,,              Ỽ
+w,                ⱳ
+W,                Ⱳ
+y,                ƴ
+Y,                Ƴ
+y,,               ỿ
+Y,,               Ỿ
+z,                ɀ
+Z,                Ɀ
+z,,               ʑ
+zh                ʒ
+Zh                Ʒ
+zh,               ʓ
 
 # %}}}
 
