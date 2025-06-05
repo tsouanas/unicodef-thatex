@@ -36,7 +36,9 @@ inoremap \\varbeta ϐ
 inoremap \\curbeta ϐ
 inoremap \\vbeta ϐ
 inoremap \\cbeta ϐ
-inoremap \\gamma γ
+inoremap \\gamma ɣ
+inoremap \\vargamma γ
+inoremap \\vgamma γ
 inoremap \\delta δ
 inoremap \\epsilon ε
 inoremap \\epsi ε

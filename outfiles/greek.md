@@ -37,7 +37,9 @@
 | <code>curbeta</code> | ϐ |
 | <code>vbeta</code> | ϐ |
 | <code>cbeta</code> | ϐ |
-| <code>gamma</code> | γ |
+| <code>gamma</code> | ɣ |
+| <code>vargamma</code> | γ |
+| <code>vgamma</code> | γ |
 | <code>delta</code> | δ |
 | <code>epsilon</code> | ε |
 | <code>epsi</code> | ε |

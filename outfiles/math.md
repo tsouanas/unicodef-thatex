@@ -151,7 +151,7 @@
 | <code>1&#96;</code> | ‵ |
 | <code>2&#96;</code> | ‶ |
 | <code>3&#96;</code> | ‷ |
-| <code>h-</code> | ℏ |
+| <code>h-</code> | ħ |
 | <code>h/</code> | ℏ |
 | <code>[[</code> | ⟦ |
 | <code>]]</code> | ⟧ |

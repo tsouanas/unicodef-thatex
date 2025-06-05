@@ -150,7 +150,7 @@ inoremap \4' ⁗
 inoremap \1` ‵
 inoremap \2` ‶
 inoremap \3` ‷
-inoremap \h- ℏ
+inoremap \h- ħ
 inoremap \h/ ℏ
 inoremap \[[ ⟦
 inoremap \]] ⟧
