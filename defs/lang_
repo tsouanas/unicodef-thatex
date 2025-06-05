@@ -251,6 +251,7 @@ Tet    ⹒
 # u: breve
 # L: inverted breve (like Lambda)
 # ~: tilde
+# %: other: dot above and below, ring below, ...
 
 ## action first %{{{
 
@@ -518,8 +519,6 @@ Tet    ⹒
 
 0A     Å
 0U     Ů
-0W     ẘ
-0Y     ẙ
 0a     å
 0u     ů
 0w     ẘ
@@ -601,6 +600,11 @@ Lu     ȗ
 ~v     ṽ
 ~y     ỹ
 
+%A     Ḁ
+%a     ḁ
+%S     Ṩ
+%s     ṩ
+
 # %}}}
 
 ## letter first %{{{
@@ -618,6 +622,7 @@ av     ǎ
 au     ă
 aL     ȃ
 a~     ã
+a%     ḁ
 b!     ḅ
 b.     ḃ
 c'     ć
@@ -700,6 +705,7 @@ o.     ȯ
 o/     ø
 o:     ö
 o=     ő
+o"     ő
 o^     ô
 o`     ò
 ov     ǒ
@@ -716,6 +722,7 @@ s'     ś
 s.     ṡ
 s^     ŝ
 sv     š
+s%     ṩ
 t!     ṭ
 t-     ŧ
 t.     ṫ
@@ -727,6 +734,7 @@ u,     ų
 u-     ū
 u:     ü
 u=     ű
+u"     ű
 u^     û
 u`     ù
 u0     ů
@@ -750,6 +758,8 @@ y'     ý
 y-     ȳ
 y.     ẏ
 y:     ÿ
+y=     ӳ  # WARN: abuse: cyrillic
+y"     ӳ  # WARN: abuse: cyrillic
 y^     ŷ
 y`     ỳ
 y0     ẙ
@@ -773,6 +783,7 @@ Av     Ǎ
 Au     Ă
 AL     Ȃ
 A~     Ã
+A%     Ḁ
 B!     Ḅ
 B.     Ḃ
 C'     Ć
@@ -854,6 +865,7 @@ O.     Ȯ
 O/     Ø
 O:     Ö
 O=     Ő
+O"     Ő
 O^     Ô
 O`     Ò
 Ov     Ǒ
@@ -870,6 +882,7 @@ S'     Ś
 S.     Ṡ
 S^     Ŝ
 Sv     Š
+S%     Ṩ
 T!     Ṭ
 T-     Ŧ
 T.     Ṫ
@@ -881,6 +894,7 @@ U,     Ų
 U-     Ū
 U:     Ü
 U=     Ű
+U"     Ű
 U^     Û
 U`     Ù
 U0     Ů
@@ -896,7 +910,6 @@ W.     Ẇ
 W:     Ẅ
 W^     Ŵ
 W`     Ẁ
-W0     ẘ
 X.     Ẋ
 X:     Ẍ
 Y!     Ỵ
@@ -904,9 +917,10 @@ Y'     Ý
 Y-     Ȳ
 Y.     Ẏ
 Y:     Ÿ
+Y=     Ӳ  # WARN: abuse: cyrillic
+Y"     Ӳ  # WARN: abuse: cyrillic
 Y^     Ŷ
 Y`     Ỳ
-Y0     ẙ
 Y~     Ỹ
 Z!     Ẓ
 Z'     Ź
