@@ -779,9 +779,9 @@ Z!     Ẓ
 # %}}}
 
 # Transformed characters %{{{
-# X[ or X#h: h-flip
-# X] or X#v: v-flip
-# X{ or X#p: π-rotate
+# X[ or X#h or X#H: h-flip
+# X] or X#v or X#V: v-flip
+# X{ or X#p or X#P: π-rotate
 
 ## h-flip %{{{
 
@@ -827,6 +827,28 @@ s#h     ƨ
 
 # %}}}
 
+### X#H %{{{
+
+B#H     ꓭ
+C#H     ꓛ
+D#H     ꓷ
+E#H     ꓱ
+F#H     ꟻ
+K#H     ꓘ
+L#H     ⅃
+P#H     ꟼ
+R#H     Я
+S#H     Ƨ
+e#H     ɘ
+s#H     ƨ
+;#H     ⁏
+?#H     ⸮
+,#H     ⹁
+`#H     ´
+1#H     ⥜
+
+# %}}}
+
 # %}}}
 
 ## v-flip %{{{
@@ -864,6 +886,24 @@ V#v     ꓥ
 Y#v     ⅄
 !#v     ¡
 1#v     ⥡
+
+# %}}}
+
+### X#V %{{{
+
+A#V     ꓯ
+B#V     B  # XXX: not really symmetrical
+C#V     C
+D#V     D
+E#V     E
+O#V     O
+R#V     ʁ
+T#V     ꓕ
+U#V     ꓵ
+V#V     ꓥ
+Y#V     ⅄
+!#V     ¡
+1#V     ⥡
 
 # %}}}
 
@@ -994,6 +1034,69 @@ z#p     z
 \ae#p\  ᴂ
 \ao#p\  ᴔ
 \al#p\  ɒ
+
+# %}}}
+
+### X#P %{{{
+
+A#P     ꓯ
+B#P     ꓭ
+C#P     ꓛ
+D#P     ꓷ
+E#P     ꓱ
+F#P     ꓞ
+G#P     ꓨ
+H#P     H
+I#P     I
+J#P     ꓩ
+K#P     ꓘ
+L#P     ꓶ
+M#P     ꟽ
+N#P     N
+O#P     O
+P#P     ꓒ
+R#P     ꓤ
+S#P     S
+T#P     ꓕ
+U#P     ꓵ
+V#P     ꓥ
+X#P     Z
+Y#P     ⅄
+Z#P     Z
+a#P     ɐ
+b#P     q
+c#P     ɔ
+d#P     p
+e#P     ǝ
+f#P     ɟ
+g#P     ƃ
+h#P     ɥ
+i#P     ı
+j#P     ɾ
+k#P     ʞ
+l#P     ʃ
+m#P     ɯ
+n#P     u
+o#P     o
+p#P     d
+q#P     b
+r#P     ɹ
+s#P     s
+t#P     ʇ
+u#P     n
+v#P     ʌ
+w#P     ʍ
+x#P     x
+y#P     ʎ
+z#P     z
+&#P     ⅋
+;#P     ؛
+?#P     ¿
+!#P     ¡
+1#P     ⥝
+\ae#P\  ᴂ
+\ao#P\  ᴔ
+\al#P\  ɒ
 
 # %}}}
 
