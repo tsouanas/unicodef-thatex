@@ -6,79 +6,92 @@
 
 # dingbats / drawings %{{{
 
-coffin      ⚰
-pirate      ☠
-wsun        ☼  # [w]hite
-bsun        ☀  # [b]lack
-sun         ☀  # default: [b]
-female      ♀
-male        ♂
-comet       ☄
-cloud       ☁
-umbrella    ☂
-snowman     ☃
-sham        ☘  # [sham]rock
-atom        ⚛
+coffin        ⚰
+pirate        ☠
+wsun          ☼  # [w]hite
+bsun          ☀  # [b]lack
+sun           ☀  # default: [b]
+moonl         ☽︎  # [moon] looking [l]eft
+moonr         ☾
+comet         ☄
+cloud         ☁
+umbrella      ☂
+snowman       ☃
+sham          ☘  # [sham]rock
 
-bhandl      ☚  # [b]lack hand [l]eft
-bhandr      ☛
-whandl      ☜  # [w]hite
-whandr      ☞
-whandu      ☝
-whandd      ☟
-bphone      ☎
-wphone      ☏
-phone       ☏  # default: [w]
-mail        ✉
-email       ✉
-write       ✍
-sign        ✍
+aesculapius   ⚕
+aescul        ⚕
+caduceus      ⚚
+hermes        ⚚
+mercury       ☿
+venus         ♀
+female        ♀
+mars          ♂
+male          ♂
 
-gear        ⚙
-swords      ⚔
-justice     ⚖
-wflag       ⚐
-bflag       ⚑
-recycle     ♻
-penta       ⛤
-pentar      ⛥  # interlaced [r]ight-handed
-pental      ⛦
-bapho       ⛧
-bflower     ✿
-wflower     ❀
-milaki      ❀
-music       ♪
-note        ♪
-notes       ♫
-mrhappy     ☺
-mrsad       ☹
+atom          ⚛
+medicine      ⚕
+law           ⚖
 
-sad         ᑥ
-hrmf        ⍨
-hm          ⸚
-smooch      ⍣
-woa         ⍤
-Woa         ⍥
-tsioud      ⍢
-tsiour      ⍩
-tsiou       ⍩  # default: [r]
-bichinho    ⍾
-lucas       ⌖
-gandalf     ᚠ
-provatinaa  𐘐  # Linear A
-provatinab  𐂆  # Linear B
-provatina   𐘐  # pick Linear A as default
+bhandl        ☚  # [b]lack hand [l]eft
+bhandr        ☛
+whandl        ☜  # [w]hite
+whandr        ☞
+whandu        ☝
+whandd        ☟
+bphone        ☎
+wphone        ☏
+phone         ☏  # default: [w]
+mail          ✉
+email         ✉
+write         ✍
+sign          ✍
+
+gear          ⚙
+swords        ⚔
+justice       ⚖
+wflag         ⚐
+bflag         ⚑
+recycle       ♻
+penta         ⛤
+pentar        ⛥  # interlaced [r]ight-handed
+pental        ⛦
+bapho         ⛧
+bflower       ✿
+wflower       ❀
+milaki        ❀
+music         ♪
+note          ♪
+notes         ♫
+mrhappy       ☺
+mrsad         ☹
+
+sad           ᑥ
+hrmf          ⍨
+hm            ⸚
+smooch        ⍣
+woa           ⍤
+Woa           ⍥
+tsioud        ⍢
+tsiour        ⍩
+tsiou         ⍩  # default: [r]
+bichinho      ⍾
+lucas         ⌖
+gandalf       ᚠ
+provatinaa    𐘐  # Linear A
+provatinab    𐂆  # Linear B
+provatina     𐘐  # pick Linear A as default
 
 # %}}}
 
 # sports %{{{
 
-3x3          𝓔𝓧𝟑
-trinca       𝓔𝓧𝟑
+3x3           𝓔𝓧𝟑
+trinca        𝓔𝓧𝟑
 
 # %}}}
 
 # XXX: abbrevs for 6-char limit
-umbrel      ☂
-snowma      ☃
+umbrel        ☂
+snowma        ☃
 
