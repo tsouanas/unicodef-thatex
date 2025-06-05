@@ -124,6 +124,7 @@
 | <code>\sft\</code> | ﬆ |
 | <code>\st\</code> | ﬅ |
 | <code>\s.t\</code> | ﬆ |
+| <code>\s-t\</code> | ﬆ |
 | <code>\ss\</code> | ß |
 | <code>\SS\</code> | ẞ |
 | <code>\al\</code> | ɑ |

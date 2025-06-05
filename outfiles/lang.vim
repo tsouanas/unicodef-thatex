@@ -123,6 +123,7 @@ inoremap \\slt\ ﬅ
 inoremap \\sft\ ﬆ
 inoremap \\st\ ﬅ
 inoremap \\s.t\ ﬆ
+inoremap \\s-t\ ﬆ
 inoremap \\ss\ ß
 inoremap \\SS\ ẞ
 inoremap \\al\ ɑ
