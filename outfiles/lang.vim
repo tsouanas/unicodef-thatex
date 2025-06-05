@@ -449,8 +449,6 @@ inoremap \`w ẁ
 inoremap \`y ỳ
 inoremap \0A Å
 inoremap \0U Ů
-inoremap \0W ẘ
-inoremap \0Y ẙ
 inoremap \0a å
 inoremap \0u ů
 inoremap \0w ẘ
@@ -527,6 +525,10 @@ inoremap \~o õ
 inoremap \~u ũ
 inoremap \~v ṽ
 inoremap \~y ỹ
+inoremap \%A Ḁ
+inoremap \%a ḁ
+inoremap \%S Ṩ
+inoremap \%s ṩ
 inoremap \a! ạ
 inoremap \a' á
 inoremap \a, ą
@@ -540,6 +542,7 @@ inoremap \av ǎ
 inoremap \au ă
 inoremap \aL ȃ
 inoremap \a~ ã
+inoremap \a% ḁ
 inoremap \b! ḅ
 inoremap \b. ḃ
 inoremap \c' ć
@@ -622,6 +625,7 @@ inoremap \o. ȯ
 inoremap \o/ ø
 inoremap \o: ö
 inoremap \o= ő
+inoremap \o" ő
 inoremap \o^ ô
 inoremap \o` ò
 inoremap \ov ǒ
@@ -638,6 +642,7 @@ inoremap \s' ś
 inoremap \s. ṡ
 inoremap \s^ ŝ
 inoremap \sv š
+inoremap \s% ṩ
 inoremap \t! ṭ
 inoremap \t- ŧ
 inoremap \t. ṫ
@@ -649,6 +654,7 @@ inoremap \u, ų
 inoremap \u- ū
 inoremap \u: ü
 inoremap \u= ű
+inoremap \u" ű
 inoremap \u^ û
 inoremap \u` ù
 inoremap \u0 ů
@@ -671,6 +677,8 @@ inoremap \y' ý
 inoremap \y- ȳ
 inoremap \y. ẏ
 inoremap \y: ÿ
+inoremap \y= ӳ
+inoremap \y" ӳ
 inoremap \y^ ŷ
 inoremap \y` ỳ
 inoremap \y0 ẙ
@@ -693,6 +701,7 @@ inoremap \Av Ǎ
 inoremap \Au Ă
 inoremap \AL Ȃ
 inoremap \A~ Ã
+inoremap \A% Ḁ
 inoremap \B! Ḅ
 inoremap \B. Ḃ
 inoremap \C' Ć
@@ -774,6 +783,7 @@ inoremap \O. Ȯ
 inoremap \O/ Ø
 inoremap \O: Ö
 inoremap \O= Ő
+inoremap \O" Ő
 inoremap \O^ Ô
 inoremap \O` Ò
 inoremap \Ov Ǒ
@@ -790,6 +800,7 @@ inoremap \S' Ś
 inoremap \S. Ṡ
 inoremap \S^ Ŝ
 inoremap \Sv Š
+inoremap \S% Ṩ
 inoremap \T! Ṭ
 inoremap \T- Ŧ
 inoremap \T. Ṫ
@@ -801,6 +812,7 @@ inoremap \U, Ų
 inoremap \U- Ū
 inoremap \U: Ü
 inoremap \U= Ű
+inoremap \U" Ű
 inoremap \U^ Û
 inoremap \U` Ù
 inoremap \U0 Ů
@@ -816,7 +828,6 @@ inoremap \W. Ẇ
 inoremap \W: Ẅ
 inoremap \W^ Ŵ
 inoremap \W` Ẁ
-inoremap \W0 ẘ
 inoremap \X. Ẋ
 inoremap \X: Ẍ
 inoremap \Y! Ỵ
@@ -824,9 +835,10 @@ inoremap \Y' Ý
 inoremap \Y- Ȳ
 inoremap \Y. Ẏ
 inoremap \Y: Ÿ
+inoremap \Y= Ӳ
+inoremap \Y" Ӳ
 inoremap \Y^ Ŷ
 inoremap \Y` Ỳ
-inoremap \Y0 ẙ
 inoremap \Y~ Ỹ
 inoremap \Z! Ẓ
 inoremap \Z' Ź

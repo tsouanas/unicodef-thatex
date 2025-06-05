@@ -450,8 +450,6 @@
 | <code>&#96;y</code> | ỳ |
 | <code>0A</code> | Å |
 | <code>0U</code> | Ů |
-| <code>0W</code> | ẘ |
-| <code>0Y</code> | ẙ |
 | <code>0a</code> | å |
 | <code>0u</code> | ů |
 | <code>0w</code> | ẘ |
@@ -528,6 +526,10 @@
 | <code>~u</code> | ũ |
 | <code>~v</code> | ṽ |
 | <code>~y</code> | ỹ |
+| <code>%A</code> | Ḁ |
+| <code>%a</code> | ḁ |
+| <code>%S</code> | Ṩ |
+| <code>%s</code> | ṩ |
 | <code>a!</code> | ạ |
 | <code>a'</code> | á |
 | <code>a,</code> | ą |
@@ -541,6 +543,7 @@
 | <code>au</code> | ă |
 | <code>aL</code> | ȃ |
 | <code>a~</code> | ã |
+| <code>a%</code> | ḁ |
 | <code>b!</code> | ḅ |
 | <code>b.</code> | ḃ |
 | <code>c'</code> | ć |
@@ -623,6 +626,7 @@
 | <code>o/</code> | ø |
 | <code>o:</code> | ö |
 | <code>o=</code> | ő |
+| <code>o"</code> | ő |
 | <code>o^</code> | ô |
 | <code>o&#96;</code> | ò |
 | <code>ov</code> | ǒ |
@@ -639,6 +643,7 @@
 | <code>s.</code> | ṡ |
 | <code>s^</code> | ŝ |
 | <code>sv</code> | š |
+| <code>s%</code> | ṩ |
 | <code>t!</code> | ṭ |
 | <code>t-</code> | ŧ |
 | <code>t.</code> | ṫ |
@@ -650,6 +655,7 @@
 | <code>u-</code> | ū |
 | <code>u:</code> | ü |
 | <code>u=</code> | ű |
+| <code>u"</code> | ű |
 | <code>u^</code> | û |
 | <code>u&#96;</code> | ù |
 | <code>u0</code> | ů |
@@ -672,6 +678,8 @@
 | <code>y-</code> | ȳ |
 | <code>y.</code> | ẏ |
 | <code>y:</code> | ÿ |
+| <code>y=</code> | ӳ |
+| <code>y"</code> | ӳ |
 | <code>y^</code> | ŷ |
 | <code>y&#96;</code> | ỳ |
 | <code>y0</code> | ẙ |
@@ -694,6 +702,7 @@
 | <code>Au</code> | Ă |
 | <code>AL</code> | Ȃ |
 | <code>A~</code> | Ã |
+| <code>A%</code> | Ḁ |
 | <code>B!</code> | Ḅ |
 | <code>B.</code> | Ḃ |
 | <code>C'</code> | Ć |
@@ -775,6 +784,7 @@
 | <code>O/</code> | Ø |
 | <code>O:</code> | Ö |
 | <code>O=</code> | Ő |
+| <code>O"</code> | Ő |
 | <code>O^</code> | Ô |
 | <code>O&#96;</code> | Ò |
 | <code>Ov</code> | Ǒ |
@@ -791,6 +801,7 @@
 | <code>S.</code> | Ṡ |
 | <code>S^</code> | Ŝ |
 | <code>Sv</code> | Š |
+| <code>S%</code> | Ṩ |
 | <code>T!</code> | Ṭ |
 | <code>T-</code> | Ŧ |
 | <code>T.</code> | Ṫ |
@@ -802,6 +813,7 @@
 | <code>U-</code> | Ū |
 | <code>U:</code> | Ü |
 | <code>U=</code> | Ű |
+| <code>U"</code> | Ű |
 | <code>U^</code> | Û |
 | <code>U&#96;</code> | Ù |
 | <code>U0</code> | Ů |
@@ -817,7 +829,6 @@
 | <code>W:</code> | Ẅ |
 | <code>W^</code> | Ŵ |
 | <code>W&#96;</code> | Ẁ |
-| <code>W0</code> | ẘ |
 | <code>X.</code> | Ẋ |
 | <code>X:</code> | Ẍ |
 | <code>Y!</code> | Ỵ |
@@ -825,9 +836,10 @@
 | <code>Y-</code> | Ȳ |
 | <code>Y.</code> | Ẏ |
 | <code>Y:</code> | Ÿ |
+| <code>Y=</code> | Ӳ |
+| <code>Y"</code> | Ӳ |
 | <code>Y^</code> | Ŷ |
 | <code>Y&#96;</code> | Ỳ |
-| <code>Y0</code> | ẙ |
 | <code>Y~</code> | Ỹ |
 | <code>Z!</code> | Ẓ |
 | <code>Z'</code> | Ź |
