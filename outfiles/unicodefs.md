@@ -1749,8 +1749,6 @@
 | <code>fi</code> | ﬁ |
 | <code>fl</code> | ﬂ |
 | <code>ff</code> | ﬀ |
-| <code>Fi</code> | ﬃ |
-| <code>Fl</code> | ﬄ |
 | <code>2fi</code> | ﬃ |
 | <code>2fl</code> | ﬄ |
 | <code>ij</code> | ĳ |
@@ -1760,6 +1758,9 @@
 | <code>ss</code> | ß |
 | <code>SS</code> | ẞ |
 | <code>Ss</code> | ẞ |
+| <code>sz</code> | ß |
+| <code>Sz</code> | ẞ |
+| <code>SZ</code> | ẞ |
 | <code>oe</code> | œ |
 | <code>IJ</code> | Ĳ |
 | <code>OE</code> | Œ |

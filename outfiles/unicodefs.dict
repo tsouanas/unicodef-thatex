@@ -19813,6 +19813,8 @@
     "." = ("insertText:", "Ṡ");
     "'" = ("insertText:", "Ś");
     "!" = ("insertText:", "Ṣ");
+    "Z" = ("insertText:", "ẞ");
+    "z" = ("insertText:", "ẞ");
     "s" = ("insertText:", "ẞ");
     "S" = ("insertText:", "ẞ");
   };
@@ -20556,6 +20558,7 @@
     "." = ("insertText:", "ṡ");
     "'" = ("insertText:", "ś");
     "!" = ("insertText:", "ṣ");
+    "z" = ("insertText:", "ß");
     "s" = ("insertText:", "ß");
     "f" = {
       "t" = ("insertText:", "ﬆ");
@@ -21086,8 +21089,6 @@
     "{" = ("insertText:", "ꓞ");
     "[" = ("insertText:", "ꟻ");
     "." = ("insertText:", "Ḟ");
-    "l" = ("insertText:", "ﬄ");
-    "i" = ("insertText:", "ﬃ");
   };
   "E" = {
     "\\#" = {

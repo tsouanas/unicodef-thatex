@@ -3945,8 +3945,6 @@ inoremap \AE Æ
 inoremap \fi ﬁ
 inoremap \fl ﬂ
 inoremap \ff ﬀ
-inoremap \Fi ﬃ
-inoremap \Fl ﬄ
 inoremap \2fi ﬃ
 inoremap \2fl ﬄ
 inoremap \ij ĳ
@@ -3956,6 +3954,9 @@ inoremap \sft ﬆ
 inoremap \ss ß
 inoremap \SS ẞ
 inoremap \Ss ẞ
+inoremap \sz ß
+inoremap \Sz ẞ
+inoremap \SZ ẞ
 inoremap \oe œ
 inoremap \IJ Ĳ
 inoremap \OE Œ
