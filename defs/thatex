@@ -742,6 +742,7 @@ ecls              ⦃⦄
 # functions %{{{
 
 lam               λ  # [lam]bda
+Lam               Λ
 mal               ʎ  # (lam backwards)
 hole              ·
 phole             ·  # [p]oint
@@ -1800,6 +1801,8 @@ Q,                Ɋ
 r,                ɽ
 R,                Ɽ
 cor,              ⱹ
+s,                ȿ
+S,                Ȿ
 t,                ƭ
 T,                Ƭ
 t,,               ꞇ

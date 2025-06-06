@@ -17,18 +17,14 @@
 )"     ”
 "(     “
 ")     ”
-`6     ‘  # 69r9 quotes
-'9     ’
-,9     ‚
-`9     ‛  # rev9
-6`     ‘
+6`     ‘  # 69r9 quotes
 9'     ’
-9,     ‚
 9`     ‛  # rev9
+9,     ‚
 66`    “
 99'    ”
-99,    „
 99`    ‟  # rev9
+99,    „
 _[     ⸤
 _]     ⸥
 ^[     ⸢
@@ -50,10 +46,12 @@ _]     ⸥
 8*     ⁕
 --n    –  # endash
 --.    –
+--;    –  # INFO: transition from . to ;
 --m    –  # emdash
 ---    —
 --:    ―  # quotation (dialogue) bar
 --~.   〜
+--~;   〜 # INFO: transition from . to ;
 --~~   〰
 --=    ⹀  # double hyphen
 --/    ⸗  # oblique double hyphen
@@ -162,7 +160,6 @@ ww     ʬ
 \slt\  ﬅ
 \sft\  ﬆ  # [s], [f]inal
 \st\   ﬅ
-\s.t\  ﬆ
 \s-t\  ﬆ
 \oe\   œ # o-
 \oo\   ꝏ
@@ -244,15 +241,15 @@ Tet    ⹒
 # :: diaeresis, trema
 # ": double acute
 # =: double acute or double bar
-# +: double grave [shift =]
+# +: double grave (shift =)
 # ^: circumflex
 # `: grave
 # 0: overring
 # v: caron
 # u: breve
-# L: inverted breve (like Lambda)
+# L: inverted breve (which looks like [L]ambda (Λ))
 # ~: tilde
-# %: other: dot above and below, ring below, ...
+# %: other: dot above-and-below, ring below, ...
 
 ## action first %{{{
 
@@ -1010,7 +1007,7 @@ s#H     ƨ
 
 ### X] %{{{
 
-A]     ꓯ
+A]     Ɐ
 B]     B  # XXX: not really symmetrical
 C]     C
 D]     D
@@ -1028,7 +1025,7 @@ Y]     ⅄
 
 ### X#v %{{{
 
-A#v     ꓯ
+A#v     Ɐ
 B#v     B  # XXX: not really symmetrical
 C#v     C
 D#v     D
@@ -1046,7 +1043,7 @@ Y#v     ⅄
 
 ### X#V %{{{
 
-A#V     ꓯ
+A#V     Ɐ
 B#V     B  # XXX: not really symmetrical
 C#V     C
 D#V     D
@@ -1068,7 +1065,7 @@ Y#V     ⅄
 
 ### X{ %{{{
 
-A{     ꓯ
+A{     Ɐ
 B{     ꓭ
 C{     ꓛ
 D{     ꓷ
@@ -1132,7 +1129,7 @@ z{     z
 
 ### X#p %{{{
 
-A#p     ꓯ
+A#p     Ɐ
 B#p     ꓭ
 C#p     ꓛ
 D#p     ꓷ
@@ -1196,7 +1193,7 @@ z#p     z
 
 ### X#P %{{{
 
-A#P     ꓯ
+A#P     Ɐ
 B#P     ꓭ
 C#P     ꓛ
 D#P     ꓷ
