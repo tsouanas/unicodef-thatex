@@ -56,7 +56,6 @@ _]     ⸥
 --=    ⹀  # double hyphen
 --/    ⸗  # oblique double hyphen
 -"     ⸚  # hyphen with diaeresis
--*     •
 ^.     ˙
 ^_     ‾
 **     ∗
@@ -82,6 +81,24 @@ _]     ⸥
 ??     ⁇
 ^~     ˜
 ^^     ˆ
+# %}}}
+
+# Bullets %{{{
+
+*b     •  # [b]ullet™
+*B     ◉
+*c     ◦  # [c]ircle
+*C     ◎
+*o     ◦  # [o]h
+*O     ◎
+*i     ◘  # [i]nverted bullet
+*a     ➤  # [a]rrowhead
+*t     ‣  # [t]riangle
+*d     –  # [d]ash
+*h     ⁃  # [h]yphen
+*f     ❧  # [f]loral
+*l     ❥  # [l]ove
+
 # %}}}
 
 # Ordinals %{{{
