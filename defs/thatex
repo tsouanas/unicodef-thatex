@@ -1416,6 +1416,14 @@ wayb              ≪
 waya              ≫
 wb                ≪
 wa                ≫
+downsets          𝓞
+downs             𝓞
+dsets             𝓞
+dset              𝓞
+uclos             ꜛ  # [u]pwards [clos]ure
+dclos             ꜜ  # [d]ownwards
+upd               ꜛ  # [up]'[d]
+downd             ꜜ  # [down]'[d]
 
 # %}}}
 
