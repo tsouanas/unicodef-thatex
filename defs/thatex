@@ -1420,8 +1420,12 @@ downsets          𝓞
 downs             𝓞
 dsets             𝓞
 dset              𝓞
-uclos             ꜛ  # [u]pwards [clos]ure
-dclos             ꜜ  # [d]ownwards
+upclos            ꜛ  # [up]wards [clos]ure
+downclos          ꜜ  # [down]wards
+upc               ꜛ
+downc             ꜜ
+uclos             ꜛ
+dclos             ꜜ
 upd               ꜛ  # [up]'[d]
 downd             ꜜ  # [down]'[d]
 
@@ -1565,8 +1569,10 @@ topdown           ꜜ
 bottomup          ꜛ
 td                ꜜ
 bu                ꜛ
-rise              ꜛ
 fall              ꜜ
+rise              ꜛ
+drop              ꜜ
+raise             ꜛ
 
 # %}}}
 
@@ -2442,14 +2448,14 @@ _caron            ˬ
 _tilde            ˷
 _circ             ˳
 _ring             ˳
-_up               ￪
-_down             ￬
-_left             ￩
-_right            ￫
 _lang             ˱
 _rang             ˲
 _uang             ˰
 _dang             ˯
+_up               ￪  # XXX: abuse: half-width for subsript
+_down             ￬  # XXX: abuse: half-width for subsript
+_left             ￩  # XXX: abuse: half-width for subsript
+_right            ￫  # XXX: abuse: half-width for subsript
 
 ^divby            ᐟ
 _plus             ˖
