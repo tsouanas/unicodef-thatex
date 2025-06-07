@@ -99,6 +99,7 @@ inoremap \\cboxb ☐
 inoremap \\cboxc ☑
 inoremap \\cboxt ☑
 inoremap \\cboxx ☒
+inoremap \\cboxm ☒
 inoremap \\ymark ✓
 inoremap \\nmark ✗
 inoremap \\tick ✓
@@ -620,6 +621,7 @@ inoremap \\lcls ⦃
 inoremap \\rcls ⦄
 inoremap \\ecls ⦃⦄
 inoremap \\lam λ
+inoremap \\Lam Λ
 inoremap \\mal ʎ
 inoremap \\hole ·
 inoremap \\phole ·
@@ -864,6 +866,8 @@ inoremap \\nrog ≭
 inoremap \\rogeq ≍
 inoremap \\nrogeq ≭
 inoremap \\rogneq ≭
+inoremap \\kstar *
+inoremap \\kplus ⁺
 inoremap \\cons ∷
 inoremap \\concat ⧺
 inoremap \\bnfeq ⩴
@@ -1214,6 +1218,14 @@ inoremap \\wayb ≪
 inoremap \\waya ≫
 inoremap \\wb ≪
 inoremap \\wa ≫
+inoremap \\downsets 𝓞
+inoremap \\downs 𝓞
+inoremap \\dsets 𝓞
+inoremap \\dset 𝓞
+inoremap \\uclos ꜛ
+inoremap \\dclos ꜜ
+inoremap \\upd ꜛ
+inoremap \\downd ꜜ
 inoremap \\meeteq ≙
 inoremap \\joineq ≚
 inoremap \\lts ≲
@@ -1538,6 +1550,8 @@ inoremap \\Q, Ɋ
 inoremap \\r, ɽ
 inoremap \\R, Ɽ
 inoremap \\cor, ⱹ
+inoremap \\s, ȿ
+inoremap \\S, Ȿ
 inoremap \\t, ƭ
 inoremap \\T, Ƭ
 inoremap \\t,, ꞇ

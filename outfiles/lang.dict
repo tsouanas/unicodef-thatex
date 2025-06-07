@@ -134,11 +134,6 @@
           "\\" = ("insertText:", "ﬆ");
         };
       };
-      "." = {
-        "t" = {
-          "\\" = ("insertText:", "ﬆ");
-        };
-      };
       "t" = {
         "\\" = ("insertText:", "ﬅ");
       };
@@ -1150,13 +1145,13 @@
   };
   "A" = {
     "\\#" = {
-      "P" = ("insertText:", "ꓯ");
-      "p" = ("insertText:", "ꓯ");
-      "V" = ("insertText:", "ꓯ");
-      "v" = ("insertText:", "ꓯ");
+      "P" = ("insertText:", "Ɐ");
+      "p" = ("insertText:", "Ɐ");
+      "V" = ("insertText:", "Ɐ");
+      "v" = ("insertText:", "Ɐ");
     };
-    "{" = ("insertText:", "ꓯ");
-    "]" = ("insertText:", "ꓯ");
+    "{" = ("insertText:", "Ɐ");
+    "]" = ("insertText:", "Ɐ");
     "%" = ("insertText:", "Ḁ");
     "\\~" = ("insertText:", "Ã");
     "L" = ("insertText:", "Ȃ");
@@ -1198,8 +1193,6 @@
     "A" = ("insertText:", "À");
     ")" = ("insertText:", "´");
     "(" = ("insertText:", "`");
-    "9" = ("insertText:", "‛");
-    "6" = ("insertText:", "‘");
   };
   "," = {
     "\\#" = {
@@ -1229,7 +1222,6 @@
     "D" = ("insertText:", "Ḑ");
     "C" = ("insertText:", "Ç");
     "A" = ("insertText:", "Ą");
-    "9" = ("insertText:", "‚");
   };
   "W" = {
     "`" = ("insertText:", "Ẁ");
@@ -1476,18 +1468,19 @@
     "E" = ("insertText:", "Ē");
     "D" = ("insertText:", "Đ");
     "A" = ("insertText:", "Ā");
-    "*" = ("insertText:", "•");
     "\"" = ("insertText:", "⸚");
     "-" = {
       "/" = ("insertText:", "⸗");
       "=" = ("insertText:", "⹀");
       "\\~" = {
         "\\~" = ("insertText:", "〰");
+        ";" = ("insertText:", "〜");
         "." = ("insertText:", "〜");
       };
       ":" = ("insertText:", "―");
       "-" = ("insertText:", "—");
       "m" = ("insertText:", "–");
+      ";" = ("insertText:", "–");
       "." = ("insertText:", "–");
       "n" = ("insertText:", "–");
     };
@@ -1523,7 +1516,6 @@
     "E" = ("insertText:", "É");
     "C" = ("insertText:", "Ć");
     "A" = ("insertText:", "Á");
-    "9" = ("insertText:", "’");
     ")" = ("insertText:", "’");
     "(" = ("insertText:", "‘");
     ">" = ("insertText:", "›");
@@ -1545,12 +1537,12 @@
       "h" = ("insertText:", "9ᵗʰ");
     };
     "9" = {
-      "`" = ("insertText:", "‟");
       "," = ("insertText:", "„");
+      "`" = ("insertText:", "‟");
       "'" = ("insertText:", "”");
     };
-    "`" = ("insertText:", "‛");
     "," = ("insertText:", "‚");
+    "`" = ("insertText:", "‛");
     "'" = ("insertText:", "’");
   };
   "8" = {
@@ -1592,6 +1584,22 @@
     ":" = ("insertText:", "⋮");
     "." = ("insertText:", "…");
   };
+  "*" = {
+    "l" = ("insertText:", "❥");
+    "f" = ("insertText:", "❧");
+    "h" = ("insertText:", "⁃");
+    "d" = ("insertText:", "–");
+    "t" = ("insertText:", "‣");
+    "a" = ("insertText:", "➤");
+    "i" = ("insertText:", "◘");
+    "O" = ("insertText:", "◎");
+    "o" = ("insertText:", "◦");
+    "C" = ("insertText:", "◎");
+    "c" = ("insertText:", "◦");
+    "B" = ("insertText:", "◉");
+    "b" = ("insertText:", "•");
+    "*" = ("insertText:", "∗");
+  };
   ")" = {
     "`" = ("insertText:", "´");
     ";" = ("insertText:", ";");
@@ -1607,9 +1615,6 @@
     "!" = ("insertText:", "¡");
     "\"" = ("insertText:", "“");
     "'" = ("insertText:", "‘");
-  };
-  "*" = {
-    "*" = ("insertText:", "∗");
   };
   "|" = {
     ":" = ("insertText:", "¦");

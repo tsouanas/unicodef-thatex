@@ -100,6 +100,7 @@
 | <code>cboxc</code> | ☑ |
 | <code>cboxt</code> | ☑ |
 | <code>cboxx</code> | ☒ |
+| <code>cboxm</code> | ☒ |
 | <code>ymark</code> | ✓ |
 | <code>nmark</code> | ✗ |
 | <code>tick</code> | ✓ |
@@ -621,6 +622,7 @@
 | <code>rcls</code> | ⦄ |
 | <code>ecls</code> | ⦃⦄ |
 | <code>lam</code> | λ |
+| <code>Lam</code> | Λ |
 | <code>mal</code> | ʎ |
 | <code>hole</code> | · |
 | <code>phole</code> | · |
@@ -865,6 +867,8 @@
 | <code>rogeq</code> | ≍ |
 | <code>nrogeq</code> | ≭ |
 | <code>rogneq</code> | ≭ |
+| <code>kstar</code> | * |
+| <code>kplus</code> | ⁺ |
 | <code>cons</code> | ∷ |
 | <code>concat</code> | ⧺ |
 | <code>bnfeq</code> | ⩴ |
@@ -1215,6 +1219,14 @@
 | <code>waya</code> | ≫ |
 | <code>wb</code> | ≪ |
 | <code>wa</code> | ≫ |
+| <code>downsets</code> | 𝓞 |
+| <code>downs</code> | 𝓞 |
+| <code>dsets</code> | 𝓞 |
+| <code>dset</code> | 𝓞 |
+| <code>uclos</code> | ꜛ |
+| <code>dclos</code> | ꜜ |
+| <code>upd</code> | ꜛ |
+| <code>downd</code> | ꜜ |
 | <code>meeteq</code> | ≙ |
 | <code>joineq</code> | ≚ |
 | <code>lts</code> | ≲ |
@@ -1539,6 +1551,8 @@
 | <code>r,</code> | ɽ |
 | <code>R,</code> | Ɽ |
 | <code>cor,</code> | ⱹ |
+| <code>s,</code> | ȿ |
+| <code>S,</code> | Ȿ |
 | <code>t,</code> | ƭ |
 | <code>T,</code> | Ƭ |
 | <code>t,,</code> | ꞇ |

@@ -127,7 +127,6 @@ inoremap \** ∗
 inoremap \*<Bar> ⁑
 inoremap \*: ⁑
 inoremap \:* ⁑
-inoremap \00 °
 inoremap \0+ ⨢
 inoremap \+0 ⨢
 inoremap \0= ≗

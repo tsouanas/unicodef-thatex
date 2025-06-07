@@ -128,7 +128,6 @@
 | <code>*&vert;</code> | ⁑ |
 | <code>*:</code> | ⁑ |
 | <code>:*</code> | ⁑ |
-| <code>00</code> | ° |
 | <code>0+</code> | ⨢ |
 | <code>+0</code> | ⨢ |
 | <code>0=</code> | ≗ |
