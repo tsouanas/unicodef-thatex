@@ -337,6 +337,7 @@ inoremap \\/rep 🔁
 inoremap \\/rep1 🔂
 inoremap \\/onoff ⏻
 inoremap \\/power ⏻
+inoremap \\blank ⠀
 inoremap \\scrA 𝒜
 inoremap \\scrB ℬ
 inoremap \\scrC 𝒞
@@ -1092,6 +1093,7 @@ inoremap \\^w ʷ
 inoremap \\^x ˣ
 inoremap \\^y ʸ
 inoremap \\^z ᶻ
+inoremap \\^! ꜝ
 inoremap \\_0 ₀
 inoremap \\_1 ₁
 inoremap \\_2 ₂
@@ -1124,7 +1126,6 @@ inoremap \\_t ₜ
 inoremap \\_u ᵤ
 inoremap \\_v ᵥ
 inoremap \\_x ₓ
-inoremap \\^! ꜝ
 inoremap \\_c ꜀
 inoremap \\_-^ ￪
 inoremap \\_-v ￬
@@ -1144,7 +1145,6 @@ inoremap \\_; ﹔
 inoremap \\_, ﹐
 inoremap \\_. ﹒
 inoremap \\,_ ⸒
-inoremap \\blank ⠀
 inoremap \\wK ♔
 inoremap \\wQ ♕
 inoremap \\wR ♖

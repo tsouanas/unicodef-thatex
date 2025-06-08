@@ -343,6 +343,7 @@
 ## fonts (macro)
 | Sequence | Expansion |
 | :------- | :-------: |
+| <code>blank</code> | ⠀ |
 | <code>scrA</code> | 𝒜 |
 | <code>scrB</code> | ℬ |
 | <code>scrC</code> | 𝒞 |
@@ -1098,6 +1099,7 @@
 | <code>^x</code> | ˣ |
 | <code>^y</code> | ʸ |
 | <code>^z</code> | ᶻ |
+| <code>^!</code> | ꜝ |
 | <code>_0</code> | ₀ |
 | <code>_1</code> | ₁ |
 | <code>_2</code> | ₂ |
@@ -1130,7 +1132,6 @@
 | <code>_u</code> | ᵤ |
 | <code>_v</code> | ᵥ |
 | <code>_x</code> | ₓ |
-| <code>^!</code> | ꜝ |
 | <code>_c</code> | ꜀ |
 | <code>_-^</code> | ￪ |
 | <code>_-v</code> | ￬ |
@@ -1150,7 +1151,6 @@
 | <code>_,</code> | ﹐ |
 | <code>_.</code> | ﹒ |
 | <code>,_</code> | ⸒ |
-| <code>blank</code> | ⠀ |
 ## games (macro)
 | Sequence | Expansion |
 | :------- | :-------: |
