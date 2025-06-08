@@ -1,5 +1,11 @@
+#%{{{ [vim] 
+# vim:foldmarker=%{{{,%}}}
+# vim:foldmethod=marker
+# vim:foldcolumn=5
+#%}}}
+#
 # ToC
-
+#
 # scr: script
 # cal: caligraphic
 # tt: monospace
@@ -17,7 +23,10 @@
 # _: subscripts
 # braille
 
-# scr: script
+blank             ⠀  # XXX: abuse: actually braille
+
+# scr: script %{{{
+
 scrA              𝒜
 scrB              ℬ
 scrC              𝒞
@@ -71,7 +80,10 @@ scrx              𝓍
 scry              𝓎
 scrz              𝓏
 
-# cal: caligraphic
+# %}}}
+
+# cal: caligraphic %{{{
+
 calA              𝓐
 calB              𝓑
 calC              𝓒
@@ -125,7 +137,10 @@ calx              𝔁
 caly              𝔂
 calz              𝔃
 
-# tt: monospace
+# %}}}
+
+# tt: monospace %{{{
+
 ttA               𝙰
 ttB               𝙱
 ttC               𝙲
@@ -179,7 +194,10 @@ ttx               𝚡
 tty               𝚢
 ttz               𝚣
 
-# it: italic (serif)
+# %}}}
+
+# it: italic (serif) %{{{
+
 itA               𝐴
 itB               𝐵
 itC               𝐶
@@ -233,7 +251,10 @@ itx               𝑥
 ity               𝑦
 itz               𝑧
 
-# its: italic (sans-serif)
+# %}}}
+
+# its: italic (sans-serif) %{{{
+
 itsA               𝘈
 itsB               𝘉
 itsC               𝘊
@@ -287,7 +308,10 @@ itsx               𝘹
 itsy               𝘺
 itsz               𝘻
 
-# bf: boldface (serif)
+# %}}}
+
+# bf: boldface (serif) %{{{
+
 bfA               𝐀
 bfB               𝐁
 bfC               𝐂
@@ -351,7 +375,10 @@ bf7               𝟕
 bf8               𝟖
 bf9               𝟗
 
-# bfs: boldface (sans-serif)
+# %}}}
+
+# bfs: boldface (sans-serif) %{{{
+
 bfsA               𝗔
 bfsB               𝗕
 bfsC               𝗖
@@ -415,7 +442,10 @@ bfs7               𝟳
 bfs8               𝟴
 bfs9               𝟵
 
-# bi: bold italic (serif)
+# %}}}
+
+# bi: bold italic (serif) %{{{
+
 biA               𝑨
 biB               𝑩
 biC               𝑪
@@ -469,7 +499,10 @@ bix               𝒙
 biy               𝒚
 biz               𝒛
 
-# bis: bold italic (sans-serif)
+# %}}}
+
+# bis: bold italic (sans-serif) %{{{
+
 bisA               𝘼
 bisB               𝘽
 bisC               𝘾
@@ -523,7 +556,10 @@ bisx               𝙭
 bisy               𝙮
 bisz               𝙯
 
-# bb: blackboard bold
+# %}}}
+
+# bb: blackboard bold %{{{
+
 bbA               𝔸
 bbB               𝔹
 bbC               ℂ
@@ -597,7 +633,10 @@ bbSig             ⅀
 bbgam             ℽ
 bbpi              ℼ
 
-# frak: fraktur
+# %}}}
+
+# frak: fraktur %{{{
+
 frakA             𝔄
 frakB             𝔅
 frakC             ℭ
@@ -651,7 +690,10 @@ frakx             𝔵
 fraky             𝔶
 frakz             𝔷
 
-# bfrak: bold fraktur
+# %}}}
+
+# bfrak: bold fraktur %{{{
+
 bfrakA            𝕬
 bfrakB            𝕭
 bfrakC            𝕮
@@ -705,7 +747,10 @@ bfrakx            𝖝
 bfraky            𝖞
 bfrakz            𝖟
 
-# sc: small-caps
+# %}}}
+
+# sc: small-caps %{{{
+
 sca               ᴀ
 scb               ʙ
 scc               ᴄ
@@ -739,7 +784,10 @@ scpsi             ᴪ
 scgam             ᴦ
 sclam             ᴧ
 
-# ^: superscripts
+# %}}}
+
+# ^: superscripts %{{{
+
 ^0                ⁰
 ^1                ¹
 ^2                ²
@@ -800,7 +848,13 @@ sclam             ᴧ
 ^y                ʸ
 ^z                ᶻ
 
-# _: subscripts
+# XXX: abuse: not really superscripts
+^!                ꜝ
+
+# %}}}
+
+# _: subscripts %{{{
+
 _0                ₀
 _1                ₁
 _2                ₂
@@ -834,9 +888,6 @@ _u                ᵤ
 _v                ᵥ
 _x                ₓ
 
-# XXX: abuse: not really superscripts
-^!                ꜝ
-
 # XXX: abuse: not really subscripts
 _c                ꜀
 _-^               ￪
@@ -858,6 +909,5 @@ _,                ﹐
 _.                ﹒
 ,_                ⸒
 
-# braille
-blank             ⠀
+# %}}}
 
