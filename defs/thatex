@@ -47,8 +47,13 @@ sect              §  # [sect]ion
 sects             §§
 sec               §
 secs              §§
-dag               †  # [dag]ger
-ddag              ‡  # [d]ouble [d]agger
+ref               ※  # [ref]erence mark
+dagger            †
+dag               †
+ddagger           ‡  # ([d]ouble)
+ddag              ‡
+2dagger           ‡
+2dag              ‡
 bullet            •  # WARN: bul is not short for bullet
 wbullet           ◦  # [w]hite
 bbul              •
@@ -93,6 +98,7 @@ dram              ℨ  # fluid drachm
 scruple           ℈
 scrup             ℈
 per               ⅌
+prescr            ℞
 
 diameter          ⌀
 diam              ⌀
@@ -106,9 +112,11 @@ knuthwiz          ☡  # [wiz]ards-only
 knutheso          ☡☡ # [eso]teric
 danger            ☡
 ddanger           ☡☡ # ([d]ouble)
+2danger           ☡☡
 Danger            ☡☡
 caution           ☡
 ccaution          ☡☡
+2caution          ☡☡
 Caution           ☡☡
 fair              ⚖
 work              ⚒
@@ -120,7 +128,7 @@ fight             ⚔
 
 # %{{{ checkboxes and radio buttons 
 
-# ballot / checkboxes
+## ballot / checkboxes
 checkb      ☐  # [check]box ([b]lank)
 checkc      ☑  # [c]heck-marked
 checkt      ☑  # [t]ick-marked
@@ -142,7 +150,7 @@ omark       ○
 tmark       △
 xmark       ✕
 
-# radio buttons
+## radio buttons
 rad         ○  # [rad]io button
 rado        ○  # [o]ption
 radd        ◎  # [d]efault
@@ -286,7 +294,6 @@ gha               ƣ
 ou                ȣ
 Ou                Ȣ
 
-prescr            ℞
 sho               Ϸ  # Bactrian Ϸ "sho"
 tsan              ͷ  # Arcadian "tsan"
 digamma           Ϝ
