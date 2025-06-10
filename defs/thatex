@@ -2017,15 +2017,27 @@ pipe              |
 ppipe             ∥
 pppipe            ⫴
 Pppipe            ⫼
+2pipe             ∥
+3pipe             ⫴
+3Pipe             ⫼
 vert              |
 vvert             ∥
 vvvert            ⫴
 Vvvert            ⫼
+2vert             ∥
+3vert             ⫴
+3Vert             ⫼
 slash             ∕
 sslash            ⫽
 ssslash           ⫻
-backslash         ∖
-bslash            ∖  # [b]ack[slash]
+2slash            ⫽
+3slash            ⫻
+backslash         \
+bslash            \  # [b]ack[slash]
+bbackslash        ⑊
+bbslash           ⑊
+2backslash        ⑊
+2bslash           ⑊
 
 # %}}}
 
@@ -2521,6 +2533,7 @@ wudot             ᐧ  # [u]pper
 _back             ˿
 _bul               ٜ
 _bang             ﹗
+_bowtie           ⑅
 _ask              ﹖
 _caret            ‸
 _cflex            ‸  # [c]ircum[flex]
