@@ -3846,8 +3846,13 @@
 | <code>sects</code> | §§ |
 | <code>sec</code> | § |
 | <code>secs</code> | §§ |
+| <code>ref</code> | ※ |
+| <code>dagger</code> | † |
 | <code>dag</code> | † |
+| <code>ddagger</code> | ‡ |
 | <code>ddag</code> | ‡ |
+| <code>2dagger</code> | ‡ |
+| <code>2dag</code> | ‡ |
 | <code>bullet</code> | • |
 | <code>wbullet</code> | ◦ |
 | <code>bbul</code> | • |
@@ -3888,6 +3893,7 @@
 | <code>scruple</code> | ℈ |
 | <code>scrup</code> | ℈ |
 | <code>per</code> | ⅌ |
+| <code>prescr</code> | ℞ |
 | <code>diameter</code> | ⌀ |
 | <code>diam</code> | ⌀ |
 | <code>gnd</code> | ⏚ |
@@ -3899,9 +3905,11 @@
 | <code>knutheso</code> | ☡☡ |
 | <code>danger</code> | ☡ |
 | <code>ddanger</code> | ☡☡ |
+| <code>2danger</code> | ☡☡ |
 | <code>Danger</code> | ☡☡ |
 | <code>caution</code> | ☡ |
 | <code>ccaution</code> | ☡☡ |
+| <code>2caution</code> | ☡☡ |
 | <code>Caution</code> | ☡☡ |
 | <code>fair</code> | ⚖ |
 | <code>work</code> | ⚒ |
@@ -4045,7 +4053,6 @@
 | <code>gha</code> | ƣ |
 | <code>ou</code> | ȣ |
 | <code>Ou</code> | Ȣ |
-| <code>prescr</code> | ℞ |
 | <code>sho</code> | Ϸ |
 | <code>tsan</code> | ͷ |
 | <code>digamma</code> | Ϝ |

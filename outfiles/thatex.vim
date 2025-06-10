@@ -30,8 +30,13 @@ inoremap \\sect §
 inoremap \\sects §§
 inoremap \\sec §
 inoremap \\secs §§
+inoremap \\ref ※
+inoremap \\dagger †
 inoremap \\dag †
+inoremap \\ddagger ‡
 inoremap \\ddag ‡
+inoremap \\2dagger ‡
+inoremap \\2dag ‡
 inoremap \\bullet •
 inoremap \\wbullet ◦
 inoremap \\bbul •
@@ -72,6 +77,7 @@ inoremap \\dram ℨ
 inoremap \\scruple ℈
 inoremap \\scrup ℈
 inoremap \\per ⅌
+inoremap \\prescr ℞
 inoremap \\diameter ⌀
 inoremap \\diam ⌀
 inoremap \\gnd ⏚
@@ -83,9 +89,11 @@ inoremap \\knuthwiz ☡
 inoremap \\knutheso ☡☡
 inoremap \\danger ☡
 inoremap \\ddanger ☡☡
+inoremap \\2danger ☡☡
 inoremap \\Danger ☡☡
 inoremap \\caution ☡
 inoremap \\ccaution ☡☡
+inoremap \\2caution ☡☡
 inoremap \\Caution ☡☡
 inoremap \\fair ⚖
 inoremap \\work ⚒
@@ -229,7 +237,6 @@ inoremap \\Gha Ƣ
 inoremap \\gha ƣ
 inoremap \\ou ȣ
 inoremap \\Ou Ȣ
-inoremap \\prescr ℞
 inoremap \\sho Ϸ
 inoremap \\tsan ͷ
 inoremap \\digamma Ϝ
