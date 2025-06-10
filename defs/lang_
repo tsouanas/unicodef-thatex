@@ -194,7 +194,9 @@ ww     ʬ
 \al\   ɑ  # INFO: not a ligature
 \ga\   ɣ  # INFO: not a ligature
 \Ga\   Ɣ  # INFO: not a ligature
-\el\   ℓ
+\Ep\   Ɛ  # INFO: not a ligature
+\ep\   ɛ  # INFO: not a ligature
+\el\   ℓ  # INFO: not a ligature
 
 # %}}}
 
@@ -223,9 +225,11 @@ OE     Œ
 et     🙰
 Al     Ɑ
 Ga     Ɣ
+Ep     Ɛ
 Io     Ɩ
 al     ɑ
 ga     ɣ
+ep     ɛ
 io     ɩ
 el     ℓ
 
