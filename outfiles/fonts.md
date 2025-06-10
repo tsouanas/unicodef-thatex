@@ -1,7 +1,6 @@
 # fonts (macro)
 | Sequence | Expansion |
 | :------- | :-------: |
-| <code>blank</code> | ⠀ |
 | <code>scrA</code> | 𝒜 |
 | <code>scrB</code> | ℬ |
 | <code>scrC</code> | 𝒞 |

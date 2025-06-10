@@ -337,7 +337,6 @@ inoremap \\/rep 🔁
 inoremap \\/rep1 🔂
 inoremap \\/onoff ⏻
 inoremap \\/power ⏻
-inoremap \\blank ⠀
 inoremap \\scrA 𝒜
 inoremap \\scrB ℬ
 inoremap \\scrC 𝒞
@@ -1402,6 +1401,7 @@ inoremap \\nbh ‑
 inoremap \\nb- ‑
 inoremap \\thin  
 inoremap \\hair  
+inoremap \\blank ⠀
 inoremap \\hhyph ⸗
 inoremap \\dhyph ⸚
 inoremap \\arabdec ٫
@@ -1603,12 +1603,20 @@ inoremap \\Thru Ꝧ
 inoremap \\thru ꝧ
 inoremap \\Welshv Ỽ
 inoremap \\welshv ỽ
+inoremap \\Welshll Ỻ
+inoremap \\welshll ỻ
 inoremap \\Wynn Ƿ
 inoremap \\wynn ƿ
 inoremap \\Vend Ꝩ
 inoremap \\vend ꝩ
 inoremap \\Tiroet ⹒
 inoremap \\tiroet ⁊
+inoremap \\Latal Ɑ
+inoremap \\latal ɑ
+inoremap \\Latep Ɛ
+inoremap \\latep ɛ
+inoremap \\Latio Ɩ
+inoremap \\latio ɩ
 inoremap \\prescr ℞
 inoremap \\sho Ϸ
 inoremap \\tsan ͷ
@@ -2439,6 +2447,8 @@ inoremap \\VECT 𝐕𝐞𝐜𝐭
 inoremap \\FINVECT 𝐅𝐢𝐧𝐕𝐞𝐜𝐭
 inoremap \\MATRIX 𝐌𝐚𝐭𝐫𝐢𝐱
 inoremap \\MAT 𝐌𝐚𝐭𝐫𝐢𝐱
+inoremap \\SEMILATTICE 𝐒𝐞𝐦𝐢𝐥𝐚𝐭𝐭𝐢𝐜𝐞
+inoremap \\SLATTICE 𝐒𝐞𝐦𝐢𝐥𝐚𝐭𝐭𝐢𝐜𝐞
 inoremap \\LATTICE 𝐋𝐚𝐭𝐭𝐢𝐜𝐞
 inoremap \\LAT 𝐋𝐚𝐭𝐭𝐢𝐜𝐞
 inoremap \\HEYTING 𝐇𝐞𝐲𝐭𝐢𝐧𝐠
@@ -2448,6 +2458,8 @@ inoremap \\BALG 𝐁𝐨𝐨𝐥𝐞𝐚𝐧
 inoremap \\HA 𝐇𝐀
 inoremap \\BA 𝐁𝐀
 inoremap \\MODEL 𝐌𝐨𝐝𝐞𝐥
+inoremap \\CPO 𝐂𝐩𝐨
+inoremap \\DCPO 𝐝𝐜𝐩𝐨
 inoremap \\truth ⊤
 inoremap \\verum ⊤
 inoremap \\falsity ⊥
@@ -2625,6 +2637,7 @@ inoremap \\uclos ꜛ
 inoremap \\dclos ꜜ
 inoremap \\upd ꜛ
 inoremap \\downd ꜜ
+inoremap \\ep ᵉᵖ
 inoremap \\meeteq ≙
 inoremap \\joineq ≚
 inoremap \\lts ≲
@@ -2907,6 +2920,8 @@ inoremap \\h- ħ
 inoremap \\hslash ℏ
 inoremap \\hs ℏ
 inoremap \\h/ ℏ
+inoremap \\doti ı
+inoremap \\dotj ȷ
 inoremap \\ell ℓ
 inoremap \\Ell ℒ
 inoremap \\ohring ⱺ
@@ -2927,25 +2942,38 @@ inoremap \\d, ɗ
 inoremap \\D, Ɗ
 inoremap \\d,, ꝺ
 inoremap \\D,, Ꝺ
+inoremap \\f, ƒ
+inoremap \\F, Ƒ
 inoremap \\g, ɠ
 inoremap \\G, Ɠ
 inoremap \\g,, ɡ
 inoremap \\G,, Ɡ
 inoremap \\h, ɦ
 inoremap \\H, Ɦ
-inoremap \\h,, ɧ
-inoremap \\H,, ℋ
+inoremap \\h,, ꜧ
+inoremap \\H,, Ꜧ
+inoremap \\h,,, ɧ
+inoremap \\H,,, ℋ
+inoremap \\i, ɩ
+inoremap \\I, Ɩ
+inoremap \\j, ʝ
+inoremap \\J, Ʝ
 inoremap \\k, ƙ
 inoremap \\K, Ƙ
+inoremap \\k,, ᶄ
 inoremap \\l, ℓ
 inoremap \\L, ℒ
+inoremap \\l,, ȴ
 inoremap \\m, ɱ
 inoremap \\M, Ɱ
 inoremap \\n, ɲ
 inoremap \\N, Ɲ
 inoremap \\n,, ɳ
+inoremap \\n,,, ȵ
 inoremap \\p, ƥ
 inoremap \\P, Ƥ
+inoremap \\p,, ꝓ
+inoremap \\P,, Ꝓ
 inoremap \\q, ɋ
 inoremap \\Q, Ɋ
 inoremap \\r, ɽ
@@ -2957,6 +2985,7 @@ inoremap \\t, ƭ
 inoremap \\T, Ƭ
 inoremap \\t,, ꞇ
 inoremap \\T,, Ꞇ
+inoremap \\t,,, ȶ
 inoremap \\v, ⱴ
 inoremap \\V, 𝒱
 inoremap \\v,, ʋ
@@ -3555,6 +3584,630 @@ inoremap \\@ucirc ̥
 inoremap \\@ch ̶
 inoremap \\@cd ̷
 inoremap \\@cs ̸
+inoremap \,.. ⠀
+inoremap \,.c ⠀
+inoremap \,.fc ⠁
+inoremap \,.dc ⠂
+inoremap \,.fdc ⠃
+inoremap \,.sc ⠄
+inoremap \,.fsc ⠅
+inoremap \,.dsc ⠆
+inoremap \,.fdsc ⠇
+inoremap \,.jc ⠈
+inoremap \,.fjc ⠉
+inoremap \,.djc ⠊
+inoremap \,.fdjc ⠋
+inoremap \,.sjc ⠌
+inoremap \,.fsjc ⠍
+inoremap \,.dsjc ⠎
+inoremap \,.fdsjc ⠏
+inoremap \,.kc ⠐
+inoremap \,.fkc ⠑
+inoremap \,.dkc ⠒
+inoremap \,.fdkc ⠓
+inoremap \,.skc ⠔
+inoremap \,.fskc ⠕
+inoremap \,.dskc ⠖
+inoremap \,.fdskc ⠗
+inoremap \,.jkc ⠘
+inoremap \,.fjkc ⠙
+inoremap \,.djkc ⠚
+inoremap \,.fdjkc ⠛
+inoremap \,.sjkc ⠜
+inoremap \,.fsjkc ⠝
+inoremap \,.dsjkc ⠞
+inoremap \,.fdsjkc ⠟
+inoremap \,.lc ⠠
+inoremap \,.flc ⠡
+inoremap \,.dlc ⠢
+inoremap \,.fdlc ⠣
+inoremap \,.slc ⠤
+inoremap \,.fslc ⠥
+inoremap \,.dslc ⠦
+inoremap \,.fdslc ⠧
+inoremap \,.jlc ⠨
+inoremap \,.fjlc ⠩
+inoremap \,.djlc ⠪
+inoremap \,.fdjlc ⠫
+inoremap \,.sjlc ⠬
+inoremap \,.fsjlc ⠭
+inoremap \,.dsjlc ⠮
+inoremap \,.fdsjlc ⠯
+inoremap \,.klc ⠰
+inoremap \,.fklc ⠱
+inoremap \,.dklc ⠲
+inoremap \,.fdklc ⠳
+inoremap \,.sklc ⠴
+inoremap \,.fsklc ⠵
+inoremap \,.dsklc ⠶
+inoremap \,.fdsklc ⠷
+inoremap \,.jklc ⠸
+inoremap \,.fjklc ⠹
+inoremap \,.djklc ⠺
+inoremap \,.fdjklc ⠻
+inoremap \,.sjklc ⠼
+inoremap \,.fsjklc ⠽
+inoremap \,.dsjklc ⠾
+inoremap \,.fdsjklc ⠿
+inoremap \,.ac ⡀
+inoremap \,.fac ⡁
+inoremap \,.dac ⡂
+inoremap \,.fdac ⡃
+inoremap \,.sac ⡄
+inoremap \,.fsac ⡅
+inoremap \,.dsac ⡆
+inoremap \,.fdsac ⡇
+inoremap \,.jac ⡈
+inoremap \,.fjac ⡉
+inoremap \,.djac ⡊
+inoremap \,.fdjac ⡋
+inoremap \,.sjac ⡌
+inoremap \,.fsjac ⡍
+inoremap \,.dsjac ⡎
+inoremap \,.fdsjac ⡏
+inoremap \,.kac ⡐
+inoremap \,.fkac ⡑
+inoremap \,.dkac ⡒
+inoremap \,.fdkac ⡓
+inoremap \,.skac ⡔
+inoremap \,.fskac ⡕
+inoremap \,.dskac ⡖
+inoremap \,.fdskac ⡗
+inoremap \,.jkac ⡘
+inoremap \,.fjkac ⡙
+inoremap \,.djkac ⡚
+inoremap \,.fdjkac ⡛
+inoremap \,.sjkac ⡜
+inoremap \,.fsjkac ⡝
+inoremap \,.dsjkac ⡞
+inoremap \,.fdsjkac ⡟
+inoremap \,.lac ⡠
+inoremap \,.flac ⡡
+inoremap \,.dlac ⡢
+inoremap \,.fdlac ⡣
+inoremap \,.slac ⡤
+inoremap \,.fslac ⡥
+inoremap \,.dslac ⡦
+inoremap \,.fdslac ⡧
+inoremap \,.jlac ⡨
+inoremap \,.fjlac ⡩
+inoremap \,.djlac ⡪
+inoremap \,.fdjlac ⡫
+inoremap \,.sjlac ⡬
+inoremap \,.fsjlac ⡭
+inoremap \,.dsjlac ⡮
+inoremap \,.fdsjlac ⡯
+inoremap \,.klac ⡰
+inoremap \,.fklac ⡱
+inoremap \,.dklac ⡲
+inoremap \,.fdklac ⡳
+inoremap \,.sklac ⡴
+inoremap \,.fsklac ⡵
+inoremap \,.dsklac ⡶
+inoremap \,.fdsklac ⡷
+inoremap \,.jklac ⡸
+inoremap \,.fjklac ⡹
+inoremap \,.djklac ⡺
+inoremap \,.fdjklac ⡻
+inoremap \,.sjklac ⡼
+inoremap \,.fsjklac ⡽
+inoremap \,.dsjklac ⡾
+inoremap \,.fdsjklac ⡿
+inoremap \,.;c ⢀
+inoremap \,.f;c ⢁
+inoremap \,.d;c ⢂
+inoremap \,.fd;c ⢃
+inoremap \,.s;c ⢄
+inoremap \,.fs;c ⢅
+inoremap \,.ds;c ⢆
+inoremap \,.fds;c ⢇
+inoremap \,.j;c ⢈
+inoremap \,.fj;c ⢉
+inoremap \,.dj;c ⢊
+inoremap \,.fdj;c ⢋
+inoremap \,.sj;c ⢌
+inoremap \,.fsj;c ⢍
+inoremap \,.dsj;c ⢎
+inoremap \,.fdsj;c ⢏
+inoremap \,.k;c ⢐
+inoremap \,.fk;c ⢑
+inoremap \,.dk;c ⢒
+inoremap \,.fdk;c ⢓
+inoremap \,.sk;c ⢔
+inoremap \,.fsk;c ⢕
+inoremap \,.dsk;c ⢖
+inoremap \,.fdsk;c ⢗
+inoremap \,.jk;c ⢘
+inoremap \,.fjk;c ⢙
+inoremap \,.djk;c ⢚
+inoremap \,.fdjk;c ⢛
+inoremap \,.sjk;c ⢜
+inoremap \,.fsjk;c ⢝
+inoremap \,.dsjk;c ⢞
+inoremap \,.fdsjk;c ⢟
+inoremap \,.l;c ⢠
+inoremap \,.fl;c ⢡
+inoremap \,.dl;c ⢢
+inoremap \,.fdl;c ⢣
+inoremap \,.sl;c ⢤
+inoremap \,.fsl;c ⢥
+inoremap \,.dsl;c ⢦
+inoremap \,.fdsl;c ⢧
+inoremap \,.jl;c ⢨
+inoremap \,.fjl;c ⢩
+inoremap \,.djl;c ⢪
+inoremap \,.fdjl;c ⢫
+inoremap \,.sjl;c ⢬
+inoremap \,.fsjl;c ⢭
+inoremap \,.dsjl;c ⢮
+inoremap \,.fdsjl;c ⢯
+inoremap \,.kl;c ⢰
+inoremap \,.fkl;c ⢱
+inoremap \,.dkl;c ⢲
+inoremap \,.fdkl;c ⢳
+inoremap \,.skl;c ⢴
+inoremap \,.fskl;c ⢵
+inoremap \,.dskl;c ⢶
+inoremap \,.fdskl;c ⢷
+inoremap \,.jkl;c ⢸
+inoremap \,.fjkl;c ⢹
+inoremap \,.djkl;c ⢺
+inoremap \,.fdjkl;c ⢻
+inoremap \,.sjkl;c ⢼
+inoremap \,.fsjkl;c ⢽
+inoremap \,.dsjkl;c ⢾
+inoremap \,.fdsjkl;c ⢿
+inoremap \,.a;c ⣀
+inoremap \,.fa;c ⣁
+inoremap \,.da;c ⣂
+inoremap \,.fda;c ⣃
+inoremap \,.sa;c ⣄
+inoremap \,.fsa;c ⣅
+inoremap \,.dsa;c ⣆
+inoremap \,.fdsa;c ⣇
+inoremap \,.ja;c ⣈
+inoremap \,.fja;c ⣉
+inoremap \,.dja;c ⣊
+inoremap \,.fdja;c ⣋
+inoremap \,.sja;c ⣌
+inoremap \,.fsja;c ⣍
+inoremap \,.dsja;c ⣎
+inoremap \,.fdsja;c ⣏
+inoremap \,.ka;c ⣐
+inoremap \,.fka;c ⣑
+inoremap \,.dka;c ⣒
+inoremap \,.fdka;c ⣓
+inoremap \,.ska;c ⣔
+inoremap \,.fska;c ⣕
+inoremap \,.dska;c ⣖
+inoremap \,.fdska;c ⣗
+inoremap \,.jka;c ⣘
+inoremap \,.fjka;c ⣙
+inoremap \,.djka;c ⣚
+inoremap \,.fdjka;c ⣛
+inoremap \,.sjka;c ⣜
+inoremap \,.fsjka;c ⣝
+inoremap \,.dsjka;c ⣞
+inoremap \,.fdsjka;c ⣟
+inoremap \,.la;c ⣠
+inoremap \,.fla;c ⣡
+inoremap \,.dla;c ⣢
+inoremap \,.fdla;c ⣣
+inoremap \,.sla;c ⣤
+inoremap \,.fsla;c ⣥
+inoremap \,.dsla;c ⣦
+inoremap \,.fdsla;c ⣧
+inoremap \,.jla;c ⣨
+inoremap \,.fjla;c ⣩
+inoremap \,.djla;c ⣪
+inoremap \,.fdjla;c ⣫
+inoremap \,.sjla;c ⣬
+inoremap \,.fsjla;c ⣭
+inoremap \,.dsjla;c ⣮
+inoremap \,.fdsjla;c ⣯
+inoremap \,.kla;c ⣰
+inoremap \,.fkla;c ⣱
+inoremap \,.dkla;c ⣲
+inoremap \,.fdkla;c ⣳
+inoremap \,.skla;c ⣴
+inoremap \,.fskla;c ⣵
+inoremap \,.dskla;c ⣶
+inoremap \,.fdskla;c ⣷
+inoremap \,.jkla;c ⣸
+inoremap \,.fjkla;c ⣹
+inoremap \,.djkla;c ⣺
+inoremap \,.fdjkla;c ⣻
+inoremap \,.sjkla;c ⣼
+inoremap \,.fsjkla;c ⣽
+inoremap \,.dsjkla;c ⣾
+inoremap \,.fdsjkla;c ⣿
+inoremap \,.1. ⠁
+inoremap \,.q. ⠂
+inoremap \,.1q. ⠃
+inoremap \,.a. ⠄
+inoremap \,.1a. ⠅
+inoremap \,.qa. ⠆
+inoremap \,.1qa. ⠇
+inoremap \,.2. ⠈
+inoremap \,.12. ⠉
+inoremap \,.q2. ⠊
+inoremap \,.1q2. ⠋
+inoremap \,.a2. ⠌
+inoremap \,.1a2. ⠍
+inoremap \,.qa2. ⠎
+inoremap \,.1qa2. ⠏
+inoremap \,.w. ⠐
+inoremap \,.1w. ⠑
+inoremap \,.qw. ⠒
+inoremap \,.1qw. ⠓
+inoremap \,.aw. ⠔
+inoremap \,.1aw. ⠕
+inoremap \,.qaw. ⠖
+inoremap \,.1qaw. ⠗
+inoremap \,.2w. ⠘
+inoremap \,.12w. ⠙
+inoremap \,.q2w. ⠚
+inoremap \,.1q2w. ⠛
+inoremap \,.a2w. ⠜
+inoremap \,.1a2w. ⠝
+inoremap \,.qa2w. ⠞
+inoremap \,.1qa2w. ⠟
+inoremap \,.s. ⠠
+inoremap \,.1s. ⠡
+inoremap \,.qs. ⠢
+inoremap \,.1qs. ⠣
+inoremap \,.as. ⠤
+inoremap \,.1as. ⠥
+inoremap \,.qas. ⠦
+inoremap \,.1qas. ⠧
+inoremap \,.2s. ⠨
+inoremap \,.12s. ⠩
+inoremap \,.q2s. ⠪
+inoremap \,.1q2s. ⠫
+inoremap \,.a2s. ⠬
+inoremap \,.1a2s. ⠭
+inoremap \,.qa2s. ⠮
+inoremap \,.1qa2s. ⠯
+inoremap \,.ws. ⠰
+inoremap \,.1ws. ⠱
+inoremap \,.qws. ⠲
+inoremap \,.1qws. ⠳
+inoremap \,.aws. ⠴
+inoremap \,.1aws. ⠵
+inoremap \,.qaws. ⠶
+inoremap \,.1qaws. ⠷
+inoremap \,.2ws. ⠸
+inoremap \,.12ws. ⠹
+inoremap \,.q2ws. ⠺
+inoremap \,.1q2ws. ⠻
+inoremap \,.a2ws. ⠼
+inoremap \,.1a2ws. ⠽
+inoremap \,.qa2ws. ⠾
+inoremap \,.1qa2ws. ⠿
+inoremap \,.z. ⡀
+inoremap \,.1z. ⡁
+inoremap \,.qz. ⡂
+inoremap \,.1qz. ⡃
+inoremap \,.az. ⡄
+inoremap \,.1az. ⡅
+inoremap \,.qaz. ⡆
+inoremap \,.1qaz. ⡇
+inoremap \,.2z. ⡈
+inoremap \,.12z. ⡉
+inoremap \,.q2z. ⡊
+inoremap \,.1q2z. ⡋
+inoremap \,.a2z. ⡌
+inoremap \,.1a2z. ⡍
+inoremap \,.qa2z. ⡎
+inoremap \,.1qa2z. ⡏
+inoremap \,.wz. ⡐
+inoremap \,.1wz. ⡑
+inoremap \,.qwz. ⡒
+inoremap \,.1qwz. ⡓
+inoremap \,.awz. ⡔
+inoremap \,.1awz. ⡕
+inoremap \,.qawz. ⡖
+inoremap \,.1qawz. ⡗
+inoremap \,.2wz. ⡘
+inoremap \,.12wz. ⡙
+inoremap \,.q2wz. ⡚
+inoremap \,.1q2wz. ⡛
+inoremap \,.a2wz. ⡜
+inoremap \,.1a2wz. ⡝
+inoremap \,.qa2wz. ⡞
+inoremap \,.1qa2wz. ⡟
+inoremap \,.sz. ⡠
+inoremap \,.1sz. ⡡
+inoremap \,.qsz. ⡢
+inoremap \,.1qsz. ⡣
+inoremap \,.asz. ⡤
+inoremap \,.1asz. ⡥
+inoremap \,.qasz. ⡦
+inoremap \,.1qasz. ⡧
+inoremap \,.2sz. ⡨
+inoremap \,.12sz. ⡩
+inoremap \,.q2sz. ⡪
+inoremap \,.1q2sz. ⡫
+inoremap \,.a2sz. ⡬
+inoremap \,.1a2sz. ⡭
+inoremap \,.qa2sz. ⡮
+inoremap \,.1qa2sz. ⡯
+inoremap \,.wsz. ⡰
+inoremap \,.1wsz. ⡱
+inoremap \,.qwsz. ⡲
+inoremap \,.1qwsz. ⡳
+inoremap \,.awsz. ⡴
+inoremap \,.1awsz. ⡵
+inoremap \,.qawsz. ⡶
+inoremap \,.1qawsz. ⡷
+inoremap \,.2wsz. ⡸
+inoremap \,.12wsz. ⡹
+inoremap \,.q2wsz. ⡺
+inoremap \,.1q2wsz. ⡻
+inoremap \,.a2wsz. ⡼
+inoremap \,.1a2wsz. ⡽
+inoremap \,.qa2wsz. ⡾
+inoremap \,.1qa2wsz. ⡿
+inoremap \,.x. ⢀
+inoremap \,.1x. ⢁
+inoremap \,.qx. ⢂
+inoremap \,.1qx. ⢃
+inoremap \,.ax. ⢄
+inoremap \,.1ax. ⢅
+inoremap \,.qax. ⢆
+inoremap \,.1qax. ⢇
+inoremap \,.2x. ⢈
+inoremap \,.12x. ⢉
+inoremap \,.q2x. ⢊
+inoremap \,.1q2x. ⢋
+inoremap \,.a2x. ⢌
+inoremap \,.1a2x. ⢍
+inoremap \,.qa2x. ⢎
+inoremap \,.1qa2x. ⢏
+inoremap \,.wx. ⢐
+inoremap \,.1wx. ⢑
+inoremap \,.qwx. ⢒
+inoremap \,.1qwx. ⢓
+inoremap \,.awx. ⢔
+inoremap \,.1awx. ⢕
+inoremap \,.qawx. ⢖
+inoremap \,.1qawx. ⢗
+inoremap \,.2wx. ⢘
+inoremap \,.12wx. ⢙
+inoremap \,.q2wx. ⢚
+inoremap \,.1q2wx. ⢛
+inoremap \,.a2wx. ⢜
+inoremap \,.1a2wx. ⢝
+inoremap \,.qa2wx. ⢞
+inoremap \,.1qa2wx. ⢟
+inoremap \,.sx. ⢠
+inoremap \,.1sx. ⢡
+inoremap \,.qsx. ⢢
+inoremap \,.1qsx. ⢣
+inoremap \,.asx. ⢤
+inoremap \,.1asx. ⢥
+inoremap \,.qasx. ⢦
+inoremap \,.1qasx. ⢧
+inoremap \,.2sx. ⢨
+inoremap \,.12sx. ⢩
+inoremap \,.q2sx. ⢪
+inoremap \,.1q2sx. ⢫
+inoremap \,.a2sx. ⢬
+inoremap \,.1a2sx. ⢭
+inoremap \,.qa2sx. ⢮
+inoremap \,.1qa2sx. ⢯
+inoremap \,.wsx. ⢰
+inoremap \,.1wsx. ⢱
+inoremap \,.qwsx. ⢲
+inoremap \,.1qwsx. ⢳
+inoremap \,.awsx. ⢴
+inoremap \,.1awsx. ⢵
+inoremap \,.qawsx. ⢶
+inoremap \,.1qawsx. ⢷
+inoremap \,.2wsx. ⢸
+inoremap \,.12wsx. ⢹
+inoremap \,.q2wsx. ⢺
+inoremap \,.1q2wsx. ⢻
+inoremap \,.a2wsx. ⢼
+inoremap \,.1a2wsx. ⢽
+inoremap \,.qa2wsx. ⢾
+inoremap \,.1qa2wsx. ⢿
+inoremap \,.zx. ⣀
+inoremap \,.1zx. ⣁
+inoremap \,.qzx. ⣂
+inoremap \,.1qzx. ⣃
+inoremap \,.azx. ⣄
+inoremap \,.1azx. ⣅
+inoremap \,.qazx. ⣆
+inoremap \,.1qazx. ⣇
+inoremap \,.2zx. ⣈
+inoremap \,.12zx. ⣉
+inoremap \,.q2zx. ⣊
+inoremap \,.1q2zx. ⣋
+inoremap \,.a2zx. ⣌
+inoremap \,.1a2zx. ⣍
+inoremap \,.qa2zx. ⣎
+inoremap \,.1qa2zx. ⣏
+inoremap \,.wzx. ⣐
+inoremap \,.1wzx. ⣑
+inoremap \,.qwzx. ⣒
+inoremap \,.1qwzx. ⣓
+inoremap \,.awzx. ⣔
+inoremap \,.1awzx. ⣕
+inoremap \,.qawzx. ⣖
+inoremap \,.1qawzx. ⣗
+inoremap \,.2wzx. ⣘
+inoremap \,.12wzx. ⣙
+inoremap \,.q2wzx. ⣚
+inoremap \,.1q2wzx. ⣛
+inoremap \,.a2wzx. ⣜
+inoremap \,.1a2wzx. ⣝
+inoremap \,.qa2wzx. ⣞
+inoremap \,.1qa2wzx. ⣟
+inoremap \,.szx. ⣠
+inoremap \,.1szx. ⣡
+inoremap \,.qszx. ⣢
+inoremap \,.1qszx. ⣣
+inoremap \,.aszx. ⣤
+inoremap \,.1aszx. ⣥
+inoremap \,.qaszx. ⣦
+inoremap \,.1qaszx. ⣧
+inoremap \,.2szx. ⣨
+inoremap \,.12szx. ⣩
+inoremap \,.q2szx. ⣪
+inoremap \,.1q2szx. ⣫
+inoremap \,.a2szx. ⣬
+inoremap \,.1a2szx. ⣭
+inoremap \,.qa2szx. ⣮
+inoremap \,.1qa2szx. ⣯
+inoremap \,.wszx. ⣰
+inoremap \,.1wszx. ⣱
+inoremap \,.qwszx. ⣲
+inoremap \,.1qwszx. ⣳
+inoremap \,.awszx. ⣴
+inoremap \,.1awszx. ⣵
+inoremap \,.qawszx. ⣶
+inoremap \,.1qawszx. ⣷
+inoremap \,.2wszx. ⣸
+inoremap \,.12wszx. ⣹
+inoremap \,.q2wszx. ⣺
+inoremap \,.1q2wszx. ⣻
+inoremap \,.a2wszx. ⣼
+inoremap \,.1a2wszx. ⣽
+inoremap \,.qa2wszx. ⣾
+inoremap \,.1qa2wszx. ⣿
+inoremap \,.z2. ⡈
+inoremap \,.1z2. ⡉
+inoremap \,.qz2. ⡊
+inoremap \,.1qz2. ⡋
+inoremap \,.az2. ⡌
+inoremap \,.1az2. ⡍
+inoremap \,.qaz2. ⡎
+inoremap \,.1qaz2. ⡏
+inoremap \,.zw. ⡐
+inoremap \,.1zw. ⡑
+inoremap \,.qzw. ⡒
+inoremap \,.1qzw. ⡓
+inoremap \,.azw. ⡔
+inoremap \,.1azw. ⡕
+inoremap \,.qazw. ⡖
+inoremap \,.1qazw. ⡗
+inoremap \,.z2w. ⡘
+inoremap \,.1z2w. ⡙
+inoremap \,.qz2w. ⡚
+inoremap \,.1qz2w. ⡛
+inoremap \,.az2w. ⡜
+inoremap \,.1az2w. ⡝
+inoremap \,.qaz2w. ⡞
+inoremap \,.1qaz2w. ⡟
+inoremap \,.zs. ⡠
+inoremap \,.1zs. ⡡
+inoremap \,.qzs. ⡢
+inoremap \,.1qzs. ⡣
+inoremap \,.azs. ⡤
+inoremap \,.1azs. ⡥
+inoremap \,.qazs. ⡦
+inoremap \,.1qazs. ⡧
+inoremap \,.z2s. ⡨
+inoremap \,.1z2s. ⡩
+inoremap \,.qz2s. ⡪
+inoremap \,.1qz2s. ⡫
+inoremap \,.az2s. ⡬
+inoremap \,.1az2s. ⡭
+inoremap \,.qaz2s. ⡮
+inoremap \,.1qaz2s. ⡯
+inoremap \,.zws. ⡰
+inoremap \,.1zws. ⡱
+inoremap \,.qzws. ⡲
+inoremap \,.1qzws. ⡳
+inoremap \,.azws. ⡴
+inoremap \,.1azws. ⡵
+inoremap \,.qazws. ⡶
+inoremap \,.1qazws. ⡷
+inoremap \,.z2ws. ⡸
+inoremap \,.1z2ws. ⡹
+inoremap \,.qz2ws. ⡺
+inoremap \,.1qz2ws. ⡻
+inoremap \,.az2ws. ⡼
+inoremap \,.1az2ws. ⡽
+inoremap \,.qaz2ws. ⡾
+inoremap \,.1qaz2ws. ⡿
+inoremap \,.z2x. ⣈
+inoremap \,.1z2x. ⣉
+inoremap \,.qz2x. ⣊
+inoremap \,.1qz2x. ⣋
+inoremap \,.az2x. ⣌
+inoremap \,.1az2x. ⣍
+inoremap \,.qaz2x. ⣎
+inoremap \,.1qaz2x. ⣏
+inoremap \,.zwx. ⣐
+inoremap \,.1zwx. ⣑
+inoremap \,.qzwx. ⣒
+inoremap \,.1qzwx. ⣓
+inoremap \,.azwx. ⣔
+inoremap \,.1azwx. ⣕
+inoremap \,.qazwx. ⣖
+inoremap \,.1qazwx. ⣗
+inoremap \,.z2wx. ⣘
+inoremap \,.1z2wx. ⣙
+inoremap \,.qz2wx. ⣚
+inoremap \,.1qz2wx. ⣛
+inoremap \,.az2wx. ⣜
+inoremap \,.1az2wx. ⣝
+inoremap \,.qaz2wx. ⣞
+inoremap \,.1qaz2wx. ⣟
+inoremap \,.zsx. ⣠
+inoremap \,.1zsx. ⣡
+inoremap \,.qzsx. ⣢
+inoremap \,.1qzsx. ⣣
+inoremap \,.azsx. ⣤
+inoremap \,.1azsx. ⣥
+inoremap \,.qazsx. ⣦
+inoremap \,.1qazsx. ⣧
+inoremap \,.z2sx. ⣨
+inoremap \,.1z2sx. ⣩
+inoremap \,.qz2sx. ⣪
+inoremap \,.1qz2sx. ⣫
+inoremap \,.az2sx. ⣬
+inoremap \,.1az2sx. ⣭
+inoremap \,.qaz2sx. ⣮
+inoremap \,.1qaz2sx. ⣯
+inoremap \,.zwsx. ⣰
+inoremap \,.1zwsx. ⣱
+inoremap \,.qzwsx. ⣲
+inoremap \,.1qzwsx. ⣳
+inoremap \,.azwsx. ⣴
+inoremap \,.1azwsx. ⣵
+inoremap \,.qazwsx. ⣶
+inoremap \,.1qazwsx. ⣷
+inoremap \,.z2wsx. ⣸
+inoremap \,.1z2wsx. ⣹
+inoremap \,.qz2wsx. ⣺
+inoremap \,.1qz2wsx. ⣻
+inoremap \,.az2wsx. ⣼
+inoremap \,.1az2wsx. ⣽
+inoremap \,.qaz2wsx. ⣾
+inoremap \,.1qaz2wsx. ⣿
 inoremap \0Υ ϒ
 inoremap \0ε ϵ
 inoremap \0θ ϑ
@@ -3941,6 +4594,8 @@ inoremap \\ij\ ĳ
 inoremap \\IJ\ Ĳ
 inoremap \\hv\ ƕ
 inoremap \\Hv\ Ƕ
+inoremap \\Hw\ Ƕ
+inoremap \\hw\ ƕ
 inoremap \\ll\ ỻ
 inoremap \\LL\ Ỻ
 inoremap \\fi\ ﬁ
@@ -3968,6 +4623,8 @@ inoremap \\Al\ Ɑ
 inoremap \\al\ ɑ
 inoremap \\ga\ ɣ
 inoremap \\Ga\ Ɣ
+inoremap \\Ep\ Ɛ
+inoremap \\ep\ ɛ
 inoremap \\el\ ℓ
 inoremap \ae æ
 inoremap \AE Æ
@@ -3992,17 +4649,24 @@ inoremap \OE Œ
 inoremap \et 🙰
 inoremap \Al Ɑ
 inoremap \Ga Ɣ
+inoremap \Ep Ɛ
+inoremap \Io Ɩ
 inoremap \al ɑ
 inoremap \ga ɣ
+inoremap \ep ɛ
+inoremap \io ɩ
 inoremap \el ℓ
 inoremap \dh ð
 inoremap \Dh Ð
 inoremap \DH Ð
+inoremap \t/h ᵺ
 inoremap \th þ
 inoremap \Th Þ
 inoremap \TH Þ
 inoremap \wv ỽ
 inoremap \Wv Ỽ
+inoremap \wll ỻ
+inoremap \Wll Ỻ
 inoremap \wy ƿ
 inoremap \Wy Ƿ
 inoremap \tet ⁊
@@ -4619,7 +5283,6 @@ inoremap \S% Ṩ
 inoremap \T! Ṭ
 inoremap \T- Ŧ
 inoremap \T. Ṫ
-inoremap \T: ẗ
 inoremap \Tv Ť
 inoremap \U! Ụ
 inoremap \U' Ú
