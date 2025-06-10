@@ -2672,11 +2672,13 @@
 | <code>.z</code> | ż |
 | <code>/D</code> | Ð |
 | <code>/L</code> | Ł |
+| <code>/U</code> | Ʉ |
 | <code>/O</code> | Ø |
 | <code>/d</code> | ð |
 | <code>/h</code> | ℏ |
 | <code>/l</code> | ł |
 | <code>/o</code> | ø |
+| <code>/u</code> | ʉ |
 | <code>:A</code> | Ä |
 | <code>:E</code> | Ë |
 | <code>:H</code> | Ḧ |
@@ -2952,6 +2954,7 @@
 | <code>ou</code> | ŏ |
 | <code>oL</code> | ȏ |
 | <code>o~</code> | õ |
+| <code>u/</code> | ʉ |
 | <code>p.</code> | ṗ |
 | <code>r!</code> | ṛ |
 | <code>r'</code> | ŕ |
@@ -3110,6 +3113,7 @@
 | <code>Ou</code> | Ŏ |
 | <code>OL</code> | Ȏ |
 | <code>O~</code> | Õ |
+| <code>U/</code> | Ʉ |
 | <code>P.</code> | Ṗ |
 | <code>R!</code> | Ṛ |
 | <code>R'</code> | Ŕ |

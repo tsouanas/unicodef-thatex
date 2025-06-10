@@ -22791,11 +22791,13 @@
     };
     "=" = ("insertText:", "≠");
     "/" = ("insertText:", "⁄");
+    "u" = ("insertText:", "ʉ");
     "o" = ("insertText:", "ø");
     "l" = ("insertText:", "ł");
     "h" = ("insertText:", "ℏ");
     "d" = ("insertText:", "ð");
     "O" = ("insertText:", "Ø");
+    "U" = ("insertText:", "Ʉ");
     "L" = ("insertText:", "Ł");
     "D" = ("insertText:", "Ð");
     "T" = {
@@ -23379,6 +23381,7 @@
     "," = ("insertText:", "ų");
     "'" = ("insertText:", "ú");
     "!" = ("insertText:", "ụ");
+    "/" = ("insertText:", "ʉ");
     "u" = ("insertText:", "ŭ");
     "o" = ("insertText:", "ŏ");
     "i" = ("insertText:", "ĭ");
@@ -23767,6 +23770,7 @@
     "," = ("insertText:", "Ų");
     "'" = ("insertText:", "Ú");
     "!" = ("insertText:", "Ụ");
+    "/" = ("insertText:", "Ʉ");
   };
   "T" = {
     "\\#" = {

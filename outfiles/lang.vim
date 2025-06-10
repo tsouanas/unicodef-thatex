@@ -391,11 +391,13 @@ inoremap \.y ẏ
 inoremap \.z ż
 inoremap \/D Ð
 inoremap \/L Ł
+inoremap \/U Ʉ
 inoremap \/O Ø
 inoremap \/d ð
 inoremap \/h ℏ
 inoremap \/l ł
 inoremap \/o ø
+inoremap \/u ʉ
 inoremap \:A Ä
 inoremap \:E Ë
 inoremap \:H Ḧ
@@ -671,6 +673,7 @@ inoremap \ov ǒ
 inoremap \ou ŏ
 inoremap \oL ȏ
 inoremap \o~ õ
+inoremap \u/ ʉ
 inoremap \p. ṗ
 inoremap \r! ṛ
 inoremap \r' ŕ
@@ -829,6 +832,7 @@ inoremap \Ov Ǒ
 inoremap \Ou Ŏ
 inoremap \OL Ȏ
 inoremap \O~ Õ
+inoremap \U/ Ʉ
 inoremap \P. Ṗ
 inoremap \R! Ṛ
 inoremap \R' Ŕ
