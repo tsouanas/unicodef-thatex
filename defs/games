@@ -40,11 +40,84 @@ whearts      ♡
 wdiamonds    ♢
 wdiams       ♢
 bclubs       ♣
+
 wspades      ♤
 bhearts      ♥
 bdiamonds    ♦
 bdiams       ♦
 wclubs       ♧
+
+card0        🂠 # back of card
+cardb        🂠 # back of card
+
+cardas       🂡 # [s]pades
+card1s       🂡
+card2s       🂢
+card3s       🂣
+card4s       🂤
+card5s       🂥
+card6s       🂦
+card7s       🂧
+card8s       🂨
+card9s       🂩
+card10s      🂪
+cardjs       🂫
+cardns       🂬
+cardqs       🂭
+cardks       🂮
+
+cardah       🂱 # [h]earts
+card1h       🂱
+card2h       🂲
+card3h       🂳
+card4h       🂴
+card5h       🂵
+card6h       🂶
+card7h       🂷
+card8h       🂸
+card9h       🂹
+card10h      🂺
+cardjh       🂻
+cardnh       🂼
+cardqh       🂽
+cardkh       🂾
+
+cardad       🃁 # [d]iamonds
+card1d       🃁
+card2d       🃂
+card3d       🃃
+card4d       🃄
+card5d       🃅
+card6d       🃆
+card7d       🃇
+card8d       🃈
+card9d       🃉
+card10d      🃊
+cardjd       🃋
+cardnd       🃌
+cardqd       🃍
+cardkd       🃎
+
+cardac       🃑 # [c]lubs
+card1c       🃑
+card2c       🃒
+card3c       🃓
+card4c       🃔
+card5c       🃕
+card6c       🃖
+card7c       🃗
+card8c       🃘
+card9c       🃙
+card10c      🃚
+cardjc       🃛
+cardnc       🃜
+cardqc       🃝
+cardkc       🃞
+
+cardrj       🂿 # [r]ed [j]oker
+cardbj       🃏 # [b]lack
+cardwj       🃟 # [w]hite
+cardj        🃟 # default: [w]
 
 # %}}}
 
