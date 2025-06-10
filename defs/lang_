@@ -42,24 +42,30 @@ _]     ⸥
 4:     ⦙
 :|     ¦
 |:     ¦
+1*     ∗  # 1-3: # of asterisks
 2*     ⁑
 3*     ⁂
-8*     ⁕
+4*     ✣  # 4-: # of points
+5*     ★
+6*     ✶
+8*     ✴
+12*    ✹
+16*    ✺
 --n    –  # endash
---.    –
+--.    –  # WARN: possibly soon-to-be-deprecated
 --;    –  # INFO: transition from . to ;
 --m    –  # emdash
 ---    —
 --:    ―  # quotation (dialogue) bar
---~.   〜
+--~.   〜 # WARN: possibly soon-to-be-deprecated
 --~;   〜 # INFO: transition from . to ;
 --~~   〰
+--~"   ⁓  # swung dash
 --=    ⹀  # double hyphen
 --/    ⸗  # oblique double hyphen
 -"     ⸚  # hyphen with diaeresis
 ^.     ˙
 ^_     ‾
-**     ∗
 !(     ¡
 !)     !
 (!     ¡
@@ -94,12 +100,16 @@ _]     ⸥
 *o     ◦  # [o]h
 *O     ◎
 *i     ◘  # [i]nverted bullet
-*a     ➤  # [a]rrowhead
+*a     ∗  # [a]sterisk
+*8     ⁕  # [8]-pointed floral asterisk
+*p     ➤  # [p]ointer
 *t     ‣  # [t]riangle
 *d     –  # [d]ash
 *h     ⁃  # [h]yphen
 *f     ❧  # [f]loral
 *l     ❥  # [l]ove
+*s     ★  # [s]tar
+
 
 # %}}}
 
@@ -164,8 +174,10 @@ ww     ʬ
 \IJ\   Ĳ
 \hv\   ƕ  # h-
 \Hv\   Ƕ
-\Hw\   Ƕ
+\HV\   Ƕ
 \hw\   ƕ
+\Hw\   Ƕ
+\HW\   Ƕ
 \ll\   ỻ  # l-
 \LL\   Ỻ
 \fi\   ﬁ  # f-
@@ -183,6 +195,9 @@ ww     ʬ
 \st\   ﬅ
 \s-t\  ﬆ
 \oe\   œ # o-
+\ou\   ȣ
+\Ou\   Ȣ
+\OU\   Ȣ
 \oo\   ꝏ
 \OE\   Œ
 \OO\   Ꝏ
@@ -192,8 +207,8 @@ ww     ʬ
 
 \Al\   Ɑ  # INFO: not a ligature
 \al\   ɑ  # INFO: not a ligature
-\ga\   ɣ  # INFO: not a ligature
 \Ga\   Ɣ  # INFO: not a ligature
+\ga\   ɣ  # INFO: not a ligature
 \Ep\   Ɛ  # INFO: not a ligature
 \ep\   ɛ  # INFO: not a ligature
 \el\   ℓ  # INFO: not a ligature
