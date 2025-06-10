@@ -253,7 +253,7 @@ cur               ¤
 
 # %}}}
 
-# ye olde %{{{
+# ye olde and extended alphabet %{{{
 
 Eth               Ð
 eth               ð
@@ -271,7 +271,10 @@ Vend              Ꝩ
 vend              ꝩ
 Tiroet            ⹒  # [Tiro]nian [et]
 tiroet            ⁊
-
+Latal             Ɑ  # [lat]in [al]pha
+latal             ɑ
+Latio             Ɩ  # [io]ta
+latio             ɩ
 
 prescr            ℞
 sho               Ϸ  # Bactrian Ϸ "sho"
