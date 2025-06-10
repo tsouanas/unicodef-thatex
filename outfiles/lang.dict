@@ -197,14 +197,19 @@
         "\\" = ("insertText:", "ﬁ");
       };
     };
+    "l" = {
+      "z" = {
+        "h" = {
+          "\\" = ("insertText:", "ɮ");
+        };
+      };
+      "l" = {
+        "\\" = ("insertText:", "ỻ");
+      };
+    };
     "L" = {
       "L" = {
         "\\" = ("insertText:", "Ỻ");
-      };
-    };
-    "l" = {
-      "l" = {
-        "\\" = ("insertText:", "ỻ");
       };
     };
     "H" = {
@@ -359,6 +364,7 @@
     "." = ("insertText:", "ż");
     "'" = ("insertText:", "ź");
     "!" = ("insertText:", "ẓ");
+    "h" = ("insertText:", "ʒ");
   };
   "y" = {
     "\\#" = {
@@ -625,6 +631,9 @@
     "-" = ("insertText:", "ƚ");
     "," = ("insertText:", "ļ");
     "!" = ("insertText:", "ḷ");
+    "z" = {
+      "h" = ("insertText:", "ɮ");
+    };
   };
   "k" = {
     "\\#" = {
@@ -808,6 +817,7 @@
     "." = ("insertText:", "Ż");
     "'" = ("insertText:", "Ź");
     "!" = ("insertText:", "Ẓ");
+    "h" = ("insertText:", "Ʒ");
   };
   "Y" = {
     "\\#" = {

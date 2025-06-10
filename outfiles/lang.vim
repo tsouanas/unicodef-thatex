@@ -151,6 +151,7 @@ inoremap \\Hw\ Ƕ
 inoremap \\HW\ Ƕ
 inoremap \\ll\ ỻ
 inoremap \\LL\ Ỻ
+inoremap \\lzh\ ɮ
 inoremap \\fi\ ﬁ
 inoremap \\fl\ ﬂ
 inoremap \\ff\ ﬀ
@@ -212,6 +213,7 @@ inoremap \ga ɣ
 inoremap \ep ɛ
 inoremap \io ɩ
 inoremap \el ℓ
+inoremap \lzh ɮ
 inoremap \dh ð
 inoremap \Dh Ð
 inoremap \DH Ð
@@ -219,6 +221,8 @@ inoremap \t/h ᵺ
 inoremap \th þ
 inoremap \Th Þ
 inoremap \TH Þ
+inoremap \zh ʒ
+inoremap \Zh Ʒ
 inoremap \wv ỽ
 inoremap \Wv Ỽ
 inoremap \wll ỻ

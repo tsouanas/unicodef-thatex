@@ -2432,6 +2432,7 @@
 | <code>\HW\</code> | Ƕ |
 | <code>\ll\</code> | ỻ |
 | <code>\LL\</code> | Ỻ |
+| <code>\lzh\</code> | ɮ |
 | <code>\fi\</code> | ﬁ |
 | <code>\fl\</code> | ﬂ |
 | <code>\ff\</code> | ﬀ |
@@ -2493,6 +2494,7 @@
 | <code>ep</code> | ɛ |
 | <code>io</code> | ɩ |
 | <code>el</code> | ℓ |
+| <code>lzh</code> | ɮ |
 | <code>dh</code> | ð |
 | <code>Dh</code> | Ð |
 | <code>DH</code> | Ð |
@@ -2500,6 +2502,8 @@
 | <code>th</code> | þ |
 | <code>Th</code> | Þ |
 | <code>TH</code> | Þ |
+| <code>zh</code> | ʒ |
+| <code>Zh</code> | Ʒ |
 | <code>wv</code> | ỽ |
 | <code>Wv</code> | Ỽ |
 | <code>wll</code> | ỻ |
