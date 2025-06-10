@@ -19,6 +19,7 @@ nbh               ‑  # [n]o-[b]reak [h]yphen
 nb-               ‑  #
 thin               
 hair               
+zspc               ​  # [z]ero
 blank             ⠀  # XXX: abuse: actually braille
 hhyph             ⸗  # oblique (double) [hhyph]en
 dhyph             ⸚  # [hyph]en with [d]iaeresis
@@ -32,6 +33,7 @@ arabask           ؟  #
 arabstar          ٭  # 
 arabdots          ؞  # triple [dots]
 hypo              ⸒  # [hypo]diastole
+swung             ⁓  # [swung] dash
 
 # %}}}
 
