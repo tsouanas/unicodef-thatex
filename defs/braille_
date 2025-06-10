@@ -6,11 +6,15 @@
 #
 # Braille patterns
 
-# Blank pattern
+# blank pattern %{{{
+
 ,..             ⠀  # Blank
 ,.c             ⠀  # Blank
 
+# %}}}
+
 # fds jkl a; for 123 456 78 -- end with [c] %{{{
+
 ,.fc            ⠁  # Dots-1
 ,.dc            ⠂  # Dots-2
 ,.fdc           ⠃  # Dots-12
@@ -266,9 +270,11 @@
 ,.fsjkla;c      ⣽  # Dots-1345678
 ,.dsjkla;c      ⣾  # Dots-2345678
 ,.fdsjkla;c     ⣿  # Dots-12345678
+
 # %}}}
 
 # 1qa 2ws zx for 123 456 78 -- end with [.] %{{{
+
 ,.1.            ⠁  # Dots-1
 ,.q.            ⠂  # Dots-2
 ,.1q.           ⠃  # Dots-12
@@ -524,10 +530,12 @@
 ,.1a2wszx.      ⣽  # Dots-1345678
 ,.qa2wszx.      ⣾  # Dots-2345678
 ,.1qa2wszx.     ⣿  # Dots-12345678
+
 # %}}}
 
 # 1qaz 2wsx for 1237 4568   -- end with [.] %{{{
 # WARN: duplicates (with above) not included
+
 ,.z2.           ⡈  # Dots-47
 ,.1z2.          ⡉  # Dots-147
 ,.qz2.          ⡊  # Dots-247
@@ -640,5 +648,6 @@
 ,.1az2wsx.      ⣽  # Dots-1345678
 ,.qaz2wsx.      ⣾  # Dots-2345678
 ,.1qaz2wsx.     ⣿  # Dots-12345678
+
 # %}}}
 
