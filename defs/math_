@@ -179,10 +179,13 @@ oc     ∝
 1`     ‵
 2`     ‶
 3`     ‷
-h-     ħ
-h/     ℏ
+#h-     ħ  # INFO: identical under defs/lang_
+#h/     ℏ  # INFO: identical under defs/lang_
 
-# brackets
+# %}}}
+
+# brackets %{{{
+
 [[     ⟦
 ]]     ⟧
 2[     ⟦
@@ -239,9 +242,12 @@ S)     ⟆
 <>     ⪤
 ><     ⪥
 
-# multiline brackets, integrals, summations
+# %}}}
+
+# multiline brackets, integrals, summations %{{{
 # for height > 2: [u]pper, e[x]tension, [m]iddle, [l]ower
 # for height = 2: [t]op, [b]ottom
+
 (u     ⎛
 (m     ⎜
 (x     ⎜
@@ -279,11 +285,14 @@ S)     ⟆
 }t     ⎱
 }b     ⎰
 
-# arrows
+# %}}}
+
+# arrows %{{{
 # >: right
 # <: left
 # ^: up
 # v: down
+
 ->     →
 -<     ←
 -^     ↑
@@ -322,9 +331,9 @@ N<     ⇜
 :>     ⤑
 :<     ⬸
 
+# %}}}
 
-################################################################
-# combining decorators
+# combining decorators %{{{
 
 @^`      ̀
 @^'      ́
@@ -346,3 +355,4 @@ N<     ⇜
 @_0      ̥
 @_88      ͚
 
+# %}}}
