@@ -1,5 +1,10 @@
-# These are to be used while having a (modern) greek layout
-# activated.
+#%{{{ [vim] 
+# vim:foldmarker=%{{{,%}}}
+# vim:foldmethod=marker
+# vim:foldcolumn=5
+#%}}}
+#
+# These are to be used while having a (modern) greek layout activated.
 
 # 0 (prefixed to the letter): alternative form
 # order of actions:
@@ -8,7 +13,8 @@
 #   ad/subscript: ,
 #   macron/breve: _ -
 
-# alternative forms
+# alternative forms %{{{
+
 0Υ     ϒ
 0ε     ϵ
 0θ     ϑ
@@ -17,7 +23,10 @@
 0ρ     ϱ
 0σ     ς
 
-# archaic and ligatures
+# %}}}
+
+# archaic and ligatures %{{{
+
 τσ     ͷ  # Arcadian "tsan"
 σσ     Ϸ  # Bactrian Ϸ "sho"
 ΟΥ     Ȣ
@@ -38,16 +47,16 @@
 Χρ     ☧
 χρ     ☧
 
+# %}}}
 
-################################################################
-# upper case
+# upper case %{{{
 
-# adscript: ͺ
+## adscript: ͺ
 ,Α     ᾼ
 ,Η     ῌ
 ,Ω     ῼ
 
-# acute: ´
+## acute: ´
 'Α     Ά
 'Ε     Έ
 'Η     Ή
@@ -57,7 +66,7 @@
 '0Υ    ϓ
 'Ω     Ώ
 
-# grave: `
+## grave: `
 `Α     Ὰ
 `Ε     Ὲ
 `Η     Ὴ
@@ -66,7 +75,7 @@
 `Υ     Ὺ
 `Ω     Ὼ
 
-# smooth: ᾿
+## smooth: ᾿
 >Α     Ἀ
 >Ε     Ἐ
 >Η     Ἠ
@@ -77,7 +86,7 @@
 >,Η    ᾘ
 >,Ω    ᾨ
 
-# smooth acute: ῎
+## smooth acute: ῎
 >'Α    Ἄ
 >'Ε    Ἔ
 >'Η    Ἤ
@@ -88,7 +97,7 @@
 >',Η   ᾜ
 >',Ω   ᾬ
 
-# smooth grave: ῍
+## smooth grave: ῍
 >`Α    Ἂ
 >`Ε    Ἒ
 >`Η    Ἢ
@@ -99,7 +108,7 @@
 >`,Η   ᾚ
 >`,Ω   ᾪ
 
-# smooth circumflex: ῏
+## smooth circumflex: ῏
 >^Α    Ἆ
 >^Η    Ἦ
 >^Ι    Ἶ
@@ -108,7 +117,7 @@
 >^,Η   ᾞ
 >^,Ω   ᾮ
 
-# rough: ῾
+## rough: ῾
 <Α     Ἁ
 <Ε     Ἑ
 <Η     Ἡ
@@ -121,7 +130,7 @@
 <,Η    ᾙ
 <,Ω    ᾩ
 
-# rough acute: ῞
+## rough acute: ῞
 <'Α    Ἅ
 <'Ε    Ἕ
 <'Η    Ἥ
@@ -134,7 +143,7 @@
 <',Η   ᾝ
 <',Ω   ᾭ
 
-# rough grave: ῝
+## rough grave: ῝
 <`Α    Ἃ
 <`Ε    Ἓ
 <`Η    Ἣ
@@ -146,7 +155,7 @@
 <`,Η   ᾛ
 <`,Ω   ᾫ
 
-# rough circumflex: ῏
+## rough circumflex: ῏
 <^Α    Ἇ
 <^Η    Ἧ
 <^Ι    Ἷ
@@ -156,31 +165,31 @@
 <^,Η   ᾟ
 <^,Ω   ᾯ
 
-# diaeresis: ¨
+## diaeresis: ¨
 "Ι     Ϊ
 "Υ     Ϋ
 "0Υ    ϔ
 
-# macron: ˉ
+## macron: ˉ
 _Α     Ᾱ
 _Ι     Ῑ
 _Υ     Ῡ
 
-# breve: ˘
+## breve: ˘
 -Α     Ᾰ
 -Ι     Ῐ
 -Υ     Ῠ
 
+# %}}}
 
-################################################################
-# lower case
+# lower case %{{{
 
-# subscript ͺ
+## subscript ͺ
 ,α     ᾳ
 ,η     ῃ
 ,ω     ῳ
 
-# acute: ´
+## acute: ´
 'α     ά
 'ε     έ
 'η     ή
@@ -192,7 +201,7 @@ _Υ     Ῡ
 ',η    ῄ
 ',ω    ῴ
 
-# grave: `
+## grave: `
 `α     ὰ
 `ε     ὲ
 `η     ὴ
@@ -204,7 +213,7 @@ _Υ     Ῡ
 `,η    ῂ
 `,ω    ῲ
 
-# circumflex: ῀
+## circumflex: ῀
 ^α     ᾶ
 ^η     ῆ
 ^ι     ῖ
@@ -214,7 +223,7 @@ _Υ     Ῡ
 ^,η    ῇ
 ^,ω    ῷ
 
-# smooth: ᾿
+## smooth: ᾿
 >α     ἀ
 >ε     ἐ
 >η     ἠ
@@ -227,7 +236,7 @@ _Υ     Ῡ
 >,η    ᾐ
 >,ω    ᾠ
 
-# smooth acute: ῎
+## smooth acute: ῎
 >'α    ἄ
 >'ε    ἔ
 >'η    ἤ
@@ -239,7 +248,7 @@ _Υ     Ῡ
 >',η   ᾔ
 >',ω   ᾤ
 
-# smooth grave: ῍
+## smooth grave: ῍
 >`α    ἂ
 >`ε    ἒ
 >`η    ἢ
@@ -251,7 +260,7 @@ _Υ     Ῡ
 >`,η   ᾒ
 >`,ω   ᾢ
 
-# smooth circumflex: ῏
+## smooth circumflex: ῏
 >^α    ἆ
 >^η    ἦ
 >^ι    ἶ
@@ -261,7 +270,7 @@ _Υ     Ῡ
 >^,η   ᾖ
 >^,ω   ᾦ
 
-# rough: ῾
+## rough: ῾
 <α     ἁ
 <ε     ἑ
 <η     ἡ
@@ -274,7 +283,7 @@ _Υ     Ῡ
 <,η    ᾑ
 <,ω    ᾡ
 
-# rough acute: ῞
+## rough acute: ῞
 <'α    ἅ
 <'ε    ἕ
 <'η    ἥ
@@ -286,7 +295,7 @@ _Υ     Ῡ
 <',η   ᾕ
 <',ω   ᾥ
 
-# rough grave: ῝
+## rough grave: ῝
 <`α    ἃ
 <`ε    ἓ
 <`η    ἣ
@@ -298,7 +307,7 @@ _Υ     Ῡ
 <`,η   ᾓ
 <`,ω   ᾣ
 
-# rough circumflex: ῏
+## rough circumflex: ῏
 <^α    ἇ
 <^η    ἧ
 <^ι    ἷ
@@ -308,29 +317,31 @@ _Υ     Ῡ
 <^,η   ᾗ
 <^,ω   ᾧ
 
-# diaeresis: ¨
+## diaeresis: ¨
 "ι     ϊ
 "υ     ϋ
 
-# diaeresis acute: ΅
+## diaeresis acute: ΅
 "'ι    ΐ
 "'υ    ΰ
 
-# diaeresis grave: ῭
+## diaeresis grave: ῭
 "`ι    ῒ
 "`υ    ῢ
 
-# diaeresis circumflex: ῁
+## diaeresis circumflex: ῁
 "^ι    ῗ
 "^υ    ῧ
 
-# macron: ˉ
+## macron: ˉ
 _α     ᾱ
 _ι     ῑ
 _υ     ῡ
 
-# breve: ˘
+## breve: ˘
 -α     ᾰ
 -ι     ῐ
 -υ     ῠ
+
+# %}}}
 
