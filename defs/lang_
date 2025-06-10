@@ -180,6 +180,7 @@ ww     ʬ
 \HW\   Ƕ
 \ll\   ỻ  # l-
 \LL\   Ỻ
+\lzh\  ɮ
 \fi\   ﬁ  # f-
 \fl\   ﬂ
 \ff\   ﬀ
@@ -247,6 +248,7 @@ ga     ɣ
 ep     ɛ
 io     ɩ
 el     ℓ
+lzh    ɮ
 
 # %}}}
 
@@ -261,6 +263,8 @@ t/h    ᵺ  # (δ sound, ð alternative in some dicts)
 th     þ  # thorn
 Th     Þ
 TH     Þ
+zh     ʒ
+Zh     Ʒ
 wv     ỽ  # middle welsh-v
 Wv     Ỽ
 wll    ỻ
