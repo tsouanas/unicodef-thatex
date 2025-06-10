@@ -12,13 +12,14 @@
 
 # special typography %{{{
 
-spc               ␣  # [sp]a[c]e
+spc               ␣  # visible [sp]a[c]e
 nbsp                 # [n]o-[b]reak [sp]ace
 nnbsp                # [n]arrow
 nbh               ‑  # [n]o-[b]reak [h]yphen
 nb-               ‑  #
 thin               
 hair               
+blank             ⠀  # XXX: abuse: actually braille
 hhyph             ⸗  # oblique (double) [hhyph]en
 dhyph             ⸚  # [hyph]en with [d]iaeresis
 arabdec           ٫  # [arab]ic [dec]imal separator

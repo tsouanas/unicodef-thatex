@@ -21,9 +21,6 @@
 # sc: small-caps
 # ^: superscripts
 # _: subscripts
-# braille
-
-blank             ⠀  # XXX: abuse: actually braille
 
 # scr: script %{{{
 
