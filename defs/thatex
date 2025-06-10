@@ -1782,6 +1782,8 @@ h-                ħ
 hslash            ℏ
 hs                ℏ
 h/                ℏ
+doti              ı  # [dot]less [i]
+dotj              ȷ
 ell               ℓ
 Ell               ℒ  # WARN: abuse: not really its uppercase
 ohring            ⱺ  # [oh] with [ring]
@@ -1807,25 +1809,38 @@ d,                ɗ
 D,                Ɗ
 d,,               ꝺ
 D,,               Ꝺ
+f,                ƒ
+F,                Ƒ
 g,                ɠ
 G,                Ɠ
 g,,               ɡ
 G,,               Ɡ
 h,                ɦ
 H,                Ɦ
-h,,               ɧ
-H,,               ℋ  # WARN: abuse: not really its uppercase
+h,,               ꜧ
+H,,               Ꜧ
+h,,,              ɧ
+H,,,              ℋ  # WARN: abuse: not really its uppercase
+i,                ɩ
+I,                Ɩ
+j,                ʝ
+J,                Ʝ
 k,                ƙ
 K,                Ƙ
+k,,               ᶄ
 l,                ℓ
 L,                ℒ  # WARN: abuse: not really its uppercase
+l,,               ȴ
 m,                ɱ
 M,                Ɱ
 n,                ɲ
 N,                Ɲ
 n,,               ɳ
+n,,,              ȵ
 p,                ƥ
 P,                Ƥ
+p,,               ꝓ
+P,,               Ꝓ
 q,                ɋ
 Q,                Ɋ
 r,                ɽ
@@ -1837,6 +1852,7 @@ t,                ƭ
 T,                Ƭ
 t,,               ꞇ
 T,,               Ꞇ
+t,,,              ȶ
 v,                ⱴ
 V,                𝒱  # WARN: abuse: not really its uppercase
 v,,               ʋ
