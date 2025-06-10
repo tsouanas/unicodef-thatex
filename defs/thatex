@@ -1221,6 +1221,8 @@ VECT              𝐕𝐞𝐜𝐭
 FINVECT           𝐅𝐢𝐧𝐕𝐞𝐜𝐭
 MATRIX            𝐌𝐚𝐭𝐫𝐢𝐱
 MAT               𝐌𝐚𝐭𝐫𝐢𝐱
+SEMILATTICE       𝐒𝐞𝐦𝐢𝐥𝐚𝐭𝐭𝐢𝐜𝐞
+SLATTICE          𝐒𝐞𝐦𝐢𝐥𝐚𝐭𝐭𝐢𝐜𝐞
 LATTICE           𝐋𝐚𝐭𝐭𝐢𝐜𝐞
 LAT               𝐋𝐚𝐭𝐭𝐢𝐜𝐞
 HEYTING           𝐇𝐞𝐲𝐭𝐢𝐧𝐠
@@ -1230,6 +1232,8 @@ BALG              𝐁𝐨𝐨𝐥𝐞𝐚𝐧
 HA                𝐇𝐀
 BA                𝐁𝐀
 MODEL             𝐌𝐨𝐝𝐞𝐥
+CPO               𝐂𝐩𝐨
+DCPO              𝐝𝐜𝐩𝐨
 
 # %}}}
 
