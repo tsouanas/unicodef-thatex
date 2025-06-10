@@ -632,11 +632,16 @@ bbsups            ⋑
 bbinter           ⋒
 bbunion           ⋓
 bbin              ⋹
-ssubs             ⋐  # (no bb-)
+ssubs             ⋐
 ssups             ⋑
 iinter            ⋒
 uunion            ⋓
-iin               ⋹  # ALSO: [i]ntensionally [in]
+iin               ⋹  # (bonus: [i]ntensionally [in]))
+2subs             ⋐
+2sups             ⋑
+2inter            ⋒
+2union            ⋓
+2in               ⋹
 
 # %}}}
 
@@ -1343,10 +1348,18 @@ bbor              ⩔
 bband             ⩓
 bbdisj            ⩔
 bbconj            ⩓
-nnot              ⫬  # (no bb-)
+nnot              ⫬
 tton              ⫭
 oor               ⩔
 aand              ⩓
+ddisj             ⩔
+cconj             ⩓
+2not              ⫬
+2ton              ⫭
+2or               ⩔
+2and              ⩓
+2disj             ⩔
+2conj             ⩓
 
 # %}}}
 
@@ -1405,6 +1418,11 @@ covs              ⤚  # [cov]er[s]
 coverd            ⤙  # [cover]e[d] by
 covd              ⤙  # [cov]ere[d] by
 covby             ⤙  # [cov]ered [by]
+kovers            ⋗  # [k]nuth's c[overs]
+kovs              ⋗
+koverd            ⋖
+kovd              ⋖
+kovby             ⋖
 compar            ≶  # [compar]able
 compareq          ⋚
 ncompar           ≸
@@ -1454,7 +1472,11 @@ ep                ᵉᵖ # [e]mbedding-[p]rojection pairs as arrows
 
 meeteq            ≙
 joineq            ≚
-lts               ≲  # [s]im(ilar)
+ltsim             ≲  # [sim]ilar
+gtsim             ≳
+nltsim            ≴
+ngtsim            ≵
+lts               ≲
 gts               ≳
 nlts              ≴
 ngts              ≵
@@ -1468,7 +1490,9 @@ cleq              ≼
 cgeq              ≽
 ncleq             ⋠
 ncgeq             ⋡
-clts              ≾  # [s]im
+cltsim            ≾  # [sim]ilar
+cgtsim            ≿
+clts              ≾
 cgts              ≿
 blowlt            ⊰
 blowgt            ⊱
@@ -1560,6 +1584,10 @@ mmeet             ⩓  # (no bb-)
 jjoin             ⩔
 llt               ⪡
 ggt               ⪢
+2meet             ⩓
+2join             ⩔
+2lt               ⪡
+2gt               ⪢
 
 # %}}}
 
@@ -1756,6 +1784,7 @@ Circle            ◯  # big
 dcircle           ◌  # [d]otted
 triangle          △  # see also: triangles
 square            ◻
+dsquare           ⬚  # [d]otted
 diamond           ◇
 lozenge           ◊
 paragram          ▱  # [para]llelo[gram]
@@ -1792,6 +1821,8 @@ doti              ı  # [dot]less [i]
 dotj              ȷ
 ell               ℓ
 Ell               ℒ  # WARN: abuse: not really its uppercase
+lambar            ƛ
+Lambar            Ƛ
 ohring            ⱺ  # [oh] with [ring]
 oho               ⱺ
 horse             ʊ
