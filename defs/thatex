@@ -764,10 +764,14 @@ ecls              ⦃⦄
 lam               λ  # [lam]bda
 Lam               Λ
 mal               ʎ  # (lam backwards)
-hole              ·
+hole              ·  # default: [p]
 phole             ·  # [p]oint
 dhole             –  # [d]ash
 uhole             _  # [u]nderscore
+bhole             ◻  # [b]ox
+dbhole            ⬚  # [d]otted [b]ox
+chole             ○  # [c]ircle
+dchole            ◌  # [d]otted [c]ircle
 comp              ∘  # [comp]osition
 of                ∘
 after             ∘
