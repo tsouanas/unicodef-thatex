@@ -1,6 +1,13 @@
+#%{{{ [vim] 
+# vim:foldmarker=%{{{,%}}}
+# vim:foldmethod=marker
+# vim:foldcolumn=5
+#%}}}
+#
 # greek
 
-# uppercase
+# uppercase %{{{
+
 Alpha           Α
 Beta            Β
 Gamma           Γ
@@ -25,6 +32,8 @@ Upsilon         Υ
 Upsi            Υ
 0Upsilon        ϒ
 0Upsi           ϒ
+Upsilon,        ϒ
+Upsi,           ϒ
 vUpsilon        ϒ
 vUpsi           ϒ
 Phi             Φ
@@ -32,7 +41,10 @@ Chi             Χ
 Psi             Ψ
 Omega           Ω
 
-# lowercase
+# %}}}
+
+# lowercase %{{{
+
 alpha           α
 beta            β
 varbeta         ϐ
@@ -94,7 +106,10 @@ chi             χ
 psi             ψ
 omega           ω
 
-# superscripts (some abuse)
+# %}}}
+
+# superscripts (some abuse) %{{{
+
 ^Gamma          ᣘ
 ^Delta          ᐞ
 ^Lambda         ᣔ
@@ -111,34 +126,75 @@ omega           ω
 ^sigma          ᣙ
 ^varsigma       ᕐ
 ^finsigma       ᕐ
+^vsigma         ᕐ
+^fsigma         ᕐ
 ^upsilon        ᶹ
 ^phi            ᵠ
 ^chi            ᵡ
 
-# subscripts (some abuse)
+# %}}}
+
+# subscripts (some abuse) %{{{
+
 _beta           ᵦ
 _gamma          ᵧ
 _rho            ᵨ
 _phi            ᵩ
 _chi            ᵪ
 
-# abbrevs for 6-char limit
-Omicro          Ο
-omicro          ο
+# %}}}
 
-
-# transformed characters: reversed, upside-down, etc.
-# [: h-flip
-# ]: v-flip
-# {: π-rotate
-# }: other
+# transformed characters %{{{
+# X[ or X#h or X#H: h-flip
+# X] or X#v or X#V: v-flip
+# X{ or X#p or X#P: π-rotate
 
 repsilon        ɜ  # [r]everse
-rlepsilon       ϶ 
+rlepsilon       ϶
 repsi           ɜ
 rlepsi          ϶
 
-## {: π-rotate
+## h-flip %{{{
+
+### X[
+alpha[          ɒ
+epsi[           ɜ
+lepsi[          ϶
+
+### X#h
+alpha#h         ɒ
+epsi#h          ɜ
+lepsi#h         ϶
+
+### X#H
+alpha#H         ɒ
+epsi#H          ɜ
+lepsi#H         ϶
+
+# %}}}
+
+## v-flip %{{{
+
+### X]
+Delta]          ∇
+Pi]             ⨿
+Omega]          ℧
+
+### X#v
+Delta#v         ∇
+Pi#v            ⨿
+Omega#v         ℧
+
+### X#V
+Delta#V         ∇
+Pi#V            ⨿
+Omega#V         ℧
+
+# %}}}
+
+## π-rotate %{{{
+
+### X{
 Beta{           ꓭ
 Gamma{          ⅃
 Delta{          ∇
@@ -149,8 +205,451 @@ delta{          ƍ
 iota{           ℩
 lepsi{          ϶
 
-## [: h-flip
-alpha[          ɒ
-epsi[           ɜ
-lepsi[          ϶
+### X#p
+Beta#p          ꓭ
+Gamma#p         ⅃
+Delta#p         ∇
+Pi#p            ⨿
+Omega#p         ℧
+alpha#p         ɒ
+delta#p         ƍ
+iota#p          ℩
+lepsi#p         ϶
+
+### X#P
+Beta#P          ꓭ
+Gamma#P         ⅃
+Delta#P         ∇
+Pi#P            ⨿
+Omega#P         ℧
+alpha#P         ɒ
+delta#P         ƍ
+iota#P          ℩
+lepsi#P         ϶
+
+# %}}}
+
+# %}}}
+
+# fonts %{{{
+# it:    italic (serif)
+# bf:    bold (serif)
+# bfs:   bold sans(-serif)
+# bi:    bold italic (serif)
+# bis:   bold italic sans(-serif)
+# bb:    blackboard bold
+# sc:    small-caps
+
+# bfGreek: bold greek %{{{
+
+bfAlpha         𝚨
+bfBeta          𝚩
+bfGamma         𝚪
+bfDelta         𝚫
+bfEpsilon       𝚬
+bfZeta          𝚭
+bfEta           𝚮
+bfTheta         𝚯
+bfvTheta        𝚹
+bfIota          𝚰
+bfKappa         𝚱
+bfLambda        𝚲
+bfMu            𝚳
+bfNu            𝚴
+bfXi            𝚵
+bfOmicron       𝚶
+bfPi            𝚷
+bfRho           𝚸
+bfSigma         𝚺
+bfTau           𝚻
+bfUpsilon       𝚼
+bfPhi           𝚽
+bfChi           𝚾
+bfPsi           𝚿
+bfOmega         𝛀
+
+bfalpha         𝛂
+bfbeta          𝛃
+bfgamma         𝛄
+bfdelta         𝛅
+bfepsilon       𝛆
+bflepsilon      𝛜
+bflepsi         𝛜
+bfvepsilon      𝛜
+bfvepsi         𝛜
+bfzeta          𝛇
+bfeta           𝛈
+bftheta         𝛝
+bfvtheta        𝛉
+bfiota          𝛊
+bfkappa         𝛋
+bfvkappa        𝛞
+bfckappa        𝛞
+bflambda        𝛌
+bfmu            𝛍
+bfnu            𝛎
+bfxi            𝛏
+bfomicron       𝛐
+bfpi            𝛑
+bfvpi           𝛡
+bfcpi           𝛡
+bfrho           𝛒
+bfvrho          𝛠
+bfcrho          𝛠
+bfsigma         𝛔
+bffsigma        𝛓
+bftau           𝛕
+bfupsilon       𝛖
+bfphi           𝛗
+bfvphi          𝛟
+bfchi           𝛘
+bfpsi           𝛙
+bfomega         𝛚
+
+bfDigamma       𝟊
+bfdigamma       𝟋
+
+# %}}}
+
+# itGreek: italic greek %{{{
+
+itAlpha         𝛢
+itBeta          𝛣
+itGamma         𝛤
+itDelta         𝛥
+itEpsilon       𝛦
+itZeta          𝛧
+itEta           𝛨
+itTheta         𝛩
+itvTheta        𝛳
+itIota          𝛪
+itKappa         𝛫
+itLambda        𝛬
+itMu            𝛭
+itNu            𝛮
+itXi            𝛯
+itOmicron       𝛰
+itPi            𝛱
+itRho           𝛲
+itSigma         𝛴
+itTau           𝛵
+itUpsilon       𝛶
+itPhi           𝛷
+itChi           𝛸
+itPsi           𝛹
+itOmega         𝛺
+
+italpha         𝛼
+itbeta          𝛽
+itgamma         𝛾
+itdelta         𝛿
+itepsilon       𝜀
+itvepsilon      𝜖
+itlepsilon      𝜖
+itvepsi         𝜖
+itlepsi         𝜖
+itzeta          𝜁
+iteta           𝜂
+ittheta         𝜗
+itvtheta        𝜃
+itiota          𝜄
+itkappa         𝜅
+itvkappa        𝜘
+itckappa        𝜘
+itlambda        𝜆
+itmu            𝜇
+itnu            𝜈
+itxi            𝜉
+itomicron       𝜊
+itpi            𝜋
+itvpi           𝜛
+itcpi           𝜛
+itrho           𝜌
+itvrho          𝜚
+itcrho          𝜚
+itsigma         𝜎
+itfsigma        𝜍
+ittau           𝜏
+itupsilon       𝜐
+itphi           𝜑
+itvphi          𝜙
+itcphi          𝜙
+itchi           𝜒
+itpsi           𝜓
+itomega         𝜔
+
+# %}}}
+
+# WARN: there is no itsGreek (Unicode omission)
+
+# biGreek: bold italic greek %{{{
+
+biAlpha         𝜜
+biBeta          𝜝
+biGamma         𝜞
+biDelta         𝜟
+biEpsilon       𝜠
+biZeta          𝜡
+biEta           𝜢
+biTheta         𝜣
+bivTheta        𝜭
+biIota          𝜤
+biKappa         𝜥
+biLambda        𝜦
+biMu            𝜧
+biNu            𝜨
+biXi            𝜩
+biOmicron       𝜪
+biPi            𝜫
+biRho           𝜬
+biSigma         𝜮
+biTau           𝜯
+biUpsilon       𝜰
+biPhi           𝜱
+biChi           𝜲
+biPsi           𝜳
+biOmega         𝜴
+
+bialpha         𝜶
+bibeta          𝜷
+bigamma         𝜸
+bidelta         𝜹
+biepsilon       𝜺
+bivepsilon      𝝐
+bilepsilon      𝝐
+bivepsi         𝝐
+bilepsi         𝝐
+bizeta          𝜻
+bieta           𝜼
+bitheta         𝝑
+bivtheta        𝜽
+biiota          𝜾
+bikappa         𝜿
+bivkappa        𝝒
+bickappa        𝝒
+bilambda        𝝀
+bimu            𝝁
+binu            𝝂
+bixi            𝝃
+biomicron       𝝄
+bipi            𝝅
+bivpi           𝝕
+bicpi           𝝕
+birho           𝝆
+bivrho          𝝔
+bicrho          𝝔
+bifsigma        𝝈
+bisigma         𝝇
+bitau           𝝉
+biupsilon       𝝊
+biphi           𝝋
+bivphi          𝝓
+bicphi          𝝓
+bichi           𝝌
+bipsi           𝝍
+biomega         𝝎
+
+# %}}}
+
+# bfsGreek: bold sans-serif greek %{{{
+
+bfsAlpha        𝝖
+bfsBeta         𝝗
+bfsGamma        𝝘
+bfsDelta        𝝙
+bfsEpsilon      𝝚
+bfsZeta         𝝛
+bfsEta          𝝜
+bfsTheta        𝝝
+bfsvTheta       𝝧
+bfsIota         𝝞
+bfsKappa        𝝟
+bfsLambda       𝝠
+bfsMu           𝝡
+bfsNu           𝝢
+bfsXi           𝝣
+bfsOmicron      𝝤
+bfsPi           𝝥
+bfsRho          𝝦
+bfsSigma        𝝨
+bfsTau          𝝩
+bfsUpsilon      𝝪
+bfsPhi          𝝫
+bfsChi          𝝬
+bfsPsi          𝝭
+bfsOmega        𝝮
+
+bfsalpha        𝝰
+bfsbeta         𝝱
+bfsgamma        𝝲
+bfsdelta        𝝳
+bfsepsilon      𝝴
+bfsvepsilon     𝞊
+bfslepsilon     𝞊
+bfsvepsi        𝞊
+bfslepsi        𝞊
+bfszeta         𝝵
+bfseta          𝝶
+bfstheta        𝞋
+bfsvtheta       𝝷
+bfsiota         𝝸
+bfskappa        𝝹
+bfsvkappa       𝞌
+bfsckappa       𝞌
+bfslambda       𝝺
+bfsmu           𝝻
+bfsnu           𝝼
+bfsxi           𝝽
+bfsomicron      𝝾
+bfspi           𝝿
+bfsvpi          𝞏
+bfscpi          𝞏
+bfsrho          𝞀
+bfsvrho         𝞎
+bfscrho         𝞎
+bfssigma        𝞂
+bfsfsigma       𝞁
+bfstau          𝞃
+bfsupsilon      𝞄
+bfsphi          𝞅
+bfsvphi         𝞍
+bfscphi         𝞍
+bfschi          𝞆
+bfspsi          𝞇
+bfsomega        𝞈
+
+# %}}}
+
+# bisGreek: bold italic sans-serif greek %{{{
+
+bisAlpha        𝞐
+bisBeta         𝞑
+bisGamma        𝞒
+bisDelta        𝞓
+bisEpsilon      𝞔
+bisZeta         𝞕
+bisEta          𝞖
+bisTheta        𝞗
+bisvTheta       𝞡
+bisIota         𝞘
+bisKappa        𝞙
+bisLambda       𝞚
+bisMu           𝞛
+bisNu           𝞜
+bisXi           𝞝
+bisOmicron      𝞞
+bisPi           𝞟
+bisRho          𝞠
+bisSigma        𝞢
+bisTau          𝞣
+bisUpsilon      𝞤
+bisPhi          𝞥
+bisChi          𝞦
+bisPsi          𝞧
+bisOmega        𝞨
+
+bisalpha        𝞪
+bisbeta         𝞫
+bisgamma        𝞬
+bisdelta        𝞭
+bisepsilon      𝞮
+bisvepsilon     𝟄
+bislepsilon     𝟄
+bisvepsi        𝟄
+bislepsi        𝟄
+biszeta         𝞯
+biseta          𝞰
+bistheta        𝟅
+bisvtheta       𝞱
+bisiota         𝞲
+biskappa        𝞳
+bisvkappa       𝟆
+bisckappa       𝟆
+bislambda       𝞴
+bismu           𝞵
+bisnu           𝞶
+bisxi           𝞷
+bisomicron      𝞸
+bispi           𝞹
+bisvpi          𝟉
+biscpi          𝟉
+bisrho          𝞺
+bisvrho         𝟈
+biscrho         𝟈
+bissigma        𝞼
+bisfsigma       𝞻
+bistau          𝞽
+bisupsilon      𝞾
+bisphi          𝞿
+bisvphi         𝟇
+biscphi         𝟇
+bischi          𝟀
+bispsi          𝟁
+bisomega        𝟂
+
+# %}}}
+
+# bbGreek: blackboard bold greek %{{{
+
+bbAlpha    𝔸  # WARN: latin abuse
+bbBeta     𝔸  # WARN: latin abuse
+bbGamma    ℾ
+bbEpsilon  𝔼  # WARN: latin abuse
+bbEpsi     𝔼  # WARN: latin abuse
+bbZeta     ℤ  # WARN: latin abuse
+bbEta      ℍ  # WARN: latin abuse
+bbIota     𝕀  # WARN: latin abuse
+bbKappa    𝕂  # WARN: latin abuse
+bbMu       𝕄  # WARN: latin abuse
+bbNu       ℕ  # WARN: latin abuse
+bbOmicron  𝕆  # WARN: latin abuse
+bbPi       ℿ
+bbRho      ℙ  # WARN: latin abuse
+bbSigma    ⅀
+bbSig      ⅀
+bbTau      𝕋
+bbUpsilon  𝕐
+bbChi      𝕏
+
+bbgamma    ℽ
+bbnu       𝕧  # WARN: latin abuse
+bbomicron  𝕠  # WARN: latin abuse
+bbpi       ℼ
+
+# %}}}
+
+# scGreek: small-caps %{{{
+
+scalpha    ᴀ  # WARN: latin abuse
+scbeta     ʙ  # WARN: latin abuse
+scgamma    ᴦ
+scepsilon  ᴇ  # WARN: latin abuse
+scepsi     ᴇ  # WARN: latin abuse
+sczeta     ᴢ  # WARN: latin abuse
+sceta      ʜ  # WARN: latin abuse
+sciota     ɪ  # WARN: latin abuse
+sckappa    ᴋ  # WARN: latin abuse
+sclambda   ᴧ
+sclam      ᴧ
+scmu       ᴍ  # WARN: latin abuse
+scnu       ɴ  # WARN: latin abuse
+scomicron  ᴏ  # WARN: latin abuse
+scpi       ᴨ
+scrho      ᴩ
+sctau      ᴛ  # WARN: latin abuse
+scupsilon  ʏ  # WARN: latin abuse
+scchi      x  # WARN: latin abuse
+scpsi      ᴪ
+
+# %}}}
+
+# %}}}
+
+# XXX:
+# abbrevs for 6-char limit %{{{
+
+Omicro          Ο
+omicro          ο
+
+# %}}}
 
