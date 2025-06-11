@@ -99,12 +99,20 @@ scruple           ℈
 scrup             ℈
 per               ⅌
 prescr            ℞
+propline          ⅊  # [prop]erty [line]
+centerline        ℄
+cadauna           ℆
+c/u               ℆
+account           ℀  # [account] of
+a/c               ℀
 
 diameter          ⌀
 diam              ⌀
 gnd               ⏚
 ohm               Ω
 mho               Ʊ
+planck            ℎ
+rplanck           ℏ  # [r]educed
 
 warn              ⚠
 knuthd            ☡  # [d]anger
@@ -123,6 +131,7 @@ work              ⚒
 wip               ⚒  # [w]ork [i]n [p]rogress
 luck              ☘
 fight             ⚔
+teu               ℆
 
 # %}}}
 
@@ -351,6 +360,10 @@ pow               ˆ  # to the [pow]er of
 inv               ⁻¹ # [inv]erse
 Prod              ∏
 Sum               ∑
+2Prod             ℿ
+2Sum              ⅀
+bbProd            ℿ
+bbSum             ⅀
 Times             ⨉
 divides           ∣
 divs              ∣
@@ -492,15 +505,17 @@ empty             Ø
 sempty            ∅  # [s]lash
 bempty            ⦰  # [b]ackslash
 coempty           ⦰
-algs              𝔸  # algebraics
+algs              𝔸  # [alg]ebraic[s]
 bools             𝔹
 nats              ℕ
 ints              ℤ
 rats              ℚ
+irrats            𝕀
+irratios          ℝ∖ℚ
 reals             ℝ
 comps             ℂ
 complex           ℂ
-quarts            ℍ
+quats             ℍ
 qi                𝐢
 qj                𝐣
 qk                𝐤
@@ -508,6 +523,7 @@ Im                ℑ
 Re                ℜ
 bloch             ℬ
 field             𝕜
+korp              𝕜  # [korp]{o,er,s,…}
 in                ∈
 notin             ∉
 nin               ∉
@@ -672,6 +688,11 @@ slparaleq         ⧣
 
 # analysis %{{{
 
+euler             𝑒
+eulern            𝑒  # [euler]'s number e
+eulerc            γ  # [euler]'s constant γ
+ima               𝑖  # [ima]ginary number i
+i1                𝑖
 int               ∫
 iint              ∬
 iiint             ∭
@@ -1413,8 +1434,14 @@ Top               ⟙
 Bottom            ⟘
 Bot               ⟘
 ttop              ⫪
+2top              ⫪
+bbtop             ⫪
 bbottom           ⫫
+2bottom           ⫫
+bbbottom          ⫫
 bbot              ⫫
+2bot              ⫫
+bbbot             ⫫
 lift              ˔
 meet              ∧
 join              ∨
@@ -1424,6 +1451,8 @@ glb               ∧
 lub               ∨
 Glb               ⋀
 Lub               ⋁
+cw                ᶜʷ # [c]omponent[w]ise
+pw                ᵖʷ # [p]oint[w]ise
 covers            ⤚
 covs              ⤚  # [cov]er[s]
 coverd            ⤙  # [cover]e[d] by
@@ -2075,6 +2104,7 @@ ocirc             ⦾
 ocomp             ⦾
 oof               ⦾
 oinfty            ♾
+operc             ⦼  # [perc]ent
 Odot              ⨀
 Oplus             ⨁
 Otimes            ⨂
