@@ -616,21 +616,27 @@ fromgen           ⥺  # [from] [gen]erator
 lset              {
 rset              }
 eset              {} # [e]mpty
+0set              {}
 ltup              ⟨  # [tup]le
 rtup              ⟩
 etup              ⟨⟩
+0tup              ⟨⟩
 lfam              ⟨  # [fam]ily
 rfam              ⟩
 efam              ⟨⟩
+0fam              ⟨⟩
 lbag              ⟅
 rbag              ⟆
 ebag              ⟅⟆
+0bag              ⟅⟆
 lmset             ⟅  # [m]ulti[set]
 rmset             ⟆
 emset             ⟅⟆
+0mset             ⟅⟆
 lmul              ⟅  # [mul]tiset
 rmul              ⟆
 emul              ⟅⟆
+0mul              ⟅⟆
 
 # %}}}
 
@@ -865,6 +871,10 @@ mapsu             ↥
 mapsd             ↧
 vmapsto           ↧
 vmapsfrom         ↥
+amapsto           ↦⃰
+amapsfrom         ↤⃰
+amapsr            ↦⃰
+amapsl            ↤⃰
 Mapsto            ⟼  # (long)
 Mapsfrom          ⟻
 Mapsr             ⟼
@@ -977,13 +987,15 @@ misto             ⭇
 tosim             ⥴
 tomis             ⭌
 frommis           ⭋
-toapprox          ⥵
-fromapprox        ⭊
-approxto          ⥵  # WARN: inconsistent name
-approxfrom        ⭊  # WARN: inconsistent name
+ssimto            →͌
+ssimfrom          ←͌
 tossim            ⥵
 fromssim          ⭊
 tommis            ⭈
+toapprox          ⥵
+fromapprox        ⭊
+approxto          →͌
+approxfrom        ←͌
 toplus            ⥅
 fromplus          ⥆
 ndetto            ⇝  # [n]on-[det]erministic
@@ -1073,6 +1085,11 @@ nsim              ≁
 ssim              ≈
 nssim             ≉
 sssim             ≋
+nsssim            ̸≋
+2sim              ≈
+n2sim             ≉
+3sim              ≋
+n3sim             ̸≋
 simeq             ≃
 nsimeq            ≄
 simneq            ≆
@@ -1084,7 +1101,11 @@ napprox           ≉
 appr              ≈
 nappr             ≉
 approxeq          ≊
-happrox           ⩯  # [h]at
+approx2eq         ⩰
+dotsimdot         ⩫
+simeqsim          ⩬
+hatapprox         ⩯
+happrox           ⩯
 happr             ⩯
 assymp            ≍
 nassymp           ≭
@@ -1853,6 +1874,10 @@ lmous             ⎰  # [mous]tache
 rmous             ⎱
 lshrug            ⎱
 rshrug            ⎰
+lcute             ⸉
+rcute             ⸊
+lmino             ⸊  # [mino]taur
+rmino             ⸉
 lbmoon            ❨
 rbmoon            ❩
 lwmoon            ☾
@@ -2263,7 +2288,9 @@ dminus            ∸
 minusdot          ⨪
 commaminus        ⨩
 cominus           ⨩  # [co]mma [minus]
+cminus            ⨩
 apominus          ⨩  # [apo]strophe
+aminus            ⨩
 dotplus           ∔
 dplus             ∔
 plusdot           ⨥
@@ -2278,8 +2305,14 @@ dtimes            ⨰
 simdot            ⸟
 dotsim            ⩪
 dsim              ⩪
+dotsimdot         ⩫
+dsimd             ⩫
+yysim             ⩫  # [y]in-[y]ang
+yyrel             ⩫
 circsim           ⸛
 csim              ⸛
+wavydiv           ∻
+wavyfrac          ∻
 bbtri             ⟁  # [b]lackboard [b]old
 ttri              ⟁  # (no bb-)
 
@@ -2673,7 +2706,7 @@ timpb             ⟺
 wdot              ᐧ  # [w]ith [dot]
 wudot             ᐧ  # [u]pper
 
-^ast              *  # plain old [ast]erisk
+^ast               ⃰
 ^bul              ᣟ
 ^bang             ꜝ
 ^gnab             ꜞ
