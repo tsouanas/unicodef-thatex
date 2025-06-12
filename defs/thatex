@@ -881,6 +881,10 @@ surjmapsto        ⤅
 surmapsto         ⤅
 mapssurjto        ⤅
 mapssurto         ⤅
+surjmapsfrom      ⬶
+surmapsfrom       ⬶
+mapssurjfrom      ⬶
+mapssurfrom       ⬶
 imapsto           ⤇  # [i]mplies-like
 imapsfrom         ⤆
 imapsr            ⤇
@@ -928,6 +932,9 @@ bijl              ⬻
 dashbijto         ⤐
 dabijto           ⤐
 dbijto            ⤐
+dashbijfrom       ⬷
+dabijfrom         ⬷
+dbijfrom          ⬷
 embto             ↪  # [emb]edding
 embfrom           ↩
 embr              ↪
@@ -961,15 +968,21 @@ Tofrom            ⥂
 Fromto            ⥃
 toFrom            ⥄
 eqto              ⥱
+eqfrom            ⭀
 isoto             ⥲
+isofrom           ⭉
 simto             ⥲
 simfrom           ⭉
 misto             ⭇
-misfrom           ⭋
 tosim             ⥴
 tomis             ⭌
+frommis           ⭋
 toapprox          ⥵
 fromapprox        ⭊
+approxto          ⥵  # WARN: inconsistent name
+approxfrom        ⭊  # WARN: inconsistent name
+tossim            ⥵
+fromssim          ⭊
 tommis            ⭈
 toplus            ⥅
 fromplus          ⥆
@@ -2393,6 +2406,8 @@ dashu             ⇡
 dashd             ⇣
 dashl             ⇠
 dashr             ⇢
+dottl             ⬸  # [dott]ed
+dottr             ⤑
 harplu            ↼  # [harp]oon [l]eft with barb [u]p
 harpld            ↽
 harpru            ⇀
@@ -2447,6 +2462,36 @@ saarrr            ⤃
 saarrh            ⤄
 baarrl            ⤆  # [b]arred arrow
 baarrr            ⤇
+2arru             ⇑  # (double)
+2arrd             ⇓
+2arrl             ⇐
+2arrr             ⇒
+2arrnw            ⇖
+2arrne            ⇗
+2arrsw            ⇙
+2arrse            ⇘
+2arrh             ⇔
+2arrv             ⇕
+n2arrl            ⇍  # [n]egated
+n2arrr            ⇏
+n2arrh            ⇎
+s2arrl            ⤂  # [s]trike
+s2arrr            ⤃
+s2arrh            ⤄
+b2arrl            ⤆  # [b]arred arrow
+b2arrr            ⤇
+aaarru            ⤊
+aaarrd            ⤋
+aaarrl            ⇚
+aaarrr            ⇛
+3arru             ⤊
+3arrd             ⤋
+3arrl             ⇚
+3arrr             ⇛
+aaaarrl           ⭅
+aaaarrr           ⭆
+4arrl             ⭅
+4arrr             ⭆
 sharpul           ↰  # [sharp] turn [u]p [l]eft
 sharpur           ↱
 sharpdl           ↲
