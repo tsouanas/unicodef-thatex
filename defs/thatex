@@ -2729,6 +2729,7 @@ _top              ˕
 
 # syn-named %{{{
 
+## [o]ver (above)
 @oast       ⃰  # [o]ver
 @oarrl      ⃖  # [arr]ow [l]eft
 @oarrr      ⃗
@@ -2736,33 +2737,52 @@ _top              ˕
 @or         ⃗
 @olt        ᷾
 @ogt        ͐
-@ohat      ̂
-@ocirc     ̊
-@obar      ̅
-@obbar     ̿
-@odot      ̇
-@oddot     ̈
+@ohat       ̂
+@ocirc      ̊
+@otimes     ̽
+@obar       ̅
+@obbar      ̿
+@odot       ̇
+@oddot      ̈
+@odddot     ⃛
+@oddddot    ⃜
+@o2dot      ̈
+@o3dot      ⃛
+@o4dot      ⃜
 @ozap       ͛
 
+## [u]nder (below)
 @uarrl      ⃮  # [u]nder [a]rrow [l]eft
 @uarrr      ⃯
 @ul         ⃮  # (arrow)
 @ur         ⃯
 @ult        ͔  # WARN: abuse: arrowheads
 @ugt        ͕
-@ubot      ̝
-@utop      ̞
+@ubot       ̝
+@utop       ̞
 @uinfty     ͚
-@ucirc     ̥
+@uplus      ̟
+@uminus     ̠
+@ucirc      ̥
 @uast       ͙
+@udot       ̣
+@uddot      ̤
+@udddot     ⃨
+@u2dot      ̤
+@u3dot      ⃨
 @uzap       ᷏
 
+## [c]ancelling (through)
 @ch        ̶   # [c]ancel [h]orizontally
+@cv         ⃒  # [v]ertically
 @cd        ̷   # [d]iagonal
 @cs        ̸   # [s]lash
+@css        ⃫  # (double)
+@cb         ⃥  # [b]ackslash
 
-@@usmile    ͜
+## multichar decorators
 @@ofrown    ͡
+@@usmile    ͜
 
 # %}}}
 
