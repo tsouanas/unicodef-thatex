@@ -1158,6 +1158,9 @@ nsnormal          ⋪  # [n]ot [s]imply/trict
 nslamron          ⋫
 tensor            ⊗
 dirsum            ⊕  # [dir]ected [sum]
+gconjrel          ≈  # [g]roup [conj]ugation [rel]ation
+gconjeq           ≈  # up to [conj]ugation, [eq]uals
+gconjsim          ≈  # [conj]ugationally [sim]ilar
 smash             ⨳
 timesl            ⋉
 timesr            ⋊
