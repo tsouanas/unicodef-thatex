@@ -1002,6 +1002,9 @@ inoremap \\nsnormal ⋪
 inoremap \\nslamron ⋫
 inoremap \\tensor ⊗
 inoremap \\dirsum ⊕
+inoremap \\gconjrel ≈
+inoremap \\gconjeq ≈
+inoremap \\gconjsim ≈
 inoremap \\smash ⨳
 inoremap \\timesl ⋉
 inoremap \\timesr ⋊

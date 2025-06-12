@@ -5352,6 +5352,9 @@
 | <code>nslamron</code> | ⋫ |
 | <code>tensor</code> | ⊗ |
 | <code>dirsum</code> | ⊕ |
+| <code>gconjrel</code> | ≈ |
+| <code>gconjeq</code> | ≈ |
+| <code>gconjsim</code> | ≈ |
 | <code>smash</code> | ⨳ |
 | <code>timesl</code> | ⋉ |
 | <code>timesr</code> | ⋊ |
