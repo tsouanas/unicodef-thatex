@@ -925,6 +925,9 @@ bijto             ⤖  # [bij]ection
 bijfrom           ⬻
 bijr              ⤖
 bijl              ⬻
+dashbijto         ⤐
+dabijto           ⤐
+dbijto            ⤐
 embto             ↪  # [emb]edding
 embfrom           ↩
 embr              ↪
@@ -972,12 +975,32 @@ toplus            ⥅
 fromplus          ⥆
 ndetto            ⇝  # [n]on-[det]erministic
 ndetfrom          ⇜
-dto               ⇢  # [d]ashed
+dashto            ⇢  # [dash]ed
+dashfrom          ⇠
+dato              ⇢  # [d]ash
+dafrom            ⇠
+doto              ⤑  # [do]tted
+dofrom            ⬸
+dto               ⇢
 dfrom             ⇠
-dotto             ⤑
-dotfrom           ⬸
+dotto             ̇→
+dotfrom           ̇←
+ddotto            ̈→
+ddotfrom          ̈←
+dddotto           →⃛
+dddotfrom         ←⃛
+2dotto            ̈→
+2dotfrom          ̈←
+3dotto            →⃛
+3dotfrom          ←⃛
+dotsto            →⃛
+dotsfrom          ←⃛
+astto             →⃰
+astfrom           ←⃰
 leadsto           ↝
 leadsfrom         ↜
+leadto            ↝
+leadfrom          ↜
 ledfrom           ↜
 leadsr            ↝
 leadsl            ↜
@@ -990,7 +1013,7 @@ frownfrom         ⤺
 squigto           ⇝
 squigfrom         ⇜
 squigbi           ↭
-Squigfrom         ⬳ 
+Squigfrom         ⬳
 Squigto           ⟿
 zigto             ⇝
 zigfrom           ⇜
@@ -1100,6 +1123,27 @@ Lcdr              ᴄᴅʀ
 arat              𝟎  # [ar]ity [at]omic (single & saturated)
 arcom             ⊗  # [ar]ity [com]bination (combined)
 arto              ↠  # [ar]ity [to] (unsaturated)
+stepsto           ▹
+stepsfrom         ◃
+step              ▹
+bstep             ▹ᵦ
+Astep             ▹α
+Bstep             ▹β
+Estep             ▹η
+betato            ▹ᵦ
+bredsto           ▹ᵦ # [b]eta [red]uce[s] [to]
+bredto            ▹ᵦ
+betafrom          ◃ᵦ
+bredsfrom         ◃ᵦ # [b]eta [red]uce[s] [from]
+bredfrom          ◃ᵦ
+redsto            ▹  # [red]uce[s] [to]
+redsfrom          ◃
+redto             ▹
+redfrom           ◃
+expsto            ⤳  # [exp]and[s] [to]
+expsfrom          ⬿
+expto             ⤳  # [exp]and[s] [to]
+expfrom           ⬿
 
 # %}}}
 
@@ -1244,8 +1288,16 @@ rnnorm            ⦀
 coprod            ⨿
 Coprod            ∐
 op                ᵒᵖ # [op]posite
+homto             →ͪ
+monoto            →ͫ
+epito             →ͤ
+homfrom           ←ͪ
+epifrom           ←ͤ
+monofrom          ←ͫ
 psetr             ℘⃗  # covariant pset functor
 psetl             ℘⃖  # contravariant pset functor
+psetto            ℘⃗
+psetfrom          ℘⃖
 endo              ↺  # [endo]morphism
 adj               ⊣  # [adj]unction
 ladjto            ⊣  # [l]eft [adj]oint [to]
@@ -2231,6 +2283,11 @@ wedgeq            ≙
 veeq              ≚
 asteq             ⩮
 doteq             ≐
+ddoteq            ̈=
+dddoteq           =⃛
+2doteq            ̈=
+3doteq            =⃛
+dotseq            =⃛
 eqdot             ⩦
 doteqdot          ≑
 coleq             ≑  # [col]on
