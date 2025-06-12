@@ -5155,6 +5155,7 @@
 | <code>bijr</code> | ⤖ |
 | <code>bijl</code> | ⬻ |
 | <code>dashbijto</code> | ⤐ |
+| <code>dabijto</code> | ⤐ |
 | <code>dbijto</code> | ⤐ |
 | <code>embto</code> | ↪ |
 | <code>embfrom</code> | ↩ |

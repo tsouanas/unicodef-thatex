@@ -2791,6 +2791,7 @@ inoremap \\bijfrom ⬻
 inoremap \\bijr ⤖
 inoremap \\bijl ⬻
 inoremap \\dashbijto ⤐
+inoremap \\dabijto ⤐
 inoremap \\dbijto ⤐
 inoremap \\embto ↪
 inoremap \\embfrom ↩
