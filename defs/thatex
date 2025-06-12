@@ -2634,7 +2634,8 @@ _sim              ˷
 ^rt               ˃
 ^meet             ˄
 ^join             ˅
-^dual             ᶞ  # XXX: should be ^∂ (not ^ð)
+^dual              ᷙ
+^dual,            ᶞ  # XXX: should be ^∂ (not ^ð)
 ^top              ⸆
 _lt               ˱
 _rt               ˲
