@@ -16,7 +16,7 @@
 | <code>^+</code> | ⁺ |
 | <code>^-</code> | ⁻ |
 | <code>^=</code> | ⁼ |
-| <code>^*</code> | * |
+| <code>^*</code> |  ⃰ |
 | <code>_0</code> | ₀ |
 | <code>_1</code> | ₁ |
 | <code>_2</code> | ₂ |

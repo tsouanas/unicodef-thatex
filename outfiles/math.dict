@@ -406,7 +406,7 @@
     };
     "<" = ("insertText:", "ᑉ");
     "!" = ("insertText:", "ꜝ");
-    "*" = ("insertText:", "*");
+    "*" = ("insertText:", " ⃰");
     "=" = ("insertText:", "⁼");
     "-" = ("insertText:", "⁻");
     "+" = ("insertText:", "⁺");

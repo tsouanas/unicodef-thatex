@@ -15,7 +15,7 @@ inoremap \^) ⁾
 inoremap \^+ ⁺
 inoremap \^- ⁻
 inoremap \^= ⁼
-inoremap \^* *
+inoremap \^*  ⃰
 inoremap \_0 ₀
 inoremap \_1 ₁
 inoremap \_2 ₂
