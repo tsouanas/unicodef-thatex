@@ -877,6 +877,10 @@ mapsparto         ⥛  # [maps] [par]tially [to]
 mapsparfrom       ⥚
 vmapsparto        ⥡
 vmapsparfrom      ⥠
+surjmapsto        ⤅
+surmapsto         ⤅
+mapssurjto        ⤅
+mapssurto         ⤅
 imapsto           ⤇  # [i]mplies-like
 imapsfrom         ⤆
 imapsr            ⤇
@@ -893,10 +897,14 @@ rest              ↾  # [rest]riction
 corest            ⇂  # [corest]riction
 rwimg             “  # [r]ussell & [w]hitehead [im]a[g]e
 rwof              ‘  # [rw] (the) _ [of] _
-pimg              ℘⃗  # covariant pset function-image
-ppre              ℘⃖  # contravariant pset function-preimage
+psetimg           ℘⃗  # covariant [pset] function-[im]a[g]e
+psetpre           ℘⃖  # contravariant [pset] function-[pre]image
+pimg              ℘⃗
+ppre              ℘⃖
 astimg            ⁎  # covariant [ast]erisk [im]a[g]e
 astpre             ⃰  # contravariant [ast]erisk [pre]image
+aimg              ⁎
+apre               ⃰
 surjto            ↠  # [surj]ection
 surjfrom          ↞
 vsurjfrom         ↟
