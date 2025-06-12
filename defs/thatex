@@ -396,7 +396,9 @@ intnneq           ⧥
 nnieq             ⧥
 inneq             ⧥
 sameq             ≣
-defeq             ≝
+dotsinteq         ⩸
+defeq             ≝  # being [def]ined as [eq]ual to
+dfeq              ≡ͩ  # ([df] is an abbrev'ed [def])
 askeq             ≟
 asklt             ⩻
 askgt             ⩼
@@ -1191,13 +1193,24 @@ kronsum           ⊕  # [Kron]ecker [sum]
 kronprod          ⊗  # [Kron]ecker [prod]uct
 krprod            ∗  # [K]hatri–[R]ao [prod]uct
 fsprod            ∙  # [f]ace-[s]plitting [prod]uct
-bdry              ∂  # [b]oun[d]a[ry] (or frontier)
+boundary          ∂
+bdry              ∂
 bd                ∂
+frontier          ∂
+front             ∂
+derived           ′
+der               ′
+dder              ″
+ddder             ‴
+dddder            ⁗
+2der              ″
+3der              ‴
+4der              ⁗
 closure           ˉ  # [clos]ure
 clos              ˉ
 interior          ˚  # [inte]rior
 inte              ˚
-
+ball              ℬ
 
 # %}}}
 
@@ -1993,6 +2006,14 @@ zap               ↯
 
 # decorative / punctuative %{{{
 
+prime             ′
+pprime            ″
+ppprime           ‴
+pppprime          ⁗
+2prime            ″
+3prime            ‴
+4prime            ⁗
+
 tdot              ˙  # [t]op [dot]
 bdot                ߲ # [b]ottom [dot] XXX: decorator abuse
 bang              !
@@ -2647,25 +2668,35 @@ _top              ˕
 @oarrr      ⃗
 @ol         ⃖  # (arrow)
 @or         ⃗
+@olt        ᷾
+@ogt        ͐
 @ohat      ̂
 @ocirc     ̊
 @obar      ̅
 @obbar     ̿
 @odot      ̇
 @oddot     ̈
+@ozap       ͛
+
 @uarrl      ⃮  # [u]nder [a]rrow [l]eft
 @uarrr      ⃯
 @ul         ⃮  # (arrow)
 @ur         ⃯
-@ult        ͔
+@ult        ͔  # WARN: abuse: arrowheads
 @ugt        ͕
 @ubot      ̝
 @utop      ̞
 @uinfty     ͚
 @ucirc     ̥
+@uast       ͙
+@uzap       ᷏
+
 @ch        ̶   # [c]ancel [h]orizontally
 @cd        ̷   # [d]iagonal
 @cs        ̸   # [s]lash
+
+@@usmile    ͜
+@@ofrown    ͡
 
 # %}}}
 
