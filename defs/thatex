@@ -1102,8 +1102,6 @@ appr              ≈
 nappr             ≉
 approxeq          ≊
 approx2eq         ⩰
-dotsimdot         ⩫
-simeqsim          ⩬
 hatapprox         ⩯
 happrox           ⩯
 happr             ⩯
@@ -2348,6 +2346,7 @@ bump              ≏
 bumps             ≎
 bumpeq            ⪮
 poemeq            ⌯
+simeqsim          ⩬
 
 # %}}}
 
