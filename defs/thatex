@@ -2010,8 +2010,12 @@ ramshorn          ɤ
 
 # %}}}
 
-# ,-fancified %{{{
+# ,-fancified letters %{{{
 
+lam,              ƛ
+Lam,              Ƛ
+lambda,           ƛ
+Lambda,           Ƛ
 a,                ɑ
 A,                Ɑ
 b,                ɓ
