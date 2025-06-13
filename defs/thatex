@@ -1555,8 +1555,10 @@ vposs             ◇  # [v]ar
 
 # order theory %{{{
 
-dual               ᷙ
+dual               ᷙ
+dual,             ᶞ
 Dual              ∂
+Dual,             ð
 top               ⊤
 bottom            ⊥
 bot               ⊥
@@ -2818,6 +2820,8 @@ _top              ˕
 @cantorc   ̿   # [cantor]'s [c]ardinality
 @oinv      ̅   # [o]ver [inv]erse
 @oiinv     ̿   # (double)
+@dual       ᷙ
+@dual,      ᷘ
 @vec        ⃗  # [vec]tor
 @cev        ⃖  # (vec backwards)
 @vecr       ⃗  # [r]ight
