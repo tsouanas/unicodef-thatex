@@ -12,15 +12,35 @@
 
 # special typography %{{{
 
-spc               ␣  # visible [sp]a[c]e
+vspc              ␣  # [v]isible [sp]a[c]e
+spc               ␣  # (synonym)
+nbspc                # [n]o-[b]reak [sp]a[c]e
 nbsp                 # [n]o-[b]reak [sp]ace
+nnbspc               # [n]arrow
 nnbsp                # [n]arrow
 nbh               ‑  # [n]o-[b]reak [h]yphen
 nb-               ‑  #
 thin               
 hair               
-zspc               ​  # [z]ero
+enspc              
+emspc              
+enquad             
+emquad             
+quad               
+zspc              ​  # [z]ero
+0spc              ​
+mspc                 # [m]athematical
+fapp                 # [f]unction [app]lication
+fspc                 # (synonym for above)
+fjux              ⁡  # WARN: considered "fapp" by Unicode
+jux               ⁢  # [juxt]aposition
+jspc              ⁢
+ideospc           　
+ispc              　
+phdig                # [ph]antom [dig]it
+dspc                 # [d]igit [spc] (synonym for above)
 blank             ⠀  # XXX: abuse: actually braille
+
 hhyph             ⸗  # oblique (double) [hhyph]en
 dhyph             ⸚  # [hyph]en with [d]iaeresis
 arabdec           ٫  # [arab]ic [dec]imal separator
@@ -29,8 +49,8 @@ arabdate          ؍  # [date] separator
 arabsc            ؛  # [s]emi[c]olon
 arabc             ،  # [c]omma
 arabq             ؟  # [q]uestion mark
-arabask           ؟  #
-arabstar          ٭  # 
+arabask           ؟
+arabstar          ٭
 arabdots          ؞  # triple [dots]
 hypo              ⸒  # [hypo]diastole
 swung             ⁓  # [swung] dash
