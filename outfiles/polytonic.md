@@ -1,4 +1,4 @@
-# greek-polytonic (micro)
+# polytonic (micro)
 | Sequence | Expansion |
 | :------- | :-------: |
 | <code>0Υ</code> | ϒ |
