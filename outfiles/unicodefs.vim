@@ -3324,7 +3324,8 @@ inoremap \\nece □
 inoremap \\poss ◊
 inoremap \\vnece ◻
 inoremap \\vposs ◇
-inoremap \\dual ∂
+inoremap \\dual  ᷙ
+inoremap \\Dual ∂
 inoremap \\top ⊤
 inoremap \\bottom ⊥
 inoremap \\bot ⊥
@@ -4405,7 +4406,6 @@ inoremap \\^rt ˃
 inoremap \\^meet ˄
 inoremap \\^join ˅
 inoremap \\^dual  ᷙ
-inoremap \\^dual, ᶞ
 inoremap \\^top ⸆
 inoremap \\_lt ˱
 inoremap \\_rt ˲

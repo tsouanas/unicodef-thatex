@@ -1339,7 +1339,8 @@
 | <code>poss</code> | ◊ |
 | <code>vnece</code> | ◻ |
 | <code>vposs</code> | ◇ |
-| <code>dual</code> | ∂ |
+| <code>dual</code> |  ᷙ |
+| <code>Dual</code> | ∂ |
 | <code>top</code> | ⊤ |
 | <code>bottom</code> | ⊥ |
 | <code>bot</code> | ⊥ |
@@ -2420,7 +2421,6 @@
 | <code>^meet</code> | ˄ |
 | <code>^join</code> | ˅ |
 | <code>^dual</code> |  ᷙ |
-| <code>^dual,</code> | ᶞ |
 | <code>^top</code> | ⸆ |
 | <code>_lt</code> | ˱ |
 | <code>_rt</code> | ˲ |
