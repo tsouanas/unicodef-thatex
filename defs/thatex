@@ -2733,7 +2733,7 @@ timpb             ⟺
 wdot              ᐧ  # [w]ith [dot]
 wudot             ᐧ  # [u]pper
 
-^ast               ⃰
+^ast               ⃰
 ^bul              ᣟ
 ^bang             ꜝ
 ^gnab             ꜞ
@@ -2835,19 +2835,37 @@ _top              ˕
 
 # syn-named %{{{
 
-## [o]ver (above)
-@oast       ⃰  # [o]ver
+## [o]ver (above) %{{{
+
+### arrows
 @oarrl      ⃖  # [arr]ow [l]eft
 @oarrr      ⃗
-@ol         ⃖  # (arrow)
-@or         ⃗
+@oleft      ⃖  # (arrow)
+@oright     ⃗
+@ofrom      ⃖
+@oto        ⃗
 @olt        ᷾
 @ogt        ͐
-@ohat       ̂
-@ocirc      ̊
-@otimes     ̽
-@obar       ̅
-@obbar      ̿
+
+### accentlike / lines
+@ocflex     ̂  # [c]ircum[flex]
+@ocaret     ̂
+@ocaron     ̌
+@otil      ̃  # [til]de
+@ottil      ͌
+@oarc       ̑
+@obreve     ̆
+@obre       ̆
+@omacron    ̄
+@omac       ̄
+
+### lines
+@obar       ̄
+@oline      ̅
+@olline     ̿
+
+
+### dots
 @odot       ̇
 @oddot      ̈
 @odddot     ⃛
@@ -2855,40 +2873,199 @@ _top              ˕
 @o2dot      ̈
 @o3dot      ⃛
 @o4dot      ⃜
-@ozap       ͛
 
-## [u]nder (below)
-@uarrl      ⃮  # [u]nder [a]rrow [l]eft
+### mod / unops
+@oinfty     ᪲
+@oast       ⃰
+@ohat       ̂
+@obridge    ͆
+@oring      ̊
+@ocirc      ̊
+@osharp     ᫆
+
+### binops / binrels
+@oplus      ᫈
+@opplus     ᫉
+@otimes     ̽
+@osim       ̃
+@ossim      ͌
+@osmile     ̆
+@ofrown     ̑
+
+### misc
+
+
+@ozap       ͛
+@olynch     ᪰
+@othis      ᪳
+@ohere      ᪳
+@ohair    ̾
+
+# %}}}
+
+## [u]nder (below) %{{{
+
+### arrows
+@uarrl      ⃮  # [arr]ow [l]eft
 @uarrr      ⃯
-@ul         ⃮  # (arrow)
-@ur         ⃯
+@uleft      ⃮  # (arrow)
+@uright     ⃯
+@ufrom      ⃮  # (arrow)
+@uto        ⃯
 @ult        ͔  # WARN: abuse: arrowheads
 @ugt        ͕
-@ubot       ̝
-@utop       ̞
-@uinfty     ͚
-@uplus      ̟
-@uminus     ̠
-@ucirc      ̥
-@uast       ͙
+
+### accentlike / lines
+@ucflex     ̭
+@ucaret     ̭
+@ucaron     ̬
+@util       ̰  # [til]de
+@uarc       ̯
+@ubreve     ̯
+@ubre       ̯
+@umacron    ̱
+@umac       ̱
+
+### lines
+@ubar       ̱
+@uline      ̲
+@ulline     ̳
+
+### dots
 @udot       ̣
 @uddot      ̤
 @udddot     ⃨
 @u2dot      ̤
 @u3dot      ⃨
-@uzap       ᷏
 
-## [c]ancelling (through)
-@ch        ̶   # [c]ancel [h]orizontally
-@cv         ⃒  # [v]ertically
+### mod / unops
+@ubot       ̝
+@utop       ̞
+@uinfty     ͚
+@uast       ͙
+@uhat       ̬
+@ubridge   ̺
+@uring      ̥
+@ucirc      ̥
+@usquare    ̻
+@usq        ̻
+
+### binops / binrels
+@uplus      ̟
+@upplus     ᫊
+@uminus     ̠
+@uttil      ᷽
+@usim       ̰
+@ussim      ᷽
+@usmile     ̮
+@ufrown     ̯
+
+### misc
+@uzap       ᷏
+@uthis      ͎
+@uhere      ͎
+@ubi        ͍
+@uliff      ͍
+
+# %}}}
+
+## [c]ancelling (through) %{{{
+
+@ch        ̵   # [c]ancel [h]orizontally
+@cH        ̶   # (long)
+@cv         ⃓  # [v]ertically
+@cV         ⃒  # (long)
+@cvv        ⃦  # (double) WARN: actually a VV
+@cVV        ⃦
 @cd        ̷   # [d]iagonal
 @cs        ̸   # [s]lash
 @css        ⃫  # (double)
 @cb         ⃥  # [b]ackslash
+@cring      ⃘
+@ccirc      ⃘
+@cleft      ⃪
+@cfrom      ⃪
+@ctil      ̴ 
+@csim      ̴ 
+@cwave     ̴ 
 
-## multichar decorators
+# %}}}
+
+## letters %{{{
+
+@oa          ͣ
+@ob          ᷨ
+@oc          ͨ
+@od          ͩ
+@oe          ͤ
+@of          ᷫ
+@of,         ᷥ  # WARN: abuse: long s as f
+@og          ᷚ
+@oG          ᷛ
+@oh          ͪ
+@oi          ͥ
+@ok          ᷜ
+@ol          ᷝ
+@oL          ᷞ
+@om          ͫ
+@oM          ᷟ
+@on          ᷠ
+@oN          ᷡ
+@oo          ͦ
+@op          ᷮ
+@or          ͬ
+@oR          ᷢ
+@os          ᷤ
+@ols         ᷥ
+@os,         ᷥ
+@ot          ͭ
+@ou          ͧ
+@ov          ͮ
+@ow          ᷱ
+@ox          ͯ
+@oz          ᷦ
+
+@oal        ᷧ
+@oalpha     ᷧ   # WARN: abuse: latin alpha
+@obeta      ᷩ
+
+@oedh        ᷘ
+@odh         ᷘ
+@oesh       ᷯ
+@osh        ᷯ
+@oint       ᷯ   # WARN: abuse: letter esh
+
+@oae         ᷔ
+@oao         ᷕ
+@oav         ᷖ
+@occ         ᷗ
+@oomega      ᷓ  # WARN: abuse: "flattened open a"
+
+@ur          ᷊
+@uW         ᪿ
+@uM         ᫀ  # WARN: abuse: "inverted W"
+
+@uomega     ̫  # WARN: abuse: "flattened open a"
+
+# %}}}
+
+## multichar decorators %{{{
+
+@@ohat      ᷍
 @@ofrown    ͡
+@@oline     ͞
+@@otil      ͠
+@@osim      ͠
+@@obreve    ͡
+@@obre      ͡
+
 @@usmile    ͜
+@@uarc      ͜
+@@uline     ͟
+@@uright    ͢
+@@uto       ͢
+
+# %}}}
 
 # %}}}
 
