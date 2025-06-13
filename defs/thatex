@@ -1534,7 +1534,8 @@ vposs             ◇  # [v]ar
 
 # order theory %{{{
 
-dual              ∂
+dual               ᷙ
+Dual              ∂
 top               ⊤
 bottom            ⊥
 bot               ⊥
@@ -2777,7 +2778,6 @@ _sim              ˷
 ^meet             ˄
 ^join             ˅
 ^dual              ᷙ
-^dual,            ᶞ  # XXX: should be ^∂ (not ^ð)
 ^top              ⸆
 _lt               ˱
 _rt               ˲
