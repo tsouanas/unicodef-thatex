@@ -399,6 +399,7 @@ ssapart           ⧣  # [s]lash-[s]lash [apart]ness
 shapart           ♯  # [sh]arp [apart]ness
 apart             ♯  # default: [sh]
 vapart            ⧣  # [v]ar: [ss]
+vvapart           =⃦  # (yet another var)
 leq               ≤
 geq               ≥
 nlt               ≮
