@@ -1293,6 +1293,7 @@ shuffle           ⧢
 shuf              ⧢
 transpose         ᵀ
 tpose             ᵀ
+units             ̽ 
 ewprod            ⊙  # [e]lement/ntry-[w]ise [prod]uct
 schurprod         ⊙  # [Schur] [prod]uct
 hadaprod          ⊙  # [Hada]mard [prod]uct
