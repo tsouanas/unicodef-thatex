@@ -1308,6 +1308,13 @@ bd                ∂
 frontier          ∂
 front             ∂
 derived           ′
+deriv             ′
+dderiv            ″
+ddderiv           ‴
+dddderiv          ⁗
+2deriv            ″
+3deriv            ‴
+4deriv            ⁗
 der               ′
 dder              ″
 ddder             ‴
