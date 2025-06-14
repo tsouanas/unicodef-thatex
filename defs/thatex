@@ -367,7 +367,7 @@ permyr            ‱
 propto            ∝  # [prop]ortional [to]
 ntimes            ·  # [n]umeric [times]
 plus              +
-cross             ×
+cross             ⨯  # WARN: different character from `times`
 times             ×
 frac              ÷
 monus             ∸
@@ -839,16 +839,18 @@ to                →
 from              ←
 tofrom            ⇄
 fromto            ⇆
-2to               ⇉
-2from             ⇇
-3to               ⇶
-3from             ⬱
+2tos              ⇉  # [s] (plural indicates distinct arrows)
+2froms            ⇇
+3tos              ⇶
+3froms            ⬱
 vto               ↓  # [v]ertical
 vfrom             ↑
 vtofrom           ⇵
 vfromto           ⇅
-2vfrom            ⇈
-2vto              ⇊
+2vfroms           ⇈
+2vtos             ⇊
+v2froms           ⇈
+v2tos             ⇊
 To                ⟶
 From              ⟵
 nto               ↛
@@ -1180,9 +1182,10 @@ stepsto           ▹
 stepsfrom         ◃
 step              ▹
 bstep             ▹ᵦ
-Astep             ▹α
-Bstep             ▹β
-Estep             ▹η
+Astep             ᵅ▹
+Bstep             ᵝ▹
+Hstep             ᶯ▹  # WARN: abuse: "n with retroflex" for eta
+Estep             ᶯ▹
 betato            ▹ᵦ
 bredsto           ▹ᵦ # [b]eta [red]uce[s] [to]
 bredto            ▹ᵦ
@@ -2614,12 +2617,7 @@ lr                ⇆
 rl                ⇄
 lll               ⬱
 rrr               ⇶
-2u                ⇈
-2d                ⇊
-2l                ⇇
-2r                ⇉
-3l                ⬱
-3r                ⇶
+
 # %}}}
 
 # %}}}
@@ -2734,6 +2732,8 @@ wdot              ᐧ  # [w]ith [dot]
 wudot             ᐧ  # [u]pper
 
 ^ast               ⃰
+^plus             ⁺
+^times             ̽
 ^bul              ᣟ
 ^bang             ꜝ
 ^gnab             ꜞ
