@@ -2893,8 +2893,6 @@ _top              ˕
 @ofrown     ̑
 
 ### misc
-
-
 @ozap       ͛
 @olynch     ᪰
 @othis      ᪳
@@ -2914,6 +2912,8 @@ _top              ˕
 @uto        ⃯
 @ult        ͔  # WARN: abuse: arrowheads
 @ugt        ͕
+@ubi        ͍
+@uliff      ͍
 
 ### accentlike / lines
 @ucflex     ̭
@@ -2964,8 +2964,7 @@ _top              ˕
 @uzap       ᷏
 @uthis      ͎
 @uhere      ͎
-@ubi        ͍
-@uliff      ͍
+@usnake     ᷂
 
 # %}}}
 
