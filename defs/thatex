@@ -1352,12 +1352,17 @@ rnnorm            ⦀
 coprod            ⨿
 Coprod            ∐
 op                ᵒᵖ # [op]posite
-homto             →ͪ
-monoto            →ͫ
-epito             →ͤ
+ab                ᵃᵇ # [ab]elianization
+homto             →ͪ  # [hom]omorphism
+monoto            →ͫ  # [mono]morphism
+epito             →ͤ  # [epi]morphism
 homfrom           ←ͪ
 epifrom           ←ͤ
 monofrom          ←ͫ
+natto             ⇒  # [nat]ural transformation
+natfrom           ⇐
+natur             ⇒  # [natu]ral transformation [r]ight
+natul             ⇐
 psetr             ℘⃗  # covariant pset functor
 psetl             ℘⃖  # contravariant pset functor
 psetto            ℘⃗
@@ -1374,6 +1379,20 @@ inf0              (∞,0)-
 inf1              (∞,1)-
 inf2              (∞,2)-
 infn              (∞,n)-
+2to               ⇒
+2from             ⇐
+3to               ⇛
+3from             ⇚
+4to               ⭆
+4from             ⭅
+2vto              ⇓
+2vfrom            ⇑
+3vto              ⤋
+3vfrom            ⤊
+v2to              ⇓
+v2from            ⇑
+v3to              ⤋
+v3from            ⤊
 
 # %}}}
 
