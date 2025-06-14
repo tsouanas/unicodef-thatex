@@ -2518,6 +2518,8 @@
 | <code>@uto</code> | ⃯ |
 | <code>@ult</code> | ͔ |
 | <code>@ugt</code> | ͕ |
+| <code>@ubi</code> | ͍ |
+| <code>@uliff</code> | ͍ |
 | <code>@ucflex</code> | ̭ |
 | <code>@ucaret</code> | ̭ |
 | <code>@ucaron</code> | ̬ |
@@ -2556,8 +2558,7 @@
 | <code>@uzap</code> | ᷏ |
 | <code>@uthis</code> | ͎ |
 | <code>@uhere</code> | ͎ |
-| <code>@ubi</code> | ͍ |
-| <code>@uliff</code> | ͍ |
+| <code>@usnake</code> | ᷂ |
 | <code>@ch</code> | ̵ |
 | <code>@cH</code> | ̶ |
 | <code>@cv</code> | ⃓ |

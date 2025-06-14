@@ -2517,6 +2517,8 @@ inoremap \\@ufrom ⃮
 inoremap \\@uto ⃯
 inoremap \\@ult ͔
 inoremap \\@ugt ͕
+inoremap \\@ubi ͍
+inoremap \\@uliff ͍
 inoremap \\@ucflex ̭
 inoremap \\@ucaret ̭
 inoremap \\@ucaron ̬
@@ -2555,8 +2557,7 @@ inoremap \\@ufrown ̯
 inoremap \\@uzap ᷏
 inoremap \\@uthis ͎
 inoremap \\@uhere ͎
-inoremap \\@ubi ͍
-inoremap \\@uliff ͍
+inoremap \\@usnake ᷂
 inoremap \\@ch ̵
 inoremap \\@cH ̶
 inoremap \\@cv ⃓
