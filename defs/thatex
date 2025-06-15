@@ -100,6 +100,8 @@ res               ℟
 
 percont           ⸮  # [percont]ation point
 rheto             ⸮  # [rheto]rical question
+sarcask           ᥄  # [sarc]asm [ask]
+sarcbang          ᥅
 copyr             ©  # [copyr]ight
 copyl             🄯 # [copyl]eft
 phono             ℗  # [phono]gram
@@ -314,22 +316,37 @@ Tiroet            ⹒  # [Tiro]nian [et]
 tiroet            ⁊
 Latal             Ɑ  # [lat]in [al]pha
 latal             ɑ
-Latep             Ɛ
+latde             ẟ  # [de]lta
+Latep             Ɛ  # [ep]silon
 latep             ɛ
 Latio             Ɩ  # [io]ta
 latio             ɩ
+latom             ⲱ  # [om]ega
+latOm             Ⲱ
 Gha               Ƣ
 gha               ƣ
 ou                ȣ
 Ou                Ȣ
+kai               ϗ
+Kai               Ϗ
 
-sho               Ϸ  # Bactrian Ϸ "sho"
-tsan              ͷ  # Arcadian "tsan"
-digamma           Ϝ
+Sho               Ϸ  # Bactrian Ϸ "sho"
+sho               ϸ
+Tsan              Ͷ  # Arcadian "tsan"
+tsan              ͷ
+Digamma           Ϝ
+digamma           ϝ
 Pdigamma          Ͷ  # [P]amphylian digamma
 pdigamma          ͷ
 San               Ϻ  # San
 san               ϻ
+Stigma            Ϛ
+stigma            ϛ  # 6
+Sampi             ϡ
+sampi             ϡ  # 900
+Koppa             Ϟ
+koppa             ϟ  # 90
+
 
 # %}}}
 
@@ -338,10 +355,6 @@ san               ϻ
 # math (sem-named) %{{{
 
 ## ancient greek numerals %{{{
-
-sampi             ϡ  # 900
-Koppa             Ϟ  # 90
-koppa             ϟ
 
 # %}}}
 
@@ -364,7 +377,6 @@ longdiv           ⟌
 percen            %
 permil            ‰
 permyr            ‱
-propto            ∝  # [prop]ortional [to]
 ntimes            ·  # [n]umeric [times]
 plus              +
 cross             ⨯  # WARN: different character from `times`
@@ -385,6 +397,13 @@ Sum               ∑
 bbProd            ℿ
 bbSum             ⅀
 Times             ⨉
+p                 𝜋
+i                 𝑖
+e                 𝑒
+z                 𝜁
+zfun              𝜁
+golden            𝜙
+gold              𝜙
 divides           ∣
 divs              ∣
 div               ∣
@@ -399,13 +418,14 @@ ssapart           ⧣  # [s]lash-[s]lash [apart]ness
 shapart           ♯  # [sh]arp [apart]ness
 apart             ♯  # default: [sh]
 vapart            ⧣  # [v]ar: [ss]
-vvapart           =⃦  # (yet another var)
+vvapart           =⃦  # ([v]ert-[v]ert) / (another var)
 leq               ≤
 geq               ≥
 nlt               ≮
 ngt               ≯
 nleq              ≰
 ngeq              ≱
+propto            ∝  # [prop]ortional [to]
 inteq             ≡  # [int]ensional
 ieq               ≡
 intneq            ≢
@@ -425,12 +445,17 @@ asklt             ⩻
 askgt             ⩼
 asseq             ≔
 eqass             ≕
+askinteq          ≡
 defiff            ⇐≝⇒
-askiff            ⇐?⇒
+dfiff             ⇚≡ͩ⇛
+askiff            ⇐≟⇒
+Askiff            ⇐⁇⇒
 intiff            ⇚⇛  # [int]ensionally equivalent
 iiff              ⇚⇛
 askintiff         ⇚?⇛
 askiiff           ⇚?⇛
+Askintiff         ⇚⁇⇛
+Askiiff           ⇚⁇⇛
 therefore         ∴
 there             ∴
 hence             ∴
@@ -555,12 +580,20 @@ notni             ∌
 nni               ∌
 vin               ⫙  # [v]ertical
 vni               ⟒
+vnin              ⫙̶
+vnni              ⟒̶
+in,               ε
+ni,               ɜ
+nin,              ̸ε
+nni,              ̸ɜ
+vin,              ო
+vni,              ω
+vnin,             ̶ო
+vnni,             ̶ω
 Inter             ⋂
 Union             ⋃
 inter             ∩
 union             ∪
-interunion        ⩇
-unioninter        ⩆
 disjunion         ⊎
 Disjunion         ⨄
 dunion            ⊎  # [d]isjoint union
@@ -607,6 +640,16 @@ ihsubset          ⪽  # [h]orse
 ihsupset          ⪾
 ihsubs            ⪽
 ihsups            ⪾
+interunion        ⩇
+unioninter        ⩆
+hsubssups         ⫓
+hsupssubs         ⫔
+hsubssubs         ⫕
+hsupssups         ⫖
+subssups          ̵⫓  # WARN: usually ugly
+supssubs          ̵⫔  # WARN: usually ugly
+subssubs          ̵⫕  # WARN: usually ugly
+supssups          ̵⫖  # WARN: usually ugly
 powerset          ℘
 power             ℘
 pset              ℘
@@ -820,6 +863,8 @@ ecls              ⦃⦄
 
 lam               λ  # [lam]bda
 Lam               Λ
+lam,              ƛ
+Lam,              Ƛ
 mal               ʎ  # (lam backwards)
 hole              ·  # default: [p]
 phole             ·  # [p]oint
@@ -1269,8 +1314,18 @@ nslamron          ⋫
 tensor            ⊗
 dirsum            ⊕  # [dir]ected [sum]
 gconjrel          ≈  # [g]roup [conj]ugation [rel]ation
-gconjeq           ≈  # up to [conj]ugation, [eq]uals
-gconjsim          ≈  # [conj]ugationally [sim]ilar
+conjrel           ≈  # group [conj]ugation [rel]ation
+conjeq            ≈  # up to [conj]ugation, [eq]uals
+conjsim           ≈  # [conj]ugationally [sim]ilar
+conjor            ϱ  # [conj]ugat[or]
+slop              ⋄  # unbiased [s]emi[l]attice [op]eration (∨∧)
+slOp              ◇
+slop,             ⬫
+slOp,             ◊ 
+slop,,            ⟡
+slcop             ⟡  # [c]urly/vy
+slunit            ɪ  # (⊥⊤)
+slid              ɪ
 smash             ⨳
 timesl            ⋉
 timesr            ⋊
@@ -2030,6 +2085,7 @@ Ell               ℒ  # WARN: abuse: not really its uppercase
 lambar            ƛ
 Lambar            Ƛ
 ohring            ⱺ  # [oh] with [ring]
+ohcirc            ⱺ  # [oh] with [ring]
 oho               ⱺ
 horse             ʊ
 Horse             Ʊ
@@ -2042,10 +2098,9 @@ ramshorn          ɤ
 
 # ,-fancified letters %{{{
 
-lam,              ƛ
-Lam,              Ƛ
-lambda,           ƛ
-Lambda,           Ƛ
+
+3,                Ӡ
+7,                ̵7
 a,                ɑ
 A,                Ɑ
 b,                ɓ
@@ -2055,34 +2110,40 @@ B,,               Ƀ
 b,,,              ƃ
 B,,,              Ƃ
 c,                ɕ
-C,                𝒞  # WARN: abuse: not really its uppercase
+C,                𝒞  # WARN: abuse: not its uppercase
 d,                ɗ
 D,                Ɗ
 d,,               ꝺ
 D,,               Ꝺ
 D,,,              Ƌ
 d,,,              ƌ
+E,                Ɛ
+e,                ɛ
+e,,               𝑒
 f,                ƒ
 F,                Ƒ
 g,                ɠ
 G,                Ɠ
 g,,               ɡ
 G,,               Ɡ
+g,,,              ǥ
+G,,,              Ǥ
 h,                ɦ
 H,                Ɦ
 h,,               ꜧ
 H,,               Ꜧ
 h,,,              ɧ
-H,,,              ℋ  # WARN: abuse: not really its uppercase
+H,,,              ℋ  # WARN: abuse: not its uppercase
 i,                ɩ
 I,                Ɩ
+i,,               𝑖
 j,                ʝ
 J,                Ʝ
 k,                ƙ
 K,                Ƙ
 k,,               ᶄ
 l,                ℓ
-L,                ℒ  # WARN: abuse: not really its uppercase
+L,                ℒ  # WARN: abuse: not its uppercase
 l,,               ȴ
 m,                ɱ
 M,                Ɱ
@@ -2094,8 +2155,10 @@ p,                ƥ
 P,                Ƥ
 p,,               ꝓ
 P,,               Ꝓ
-q,                ɋ
-Q,                Ɋ
+q,                ꝗ
+Q,                Ꝗ
+q,,               ɋ
+Q,,               Ɋ
 r,                ɽ
 R,                Ɽ
 r,,               ɍ
@@ -2108,8 +2171,12 @@ T,                Ƭ
 t,,               ꞇ
 T,,               Ꞇ
 t,,,              ȶ
+T,,,              ᤒ  # WARN: abuse: not its uppercase
+t,,,,             ⲧ
+T,,,,             Ⲧ
+T,,,,,            Ʈ
 v,                ⱴ
-V,                𝒱  # WARN: abuse: not really its uppercase
+V,                𝒱  # WARN: abuse: not its uppercase
 v,,               ʋ
 V,,               Ʋ
 v,,,              ỽ
@@ -2125,9 +2192,12 @@ Z,                Ɀ
 z,,               ƶ
 Z,,               Ƶ
 z,,,              ʑ
+z,,,,             ᤃ
+Z,,,              𝒵  # WARN: abuse: not its uppercase
 zh                ʒ
 Zh                Ʒ
 zh,               ʓ
+zh,,              ᤕ
 
 # %}}}
 
@@ -2192,16 +2262,18 @@ point             ·
 bul               ∙  # WARN: bul is not short for bullet but for bullet op
 spark             ⟡
 circ              ∘  # [circ]le op
+star              ⋆  # (small) star (bin op)
 Star              ★  # (large) star (nul op / individual)
-star              ⋆  # [s]mall star (bin op)
 astcol            ⁑  # [ast]erisk [col]on
 ast               ∗  # [ast]erisk op
 tricol            ː  # [tri]angular [col]on
 caret             ^  # [car]et op
-dia               ⋄  # [dia]mond
+dia               ◇  # [dia]mond
+sdia              ⋄  # [s]mall
 bdia              ⬩  # [b]lack
 loz               ⬫  # [loz]enge
 bloz              ⬪  # [b]lack
+Loz               ◊  # (big)
 sq                ▫  # [sq]uare
 bsq               ▪  # [b]lack
 rect              ▭  # [rect]angle
@@ -2811,6 +2883,8 @@ _right            ￫  # XXX: abuse: half-width for subsript
 ^divby            ᐟ
 _plus             ˖
 _minus            ˗
+_lambda           ⲗ
+_lam              ⲗ
 
 ## superscripts / subscripts: relations 
 ^sim              ˜
@@ -2857,6 +2931,7 @@ _top              ˕
 @cev        ⃖  # (vec backwards)
 @vecr       ⃗  # [r]ight
 @vecl       ⃖  # [l]eft
+@forbid    ⃠
 
 # %}}}
 
@@ -2871,14 +2946,25 @@ _top              ˕
 @oright     ⃗
 @ofrom      ⃖
 @oto        ⃗
+@oparfrom   ⃐
+@oparto     ⃑
 @olt        ᷾
 @ogt        ͐
+@oarcl      ⃔
+@oarcr      ⃕
+@orotpos    ⃔
+@orotneg    ⃕
+@orotp      ⃔
+@orotn      ⃕
+@orotl      ⃔
+@orotr      ⃕
 
 ### accentlike / lines
 @ocflex     ̂  # [c]ircum[flex]
 @ocaret     ̂
 @ocaron     ̌
 @otil      ̃  # [til]de
+@ontil      ͊
 @ottil      ͌
 @oarc       ̑
 @obreve     ̆
@@ -2890,7 +2976,6 @@ _top              ˕
 @obar       ̄
 @oline      ̅
 @olline     ̿
-
 
 ### dots
 @odot       ̇
@@ -2906,8 +2991,8 @@ _top              ˕
 @oast       ⃰
 @ohat       ̂
 @obridge    ͆
-@oring      ̊
 @ocirc      ̊
+@oring      ̊
 @osharp     ᫆
 
 ### binops / binrels
@@ -2915,6 +3000,7 @@ _top              ˕
 @opplus     ᫉
 @otimes     ̽
 @osim       ̃
+@onsim      ͊
 @ossim      ͌
 @osmile     ̆
 @ofrown     ̑
@@ -2937,6 +3023,8 @@ _top              ˕
 @uright     ⃯
 @ufrom      ⃮  # (arrow)
 @uto        ⃯
+@uparfrom   ⃭
+@uparto     ⃬
 @ult        ͔  # WARN: abuse: arrowheads
 @ugt        ͕
 @ubi        ͍
@@ -2972,8 +3060,8 @@ _top              ˕
 @uast       ͙
 @uhat       ̬
 @ubridge   ̺
-@uring      ̥
 @ucirc      ̥
+@uring      ̥
 @usquare    ̻
 @usq        ̻
 
