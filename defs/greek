@@ -30,10 +30,6 @@ Sigma           Σ
 Tau             Τ
 Upsilon         Υ
 Upsi            Υ
-0Upsilon        ϒ
-0Upsi           ϒ
-Upsilon,        ϒ
-Upsi,           ϒ
 vUpsilon        ϒ
 vUpsi           ϒ
 Phi             Φ
@@ -46,73 +42,124 @@ Omega           Ω
 # lowercase %{{{
 
 alpha           α
+valpha          ɑ
 beta            β
-varbeta         ϐ
-curbeta         ϐ
 vbeta           ϐ
-cbeta           ϐ
+cbeta           ϐ  # [c]ursive
 gamma           ɣ
-vargamma        γ
 vgamma          γ
+nolgamma        γ  # [no] [l]oop gamma
 delta           δ
 epsilon         ε
 epsi            ε
-varepsilon      ϵ
-lunepsilon      ϵ
 vepsilon        ϵ
-lepsilon        ϵ
 vepsi           ϵ
-lepsi           ϵ  # [l]unate
+lepsilon        ϵ  # [l]unate
+lepsi           ϵ
 zeta            ζ
 eta             η
 theta           ϑ
-vartheta        θ
 vtheta          θ
 iota            ι
 kappa           κ
-varkappa        ϰ
-curkappa        ϰ
 vkappa          ϰ
-ckappa          ϰ
+ckappa          ϰ  # [c]ursive
 lambda          λ
 mu              μ
 nu              ν
 xi              ξ
 omicron         ο
 pi              π
-varpi           ϖ
-curpi           ϖ
 vpi             ϖ
-cpi             ϖ
+cpi             ϖ  # [c]ursive
 rho             ρ
-varrho          ϱ
-currho          ϱ
 vrho            ϱ
-crho            ϱ
+crho            ϱ  # [c]ursive
 sigma           σ
-varsigma        σ
-finsigma        ς
-vsigma          σ
-fsigma          ς
+vsigma          ς
+fsigma          ς  # [f]inal
 tau             τ
 upsilon         υ
 upsi            υ
 phi             φ
-varphi          ϕ
-clophi          ϕ
 vphi            ϕ
-cphi            ϕ
+cphi            ϕ  # [c]losed
 chi             χ
 psi             ψ
 omega           ω
 
 # %}}}
 
+# ,-fancified (or just var) letters %{{{
+
+alpha,            ɑ
+beta,             ϐ
+gamma,            γ
+Gamma,            Ɣ
+delta,            ẟ
+epsilon,          ϵ
+epsi,             ϵ
+Epsilon,          Ɛ
+Epsi,             Ɛ
+theta,            θ
+Theta,            Ɵ
+theta,,           ɵ
+Theta,,           Ɵ
+kappa,            ϰ
+lambda,           ƛ
+Lambda,           Ƛ
+ksi,              ⲝ
+Ksi,              Ⲝ
+ksi,,             ⲷ
+Ksi,,             Ⲷ
+ksi,,,            ᤎ
+pi,               ϖ
+rho,              ϱ  # WARN: same as v- / c-
+sigma,            ς  # WARN: same as v- / f-
+tau,              ꞇ
+Tau,              Ꞇ
+tau,,             ⲧ
+Tau,,             Ⲧ
+Upsilon,          ϒ  # WARN: same as v-
+Upsi,             ϒ
+phi,              ⳡ
+Phi,              Ⳡ
+phi,,             ⲫ
+Phi,,             Ⲫ
+cphi,             ⲫ  # WARN: same as normal
+cPhi,             Ⲫ
+cphi,,            ɸ
+cPhi,,            Φ
+vphi,             ⲫ
+vPhi,             Ⲫ
+psi,              ⲯ
+Psi,              Ⲯ
+Psi,,             ყ
+psi,,             ყ
+Psi,,,            Ⴘ
+omega,            ⲱ
+Omega,            Ⲱ
+omega,,           ɷ
+
+# %}}}
+
 # superscripts (some abuse) %{{{
 
+^Alpha          ᴬ
+^Beta           ᴮ
 ^Gamma          ᣘ
 ^Delta          ᐞ
+^Epsilon        ᴱ
+^Eta            ᴴ
+^Iota           ᴵ
+^Kappa          ᴷ
 ^Lambda         ᣔ
+^Mu             ᴹ
+^Nu             ᴺ
+^Omicron        ᴼ
+^Rho            ᴾ
+^Tau            ᵀ
+
 ^alpha          ᵅ
 ^beta           ᵝ
 ^gamma          ᵞ
@@ -124,8 +171,6 @@ omega           ω
 ^omicron        ᵒ
 ^rho            ᣖ
 ^sigma          ᣙ
-^varsigma       ᕐ
-^finsigma       ᕐ
 ^vsigma         ᕐ
 ^fsigma         ᕐ
 ^upsilon        ᶹ
@@ -228,6 +273,61 @@ iota#P          ℩
 lepsi#P         ϶
 
 # %}}}
+
+# %}}}
+
+# [cop]tic greek %{{{
+
+copAlpha          Ⲁ
+copalpha          ⲁ
+copBeta           Ⲃ
+copbeta           ⲃ
+copGamma          Ⲅ
+copgamma          ⲅ
+copDelta          Ⲇ
+copdelta          ⲇ
+copEpsilon        Ⲉ
+copepsilon        ⲉ
+copStigma         Ⲋ
+copstigma         ⲋ
+copZeta           Ⲍ
+copzeta           ⲍ
+copEta            Ⲏ
+copeta            ⲏ
+copTheta          Ⲑ
+coptheta          ⲑ
+copIota           Ⲓ
+copiota           ⲓ
+copKappa          Ⲕ
+copkappa          ⲕ
+copLambda         Ⲗ
+coplambda         ⲗ
+copMu             Ⲙ
+copmu             ⲙ
+copNu             Ⲛ
+copnu             ⲛ
+copKsi            Ⲝ
+copksi            ⲝ
+copOmicron        Ⲟ
+copomicron        ⲟ
+copPi             Ⲡ
+coppi             ⲡ
+copRho            Ⲣ
+coprho            ⲣ
+copSigma          Ⲥ
+copsigma          ⲥ
+copTau            Ⲧ
+coptau            ⲧ
+copUpsilon        Ⲩ
+copupsilon        ⲩ
+copPhi            Ⲫ
+copphi            ⲫ
+copChi            Ⲭ
+copchi            ⲭ
+copPsi            Ⲯ
+coppsi            ⲯ
+copOmega          Ⲱ
+copomega          ⲱ
 
 # %}}}
 
@@ -642,6 +742,33 @@ scchi      x  # WARN: latin abuse
 scpsi      ᴪ
 
 # %}}}
+
+# %}}}
+
+# compat %{{{
+
+## var
+## WARN: some X and varX symbols are swapped
+varbeta         ϐ
+vargamma        γ
+varepsilon      ϵ
+vartheta        θ
+varkappa        ϰ
+varpi           ϖ
+varrho          ϱ
+varsigma        ς
+varphi          ϕ
+^varsigma       ᕐ
+^finsigma       ᕐ
+
+## indicative names
+curbeta         ϐ  # [cur]sive/ly
+lunepsilon      ϵ  # [lun]ate
+curkappa        ϰ  # [cur]sive/ly
+curpi           ϖ  # [cur]sive/ly
+currho          ϱ  # [cur]sive/ly
+finsigma        ς  # [fin]al
+clophi          ϕ  # [clo]sed
 
 # %}}}
 
