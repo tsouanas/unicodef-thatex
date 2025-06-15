@@ -263,6 +263,11 @@ t/h    ᵺ  # (δ sound, ð alternative in some dicts)
 th     þ  # thorn
 Th     Þ
 TH     Þ
+hs     ʅ
+sh     ʃ
+Sh     Ʃ
+SH     Ʃ
+tsh    ʧ
 zh     ʒ
 Zh     Ʒ
 wv     ỽ  # middle welsh-v
