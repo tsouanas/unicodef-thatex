@@ -3095,13 +3095,35 @@ _top              ˕
 @cs        ̸   # [s]lash
 @css        ⃫  # (double)
 @cb         ⃥  # [b]ackslash
-@cring      ⃘
 @ccirc      ⃘
+@cring      ⃘
+@co         ⃘
+@copos      ⃚
+@coneg      ⃙
 @cleft      ⃪
 @cfrom      ⃪
 @ctil      ̴ 
 @csim      ̴ 
 @cwave     ̴ 
+@cforbid   ⃠
+
+# %}}}
+
+## enclosing ([a]round) %{{{
+
+@acircle     ⃝
+@acirc       ⃝
+@ao          ⃝
+@adiamond    ⃟
+@adia        ⃟
+@ad          ⃟
+@asquare     ⃞
+@asq         ⃞
+@as          ⃞
+@atriangle   ⃤
+@atri        ⃤
+@at          ⃤
+@aforbid   ⃠
 
 # %}}}
 
