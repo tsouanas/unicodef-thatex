@@ -162,30 +162,42 @@ ww     ʬ
 
 # \lig\ to guarantee prefix code %{{{
 
-\ae\   æ  # a-
+\wll\  ỻ
+\Wll\  Ỻ
+
+\aa\   ꜳ  # a-
+\ae\   æ
 \au\   ꜷ
 \av\   ꜹ
 \ay\   ꜽ
+\AA\   Ꜳ
 \AE\   Æ
 \AU\   Ꜷ
 \AV\   Ꜹ
 \AY\   Ꜽ
-\ij\   ĳ  # i-
-\IJ\   Ĳ
+\fi\   ﬁ  # f-
+\fl\   ﬂ
+\ff\   ﬀ
+\ffi\  ﬃ
+\ffl\  ﬄ
 \hv\   ƕ  # h-
 \Hv\   Ƕ
 \HV\   Ƕ
 \hw\   ƕ
 \Hw\   Ƕ
 \HW\   Ƕ
+\ij\   ĳ  # i-
+\IJ\   Ĳ
 \ll\   ỻ  # l-
 \LL\   Ỻ
 \lzh\  ɮ
-\fi\   ﬁ  # f-
-\fl\   ﬂ
-\ff\   ﬀ
-\ffi\  ﬃ
-\ffl\  ﬄ
+\oe\   œ  # o-
+\ou\   ȣ
+\Ou\   Ȣ
+\OU\   Ȣ
+\oo\   ꝏ
+\OE\   Œ
+\OO\   Ꝏ
 \ss\   ß  # s-
 \sz\   ß
 \SS\   ẞ
@@ -195,24 +207,22 @@ ww     ʬ
 \sft\  ﬆ  # [s], [f]inal
 \st\   ﬅ
 \s-t\  ﬆ
-\oe\   œ # o-
-\ou\   ȣ
-\Ou\   Ȣ
-\OU\   Ȣ
-\oo\   ꝏ
-\OE\   Œ
-\OO\   Ꝏ
+\th\   ᵺ  # t- ⫽ (δ sound, ð alternative in some dicts)
+\tsh\  ʧ
+\tz\   ꜩ
+\Tz\   Ꜩ
+\TZ\   Ꜩ
 \ue\   ᵫ # u-
 \vy\   ꝡ # v-
 \VY\   Ꝡ
 
-\Al\   Ɑ  # INFO: not a ligature
-\al\   ɑ  # INFO: not a ligature
-\Ga\   Ɣ  # INFO: not a ligature
-\ga\   ɣ  # INFO: not a ligature
-\Ep\   Ɛ  # INFO: not a ligature
-\ep\   ɛ  # INFO: not a ligature
-\el\   ℓ  # INFO: not a ligature
+\Al\   Ɑ  # WARN: not a ligature
+\al\   ɑ  # WARN: not a ligature
+\Ga\   Ɣ  # WARN: not a ligature
+\ga\   ɣ  # WARN: not a ligature
+\Ep\   Ɛ  # WARN: not a ligature
+\ep\   ɛ  # WARN: not a ligature
+\el\   ℓ  # WARN: not a ligature
 
 # %}}}
 
@@ -256,10 +266,11 @@ lzh    ɮ
 
 # Ye olde & alphabet-extended latin %{{{
 
+## letters %{{{
+
 dh     ð  # eth
 Dh     Ð
 DH     Ð
-t/h    ᵺ  # (δ sound, ð alternative in some dicts)
 th     þ  # thorn
 Th     Þ
 TH     Þ
@@ -267,21 +278,45 @@ hs     ʅ
 sh     ʃ
 Sh     Ʃ
 SH     Ʃ
-tsh    ʧ
 zh     ʒ
 Zh     Ʒ
 wv     ỽ  # middle welsh-v
 Wv     Ỽ
-wll    ỻ
-Wll    Ỻ
 wy     ƿ  # wynn
 Wy     Ƿ
 tet    ⁊  # Tironian et
 Tet    ⹒
-/that  Ꝥ  # [/] (abbrev.) for [that]
-/That  ꝥ
-/thru  ꝧ
-/Thru  Ꝧ
+
+# %}}}
+
+## /abbrevs (whole words) %{{{
+
+/that    Ꝥ  # [/] (abbrev.) for [that]
+/That    ꝥ
+/thru    ꝧ
+/Thru    Ꝧ
+
+# %}}}
+
+## \abbrevs\ (parts of words) %{{{
+
+\Es\     ꝭ
+\ES\     ꝭ
+\es\     Ꝭ
+\Est\    Ꝫ
+\EST\    Ꝫ
+\est\    ꝫ
+\um\     ꝸ
+\tum\    ꝷ
+\Rum\    ꝶ
+\rum\    ꝵ
+\num\    ꝴ
+\mum\    ꝳ
+\lum\    ꝲ
+\Vir\    Ꝟ
+\vir\    ꝟ
+
+# %}}}
 
 # %}}}
 
