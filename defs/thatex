@@ -2032,6 +2032,23 @@ bdots             ⋱  # [b]ackslash
 
 # %}}}
 
+## quotes %{{{
+
+ls              «  # [s]poken words
+rs              »
+lw              “  # [w]ritten words
+rw              ”
+lb              ‟  # [b]unny ears (sarcasm, figurative)
+rb              ”
+lS              ‹  # (nesting)
+rS              ›
+lW              ‘
+rW              ’
+lB              ‛
+rB              ’
+
+# %}}}
+
 ## brackets %{{{
 
 lpar              (
