@@ -1030,66 +1030,155 @@ Zv     Ž
 ## h-flip %{{{
 
 ### X[ %{{{
+
+A[     A
 B[     ꓭ
 C[     ꓛ
 D[     ꓷ
 E[     ꓱ
 F[     ꟻ
+H[     H
+I[     I
 K[     ꓘ
 L[     ⅃
+M[     M
+N[     И
+O[     O
 P[     ꟼ
 R[     Я
 S[     Ƨ
+T[     T
+U[     U
+V[     V
+W[     W
+X[     X
+Y[     Y
+
+b[     d
+c[     ͻ
+d[     b
 e[     ɘ
+l[     ʃ
+o[     o
+p[     q
+q[     p
 s[     ƨ
+v[     v
+w[     w
+x[     x
+
 ;[     ⁏
 ?[     ⸮
 ,[     ⹁
 `[     ´
-1[     ⥜
+1[     ߁
+
+\AA[\  Ꜳ
+\oo[\  ꝏ
+\OO[\  Ꝏ
+\sh[\  ʅ
+
 # %}}}
 
 ### X#h %{{{
 
+A#h     A
 B#h     ꓭ
 C#h     ꓛ
 D#h     ꓷ
 E#h     ꓱ
 F#h     ꟻ
+H#h     H
+I#h     I
 K#h     ꓘ
 L#h     ⅃
+M#h     M
+N#h     И
+O#h     O
 P#h     ꟼ
 R#h     Я
 S#h     Ƨ
+T#h     T
+U#h     U
+V#h     V
+W#h     W
+X#h     X
+Y#h     Y
+
+b#h     d
+c#h     ͻ
+d#h     b
 e#h     ɘ
+l#h     ʃ
+o#h     o
+p#h     q
+q#h     p
 s#h     ƨ
+v#h     v
+w#h     w
+x#h     x
+
 ;#h     ⁏
 ?#h     ⸮
 ,#h     ⹁
 `#h     ´
-1#h     ⥜
+1#h     ߁
+
+\AA#h\  Ꜳ
+\oo#h\  ꝏ
+\OO#h\  Ꝏ
+\sh#h\  ʅ
 
 # %}}}
 
 ### X#H %{{{
 
+A#H     A
 B#H     ꓭ
 C#H     ꓛ
 D#H     ꓷ
 E#H     ꓱ
 F#H     ꟻ
+H#H     H
+I#H     I
 K#H     ꓘ
 L#H     ⅃
+M#H     M
+N#H     И
+O#H     O
 P#H     ꟼ
 R#H     Я
 S#H     Ƨ
+T#H     T
+U#H     U
+V#H     V
+W#H     W
+X#H     X
+Y#H     Y
+
+b#H     d
+c#H     ͻ
+d#H     b
 e#H     ɘ
+l#H     ʃ
+o#H     o
+p#H     q
+q#H     p
 s#H     ƨ
+v#H     v
+w#H     w
+x#H     x
+
 ;#H     ⁏
 ?#H     ⸮
 ,#H     ⹁
 `#H     ´
-1#H     ⥜
+1#H     ߁
+
+\AA#H\  Ꜳ
+\oo#H\  ꝏ
+\OO#H\  Ꝏ
+\sh#H\  ʅ
 
 # %}}}
 
@@ -1104,14 +1193,43 @@ B]     B  # XXX: not really symmetrical
 C]     C
 D]     D
 E]     E
+H]     H
+I]     I
+K]     K  # XXX: not really symmetrical
+L]     Γ
+M]     ꟽ
+N]     И
 O]     O
+P]     Ь
 R]     ʁ
+S]     Ƨ
 T]     ꓕ
 U]     ꓵ
 V]     ꓥ
 Y]     ⅄
+
+b]     p
+c]     c
+d]     q
+h]     μ
+j]     ̣᥄
+l]     ʃ
+o]     o
+p]     b
+q]     d
+s]     ƨ
+t]     f
+v]     ʌ
+w]     ʍ
+x]     x
+y]     λ
+
 !]     ¡
 1]     ⥡
+
+\oo]\  ꝏ
+\OO]\  Ꝏ
+\sh]\  ʅ
 
 # %}}}
 
@@ -1122,14 +1240,43 @@ B#v     B  # XXX: not really symmetrical
 C#v     C
 D#v     D
 E#v     E
+H#v     H
+I#v     I
+K#v     K  # XXX: not really symmetrical
+L#v     Γ
+M#v     ꟽ
+N#v     И
 O#v     O
+P#v     Ь
 R#v     ʁ
+S#v     Ƨ
 T#v     ꓕ
 U#v     ꓵ
 V#v     ꓥ
 Y#v     ⅄
+
+b#v     p
+c#v     c
+d#v     q
+h#v     μ
+j#v     ̣᥄
+l#v     ʃ
+o#v     o
+p#v     b
+q#v     d
+s#v     ƨ
+t#v     f
+v#v     ʌ
+w#v     ʍ
+x#v     x
+y#v     λ
+
 !#v     ¡
 1#v     ⥡
+
+\oo#v\  ꝏ
+\OO#v\  Ꝏ
+\sh#v\  ʅ
 
 # %}}}
 
@@ -1140,14 +1287,43 @@ B#V     B  # XXX: not really symmetrical
 C#V     C
 D#V     D
 E#V     E
+H#V     H
+I#V     I
+K#V     K  # XXX: not really symmetrical
+L#V     Γ
+M#V     ꟽ
+N#V     И
 O#V     O
+P#V     Ь
 R#V     ʁ
+S#V     Ƨ
 T#V     ꓕ
 U#V     ꓵ
 V#V     ꓥ
 Y#V     ⅄
+
+b#V     p
+c#V     c
+d#V     q
+h#V     μ
+j#V     ̣᥄
+l#V     ʃ
+o#V     o
+p#V     b
+q#V     d
+s#V     ƨ
+t#V     f
+v#V     ʌ
+w#V     ʍ
+x#V     x
+y#V     λ
+
 !#V     ¡
 1#V     ⥡
+
+\oo#V\  ꝏ
+\OO#V\  Ꝏ
+\sh#V\  ʅ
 
 # %}}}
 
@@ -1168,19 +1344,22 @@ H{     H
 I{     I
 J{     ꓩ
 K{     ꓘ
-L{     ꓶ
+L{     Ꞁ
 M{     ꟽ
 N{     N
 O{     O
 P{     ꓒ
+Q{     Ꝺ
 R{     ꓤ
 S{     S
 T{     ꓕ
 U{     ꓵ
 V{     ꓥ
-X{     Z
+W{     M
+X{     X
 Y{     ⅄
 Z{     Z
+
 a{     ɐ
 b{     q
 c{     ɔ
@@ -1189,8 +1368,8 @@ e{     ǝ
 f{     ɟ
 g{     ƃ
 h{     ɥ
-i{     ı
-j{     ɾ
+i{     ̣ı
+j{     ̣ɾ
 k{     ʞ
 l{     ʃ
 m{     ɯ
@@ -1207,15 +1386,20 @@ w{     ʍ
 x{     x
 y{     ʎ
 z{     z
+
 &{     ⅋
 ;{     ؛
 ?{     ¿
 !{     ¡
 1{     ⥝
+
 \ae{\  ᴂ
 \ao{\  ᴔ
 \Al{\  Ɒ
 \al{\  ɒ
+\oo{\  ꝏ
+\OO{\  Ꝏ
+\sh{\  ʃ
 
 # %}}}
 
@@ -1232,19 +1416,22 @@ H#p     H
 I#p     I
 J#p     ꓩ
 K#p     ꓘ
-L#p     ꓶ
+L#p     Ꞁ
 M#p     ꟽ
 N#p     N
 O#p     O
 P#p     ꓒ
+Q#p     Ꝺ
 R#p     ꓤ
 S#p     S
 T#p     ꓕ
 U#p     ꓵ
 V#p     ꓥ
-X#p     Z
+W#p     M
+X#p     X
 Y#p     ⅄
 Z#p     Z
+
 a#p     ɐ
 b#p     q
 c#p     ɔ
@@ -1253,8 +1440,8 @@ e#p     ǝ
 f#p     ɟ
 g#p     ƃ
 h#p     ɥ
-i#p     ı
-j#p     ɾ
+i#p     ̣ı
+j#p     ̣ɾ
 k#p     ʞ
 l#p     ʃ
 m#p     ɯ
@@ -1271,15 +1458,20 @@ w#p     ʍ
 x#p     x
 y#p     ʎ
 z#p     z
+
 &#p     ⅋
 ;#p     ؛
 ?#p     ¿
 !#p     ¡
 1#p     ⥝
+
 \ae#p\  ᴂ
 \ao#p\  ᴔ
 \Al#p\  Ɒ
 \al#p\  ɒ
+\oo#p\  ꝏ
+\OO#p\  Ꝏ
+\sh#p\  ʃ
 
 # %}}}
 
@@ -1296,19 +1488,22 @@ H#P     H
 I#P     I
 J#P     ꓩ
 K#P     ꓘ
-L#P     ꓶ
+L#P     Ꞁ
 M#P     ꟽ
 N#P     N
 O#P     O
 P#P     ꓒ
+Q#P     Ꝺ
 R#P     ꓤ
 S#P     S
 T#P     ꓕ
 U#P     ꓵ
 V#P     ꓥ
-X#P     Z
+W#P     M
+X#P     X
 Y#P     ⅄
 Z#P     Z
+
 a#P     ɐ
 b#P     q
 c#P     ɔ
@@ -1317,8 +1512,8 @@ e#P     ǝ
 f#P     ɟ
 g#P     ƃ
 h#P     ɥ
-i#P     ı
-j#P     ɾ
+i#P     ̣ı
+j#P     ̣ɾ
 k#P     ʞ
 l#P     ʃ
 m#P     ɯ
@@ -1335,15 +1530,20 @@ w#P     ʍ
 x#P     x
 y#P     ʎ
 z#P     z
+
 &#P     ⅋
 ;#P     ؛
 ?#P     ¿
 !#P     ¡
 1#P     ⥝
+
 \ae#P\  ᴂ
 \ao#P\  ᴔ
 \Al#P\  Ɒ
 \al#P\  ɒ
+\oo#P\  ꝏ
+\OO#P\  Ꝏ
+\sh#P\  ʃ
 
 # %}}}
 
