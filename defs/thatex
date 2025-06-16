@@ -2109,6 +2109,14 @@ lblens            【 # [b]lack
 rblens            】
 lblen             【
 rblen             】
+lbarq             ⸠  # [l]eft vertical [bar] with [q]uill
+rbarq             ⸡
+lmaid             ⸠  # iron [maid]en
+rmaid             ⸡
+lsmash            ⸡
+rsmash            ⸠
+lburg             ⸡  # [burg]er
+rburg             ⸠
 lfence            ⧘
 rfence            ⧙
 lfen              ⧘
@@ -2137,6 +2145,10 @@ lwmoon            ☾
 rwmoon            ☽︎
 lmoon             ❨  # default: [b]
 rmoon             ❩
+lhorse            ⸦  # [l]eft [horse]shoe [bra]cket
+rhorse            ⸧
+lhor              ⸦
+rhor              ⸧
 lquine            ⌜  # [qui]ne
 rquine            ⌝
 lqui              ⌜  # [qui]ne
