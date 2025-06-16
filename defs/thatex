@@ -279,12 +279,13 @@ tabr              ⇥
 tabl              ⇤
 vtab              ⭿  # [v]ertical tab
 shift             ⇧
+capslock          ⇪
 caps              ⇪
+delete            ␡
+vdelete           ⌦  # [v]ar
 rerase            ⌦
 lerase            ⌫
 erase             ⌫  # default: [l]
-del               ␡
-vdel              ⌦  # [v]ar del
 backs             ⌫
 bspace            ⌫
 undo              ↶
@@ -357,39 +358,67 @@ Vend              Ꝩ
 vend              ꝩ
 Tiroet            ⹒  # [Tiro]nian [et]
 tiroet            ⁊
+Schwa             Ə
+schwa             ə
+Heng              Ꜧ
+heng              ꜧ
+halfh             ⱶ
+Halfh             Ⱶ
+halfH             Ⱶ
+Rotunda           Ꝛ
+rotunda           ꝛ
+Rotunda,          Ꝝ
+rotunda,          ꝝ
+Rotundaum         Ꝝ
+rotundaum         ꝝ
+Rot               Ꝛ
+rot               ꝛ
+Rot,              Ꝝ
+rot,              ꝝ
+Rotum             Ꝝ
+rotum             ꝝ
+Tresillo          Ꜫ
+tresillo          ꜫ
+Cuatrillo         Ꜭ
+cuatrillo         ꜭ
+Cuatrillo,        Ꜯ
+cuatrillo,        ꜯ
+3Lo               Ꜫ
+3lo               ꜫ
+4Lo               Ꜭ
+4lo               ꜭ
+4Lo,              Ꜯ
+4lo,              ꜯ
+vgZ               Ꝣ  # [v]isi[g]othic
+vgz               ꝣ
+preC,             Ꝣ  # [pre]-ç
+prec,             ꝣ
 Latal             Ɑ  # [lat]in [al]pha
 latal             ɑ
 latde             ẟ  # [de]lta
 Latep             Ɛ  # [ep]silon
 latep             ɛ
+Latrep            Ɜ  # [ep]silon
+latrep            ɜ
 Latio             Ɩ  # [io]ta
 latio             ɩ
 latom             ⲱ  # [om]ega
 latOm             Ⲱ
+archm             ꟿ
 Gha               Ƣ
 gha               ƣ
-ou                ȣ
-Ou                Ȣ
-kai               ϗ
-Kai               Ϗ
 
-Sho               Ϸ  # Bactrian Ϸ "sho"
-sho               ϸ
-Tsan              Ͷ  # Arcadian "tsan"
-tsan              ͷ
-Digamma           Ϝ
-digamma           ϝ
-Pdigamma          Ͷ  # [P]amphylian digamma
-pdigamma          ͷ
-San               Ϻ  # San
-san               ϻ
-Stigma            Ϛ
-stigma            ϛ  # 6
-Sampi             ϡ
-sampi             ϡ  # 900
-Koppa             Ϟ
-koppa             ϟ  # 90
-
+## reverse
+rlatep            ɜ
+rLatep            Ɜ  # [ep]silon
+repsilon          ɜ  # [r]everse
+rEpsilon          Ǝ  # WARN: abuse: reversed capital e
+repsi             ɜ
+rEpsi             Ǝ
+rlepsilon         ϶
+rlepsi            ϶
+rcigma            ͻ
+rCigma            Ͻ
 
 # %}}}
 
