@@ -2253,14 +2253,22 @@ cothree           ƹ
 coThree           Ƹ
 scythe            ʕ
 ramshorn          ɤ
+qcrowbar          ꝙ
+Qcrowbar          Ꝙ
+qgolf             ꝙ
+Qgolf             Ꝙ
 
 # %}}}
 
 # ,-fancified letters %{{{
 
-
+1,                ̵1
+2,                Ꝝ
 3,                Ӡ
+3,,               Ꝫ
+4,                Ꜭ
 7,                ̵7
+9,                Ꝯ
 a,                ɑ
 A,                Ɑ
 b,                ɓ
@@ -2301,7 +2309,13 @@ j,                ʝ
 J,                Ʝ
 k,                ƙ
 K,                Ƙ
-k,,               ᶄ
+K,,               Ꝁ
+k,,               ꝁ
+K,,,              Ꝃ
+k,,,              ꝃ
+K,4               Ꝅ
+k,4               ꝅ
+k,5               ᶄ
 l,                ℓ
 L,                ℒ  # WARN: abuse: not its uppercase
 l,,               ȴ
@@ -2315,15 +2329,21 @@ p,                ƥ
 P,                Ƥ
 p,,               ꝓ
 P,,               Ꝓ
+p,,,              ꝕ
+P,,,              Ꝕ
 q,                ꝗ
 Q,                Ꝗ
 q,,               ɋ
 Q,,               Ɋ
+q,,,              ꝙ
+Q,,,              Ꝙ
 r,                ɽ
+cor,              ⱹ
 R,                Ɽ
 r,,               ɍ
 R,,               Ɍ
-cor,              ⱹ
+r,,,              ꞃ
+R,,,              Ꞃ
 s,                ȿ
 S,                Ȿ
 t,                ƭ
@@ -2332,15 +2352,17 @@ t,,               ꞇ
 T,,               Ꞇ
 t,,,              ȶ
 T,,,              ᤒ  # WARN: abuse: not its uppercase
-t,,,,             ⲧ
-T,,,,             Ⲧ
-T,,,,,            Ʈ
+t,4               ⲧ
+T,4               Ⲧ
+T,5               Ʈ
 v,                ⱴ
 V,                𝒱  # WARN: abuse: not its uppercase
 v,,               ʋ
 V,,               Ʋ
 v,,,              ỽ
 V,,,              Ỽ
+v,4               ꝟ
+V,4               Ꝟ
 w,                ⱳ
 W,                Ⱳ
 y,                ƴ
@@ -2352,8 +2374,11 @@ Z,                Ɀ
 z,,               ƶ
 Z,,               Ƶ
 z,,,              ʑ
-z,,,,             ᤃ
-Z,,,              𝒵  # WARN: abuse: not its uppercase
+z,4               ᤃ
+Z,4               𝒵  # WARN: abuse: not its uppercase
+sh                ʃ
+Sh                Ʃ
+sh,               ʆ
 zh                ʒ
 Zh                Ʒ
 zh,               ʓ
