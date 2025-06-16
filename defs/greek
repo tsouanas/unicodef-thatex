@@ -124,20 +124,14 @@ koppa             ϟ  # 90
 
 Cigma           Ϲ  # [C]-like S[igma]
 cigma           ϲ
-
-Pcigma          Ͼ  # [P]eriestigmenon (dotted)
-pCigma          Ͼ
+pCigma          Ͼ  # [P]eriestigmenon (dotted) 
 pcigma          ͼ
-
 Anticigma       Ͻ  # (reversed)
 anticigma       ͻ
-Panticigma      Ͽ  # [P]eriestigmenon (dotted)
 pAnticigma      Ͽ
 panticigma      ͽ
-
 Acigma          Ͻ
 acigma          ͻ
-Pacigma         Ͽ  # [p]eriestigmenon (dotted)
 pAcigma         Ͽ
 pacigma         ͽ
 
