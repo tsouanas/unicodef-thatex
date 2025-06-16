@@ -10,18 +10,20 @@
 
 # text %{{{
 
-# special typography %{{{
+# spaces and (no)linebreaks %{{{
 
 vspc              ␣  # [v]isible [sp]a[c]e
 spc               ␣  # (synonym)
+nbsyl             ⁞  # [n]o[b]reak [syl]lable
 nbspc                # [n]o-[b]reak [sp]a[c]e
 nbsp                 # [n]o-[b]reak [sp]ace
 nnbspc               # [n]arrow
 nnbsp                # [n]arrow
 nbh               ‑  # [n]o-[b]reak [h]yphen
 nb-               ‑  #
-thin               
-hair               
+thinspc            
+thin             dpography  
+hairspc            
 enspc              
 emspc              
 enquad             
@@ -37,12 +39,50 @@ jux               ⁢  # [juxt]aposition
 jspc              ⁢
 ideospc           　
 ispc              　
+phantom0           
 phdig                # [ph]antom [dig]it
 dspc                 # [d]igit [spc] (synonym for above)
-blank             ⠀  # XXX: abuse: actually braille
+phantom,          ⁣  # [phantom] [,]  (invisible separator)
+blank             ⠀  # XXX: abuse: braille blank pattern
 
+# %}}}
+
+# special %{{{
+
+hypo              ⸒  # [hypo]diastole
+anoteleia         ·  # ano teleia  WARN: many fonts have a wrong glyph
+anotel            ·
+swung             ⁓  # [swung] dash
 hhyph             ⸗  # oblique (double) [hhyph]en
 dhyph             ⸚  # [hyph]en with [d]iaeresis
+
+coronis           ⸎
+ancorad           ⸔  # [ancora] [d]ownwards  WARN: wrong glyph common
+ancorau           ⸕  # [ancora] [u]pwards  WARN: wrong glyph common
+paraos            ⸏  # [para]graph[os]
+fparaos           ⸐  # [f]orked
+rfparaos          ⸑  # [r]eversed [f]orked
+diple             >  # [diple]
+diplep            ̇>  # [p]eriestigmene
+diplepp           ⸖  # dipla (doubly) [pp]eriestigmene
+obelos            –
+obelosp           ⸓  # [d]otted
+obelospp          ⸓  # [d]otted
+punc2             ⁚  # [punc]tuation with [2] dots
+punc3             ⁖
+punc4             ⁘
+punc5             ⁙
+2punc             ⁚  # [2]-dots [punc]tuation
+3punc             ⁖
+4punc             ⁘
+5punc             ⁙
+tricolon          ⁝
+3colon            ⁝
+wordsep           ⸱  # [word] [sep]arator
+wsep              ⸱
+worddiv           ⁞  # [word] [div]ider
+wdiv              ⁞
+
 arabdec           ٫  # [arab]ic [dec]imal separator
 arabth            ٬  # [th]ousands separator
 arabdate          ؍  # [date] separator
@@ -52,8 +92,7 @@ arabq             ؟  # [q]uestion mark
 arabask           ؟
 arabstar          ٭
 arabdots          ؞  # triple [dots]
-hypo              ⸒  # [hypo]diastole
-swung             ⁓  # [swung] dash
+ethcol            ፥  # [eth]iopic [col]on
 
 # %}}}
 
@@ -68,6 +107,7 @@ sects             §§
 sec               §
 secs              §§
 ref               ※  # [ref]erence mark
+hlight            ⁜  # [h]igh[light] mark
 dagger            †
 dag               †
 ddagger           ‡  # ([d]ouble)
@@ -86,12 +126,14 @@ fbullet           ❧
 fbul              ❧
 tainome           ◉
 taibul            ◉
+taisq             ▣  # [sq]uare
 fleuron           ❦
 aldus             ❦  # [aldus] leaf
 aleaf             ❦  # [a]ldus [leaf]
 hedera            ❦
 heder             ❧  # [hede]ra [r]ight
 hedel             ☙
+caretins          ⁁  # [caret] [ins]ertion point
 
 versicle          ℣
 ver               ℣
