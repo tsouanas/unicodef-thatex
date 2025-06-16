@@ -2423,6 +2423,11 @@ pppprime          ⁗
 2prime            ″
 3prime            ‴
 4prime            ⁗
+wprime            ⸯ  # [w]avy
+cprime            ⸯ  # [c]urly
+
+vtil              ⸯ  # [v]ertical [til]
+hair              ⸯ
 
 tdot              ˙  # [t]op [dot]
 bdot                ߲ # [b]ottom [dot] XXX: decorator abuse
