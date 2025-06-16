@@ -544,8 +544,8 @@ qed               ∎
 QED               ꞯᴇᴅ  # [D]emonstrandum
 QEF               ꞯᴇꜰ  # [F]aciendum
 QEC               ꞯᴇᴄ  # [C]onstruendum
-OED               ΟΕΔ
-OEP               ΟΕΠ
+OED               ΟΕΔ  # ὅπερ ἔδει δεῖξαι
+OEP               ΟΕΠ  # ὅπερ ἔδει ποιῆσαι
 
 # %}}}
 
@@ -649,15 +649,15 @@ bloch             ℬ
 field             𝕜
 korp              𝕜  # [korp]{o,er,s,…}
 in                ∈
-notin             ∉
 nin               ∉
 ni                ∋  # (in backwards)
-notni             ∌
 nni               ∌
 vin               ⫙  # [v]ertical
 vni               ⟒
 vnin              ⫙̶
 vnni              ⟒̶
+notin             ∉  # INFO: TeX compat
+notni             ∌  # INFO: TeX compat
 in,               ε
 ni,               ɜ
 nin,              ̸ε
