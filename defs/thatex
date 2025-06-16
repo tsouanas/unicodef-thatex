@@ -2487,6 +2487,14 @@ tic               ⌗
 crosshair         ⌖
 crossh            ⌖
 target            ⌖
+sqh               ▤  # [h]orizontal lines in [sq]uare
+sqv               ▥  # [v]ertical
+sqb               ▧  # [b]ackslash lines in [sq]uare
+sqs               ▨  # [s]lash
+rows              ▤
+cols              ▥
+grid              ▦
+dgrid             ▩  # [d]iamond/iagonal
 
 # %}}}
 
@@ -2621,6 +2629,12 @@ circplus          ⨢
 cplus             ⨢
 hatplus           ⨣
 hplus             ⨣
+4plus             ⁜  # [4]-fold dotted [plus]
+4times            ※
+4cross            ※
+plus4             ⁜  # [plus] with [4] dots
+times4            ※
+cross4            ※
 dottimes          ⨰
 dtimes            ⨰
 simdot            ⸟
@@ -2632,6 +2646,10 @@ yysim             ⩫  # [y]in-[y]ang
 yyrel             ⩫
 circsim           ⸛
 csim              ⸛
+ringsim           ⸛
+opensim           ⸛
+wavediv           ∻
+wavefrac          ∻
 wavydiv           ∻
 wavyfrac          ∻
 bbtri             ⟁  # [b]lackboard [b]old
@@ -2916,6 +2934,12 @@ rrr               ⇶
 
 ## misc directed symbols %{{{
 
+wpointl           ◅
+wpointr           ▻
+bpointl           ◄
+bpointr           ►
+pointl            ◅
+pointr            ▻
 fishtl            ⥼  # [fisht]ail [r]ight
 fishtr            ⥽
 fishtu            ⥾
@@ -3033,6 +3057,7 @@ wudot             ᐧ  # [u]pper
 ^cflex            ˆ  # [c]ircum[flex]
 ^caron            ˇ
 ^tilde            ˜
+^til              ˜  # [til]de
 ^circ             ˚
 ^ring             ˚
 ^macron           ˉ
@@ -3062,6 +3087,7 @@ _caret            ‸
 _cflex            ‸  # [c]ircum[flex]
 _caron            ˬ
 _tilde            ˷
+_til              ˷  # [til]de
 _circ             ˳
 _ring             ˳
 _lang             ˱
@@ -3081,7 +3107,9 @@ _lam              ⲗ
 
 ## superscripts / subscripts: relations 
 ^sim              ˜
+^vsim             ⸯ
 _sim              ˷
+
 
 ## superscripts / subscripts: sets
 ^symdiff          ᐞ
