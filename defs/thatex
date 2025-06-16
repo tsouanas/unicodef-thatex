@@ -2203,6 +2203,7 @@ Circle            ◯  # big
 dcircle           ◌  # [d]otted
 triangle          △  # see also: triangles
 square            ◻
+bpsquare          ▢  # [b]aby[p]roof
 dsquare           ⬚  # [d]otted
 diamond           ◇
 lozenge           ◊
@@ -2230,6 +2231,7 @@ hourglass         ⧖
 # letterish %{{{
 
 wp                ℘  # [W]eierstraß p
+nabla             ∇
 hbar              ħ
 hb                ħ
 h-                ħ
@@ -2240,11 +2242,11 @@ doti              ı  # [dot]less [i]
 dotj              ȷ
 ell               ℓ
 Ell               ℒ  # WARN: abuse: not really its uppercase
-lambar            ƛ
-Lambar            Ƛ
 ohring            ⱺ  # [oh] with [ring]
 ohcirc            ⱺ  # [oh] with [ring]
 oho               ⱺ
+lambar            ƛ
+Lambar            Ƛ
 horse             ʊ
 Horse             Ʊ
 cothree           ƹ
