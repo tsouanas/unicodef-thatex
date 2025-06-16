@@ -2458,6 +2458,8 @@ Star              ★  # (large) star (nul op / individual)
 astcol            ⁑  # [ast]erisk [col]on
 ast               ∗  # [ast]erisk op
 tricol            ː  # [tri]angular [col]on
+timescol           ͓̽  # [times] [col]on
+crosscol           ͓̽  # [cross] [col]on
 caret             ^  # [car]et op
 dia               ◇  # [dia]mond
 sdia              ⋄  # [s]mall
