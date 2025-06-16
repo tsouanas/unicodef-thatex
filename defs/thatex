@@ -473,15 +473,16 @@ p                 𝜋
 i                 𝑖
 e                 𝑒
 z                 𝜁
-zfun              𝜁
-golden            𝜙
+riemannz          𝜁  # [riemann]'s [z]eta function
+zfun              𝜁  # Riemann's [z]eta [fun]ction
+golden            𝜙  # [golden] ratio
 gold              𝜙
 divides           ∣
 divs              ∣
-div               ∣
+div               ∣  # WARN: deprecated
 ndivides          ∤
 ndivs             ∤
-ndiv              ∤
+ndiv              ∤  # WARN: deprecated
 coprime           ⟂
 eq                =
 neq               ≠
