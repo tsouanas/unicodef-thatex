@@ -535,8 +535,10 @@ there             ∴
 hence             ∴
 because           ∵
 cause             ∵
-lem               ⛤  # [l]aw of [e]xcluded [m]iddle
-raa               ⛤  # [r]eductio [a]d [a]bsurdum
+lem               ⛦  # [l]aw of [e]xcluded [m]iddle
+dnl               ⛥  # [d]ouble [n]egation [l]aw
+raa               ⛥  # [r]eductio [a]d [a]bsurdum
+noncons           ⛤  # [non]-[cons]tructive
 halmos            ∎
 qed               ∎
 QED               ꞯᴇᴅ  # [D]emonstrandum
