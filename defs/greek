@@ -27,6 +27,7 @@ Omicron         Ο
 Pi              Π
 Rho             Ρ
 Sigma           Σ
+lSigma          Ϲ  # [l]unate
 Tau             Τ
 Upsilon         Υ
 Upsi            Υ
@@ -78,6 +79,7 @@ crho            ϱ  # [c]ursive
 sigma           σ
 vsigma          ς
 fsigma          ς  # [f]inal
+lsigma          ϲ  # [l]unate
 tau             τ
 upsilon         υ
 upsi            υ
@@ -87,6 +89,57 @@ cphi            ϕ  # [c]losed
 chi             χ
 psi             ψ
 omega           ω
+
+# %}}}
+
+# ye olde and archaic %{{{
+
+ou                ȣ
+Ou                Ȣ
+kai               ϗ
+Kai               Ϗ
+
+Sho               Ϸ  # Bactrian Ϸ "sho"
+sho               ϸ
+Tsan              Ͷ  # Arcadian "tsan"
+tsan              ͷ
+Digamma           Ϝ
+digamma           ϝ
+Pdigamma          Ͷ  # [P]amphylian digamma
+pdigamma          ͷ
+San               Ϻ  # San
+san               ϻ
+Stigma            Ϛ
+stigma            ϛ  # 6
+Sampi             ϡ
+sampi             ϡ  # 900
+Asampi            Ͳ  # [A]rchaic [sampi]
+asampiu           ͳ
+Koppa             Ϟ
+koppa             ϟ  # 90
+
+# %}}}
+
+# cigmas (lunate sigmas) %{{{
+
+Cigma           Ϲ  # [C]-like S[igma]
+cigma           ϲ
+
+Pcigma          Ͼ  # [P]eriestigmenon (dotted)
+pCigma          Ͼ
+pcigma          ͼ
+
+Anticigma       Ͻ  # (reversed)
+anticigma       ͻ
+Panticigma      Ͽ  # [P]eriestigmenon (dotted)
+pAnticigma      Ͽ
+panticigma      ͽ
+
+Acigma          Ͻ
+acigma          ͻ
+Pacigma         Ͽ  # [p]eriestigmenon (dotted)
+pAcigma         Ͽ
+pacigma         ͽ
 
 # %}}}
 
@@ -116,6 +169,8 @@ ksi,,,            ᤎ
 pi,               ϖ
 rho,              ϱ  # WARN: same as v- / c-
 sigma,            ς  # WARN: same as v- / f-
+cigma,            ͼ
+Cigma,            Ͼ
 tau,              ꞇ
 Tau,              Ꞇ
 tau,,             ⲧ
@@ -193,11 +248,6 @@ _chi            ᵪ
 # X[ or X#h or X#H: h-flip
 # X] or X#v or X#V: v-flip
 # X{ or X#p or X#P: π-rotate
-
-repsilon        ɜ  # [r]everse
-rlepsilon       ϶
-repsi           ɜ
-rlepsi          ϶
 
 ## h-flip %{{{
 
@@ -760,6 +810,7 @@ varsigma        ς
 varphi          ϕ
 ^varsigma       ᕐ
 ^finsigma       ᕐ
+^lunsigma       ᶜ
 
 ## indicative names
 curbeta         ϐ  # [cur]sive/ly
@@ -768,6 +819,8 @@ curkappa        ϰ  # [cur]sive/ly
 curpi           ϖ  # [cur]sive/ly
 currho          ϱ  # [cur]sive/ly
 finsigma        ς  # [fin]al
+lunSigma        Ⲥ  # [lun]ate
+lunsigma        ⲥ  # [lun]ate
 clophi          ϕ  # [clo]sed
 
 # %}}}
