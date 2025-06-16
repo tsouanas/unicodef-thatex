@@ -846,8 +846,8 @@ sparaleq          ⧣
 
 euler             𝑒
 eulern            𝑒  # [euler]'s number e
-eulerc            γ  # [euler]'s constant γ
-ima               𝑖  # [ima]ginary number i
+eulerc            𝛾  # [euler]'s constant γ
+iunit             𝑖  # [i]maginary [unit]
 i1                𝑖
 int               ∫
 iint              ∬
@@ -867,15 +867,21 @@ o2int             ∯
 o3int             ∰
 uint              ⨛  # [u]pper
 lint              ⨜  # [l]ower
+preint            ⎰  # [pre]fix
+postint           ⎱  # [post]fix
 osum              ⨊
 sumint            ⨋
 intsum            ⨋
-partial           ∂
-parder            ∂  # [par]tial [der]ivative
-pderiv            ∂  # [p]artial [deriv]ative
-pder              ∂
-nabla             ∇
-tends             →  # [tends] to
+diff              𝑑  # [diff]erential
+df                𝑑  # [d]i[f]ferential
+dl                𝑑  # [d]ifferentia[l]
+df,               𝖽
+dl,               𝖽
+df,,              𝘥
+dl,,              𝘥
+pd,               𝜕
+
+tends             →   # [tends] to
 limof             ←
 vtends            ↓
 vlimof            ↑
@@ -887,6 +893,23 @@ nvlimof           ⤉
 vnlimof           ⤉
 convol            ∗  # [convol]ution
 crocor            ⋆  # [cro]ss-[cor]relation
+
+partial           ∂
+parder            ∂  # [par]tial [der]ivative
+pderiv            ∂  # [p]artial [deriv]ative
+pder              ∂
+del               ∇
+grad              ∇   # [grad]ient
+diver             ∇·  # [diver]gence
+curl              ∇×
+tderiv            𝛿
+tder              𝛿
+codiff            𝛿    # [codiff]erential (delta)
+codiffs           ★𝑑★  # [codiff]erential with hodge star
+crossdot          ̣×
+dotcross          ̇×  # INFO: dottimes (⨰) for consistency
+dotdot            ⁚
+crosscross         ͓̽
 
 # %}}}
 
