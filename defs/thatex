@@ -837,8 +837,8 @@ paral             ∥  # [paral]lel
 nparal            ∦
 eqparal           ⋕
 paraleq           ⋕
-slparal           ⫽  # [sl]anted
-slparaleq         ⧣
+sparal            ⫽  # [s]lash/lanted paral
+sparaleq          ⧣
 
 # %}}}
 
