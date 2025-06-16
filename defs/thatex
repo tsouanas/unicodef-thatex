@@ -3146,6 +3146,8 @@ _top              ˕
 @cantorc   ̿   # [cantor]'s [c]ardinality
 @oinv      ̅   # [o]ver [inv]erse
 @oiinv     ̿   # (double)
+@cconj     ̅   # [c]omplex [conj]ugate
+@ccconj    ̿   # (double)
 @dual       ᷙ
 @dual,      ᷘ
 @vec        ⃗  # [vec]tor
@@ -3184,6 +3186,7 @@ _top              ˕
 @ocflex     ̂  # [c]ircum[flex]
 @ocaret     ̂
 @ocaron     ̌
+@otilde    ̃  # [til]de
 @otil      ̃  # [til]de
 @ontil      ͊
 @ottil      ͌
@@ -3255,6 +3258,7 @@ _top              ˕
 @ucflex     ̭
 @ucaret     ̭
 @ucaron     ̬
+@utilde     ̰
 @util       ̰  # [til]de
 @uarc       ̯
 @ubreve     ̯
@@ -3289,6 +3293,7 @@ _top              ˕
 ### binops / binrels
 @uplus      ̟
 @upplus     ᫊
+@utimes     ͓
 @uminus     ̠
 @uttil      ᷽
 @usim       ̰
@@ -3399,6 +3404,7 @@ _top              ˕
 @oomega      ᷓ  # WARN: abuse: "flattened open a"
 
 @ur          ᷊
+@ux          ͓
 @uW         ᪿ
 @uM         ᫀ  # WARN: abuse: "inverted W"
 
@@ -3411,7 +3417,7 @@ _top              ˕
 @@ohat      ᷍
 @@ofrown    ͡
 @@oline     ͞
-@@otil      ͠
+@@otilde    ͠
 @@osim      ͠
 @@obreve    ͡
 @@obre      ͡
