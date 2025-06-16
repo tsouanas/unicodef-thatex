@@ -30,7 +30,8 @@ _[     ⸤
 _]     ⸥
 ^[     ⸢
 ^]     ⸣
-.^     ·
+;.     ·  # ano teleia  WARN: wrong glyph common
+.^     ·  # middle dot
 2.     ‥
 3.     …
 ...    …
@@ -38,7 +39,7 @@ _]     ⸥
 ..\    ⋱
 ..-    ⋯
 ..|    ⋮
-3:     ⋮
+3:     ⁝
 4:     ⦙
 :|     ¦
 |:     ¦
@@ -86,6 +87,8 @@ _]     ⸥
 !?     ⁉
 !!     ‼
 ??     ⁇
+2!     ‼
+2?     ⁇
 ^~     ˜
 ^^     ˆ
 
@@ -102,7 +105,9 @@ _]     ⸥
 *i     ◘  # [i]nverted bullet
 *a     ∗  # [a]sterisk
 *8     ⁕  # [8]-pointed floral asterisk
-*p     ➤  # [p]ointer
+*pp    ➤  # [p]ointer [p]ointy
+*pw    ▻  # [white]
+*pb    ►  # [b]lack
 *t     ‣  # [t]riangle
 *d     –  # [d]ash
 *h     ⁃  # [h]yphen
