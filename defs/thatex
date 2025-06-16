@@ -177,6 +177,7 @@ ohm               Ω
 mho               Ʊ
 planck            ℎ
 rplanck           ℏ  # [r]educed
+micro             µ
 
 warn              ⚠
 knuthd            ☡  # [d]anger
