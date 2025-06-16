@@ -55,7 +55,11 @@
     ":" = ("insertText:", "∴");
     "=" = ("insertText:", "≐");
   };
-  "N" = {
+  "Z" = {
+    ">" = ("insertText:", "⟿");
+    "<" = ("insertText:", "⬳");
+  };
+  "z" = {
     "<" = ("insertText:", "⇜");
     ">" = ("insertText:", "⇝");
   };

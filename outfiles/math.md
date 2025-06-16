@@ -280,8 +280,10 @@
 | <code>-2v</code> | ↡ |
 | <code>~&gt;</code> | ↝ |
 | <code>~&lt;</code> | ↜ |
-| <code>N&gt;</code> | ⇝ |
-| <code>N&lt;</code> | ⇜ |
+| <code>z&gt;</code> | ⇝ |
+| <code>z&lt;</code> | ⇜ |
+| <code>Z&lt;</code> | ⬳ |
+| <code>Z&gt;</code> | ⟿ |
 | <code>..^</code> | ⇡ |
 | <code>..&gt;</code> | ⇢ |
 | <code>..v</code> | ⇣ |

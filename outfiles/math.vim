@@ -279,8 +279,10 @@ inoremap \-2^ ↟
 inoremap \-2v ↡
 inoremap \~> ↝
 inoremap \~< ↜
-inoremap \N> ⇝
-inoremap \N< ⇜
+inoremap \z> ⇝
+inoremap \z< ⇜
+inoremap \Z< ⬳
+inoremap \Z> ⟿
 inoremap \..^ ⇡
 inoremap \..> ⇢
 inoremap \..v ⇣
