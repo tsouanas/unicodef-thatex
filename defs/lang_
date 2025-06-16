@@ -115,8 +115,8 @@ _]     ⸥
 
 # Ordinals %{{{
 
-oo     º  # XXX: should expand to \oo\
-aa     ª
+oo     º  # WARN: does not expand to \oo\
+aa     ª  # WARN: does not expand to \aa\
 nst    ˢᵗ
 nnd    ⁿᵈ
 nrd    ʳᵈ
@@ -1189,13 +1189,13 @@ x#H     x
 ### X] %{{{
 
 A]     Ɐ
-B]     B  # XXX: not really symmetrical
+B]     B  # WARN: not really symmetrical
 C]     C
 D]     D
 E]     E
 H]     H
 I]     I
-K]     K  # XXX: not really symmetrical
+K]     K  # WARN: not really symmetrical
 L]     Γ
 M]     ꟽ
 N]     И
@@ -1236,13 +1236,13 @@ y]     λ
 ### X#v %{{{
 
 A#v     Ɐ
-B#v     B  # XXX: not really symmetrical
+B#v     B  # WARN: not really symmetrical
 C#v     C
 D#v     D
 E#v     E
 H#v     H
 I#v     I
-K#v     K  # XXX: not really symmetrical
+K#v     K  # WARN: not really symmetrical
 L#v     Γ
 M#v     ꟽ
 N#v     И
@@ -1283,13 +1283,13 @@ y#v     λ
 ### X#V %{{{
 
 A#V     Ɐ
-B#V     B  # XXX: not really symmetrical
+B#V     B  # WARN: not really symmetrical
 C#V     C
 D#V     D
 E#V     E
 H#V     H
 I#V     I
-K#V     K  # XXX: not really symmetrical
+K#V     K  # WARN: not really symmetrical
 L#V     Γ
 M#V     ꟽ
 N#V     И
