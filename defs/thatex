@@ -975,18 +975,23 @@ Lam,              Ƛ
 mal               ʎ  # (lam backwards)
 hole              ·  # default: [p]
 phole             ·  # [p]oint
+Phole             ∙  # (thick)
 dhole             –  # [d]ash
 uhole             _  # [u]nderscore
 bhole             ◻  # [b]ox
-dbhole            ⬚  # [d]otted [b]ox
+dbhole            ⬚  # [d]otted
 chole             ○  # [c]ircle
-dchole            ◌  # [d]otted [c]ircle
+dchole            ◌  # [d]otted
 comp              ∘  # [comp]osition
-of                ∘
+fing              ∘  # [f]ollow[ing]
 after             ∘
+of                ∘
 dcomp             ⨾  # [d]iagramatic [comp]osition
 fby               ⨾  # [f]ollowed [by]
 then              ⨾
+dcomp,            ;  # INFO: , and normal swap for convenience
+fby,              ;
+then,             ;
 to                →
 from              ←
 tofrom            ⇄
@@ -1034,8 +1039,9 @@ vparfromto        ⥮
 vpartofrom        ⥯
 diverges          ↑
 diverge           ↑
-diver             ↑
-pardiv            ↑  # [par]tial function [div]erges
+divers            ↑
+pardivs           ↑  # [par]tial function [div]erge[s]
+parconvs          ↓  # [conv]erge[s]
 xto               ⥇
 xfrom             ⬾
 mapsto            ↦
@@ -1228,6 +1234,8 @@ loopfrom          ↫
 loopto            ↬
 tobar             ⇥
 barfrom           ⇤
+todia             ⤞
+diafrom           ⤝
 sparksto          ⟢
 sparksfrom        ⟣
 sparkto           ⟢
@@ -1316,8 +1324,11 @@ jeqass            ≐:
 deqass            ≡:
 matches           ≡: # pattern [matches]
 matcheq           ≕  # (with = instead of ≡)
-unit              ⥠  # XXX: abuse: harpoons
-counit            ⥡
+unit              1
+counit            ߁
+unit,             ⥠  # XXX: abuse: harpoons
+counit,           ⥝
+counit,,          ⥡
 j                 ·  # (co)pro[j]ect
 outl              ·l
 outr              ·r
@@ -1448,13 +1459,18 @@ rtimes            ⋊
 lthree            ⋋
 rthree            ⋌
 transverse        ⫛
+transv            ⫛
 tverse            ⫛
 wreath            ≀
 wr                ≀
 shuffle           ⧢
 shuf              ⧢
 transpose         ᵀ
+transp            ᵀ
 tpose             ᵀ
+transpose,        ⸆
+transp,           ⸆
+tpose,            ⸆
 units             ̽ 
 ewprod            ⊙  # [e]lement/ntry-[w]ise [prod]uct
 schurprod         ⊙  # [Schur] [prod]uct
@@ -1464,6 +1480,7 @@ kronsum           ⊕  # [Kron]ecker [sum]
 kronprod          ⊗  # [Kron]ecker [prod]uct
 krprod            ∗  # [K]hatri–[R]ao [prod]uct
 fsprod            ∙  # [f]ace-[s]plitting [prod]uct
+hodge             ★  # [Hodge] star
 boundary          ∂
 bdry              ∂
 bd                ∂
@@ -1822,13 +1839,18 @@ dsets             𝓞
 dset              𝓞
 upclos            ꜛ  # [up]wards [clos]ure
 downclos          ꜜ  # [down]wards
-upc               ꜛ
-downc             ꜜ
+upcl              ꜛ
+downcl            ꜜ
 uclos             ꜛ
 dclos             ꜜ
+ucl               ꜛ
+dcl               ꜜ
 upd               ꜛ  # [up]'[d]
 downd             ꜜ  # [down]'[d]
 ep                ᵉᵖ # [e]mbedding-[p]rojection pairs as arrows
+idrel             Δ
+diagrel           Δ
+allrel            ∇
 
 # %}}}
 
