@@ -629,9 +629,11 @@ sameimpd          ⭅
 
 emptyset          Ø
 empty             Ø
+empty,            ∅
 sempty            ∅  # [s]lash
 bempty            ⦰  # [b]ackslash
-coempty           ⦰
+coempty           O⃥
+coempty,          ⦰
 algs              𝔸  # [alg]ebraic[s]
 bools             𝔹
 nats              ℕ
