@@ -1641,3 +1641,26 @@ z@P     z
 
 # %}}}
 
+# Combining decorators %{{{
+
+## accents
+@^`      ̀  # grave
+@^2`     ̏  # double grave
+@^'      ́  # acute
+@^2'     ̋  # double acute
+
+## 69 commas
+@^9'     ̓
+@^6`     ̒
+@^9`     ̔
+@_9,     ̦
+
+## hooks and friends
+@_,      ̧  # cedilha
+@^?      ̉  # hook
+@_?      ̨  # ogonek
+@_J      ̡
+@_L      ̢
+
+# %}}}
+
