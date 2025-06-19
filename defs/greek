@@ -239,9 +239,9 @@ _chi            ᵪ
 # %}}}
 
 # transformed characters %{{{
-# X[ or X#h or X#H: h-flip
-# X] or X#v or X#V: v-flip
-# X{ or X#p or X#P: π-rotate
+# X[ or X@h or X@H: h-flip
+# X] or X@v or X@V: v-flip
+# X{ or X@p or X@P: π-rotate
 
 ## h-flip %{{{
 
@@ -250,15 +250,15 @@ alpha[          ɒ
 epsi[           ɜ
 lepsi[          ϶
 
-### X#h
-alpha#h         ɒ
-epsi#h          ɜ
-lepsi#h         ϶
+### X@h
+alpha@h         ɒ
+epsi@h          ɜ
+lepsi@h         ϶
 
-### X#H
-alpha#H         ɒ
-epsi#H          ɜ
-lepsi#H         ϶
+### X@H
+alpha@H         ɒ
+epsi@H          ɜ
+lepsi@H         ϶
 
 # %}}}
 
@@ -269,15 +269,15 @@ Delta]          ∇
 Pi]             ⨿
 Omega]          ℧
 
-### X#v
-Delta#v         ∇
-Pi#v            ⨿
-Omega#v         ℧
+### X@v
+Delta@v         ∇
+Pi@v            ⨿
+Omega@v         ℧
 
-### X#V
-Delta#V         ∇
-Pi#V            ⨿
-Omega#V         ℧
+### X@V
+Delta@V         ∇
+Pi@V            ⨿
+Omega@V         ℧
 
 # %}}}
 
@@ -294,27 +294,27 @@ delta{          ƍ
 iota{           ℩
 lepsi{          ϶
 
-### X#p
-Beta#p          ꓭ
-Gamma#p         ⅃
-Delta#p         ∇
-Pi#p            ⨿
-Omega#p         ℧
-alpha#p         ɒ
-delta#p         ƍ
-iota#p          ℩
-lepsi#p         ϶
+### X@p
+Beta@p          ꓭ
+Gamma@p         ⅃
+Delta@p         ∇
+Pi@p            ⨿
+Omega@p         ℧
+alpha@p         ɒ
+delta@p         ƍ
+iota@p          ℩
+lepsi@p         ϶
 
-### X#P
-Beta#P          ꓭ
-Gamma#P         ⅃
-Delta#P         ∇
-Pi#P            ⨿
-Omega#P         ℧
-alpha#P         ɒ
-delta#P         ƍ
-iota#P          ℩
-lepsi#P         ϶
+### X@P
+Beta@P          ꓭ
+Gamma@P         ⅃
+Delta@P         ∇
+Pi@P            ⨿
+Omega@P         ℧
+alpha@P         ɒ
+delta@P         ƍ
+iota@P          ℩
+lepsi@P         ϶
 
 # %}}}
 
