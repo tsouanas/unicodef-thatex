@@ -49,7 +49,8 @@ blank             ⠀  # XXX: abuse: braille blank pattern
 
 # special %{{{
 
-hypo              ⸒  # [hypo]diastole
+hypod             ⸒  # [hypod]iastole
+hypog             ͺ  # [hypog]egrammene
 anoteleia         ·  # ano teleia  WARN: many fonts have a wrong glyph
 anotel            ·
 swung             ⁓  # [swung] dash
