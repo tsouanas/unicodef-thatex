@@ -6,10 +6,13 @@
 #
 # ToC
 #
+# cal:   caligraphic (should be chancery) WARN: see WARN below
+# scr:   script (should be roundhand)     WARN: see WARN below
+# bcal:  bold caligraphic  WARN: see WARN below
+# bscr:  bold script       WARN: see WARN below
+# cal,:  chancery variation   INFO: see WARN and INFO below
+# scr,:  roundhand variation  INFO: see WARN and INFO below
 # sf:    sans-serif
-# scr:   script
-# bscr:  bold script
-# cal:   caligraphic -- WARN: abuse: same as bscr
 # tt:    monospace
 # it:    italic (serif)
 # its:   italic sans(-serif)
@@ -24,6 +27,376 @@
 # sc:    small-caps
 # ^:     superscripts
 # _:     subscripts
+
+# WARN: Unicode identifies mathscr with mathcal.
+# The idea (Unicode 14) is to use variation selectors:
+#   FE00 for chancery;
+#   FE01 for roundhand.
+# See also:
+#   https://www.unicode.org/L2/L2020/20275-math-calligraphic.pdf
+#   https://www.unicode.org/L2/L2020/20275r-math-calligraphic.pdf
+#
+# WARN: Fonts that support this are currently virtually inexistent.
+# Since one should normally use cal and scr as the first two levels of
+# font "fanciness", we are forced with:
+#   cal for non-bold fancy;
+#   scr = bcal = bscr for bold fancy.
+# This, instead, SHOULD (and hopefully will) be:
+#   cal for chancery;
+#   scr for roundhand.
+
+# cal: caligraphic %{{{
+
+calA           𝒜
+calB           ℬ
+calC           𝒞
+calD           𝒟
+calE           ℰ
+calF           ℱ
+calG           𝒢
+calH           ℋ
+calI           ℐ
+calJ           𝒥
+calK           𝒦
+calL           ℒ
+calM           ℳ
+calN           𝒩
+calO           𝒪
+calP           𝒫
+calQ           𝒬
+calR           ℛ
+calS           𝒮
+calT           𝒯
+calU           𝒰
+calV           𝒱
+calW           𝒲
+calX           𝒳
+calY           𝒴
+calZ           𝒵
+
+cala           𝒶
+calb           𝒷
+calc           𝒸
+cald           𝒹
+cale           ℯ
+calf           𝒻
+calg           ℊ
+calh           𝒽
+cali           𝒾
+calj           𝒿
+calk           𝓀
+call           𝓁
+calm           𝓂
+caln           𝓃
+calo           ℴ
+calp           𝓅
+calq           𝓆
+calr           𝓇
+cals           𝓈
+calt           𝓉
+calu           𝓊
+calv           𝓋
+calw           𝓌
+calx           𝓍
+caly           𝓎
+calz           𝓏
+
+# %}}}
+
+# scr: script %{{{
+
+scrA           𝓐
+scrB           𝓑
+scrC           𝓒
+scrD           𝓓
+scrE           𝓔
+scrF           𝓕
+scrG           𝓖
+scrH           𝓗
+scrI           𝓘
+scrJ           𝓙
+scrK           𝓚
+scrL           𝓛
+scrM           𝓜
+scrN           𝓝
+scrO           𝓞
+scrP           𝓟
+scrQ           𝓠
+scrR           𝓡
+scrS           𝓢
+scrT           𝓣
+scrU           𝓤
+scrV           𝓥
+scrW           𝓦
+scrX           𝓧
+scrY           𝓨
+scrZ           𝓩
+
+scra           𝓪
+scrb           𝓫
+scrc           𝓬
+scrd           𝓭
+scre           𝓮
+scrf           𝓯
+scrg           𝓰
+scrh           𝓱
+scri           𝓲
+scrj           𝓳
+scrk           𝓴
+scrl           𝓵
+scrm           𝓶
+scrn           𝓷
+scro           𝓸
+scrp           𝓹
+scrq           𝓺
+scrr           𝓻
+scrs           𝓼
+scrt           𝓽
+scru           𝓾
+scrv           𝓿
+scrw           𝔀
+scrx           𝔁
+scry           𝔂
+scrz           𝔃
+
+# %}}}
+
+# bcal: bold caligraphic %{{{
+
+bcalA           𝓐
+bcalB           𝓑
+bcalC           𝓒
+bcalD           𝓓
+bcalE           𝓔
+bcalF           𝓕
+bcalG           𝓖
+bcalH           𝓗
+bcalI           𝓘
+bcalJ           𝓙
+bcalK           𝓚
+bcalL           𝓛
+bcalM           𝓜
+bcalN           𝓝
+bcalO           𝓞
+bcalP           𝓟
+bcalQ           𝓠
+bcalR           𝓡
+bcalS           𝓢
+bcalT           𝓣
+bcalU           𝓤
+bcalV           𝓥
+bcalW           𝓦
+bcalX           𝓧
+bcalY           𝓨
+bcalZ           𝓩
+
+bcala           𝓪
+bcalb           𝓫
+bcalc           𝓬
+bcald           𝓭
+bcale           𝓮
+bcalf           𝓯
+bcalg           𝓰
+bcalh           𝓱
+bcali           𝓲
+bcalj           𝓳
+bcalk           𝓴
+bcall           𝓵
+bcalm           𝓶
+bcaln           𝓷
+bcalo           𝓸
+bcalp           𝓹
+bcalq           𝓺
+bcalr           𝓻
+bcals           𝓼
+bcalt           𝓽
+bcalu           𝓾
+bcalv           𝓿
+bcalw           𝔀
+bcalx           𝔁
+bcaly           𝔂
+bcalz           𝔃
+
+# %}}}
+
+# bscr: bold script %{{{
+
+bscrA          𝓐
+bscrB          𝓑
+bscrC          𝓒
+bscrD          𝓓
+bscrE          𝓔
+bscrF          𝓕
+bscrG          𝓖
+bscrH          𝓗
+bscrI          𝓘
+bscrJ          𝓙
+bscrK          𝓚
+bscrL          𝓛
+bscrM          𝓜
+bscrN          𝓝
+bscrO          𝓞
+bscrP          𝓟
+bscrQ          𝓠
+bscrR          𝓡
+bscrS          𝓢
+bscrT          𝓣
+bscrU          𝓤
+bscrV          𝓥
+bscrW          𝓦
+bscrX          𝓧
+bscrY          𝓨
+bscrZ          𝓩
+
+bscra          𝓪
+bscrb          𝓫
+bscrc          𝓬
+bscrd          𝓭
+bscre          𝓮
+bscrf          𝓯
+bscrg          𝓰
+bscrh          𝓱
+bscri          𝓲
+bscrj          𝓳
+bscrk          𝓴
+bscrl          𝓵
+bscrm          𝓶
+bscrn          𝓷
+bscro          𝓸
+bscrp          𝓹
+bscrq          𝓺
+bscrr          𝓻
+bscrs          𝓼
+bscrt          𝓽
+bscru          𝓾
+bscrv          𝓿
+bscrw          𝔀
+bscrx          𝔁
+bscry          𝔂
+bscrz          𝔃
+
+# %}}}
+
+# INFO: Mostly for testing properties: cal,* and scr,* are
+# also defined with the corresponding variation selectors:
+#   cal,* with FE00;
+#   scr,* with FE01.
+
+# cal,: chancery variation (FE00) %{{{
+
+cal,A           𝒜︀
+cal,B           ℬ︀
+cal,C           𝒞︀
+cal,D           𝒟︀
+cal,E           ℰ︀
+cal,F           ℱ︀
+cal,G           𝒢︀
+cal,H           ℋ︀
+cal,I           ℐ︀
+cal,J           𝒥︀
+cal,K           𝒦︀
+cal,L           ℒ︀
+cal,M           ℳ︀
+cal,N           𝒩︀
+cal,O           𝒪︀
+cal,P           𝒫︀
+cal,Q           𝒬︀
+cal,R           ℛ︀
+cal,S           𝒮︀
+cal,T           𝒯︀
+cal,U           𝒰︀
+cal,V           𝒱︀
+cal,W           𝒲︀
+cal,X           𝒳︀
+cal,Y           𝒴︀
+cal,Z           𝒵︀
+
+cal,a           𝒶︀
+cal,b           𝒷︀
+cal,c           𝒸︀
+cal,d           𝒹︀
+cal,e           ℯ︀
+cal,f           𝒻︀
+cal,g           ℊ︀
+cal,h           𝒽︀
+cal,i           𝒾︀
+cal,j           𝒿︀
+cal,k           𝓀︀
+cal,l           𝓁︀
+cal,m           𝓂︀
+cal,n           𝓃︀
+cal,o           ℴ︀
+cal,p           𝓅︀
+cal,q           𝓆︀
+cal,r           𝓇︀
+cal,s           𝓈︀
+cal,t           𝓉︀
+cal,u           𝓊︀
+cal,v           𝓋︀
+cal,w           𝓌︀
+cal,x           𝓍︀
+cal,y           𝓎︀
+cal,z           𝓏︀
+
+# %}}}
+
+# scr,: roundhand variation (FE01) %{{{
+
+scr,A           𝒜︁
+scr,B           ℬ︁
+scr,C           𝒞︁
+scr,D           𝒟︁
+scr,E           ℰ︁
+scr,F           ℱ︁
+scr,G           𝒢︁
+scr,H           ℋ︁
+scr,I           ℐ︁
+scr,J           𝒥︁
+scr,K           𝒦︁
+scr,L           ℒ︁
+scr,M           ℳ︁
+scr,N           𝒩︁
+scr,O           𝒪︁
+scr,P           𝒫︁
+scr,Q           𝒬︁
+scr,R           ℛ︁
+scr,S           𝒮︁
+scr,T           𝒯︁
+scr,U           𝒰︁
+scr,V           𝒱︁
+scr,W           𝒲︁
+scr,X           𝒳︁
+scr,Y           𝒴︁
+scr,Z           𝒵︁
+
+scr,a           𝒶︁
+scr,b           𝒷︁
+scr,c           𝒸︁
+scr,d           𝒹︁
+scr,e           ℯ︁
+scr,f           𝒻︁
+scr,g           ℊ︁
+scr,h           𝒽︁
+scr,i           𝒾︁
+scr,j           𝒿︁
+scr,k           𝓀︁
+scr,l           𝓁︁
+scr,m           𝓂︁
+scr,n           𝓃︁
+scr,o           ℴ︁
+scr,p           𝓅︁
+scr,q           𝓆︁
+scr,r           𝓇︁
+scr,s           𝓈︁
+scr,t           𝓉︁
+scr,u           𝓊︁
+scr,v           𝓋︁
+scr,w           𝓌︁
+scr,x           𝓍︁
+scr,y           𝓎︁
+scr,z           𝓏︁
+
+# %}}}
 
 # sf: sans-serif %{{{
 
@@ -91,182 +464,6 @@ sf6            𝟨
 sf7            𝟩
 sf8            𝟪
 sf9            𝟫
-
-# %}}}
-
-# WARN: Unicode identifies mathscr with mathcal
-
-# scr: script %{{{
-
-scrA           𝒜
-scrB           ℬ
-scrC           𝒞
-scrD           𝒟
-scrE           ℰ
-scrF           ℱ
-scrG           𝒢
-scrH           ℋ
-scrI           ℐ
-scrJ           𝒥
-scrK           𝒦
-scrL           ℒ
-scrM           ℳ
-scrN           𝒩
-scrO           𝒪
-scrP           𝒫
-scrQ           𝒬
-scrR           ℛ
-scrS           𝒮
-scrT           𝒯
-scrU           𝒰
-scrV           𝒱
-scrW           𝒲
-scrX           𝒳
-scrY           𝒴
-scrZ           𝒵
-
-scra           𝒶
-scrb           𝒷
-scrc           𝒸
-scrd           𝒹
-scre           ℯ
-scrf           𝒻
-scrg           ℊ
-scrh           𝒽
-scri           𝒾
-scrj           𝒿
-scrk           𝓀
-scrl           𝓁
-scrm           𝓂
-scrn           𝓃
-scro           ℴ
-scrp           𝓅
-scrq           𝓆
-scrr           𝓇
-scrs           𝓈
-scrt           𝓉
-scru           𝓊
-scrv           𝓋
-scrw           𝓌
-scrx           𝓍
-scry           𝓎
-scrz           𝓏
-
-# %}}}
-
-# bscr: bold script %{{{
-
-bscrA          𝓐
-bscrB          𝓑
-bscrC          𝓒
-bscrD          𝓓
-bscrE          𝓔
-bscrF          𝓕
-bscrG          𝓖
-bscrH          𝓗
-bscrI          𝓘
-bscrJ          𝓙
-bscrK          𝓚
-bscrL          𝓛
-bscrM          𝓜
-bscrN          𝓝
-bscrO          𝓞
-bscrP          𝓟
-bscrQ          𝓠
-bscrR          𝓡
-bscrS          𝓢
-bscrT          𝓣
-bscrU          𝓤
-bscrV          𝓥
-bscrW          𝓦
-bscrX          𝓧
-bscrY          𝓨
-bscrZ          𝓩
-
-bscra          𝓪
-bscrb          𝓫
-bscrc          𝓬
-bscrd          𝓭
-bscre          𝓮
-bscrf          𝓯
-bscrg          𝓰
-bscrh          𝓱
-bscri          𝓲
-bscrj          𝓳
-bscrk          𝓴
-bscrl          𝓵
-bscrm          𝓶
-bscrn          𝓷
-bscro          𝓸
-bscrp          𝓹
-bscrq          𝓺
-bscrr          𝓻
-bscrs          𝓼
-bscrt          𝓽
-bscru          𝓾
-bscrv          𝓿
-bscrw          𝔀
-bscrx          𝔁
-bscry          𝔂
-bscrz          𝔃
-
-# %}}}
-
-# cal: caligraphic %{{{
-
-calA           𝓐
-calB           𝓑
-calC           𝓒
-calD           𝓓
-calE           𝓔
-calF           𝓕
-calG           𝓖
-calH           𝓗
-calI           𝓘
-calJ           𝓙
-calK           𝓚
-calL           𝓛
-calM           𝓜
-calN           𝓝
-calO           𝓞
-calP           𝓟
-calQ           𝓠
-calR           𝓡
-calS           𝓢
-calT           𝓣
-calU           𝓤
-calV           𝓥
-calW           𝓦
-calX           𝓧
-calY           𝓨
-calZ           𝓩
-
-cala           𝓪
-calb           𝓫
-calc           𝓬
-cald           𝓭
-cale           𝓮
-calf           𝓯
-calg           𝓰
-calh           𝓱
-cali           𝓲
-calj           𝓳
-calk           𝓴
-call           𝓵
-calm           𝓶
-caln           𝓷
-calo           𝓸
-calp           𝓹
-calq           𝓺
-calr           𝓻
-cals           𝓼
-calt           𝓽
-calu           𝓾
-calv           𝓿
-calw           𝔀
-calx           𝔁
-caly           𝔂
-calz           𝔃
 
 # %}}}
 
