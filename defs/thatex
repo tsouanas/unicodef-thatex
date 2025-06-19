@@ -1377,6 +1377,21 @@ expsto            ⤳  # [exp]and[s] [to]
 expsfrom          ⬿
 expto             ⤳  # [exp]and[s] [to]
 expfrom           ⬿
+CASE              ̲c̲a̲s̲e
+OF                ̲o̲f
+MATCH             ̲m̲a̲t̲c̲h
+WITH              ̲w̲i̲t̲h
+IF                ̲i̲f
+THEN              ̲t̲h̲e̲n
+ELSE              ̲e̲l̲s̲e
+BOOM              ̲b̲o̲o̲m
+ABORT             ̲a̲b̲o̲r̲t
+OUTL              ̲o̲u̲t̲l
+OUTR              ̲o̲u̲t̲r
+INL               ̲i̲n̲l
+INR               ̲i̲n̲r
+FST               ̲f̲s̲t
+SND               ̲s̲n̲d
 
 # %}}}
 
