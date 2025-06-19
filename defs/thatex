@@ -2440,10 +2440,15 @@ pil               ¶
 sil               §
 spot              ⦁
 scarab            ¤
-pillow            ⌑
+pillow            ⌑  # zZzZzzz...
 bullseye          ◎
 fisheye           ◉
 sqfisheye         ▣  # [sq]uare
+grave             ˴  # middle [grave] accent
+ggrave            ˵  # (double)
+2grave            ˵  # middle double grave accent
+2acute            ˶  # WARN: there is no single acute
+
 
 # %}}}
 
