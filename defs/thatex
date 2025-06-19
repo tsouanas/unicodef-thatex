@@ -2770,6 +2770,9 @@ dtrir             ᐉ
 
 ## arrows %{{{
 
+arrxh             ‒  # [arr]ow e[x]tension [h]orizontal
+arrxv             ⏐  # [v]ertical
+arrx              ‒  # default: [h]
 arru              ↑
 arrd              ↓
 arrl              ←
@@ -2947,6 +2950,10 @@ arcdr             ⤸
 arcl              ⤺  # default: [u]
 arcr              ⤻  # default: [d]
 arcd              ⤹  # default: [l]
+askto             ‒?→
+askfrom           ←?‒
+bangto            ‒!→
+bangfrom          ←!‒
 halfu             ￪  # half-width arrows
 halfd             ￬
 halfl             ￩
