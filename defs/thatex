@@ -642,8 +642,11 @@ rats              ℚ
 irrats            𝕀
 irratios          ℝ∖ℚ
 reals             ℝ
+extreals          ̅ℝ
 comps             ℂ
 complex           ℂ
+comps,            ̧ℂ
+complex,          ̧ℂ
 quats             ℍ
 qi                𝐢
 qj                𝐣
