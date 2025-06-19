@@ -1142,6 +1142,14 @@ embnw             ⤣
 embne             ⤤
 embse             ⤥
 embsw             ⤦
+incto             ↪  # [inc]lusion
+incfrom           ↩
+incr              ↪
+incl              ↩
+incnw             ⤣
+incne             ⤤
+incse             ⤥
+incsw             ⤦
 ninjto            ⤔  # [n]ot (via strike) XXX: abuse: strike for not
 ninjfrom          ⬹
 nsurjto           ⤀
