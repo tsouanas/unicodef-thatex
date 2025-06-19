@@ -1563,8 +1563,8 @@ inoremap \\Sigma Σ
 inoremap \\lSigma Ϲ
 inoremap \\Tau Τ
 inoremap \\Upsilon Υ
-inoremap \\Upsi Υ
 inoremap \\vUpsilon ϒ
+inoremap \\Upsi Υ
 inoremap \\vUpsi ϒ
 inoremap \\Phi Φ
 inoremap \\Chi Χ
@@ -1580,10 +1580,10 @@ inoremap \\vgamma γ
 inoremap \\nolgamma γ
 inoremap \\delta δ
 inoremap \\epsilon ε
-inoremap \\epsi ε
 inoremap \\vepsilon ϵ
-inoremap \\vepsi ϵ
 inoremap \\lepsilon ϵ
+inoremap \\epsi ε
+inoremap \\vepsi ϵ
 inoremap \\lepsi ϵ
 inoremap \\zeta ζ
 inoremap \\eta η
@@ -1706,6 +1706,7 @@ inoremap \\^Beta ᴮ
 inoremap \\^Gamma ᣘ
 inoremap \\^Delta ᐞ
 inoremap \\^Epsilon ᴱ
+inoremap \\^Epsi ᴱ
 inoremap \\^Eta ᴴ
 inoremap \\^Iota ᴵ
 inoremap \\^Kappa ᴷ
@@ -1791,6 +1792,8 @@ inoremap \\copDelta Ⲇ
 inoremap \\copdelta ⲇ
 inoremap \\copEpsilon Ⲉ
 inoremap \\copepsilon ⲉ
+inoremap \\copEpsi Ⲉ
+inoremap \\copepsi ⲉ
 inoremap \\copStigma Ⲋ
 inoremap \\copstigma ⲋ
 inoremap \\copZeta Ⲍ
@@ -1823,6 +1826,8 @@ inoremap \\copTau Ⲧ
 inoremap \\coptau ⲧ
 inoremap \\copUpsilon Ⲩ
 inoremap \\copupsilon ⲩ
+inoremap \\copUpsi Ⲩ
+inoremap \\copupsi ⲩ
 inoremap \\copPhi Ⲫ
 inoremap \\copphi ⲫ
 inoremap \\copChi Ⲭ
@@ -1836,6 +1841,7 @@ inoremap \\bfBeta 𝚩
 inoremap \\bfGamma 𝚪
 inoremap \\bfDelta 𝚫
 inoremap \\bfEpsilon 𝚬
+inoremap \\bfEpsi 𝚬
 inoremap \\bfZeta 𝚭
 inoremap \\bfEta 𝚮
 inoremap \\bfTheta 𝚯
@@ -1862,8 +1868,9 @@ inoremap \\bfgamma 𝛄
 inoremap \\bfdelta 𝛅
 inoremap \\bfepsilon 𝛆
 inoremap \\bflepsilon 𝛜
-inoremap \\bflepsi 𝛜
 inoremap \\bfvepsilon 𝛜
+inoremap \\bfepsi 𝛆
+inoremap \\bflepsi 𝛜
 inoremap \\bfvepsi 𝛜
 inoremap \\bfzeta 𝛇
 inoremap \\bfeta 𝛈
@@ -1888,6 +1895,7 @@ inoremap \\bfsigma 𝛔
 inoremap \\bffsigma 𝛓
 inoremap \\bftau 𝛕
 inoremap \\bfupsilon 𝛖
+inoremap \\bfupsi 𝛖
 inoremap \\bfphi 𝛗
 inoremap \\bfvphi 𝛟
 inoremap \\bfchi 𝛘
@@ -1900,6 +1908,7 @@ inoremap \\itBeta 𝛣
 inoremap \\itGamma 𝛤
 inoremap \\itDelta 𝛥
 inoremap \\itEpsilon 𝛦
+inoremap \\itEpsi 𝛦
 inoremap \\itZeta 𝛧
 inoremap \\itEta 𝛨
 inoremap \\itTheta 𝛩
@@ -1916,6 +1925,7 @@ inoremap \\itRho 𝛲
 inoremap \\itSigma 𝛴
 inoremap \\itTau 𝛵
 inoremap \\itUpsilon 𝛶
+inoremap \\itUpsi 𝛶
 inoremap \\itPhi 𝛷
 inoremap \\itChi 𝛸
 inoremap \\itPsi 𝛹
@@ -1927,6 +1937,7 @@ inoremap \\itdelta 𝛿
 inoremap \\itepsilon 𝜀
 inoremap \\itvepsilon 𝜖
 inoremap \\itlepsilon 𝜖
+inoremap \\itepsi 𝜀
 inoremap \\itvepsi 𝜖
 inoremap \\itlepsi 𝜖
 inoremap \\itzeta 𝜁
@@ -1952,6 +1963,7 @@ inoremap \\itsigma 𝜎
 inoremap \\itfsigma 𝜍
 inoremap \\ittau 𝜏
 inoremap \\itupsilon 𝜐
+inoremap \\itupsi 𝜐
 inoremap \\itphi 𝜑
 inoremap \\itvphi 𝜙
 inoremap \\itcphi 𝜙
@@ -1963,6 +1975,7 @@ inoremap \\biBeta 𝜝
 inoremap \\biGamma 𝜞
 inoremap \\biDelta 𝜟
 inoremap \\biEpsilon 𝜠
+inoremap \\biEpsi 𝜠
 inoremap \\biZeta 𝜡
 inoremap \\biEta 𝜢
 inoremap \\biTheta 𝜣
@@ -1979,6 +1992,7 @@ inoremap \\biRho 𝜬
 inoremap \\biSigma 𝜮
 inoremap \\biTau 𝜯
 inoremap \\biUpsilon 𝜰
+inoremap \\biUpsi 𝜰
 inoremap \\biPhi 𝜱
 inoremap \\biChi 𝜲
 inoremap \\biPsi 𝜳
@@ -1990,6 +2004,7 @@ inoremap \\bidelta 𝜹
 inoremap \\biepsilon 𝜺
 inoremap \\bivepsilon 𝝐
 inoremap \\bilepsilon 𝝐
+inoremap \\biepsi 𝜺
 inoremap \\bivepsi 𝝐
 inoremap \\bilepsi 𝝐
 inoremap \\bizeta 𝜻
@@ -2015,6 +2030,7 @@ inoremap \\bifsigma 𝝈
 inoremap \\bisigma 𝝇
 inoremap \\bitau 𝝉
 inoremap \\biupsilon 𝝊
+inoremap \\biupsi 𝝊
 inoremap \\biphi 𝝋
 inoremap \\bivphi 𝝓
 inoremap \\bicphi 𝝓
@@ -2026,6 +2042,7 @@ inoremap \\bfsBeta 𝝗
 inoremap \\bfsGamma 𝝘
 inoremap \\bfsDelta 𝝙
 inoremap \\bfsEpsilon 𝝚
+inoremap \\bfsEpsi 𝝚
 inoremap \\bfsZeta 𝝛
 inoremap \\bfsEta 𝝜
 inoremap \\bfsTheta 𝝝
@@ -2042,6 +2059,7 @@ inoremap \\bfsRho 𝝦
 inoremap \\bfsSigma 𝝨
 inoremap \\bfsTau 𝝩
 inoremap \\bfsUpsilon 𝝪
+inoremap \\bfsUpsi 𝝪
 inoremap \\bfsPhi 𝝫
 inoremap \\bfsChi 𝝬
 inoremap \\bfsPsi 𝝭
@@ -2053,6 +2071,7 @@ inoremap \\bfsdelta 𝝳
 inoremap \\bfsepsilon 𝝴
 inoremap \\bfsvepsilon 𝞊
 inoremap \\bfslepsilon 𝞊
+inoremap \\bfsepsi 𝝴
 inoremap \\bfsvepsi 𝞊
 inoremap \\bfslepsi 𝞊
 inoremap \\bfszeta 𝝵
@@ -2078,6 +2097,7 @@ inoremap \\bfssigma 𝞂
 inoremap \\bfsfsigma 𝞁
 inoremap \\bfstau 𝞃
 inoremap \\bfsupsilon 𝞄
+inoremap \\bfsupsi 𝞄
 inoremap \\bfsphi 𝞅
 inoremap \\bfsvphi 𝞍
 inoremap \\bfscphi 𝞍
@@ -2089,6 +2109,7 @@ inoremap \\bisBeta 𝞑
 inoremap \\bisGamma 𝞒
 inoremap \\bisDelta 𝞓
 inoremap \\bisEpsilon 𝞔
+inoremap \\bisEpsi 𝞔
 inoremap \\bisZeta 𝞕
 inoremap \\bisEta 𝞖
 inoremap \\bisTheta 𝞗
@@ -2105,6 +2126,7 @@ inoremap \\bisRho 𝞠
 inoremap \\bisSigma 𝞢
 inoremap \\bisTau 𝞣
 inoremap \\bisUpsilon 𝞤
+inoremap \\bisUpsi 𝞤
 inoremap \\bisPhi 𝞥
 inoremap \\bisChi 𝞦
 inoremap \\bisPsi 𝞧
@@ -2116,6 +2138,7 @@ inoremap \\bisdelta 𝞭
 inoremap \\bisepsilon 𝞮
 inoremap \\bisvepsilon 𝟄
 inoremap \\bislepsilon 𝟄
+inoremap \\bisepsi 𝞮
 inoremap \\bisvepsi 𝟄
 inoremap \\bislepsi 𝟄
 inoremap \\biszeta 𝞯
@@ -2141,6 +2164,7 @@ inoremap \\bissigma 𝞼
 inoremap \\bisfsigma 𝞻
 inoremap \\bistau 𝞽
 inoremap \\bisupsilon 𝞾
+inoremap \\bisupsi 𝞾
 inoremap \\bisphi 𝞿
 inoremap \\bisvphi 𝟇
 inoremap \\biscphi 𝟇
@@ -2188,6 +2212,7 @@ inoremap \\scpi ᴨ
 inoremap \\scrho ᴩ
 inoremap \\sctau ᴛ
 inoremap \\scupsilon ʏ
+inoremap \\scupsi ʏ
 inoremap \\scchi x
 inoremap \\scpsi ᴪ
 inoremap \\varbeta ϐ
@@ -3299,6 +3324,14 @@ inoremap \\embnw ⤣
 inoremap \\embne ⤤
 inoremap \\embse ⤥
 inoremap \\embsw ⤦
+inoremap \\incto ↪
+inoremap \\incfrom ↩
+inoremap \\incr ↪
+inoremap \\incl ↩
+inoremap \\incnw ⤣
+inoremap \\incne ⤤
+inoremap \\incse ⤥
+inoremap \\incsw ⤦
 inoremap \\ninjto ⤔
 inoremap \\ninjfrom ⬹
 inoremap \\nsurjto ⤀
@@ -3511,6 +3544,21 @@ inoremap \\expsto ⤳
 inoremap \\expsfrom ⬿
 inoremap \\expto ⤳
 inoremap \\expfrom ⬿
+inoremap \\CASE ̲c̲a̲s̲e
+inoremap \\OF ̲o̲f
+inoremap \\MATCH ̲m̲a̲t̲c̲h
+inoremap \\WITH ̲w̲i̲t̲h
+inoremap \\IF ̲i̲f
+inoremap \\THEN ̲t̲h̲e̲n
+inoremap \\ELSE ̲e̲l̲s̲e
+inoremap \\BOOM ̲b̲o̲o̲m
+inoremap \\ABORT ̲a̲b̲o̲r̲t
+inoremap \\OUTL ̲o̲u̲t̲l
+inoremap \\OUTR ̲o̲u̲t̲r
+inoremap \\INL ̲i̲n̲l
+inoremap \\INR ̲i̲n̲r
+inoremap \\FST ̲f̲s̲t
+inoremap \\SND ̲s̲n̲d
 inoremap \\lquasi ⌜
 inoremap \\rquasi ⌝
 inoremap \\lqua ⌜
@@ -3568,16 +3616,8 @@ inoremap \\homto →ͪ
 inoremap \\homfrom ←ͪ
 inoremap \\Homto ‒hom→
 inoremap \\Homfrom ←hom‒
-inoremap \\Monto ‒mon→
-inoremap \\Monfrom ←mon‒
-inoremap \\Epito ‒epi→
-inoremap \\Epifrom ←epi‒
 inoremap \\Homto, ‒ͪ‒ͦ‒ͫ→
 inoremap \\Homfrom, ←‒ͪ‒ͦ‒ͫ
-inoremap \\Monto, ‒ͫ‒ͦ‒ᷠ→
-inoremap \\Monfrom, ←‒ͫ‒ͦ‒ᷠ
-inoremap \\Epito, ‒ͤ‒ᷮ‒ͥ→
-inoremap \\Epifrom, ←‒ͤ‒ᷮ‒ͥ
 inoremap \\slop ⋄
 inoremap \\slOp ◇
 inoremap \\slop, ⬫
@@ -3654,6 +3694,10 @@ inoremap \\egen ⟨⟩
 inoremap \\lspan ⟨
 inoremap \\rspan ⟩
 inoremap \\espan ⟨⟩
+inoremap \\lpair ⟨
+inoremap \\rpair ⟩
+inoremap \\lcopair [
+inoremap \\rcopair ]
 inoremap \\lnorm ‖
 inoremap \\rnorm ‖
 inoremap \\norm ‖
@@ -3664,6 +3708,8 @@ inoremap \\coprod ⨿
 inoremap \\Coprod ∐
 inoremap \\op ᵒᵖ
 inoremap \\ab ᵃᵇ
+inoremap \\diag Δ
+inoremap \\codiag ∇
 inoremap \\thento ⇢
 inoremap \\thenfrom ⇠
 inoremap \\thenl ⇠
@@ -3688,14 +3734,28 @@ inoremap \\uniqueto ‒∃!→
 inoremap \\uniquefrom ←∃!‒
 inoremap \\unto ‒∃!→
 inoremap \\unfrom ←∃!‒
+inoremap \\isoto ⥲
+inoremap \\isofrom ⭉
 inoremap \\monto ↣
 inoremap \\monfrom ↢
 inoremap \\epito ↠
 inoremap \\epifrom ↞
-inoremap \\isoto ⥲
-inoremap \\isofrom ⭉
 inoremap \\Isoto ‒≅→
 inoremap \\Isofrom ←≅‒
+inoremap \\Isoto, ⤚≅↠
+inoremap \\Isofrom, ↞≅⤙
+inoremap \\Epito ‒epi→
+inoremap \\Epifrom ←epi‒
+inoremap \\Epito, ‒epi↠
+inoremap \\Epifrom, ↞epi‒
+inoremap \\Monto ‒mon→
+inoremap \\Monfrom ←mon‒
+inoremap \\Monto, ⤚mon→
+inoremap \\Monfrom, ←mon⤙
+inoremap \\Monto,, ‒ͫ‒ͦ‒ᷠ→
+inoremap \\Monfrom,, ←‒ͫ‒ͦ‒ᷠ
+inoremap \\Epito,, ‒ͤ‒ᷮ‒ͥ→
+inoremap \\Epifrom,, ←‒ͤ‒ᷮ‒ͥ
 inoremap \\natto ⇒
 inoremap \\natfrom ⇐
 inoremap \\natur ⇒
@@ -3706,8 +3766,19 @@ inoremap \\psetto ℘⃗
 inoremap \\psetfrom ℘⃖
 inoremap \\endo ↺
 inoremap \\adj ⊣
-inoremap \\ladjto ⊣
 inoremap \\adjto ⊣
+inoremap \\ladjto ⊣
+inoremap \\radjto ⊢
+inoremap \\adjvto ⊥
+inoremap \\ladjvto ⊥
+inoremap \\radjvto ⊤
+inoremap \\vadjto ⊥
+inoremap \\vladjto ⊥
+inoremap \\vradjto ⊤
+inoremap \\adjunit 𝜀
+inoremap \\adjcounit 𝜂
+inoremap \\adjun 𝜀
+inoremap \\adjcoun 𝜂
 inoremap \\deloop 𝗕
 inoremap \\shriek !
 inoremap \\shrieku ꜝ

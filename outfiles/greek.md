@@ -23,8 +23,8 @@
 | <code>lSigma</code> | Ϲ |
 | <code>Tau</code> | Τ |
 | <code>Upsilon</code> | Υ |
-| <code>Upsi</code> | Υ |
 | <code>vUpsilon</code> | ϒ |
+| <code>Upsi</code> | Υ |
 | <code>vUpsi</code> | ϒ |
 | <code>Phi</code> | Φ |
 | <code>Chi</code> | Χ |
@@ -40,10 +40,10 @@
 | <code>nolgamma</code> | γ |
 | <code>delta</code> | δ |
 | <code>epsilon</code> | ε |
-| <code>epsi</code> | ε |
 | <code>vepsilon</code> | ϵ |
-| <code>vepsi</code> | ϵ |
 | <code>lepsilon</code> | ϵ |
+| <code>epsi</code> | ε |
+| <code>vepsi</code> | ϵ |
 | <code>lepsi</code> | ϵ |
 | <code>zeta</code> | ζ |
 | <code>eta</code> | η |
@@ -166,6 +166,7 @@
 | <code>^Gamma</code> | ᣘ |
 | <code>^Delta</code> | ᐞ |
 | <code>^Epsilon</code> | ᴱ |
+| <code>^Epsi</code> | ᴱ |
 | <code>^Eta</code> | ᴴ |
 | <code>^Iota</code> | ᴵ |
 | <code>^Kappa</code> | ᴷ |
@@ -251,6 +252,8 @@
 | <code>copdelta</code> | ⲇ |
 | <code>copEpsilon</code> | Ⲉ |
 | <code>copepsilon</code> | ⲉ |
+| <code>copEpsi</code> | Ⲉ |
+| <code>copepsi</code> | ⲉ |
 | <code>copStigma</code> | Ⲋ |
 | <code>copstigma</code> | ⲋ |
 | <code>copZeta</code> | Ⲍ |
@@ -283,6 +286,8 @@
 | <code>coptau</code> | ⲧ |
 | <code>copUpsilon</code> | Ⲩ |
 | <code>copupsilon</code> | ⲩ |
+| <code>copUpsi</code> | Ⲩ |
+| <code>copupsi</code> | ⲩ |
 | <code>copPhi</code> | Ⲫ |
 | <code>copphi</code> | ⲫ |
 | <code>copChi</code> | Ⲭ |
@@ -296,6 +301,7 @@
 | <code>bfGamma</code> | 𝚪 |
 | <code>bfDelta</code> | 𝚫 |
 | <code>bfEpsilon</code> | 𝚬 |
+| <code>bfEpsi</code> | 𝚬 |
 | <code>bfZeta</code> | 𝚭 |
 | <code>bfEta</code> | 𝚮 |
 | <code>bfTheta</code> | 𝚯 |
@@ -322,8 +328,9 @@
 | <code>bfdelta</code> | 𝛅 |
 | <code>bfepsilon</code> | 𝛆 |
 | <code>bflepsilon</code> | 𝛜 |
-| <code>bflepsi</code> | 𝛜 |
 | <code>bfvepsilon</code> | 𝛜 |
+| <code>bfepsi</code> | 𝛆 |
+| <code>bflepsi</code> | 𝛜 |
 | <code>bfvepsi</code> | 𝛜 |
 | <code>bfzeta</code> | 𝛇 |
 | <code>bfeta</code> | 𝛈 |
@@ -348,6 +355,7 @@
 | <code>bffsigma</code> | 𝛓 |
 | <code>bftau</code> | 𝛕 |
 | <code>bfupsilon</code> | 𝛖 |
+| <code>bfupsi</code> | 𝛖 |
 | <code>bfphi</code> | 𝛗 |
 | <code>bfvphi</code> | 𝛟 |
 | <code>bfchi</code> | 𝛘 |
@@ -360,6 +368,7 @@
 | <code>itGamma</code> | 𝛤 |
 | <code>itDelta</code> | 𝛥 |
 | <code>itEpsilon</code> | 𝛦 |
+| <code>itEpsi</code> | 𝛦 |
 | <code>itZeta</code> | 𝛧 |
 | <code>itEta</code> | 𝛨 |
 | <code>itTheta</code> | 𝛩 |
@@ -376,6 +385,7 @@
 | <code>itSigma</code> | 𝛴 |
 | <code>itTau</code> | 𝛵 |
 | <code>itUpsilon</code> | 𝛶 |
+| <code>itUpsi</code> | 𝛶 |
 | <code>itPhi</code> | 𝛷 |
 | <code>itChi</code> | 𝛸 |
 | <code>itPsi</code> | 𝛹 |
@@ -387,6 +397,7 @@
 | <code>itepsilon</code> | 𝜀 |
 | <code>itvepsilon</code> | 𝜖 |
 | <code>itlepsilon</code> | 𝜖 |
+| <code>itepsi</code> | 𝜀 |
 | <code>itvepsi</code> | 𝜖 |
 | <code>itlepsi</code> | 𝜖 |
 | <code>itzeta</code> | 𝜁 |
@@ -412,6 +423,7 @@
 | <code>itfsigma</code> | 𝜍 |
 | <code>ittau</code> | 𝜏 |
 | <code>itupsilon</code> | 𝜐 |
+| <code>itupsi</code> | 𝜐 |
 | <code>itphi</code> | 𝜑 |
 | <code>itvphi</code> | 𝜙 |
 | <code>itcphi</code> | 𝜙 |
@@ -423,6 +435,7 @@
 | <code>biGamma</code> | 𝜞 |
 | <code>biDelta</code> | 𝜟 |
 | <code>biEpsilon</code> | 𝜠 |
+| <code>biEpsi</code> | 𝜠 |
 | <code>biZeta</code> | 𝜡 |
 | <code>biEta</code> | 𝜢 |
 | <code>biTheta</code> | 𝜣 |
@@ -439,6 +452,7 @@
 | <code>biSigma</code> | 𝜮 |
 | <code>biTau</code> | 𝜯 |
 | <code>biUpsilon</code> | 𝜰 |
+| <code>biUpsi</code> | 𝜰 |
 | <code>biPhi</code> | 𝜱 |
 | <code>biChi</code> | 𝜲 |
 | <code>biPsi</code> | 𝜳 |
@@ -450,6 +464,7 @@
 | <code>biepsilon</code> | 𝜺 |
 | <code>bivepsilon</code> | 𝝐 |
 | <code>bilepsilon</code> | 𝝐 |
+| <code>biepsi</code> | 𝜺 |
 | <code>bivepsi</code> | 𝝐 |
 | <code>bilepsi</code> | 𝝐 |
 | <code>bizeta</code> | 𝜻 |
@@ -475,6 +490,7 @@
 | <code>bisigma</code> | 𝝇 |
 | <code>bitau</code> | 𝝉 |
 | <code>biupsilon</code> | 𝝊 |
+| <code>biupsi</code> | 𝝊 |
 | <code>biphi</code> | 𝝋 |
 | <code>bivphi</code> | 𝝓 |
 | <code>bicphi</code> | 𝝓 |
@@ -486,6 +502,7 @@
 | <code>bfsGamma</code> | 𝝘 |
 | <code>bfsDelta</code> | 𝝙 |
 | <code>bfsEpsilon</code> | 𝝚 |
+| <code>bfsEpsi</code> | 𝝚 |
 | <code>bfsZeta</code> | 𝝛 |
 | <code>bfsEta</code> | 𝝜 |
 | <code>bfsTheta</code> | 𝝝 |
@@ -502,6 +519,7 @@
 | <code>bfsSigma</code> | 𝝨 |
 | <code>bfsTau</code> | 𝝩 |
 | <code>bfsUpsilon</code> | 𝝪 |
+| <code>bfsUpsi</code> | 𝝪 |
 | <code>bfsPhi</code> | 𝝫 |
 | <code>bfsChi</code> | 𝝬 |
 | <code>bfsPsi</code> | 𝝭 |
@@ -513,6 +531,7 @@
 | <code>bfsepsilon</code> | 𝝴 |
 | <code>bfsvepsilon</code> | 𝞊 |
 | <code>bfslepsilon</code> | 𝞊 |
+| <code>bfsepsi</code> | 𝝴 |
 | <code>bfsvepsi</code> | 𝞊 |
 | <code>bfslepsi</code> | 𝞊 |
 | <code>bfszeta</code> | 𝝵 |
@@ -538,6 +557,7 @@
 | <code>bfsfsigma</code> | 𝞁 |
 | <code>bfstau</code> | 𝞃 |
 | <code>bfsupsilon</code> | 𝞄 |
+| <code>bfsupsi</code> | 𝞄 |
 | <code>bfsphi</code> | 𝞅 |
 | <code>bfsvphi</code> | 𝞍 |
 | <code>bfscphi</code> | 𝞍 |
@@ -549,6 +569,7 @@
 | <code>bisGamma</code> | 𝞒 |
 | <code>bisDelta</code> | 𝞓 |
 | <code>bisEpsilon</code> | 𝞔 |
+| <code>bisEpsi</code> | 𝞔 |
 | <code>bisZeta</code> | 𝞕 |
 | <code>bisEta</code> | 𝞖 |
 | <code>bisTheta</code> | 𝞗 |
@@ -565,6 +586,7 @@
 | <code>bisSigma</code> | 𝞢 |
 | <code>bisTau</code> | 𝞣 |
 | <code>bisUpsilon</code> | 𝞤 |
+| <code>bisUpsi</code> | 𝞤 |
 | <code>bisPhi</code> | 𝞥 |
 | <code>bisChi</code> | 𝞦 |
 | <code>bisPsi</code> | 𝞧 |
@@ -576,6 +598,7 @@
 | <code>bisepsilon</code> | 𝞮 |
 | <code>bisvepsilon</code> | 𝟄 |
 | <code>bislepsilon</code> | 𝟄 |
+| <code>bisepsi</code> | 𝞮 |
 | <code>bisvepsi</code> | 𝟄 |
 | <code>bislepsi</code> | 𝟄 |
 | <code>biszeta</code> | 𝞯 |
@@ -601,6 +624,7 @@
 | <code>bisfsigma</code> | 𝞻 |
 | <code>bistau</code> | 𝞽 |
 | <code>bisupsilon</code> | 𝞾 |
+| <code>bisupsi</code> | 𝞾 |
 | <code>bisphi</code> | 𝞿 |
 | <code>bisvphi</code> | 𝟇 |
 | <code>biscphi</code> | 𝟇 |
@@ -648,6 +672,7 @@
 | <code>scrho</code> | ᴩ |
 | <code>sctau</code> | ᴛ |
 | <code>scupsilon</code> | ʏ |
+| <code>scupsi</code> | ʏ |
 | <code>scchi</code> | x |
 | <code>scpsi</code> | ᴪ |
 | <code>varbeta</code> | ϐ |
