@@ -30,8 +30,8 @@ Sigma           Σ
 lSigma          Ϲ  # [l]unate
 Tau             Τ
 Upsilon         Υ
-Upsi            Υ
 vUpsilon        ϒ
+Upsi            Υ
 vUpsi           ϒ
 Phi             Φ
 Chi             Χ
@@ -52,10 +52,10 @@ vgamma          γ
 nolgamma        γ  # [no] [l]oop gamma
 delta           δ
 epsilon         ε
-epsi            ε
 vepsilon        ϵ
-vepsi           ϵ
 lepsilon        ϵ  # [l]unate
+epsi            ε
+vepsi           ϵ
 lepsi           ϵ
 zeta            ζ
 eta             η
@@ -199,6 +199,7 @@ omega,,           ɷ
 ^Gamma          ᣘ
 ^Delta          ᐞ
 ^Epsilon        ᴱ
+^Epsi           ᴱ
 ^Eta            ᴴ
 ^Iota           ᴵ
 ^Kappa          ᴷ
@@ -332,6 +333,8 @@ copDelta          Ⲇ
 copdelta          ⲇ
 copEpsilon        Ⲉ
 copepsilon        ⲉ
+copEpsi           Ⲉ
+copepsi           ⲉ
 copStigma         Ⲋ
 copstigma         ⲋ
 copZeta           Ⲍ
@@ -364,6 +367,8 @@ copTau            Ⲧ
 coptau            ⲧ
 copUpsilon        Ⲩ
 copupsilon        ⲩ
+copUpsi           Ⲩ
+copupsi           ⲩ
 copPhi            Ⲫ
 copphi            ⲫ
 copChi            Ⲭ
@@ -391,6 +396,7 @@ bfBeta          𝚩
 bfGamma         𝚪
 bfDelta         𝚫
 bfEpsilon       𝚬
+bfEpsi          𝚬
 bfZeta          𝚭
 bfEta           𝚮
 bfTheta         𝚯
@@ -418,8 +424,9 @@ bfgamma         𝛄
 bfdelta         𝛅
 bfepsilon       𝛆
 bflepsilon      𝛜
-bflepsi         𝛜
 bfvepsilon      𝛜
+bfepsi          𝛆
+bflepsi         𝛜
 bfvepsi         𝛜
 bfzeta          𝛇
 bfeta           𝛈
@@ -444,6 +451,7 @@ bfsigma         𝛔
 bffsigma        𝛓
 bftau           𝛕
 bfupsilon       𝛖
+bfupsi          𝛖
 bfphi           𝛗
 bfvphi          𝛟
 bfchi           𝛘
@@ -462,6 +470,7 @@ itBeta          𝛣
 itGamma         𝛤
 itDelta         𝛥
 itEpsilon       𝛦
+itEpsi          𝛦
 itZeta          𝛧
 itEta           𝛨
 itTheta         𝛩
@@ -478,6 +487,7 @@ itRho           𝛲
 itSigma         𝛴
 itTau           𝛵
 itUpsilon       𝛶
+itUpsi          𝛶
 itPhi           𝛷
 itChi           𝛸
 itPsi           𝛹
@@ -490,6 +500,7 @@ itdelta         𝛿
 itepsilon       𝜀
 itvepsilon      𝜖
 itlepsilon      𝜖
+itepsi          𝜀
 itvepsi         𝜖
 itlepsi         𝜖
 itzeta          𝜁
@@ -515,6 +526,7 @@ itsigma         𝜎
 itfsigma        𝜍
 ittau           𝜏
 itupsilon       𝜐
+itupsi          𝜐
 itphi           𝜑
 itvphi          𝜙
 itcphi          𝜙
@@ -533,6 +545,7 @@ biBeta          𝜝
 biGamma         𝜞
 biDelta         𝜟
 biEpsilon       𝜠
+biEpsi          𝜠
 biZeta          𝜡
 biEta           𝜢
 biTheta         𝜣
@@ -549,6 +562,7 @@ biRho           𝜬
 biSigma         𝜮
 biTau           𝜯
 biUpsilon       𝜰
+biUpsi          𝜰
 biPhi           𝜱
 biChi           𝜲
 biPsi           𝜳
@@ -561,6 +575,7 @@ bidelta         𝜹
 biepsilon       𝜺
 bivepsilon      𝝐
 bilepsilon      𝝐
+biepsi          𝜺
 bivepsi         𝝐
 bilepsi         𝝐
 bizeta          𝜻
@@ -586,6 +601,7 @@ bifsigma        𝝈
 bisigma         𝝇
 bitau           𝝉
 biupsilon       𝝊
+biupsi          𝝊
 biphi           𝝋
 bivphi          𝝓
 bicphi          𝝓
@@ -602,6 +618,7 @@ bfsBeta         𝝗
 bfsGamma        𝝘
 bfsDelta        𝝙
 bfsEpsilon      𝝚
+bfsEpsi         𝝚
 bfsZeta         𝝛
 bfsEta          𝝜
 bfsTheta        𝝝
@@ -618,6 +635,7 @@ bfsRho          𝝦
 bfsSigma        𝝨
 bfsTau          𝝩
 bfsUpsilon      𝝪
+bfsUpsi         𝝪
 bfsPhi          𝝫
 bfsChi          𝝬
 bfsPsi          𝝭
@@ -630,6 +648,7 @@ bfsdelta        𝝳
 bfsepsilon      𝝴
 bfsvepsilon     𝞊
 bfslepsilon     𝞊
+bfsepsi         𝝴
 bfsvepsi        𝞊
 bfslepsi        𝞊
 bfszeta         𝝵
@@ -655,6 +674,7 @@ bfssigma        𝞂
 bfsfsigma       𝞁
 bfstau          𝞃
 bfsupsilon      𝞄
+bfsupsi         𝞄
 bfsphi          𝞅
 bfsvphi         𝞍
 bfscphi         𝞍
@@ -671,6 +691,7 @@ bisBeta         𝞑
 bisGamma        𝞒
 bisDelta        𝞓
 bisEpsilon      𝞔
+bisEpsi         𝞔
 bisZeta         𝞕
 bisEta          𝞖
 bisTheta        𝞗
@@ -687,6 +708,7 @@ bisRho          𝞠
 bisSigma        𝞢
 bisTau          𝞣
 bisUpsilon      𝞤
+bisUpsi         𝞤
 bisPhi          𝞥
 bisChi          𝞦
 bisPsi          𝞧
@@ -699,6 +721,7 @@ bisdelta        𝞭
 bisepsilon      𝞮
 bisvepsilon     𝟄
 bislepsilon     𝟄
+bisepsi         𝞮
 bisvepsi        𝟄
 bislepsi        𝟄
 biszeta         𝞯
@@ -724,6 +747,7 @@ bissigma        𝞼
 bisfsigma       𝞻
 bistau          𝞽
 bisupsilon      𝞾
+bisupsi         𝞾
 bisphi          𝞿
 bisvphi         𝟇
 biscphi         𝟇
@@ -782,6 +806,7 @@ scpi       ᴨ
 scrho      ᴩ
 sctau      ᴛ  # WARN: latin abuse
 scupsilon  ʏ  # WARN: latin abuse
+scupsi     ʏ  # WARN: latin abuse
 scchi      x  # WARN: latin abuse
 scpsi      ᴪ
 
