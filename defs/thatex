@@ -3121,6 +3121,15 @@ wudot             ᐧ  # [u]pper
 ^macron           ˉ
 ^breve            ˘
 ^dot              ˙
+^ddot             ¨  # (double)
+^diaer            ¨  # [diaer]esis
+^trema            ¨
+^grave            `
+^ggrave           ̏ 
+^2grave           ̏ 
+^acute            ´
+^aacute           ˝
+^2acute           ˝
 ^square           ⸋
 ^sq               ⸋
 ^box              ⸋
