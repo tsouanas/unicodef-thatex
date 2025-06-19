@@ -1469,16 +1469,8 @@ homto             →ͪ
 homfrom           ←ͪ
 Homto             ‒hom→
 Homfrom           ←hom‒
-Monto             ‒mon→
-Monfrom           ←mon‒
-Epito             ‒epi→
-Epifrom           ←epi‒
 Homto,            ‒ͪ‒ͦ‒ͫ→
 Homfrom,          ←‒ͪ‒ͦ‒ͫ
-Monto,            ‒ͫ‒ͦ‒ᷠ→
-Monfrom,          ←‒ͫ‒ͦ‒ᷠ
-Epito,            ‒ͤ‒ᷮ‒ͥ→
-Epifrom,          ←‒ͤ‒ᷮ‒ͥ
 slop              ⋄  # unbiased [s]emi[l]attice [op]eration (∨∧)
 slOp              ◇
 slop,             ⬫
@@ -1560,6 +1552,10 @@ egen              ⟨⟩ # [e]mpty
 lspan             ⟨
 rspan             ⟩
 espan             ⟨⟩
+lpair             ⟨
+rpair             ⟩
+lcopair           [
+rcopair           ]
 lnorm             ‖
 rnorm             ‖
 norm              ‖
@@ -1575,6 +1571,8 @@ coprod            ⨿
 Coprod            ∐
 op                ᵒᵖ # [op]posite
 ab                ᵃᵇ # [ab]elianization
+diag              Δ  # [diag]onal   : A → A × A
+codiag            ∇  # [codiag]onal : A ← A + A
 thento            ⇢
 thenfrom          ⇠
 thenl             ⇠
@@ -1599,14 +1597,28 @@ uniqueto          ‒∃!→
 uniquefrom        ←∃!‒
 unto              ‒∃!→
 unfrom            ←∃!‒
+isoto             ⥲  # [iso]morphism
+isofrom           ⭉
 monto             ↣  # [mon]omorphism
 monfrom           ↢
 epito             ↠  # [epi]morphism
 epifrom           ↞
-isoto             ⥲  # [iso]morphism
-isofrom           ⭉
 Isoto             ‒≅→
 Isofrom           ←≅‒
+Isoto,            ⤚≅↠
+Isofrom,          ↞≅⤙
+Epito             ‒epi→
+Epifrom           ←epi‒
+Epito,            ‒epi↠
+Epifrom,          ↞epi‒
+Monto             ‒mon→
+Monfrom           ←mon‒
+Monto,            ⤚mon→
+Monfrom,          ←mon⤙
+Monto,,           ‒ͫ‒ͦ‒ᷠ→
+Monfrom,,         ←‒ͫ‒ͦ‒ᷠ
+Epito,,           ‒ͤ‒ᷮ‒ͥ→
+Epifrom,,         ←‒ͤ‒ᷮ‒ͥ
 natto             ⇒  # [nat]ural transformation
 natfrom           ⇐
 natur             ⇒  # [natu]ral transformation [r]ight
@@ -1617,8 +1629,19 @@ psetto            ℘⃗
 psetfrom          ℘⃖
 endo              ↺  # [endo]morphism
 adj               ⊣  # [adj]unction
-ladjto            ⊣  # [l]eft [adj]oint [to]
-adjto             ⊣  # [l]eft [adj]oint [to]
+adjto             ⊣  # (left) [adj]oint [to]
+ladjto            ⊣  # [l]eft
+radjto            ⊢  # [r]ight
+adjvto            ⊥  # [v]ertically
+ladjvto           ⊥
+radjvto           ⊤
+vadjto            ⊥
+vladjto           ⊥
+vradjto           ⊤
+adjunit           𝜀  # [adj]unction [unit]
+adjcounit         𝜂
+adjun             𝜀
+adjcoun           𝜂
 deloop            𝗕
 shriek            !
 shrieku           ꜝ
