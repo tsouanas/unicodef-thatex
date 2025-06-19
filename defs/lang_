@@ -4,7 +4,7 @@
 # vim:foldcolumn=5
 #%}}}
 
-# Punctuation, quotes, … %{{{
+# Quotes %{{{
 
 "<     «
 ">     »
@@ -26,10 +26,21 @@
 99'    ”
 99`    ‟  # rev9
 99,    „
+`(     `  # backtick
+`)     ´  # fronttick
+(`     `
+)`     ´
+``     “
+''     ”
 _[     ⸤
 _]     ⸥
 ^[     ⸢
 ^]     ⸣
+
+# %}}}
+
+# Punctuation %{{{
+
 ;.     ·  # ano teleia  WARN: wrong glyph common
 .^     ·  # middle dot
 2.     ‥
@@ -43,15 +54,30 @@ _]     ⸥
 4:     ⦙
 :|     ¦
 |:     ¦
-1*     ∗  # 1-3: # of asterisks
-2*     ⁑
-3*     ⁂
-4*     ✣  # 4-: # of points
-5*     ★
-6*     ✶
-8*     ✴
-12*    ✹
-16*    ✺
+!(     ¡
+!)     !
+(!     ¡
+)!     !
+?(     ¿
+?)     ?
+(?     ¿
+)?     ?
+;(     ⁏
+;)     ;
+(;     ⁏
+);     ;
+?!     ⁈
+!?     ⁉
+!!     ‼
+??     ⁇
+2!     ‼
+2?     ⁇
+
+# %}}}
+
+# Dashes, hyphens, … %{{{
+
+--0    ‒  # digit-width dash
 --n    –  # endash
 --.    –  # WARN: possibly soon-to-be-deprecated
 --;    –  # INFO: transition from . to ;
@@ -65,32 +91,34 @@ _]     ⸥
 --=    ⹀  # double hyphen
 --/    ⸗  # oblique double hyphen
 -"     ⸚  # hyphen with diaeresis
-^.     ˙
-^_     ‾
-!(     ¡
-!)     !
-(!     ¡
-)!     !
-?(     ¿
-?)     ?
-(?     ¿
-)?     ?
-;(     ⁏
-;)     ;
-(;     ⁏
-);     ;
-`(     `
-`)     ´
-(`     `
-)`     ´
-?!     ⁈
-!?     ⁉
-!!     ‼
-??     ⁇
-2!     ‼
-2?     ⁇
-^~     ˜
-^^     ˆ
+
+# %}}}
+
+# Stand-alone accents and marks %{{{
+
+^.     ˙  # dot above
+^:     ¨  # diaeresis / trema
+^~     ˜  # til(de)
+^^     ˆ  # circumflex
+^`     `  # grave accent
+^'     ´  # acute accent
+^"     ˝  # double acute
+^_     ‾  # overline
+_~     ˷  # low tilde
+
+# %}}}
+
+# Asterisks %{{{
+
+1*     ∗  # 1-3: # of asterisks
+2*     ⁑
+3*     ⁂
+4*     ✣  # 4-: # of points
+5*     ★
+6*     ✶
+8*     ✴
+12*    ✹
+16*    ✺
 
 # %}}}
 
