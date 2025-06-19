@@ -3221,6 +3221,7 @@ _top              ˕
 @cev        ⃖  # (vec backwards)
 @vecr       ⃗  # [r]ight
 @vecl       ⃖  # [l]eft
+@check     ̌
 @forbid    ⃠
 
 # %}}}
@@ -3240,6 +3241,8 @@ _top              ˕
 @oparto     ⃑
 @olt        ᷾
 @ogt        ͐
+@obi        ⃡
+@oliff      ⃡
 @oarcl      ⃔
 @oarcr      ⃕
 @orotpos    ⃔
@@ -3248,11 +3251,22 @@ _top              ˕
 @orotn      ⃕
 @orotl      ⃔
 @orotr      ⃕
+@oproved    ҆
+@oproves    ҅
 
-### accentlike / lines
+### accentlike
+@otonos     ΄
+@ograve     ̀
+@oggrave    ̏
+@o2grave    ̏
+@oacute     ́
+@oaacute    ̋
+@o2acute    ̋
+@ohook      ̉
 @ocflex     ̂  # [c]ircum[flex]
 @ocaret     ̂
 @ocaron     ̌
+@ocheck     ̌
 @otilde    ̃  # [til]de
 @otil      ̃  # [til]de
 @ontil      ͊
@@ -3262,11 +3276,16 @@ _top              ˕
 @obre       ̆
 @omacron    ̄
 @omac       ̄
+@odiaer     ̈  # [diaer]esis
+@otrema     ̈
 
 ### lines
 @obar       ̄
 @oline      ̅
 @olline     ̿
+@o2line     ̿
+@overt      ̍
+@ovvert     ̎
 
 ### dots
 @odot       ̇
@@ -3296,12 +3315,17 @@ _top              ˕
 @osmile     ̆
 @ofrown     ̑
 
+### @oX, on the side
+@odot,      ͘
+@ocomma,     ̕
+
 ### misc
 @ozap       ͛
 @olynch     ᪰
 @othis      ᪳
 @ohere      ᪳
-@ohair    ̾
+@ohair     ̾
+@oballs     ᷓ
 
 # %}}}
 
@@ -3321,10 +3345,11 @@ _top              ˕
 @ubi        ͍
 @uliff      ͍
 
-### accentlike / lines
+### accentlike
 @ucflex     ̭
 @ucaret     ̭
 @ucaron     ̬
+@ucheck     ̬
 @utilde     ̰
 @util       ̰  # [til]de
 @uarc       ̯
@@ -3332,18 +3357,26 @@ _top              ˕
 @ubre       ̯
 @umacron    ̱
 @umac       ̱
+@udiaer     ̤  # [diaer]esis
+@utrema     ̤
 
 ### lines
 @ubar       ̱
 @uline      ̲
 @ulline     ̳
 
-### dots
+### dots, hooks, commas, …
 @udot       ̣
 @uddot      ̤
 @udddot     ⃨
 @u2dot      ̤
 @u3dot      ⃨
+@ucedil     ̧  # [cedil]la
+@ucomma     ̦
+@uhypog      ͅ # [hypog]egrammene
+@uogon      ̨  # [ogon]ek
+@uhookl     ̡
+@uhookr     ̢
 
 ### mod / unops
 @ubot       ̝
@@ -3373,6 +3406,8 @@ _top              ˕
 @uthis      ͎
 @uhere      ͎
 @usnake     ᷂
+@useagull  ̼
+@uballs    ̫
 
 # %}}}
 
@@ -3417,6 +3452,7 @@ _top              ˕
 @atri        ⃤
 @at          ⃤
 @aforbid   ⃠
+@aninja     ҉
 
 # %}}}
 
