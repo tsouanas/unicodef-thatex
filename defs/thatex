@@ -484,6 +484,8 @@ div               ∣  # WARN: deprecated
 ndivides          ∤
 ndivs             ∤
 ndiv              ∤  # WARN: deprecated
+dotdivs           ⍿
+ddivs             ⍿
 coprime           ⟂
 eq                =
 neq               ≠
