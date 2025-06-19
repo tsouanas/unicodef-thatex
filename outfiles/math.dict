@@ -6,28 +6,72 @@
       "8" = {
         "8" = ("insertText:", "͚");
       };
+      "v" = ("insertText:", "̬");
+      "\\^" = ("insertText:", "̭");
       "0" = ("insertText:", "̥");
       "*" = ("insertText:", "͙");
+      "2" = {
+        "|" = ("insertText:", "͈");
+        "." = ("insertText:", "̤");
+      };
+      "|" = ("insertText:", "̩");
+      "=" = ("insertText:", "̳");
+      "_" = ("insertText:", "̲");
       "-" = {
+        "2" = ("insertText:", "̳");
+        "1" = ("insertText:", "̲");
+        "0" = ("insertText:", "̱");
+        "b" = ("insertText:", "͍");
+        "r" = ("insertText:", "⃯");
+        "l" = ("insertText:", "⃮");
         ">" = ("insertText:", "⃯");
         "<" = ("insertText:", "⃮");
       };
+      "\\~" = ("insertText:", "̰");
+      ":" = ("insertText:", "̤");
+      "3" = {
+        "." = ("insertText:", "⃨");
+      };
+      "." = ("insertText:", "̣");
       ">" = ("insertText:", "͕");
       "<" = ("insertText:", "͔");
     };
     "\\^" = {
+      "8" = {
+        "8" = ("insertText:", "᪲");
+      };
+      "\\^" = ("insertText:", "̂");
+      "v" = ("insertText:", "̌");
       "0" = ("insertText:", "̊");
-      ":" = ("insertText:", "̈");
-      "." = ("insertText:", "̇");
       "*" = ("insertText:", "⃰");
-      ">" = ("insertText:", "⃗");
-      "<" = ("insertText:", "⃖");
+      "2" = {
+        "|" = ("insertText:", "̎");
+        "." = ("insertText:", "̈");
+      };
+      "|" = ("insertText:", "̍");
       "=" = ("insertText:", "̿");
       "_" = ("insertText:", "̅");
+      "-" = {
+        "2" = ("insertText:", "̿");
+        "1" = ("insertText:", "̅");
+        "0" = ("insertText:", "̄");
+        "b" = ("insertText:", "⃡");
+        "r" = ("insertText:", "⃗");
+        "l" = ("insertText:", "⃖");
+        ">" = ("insertText:", "⃗");
+        "<" = ("insertText:", "⃖");
+      };
       "\\~" = ("insertText:", "̃");
-      "\\^" = ("insertText:", "̂");
-      "'" = ("insertText:", "́");
-      "`" = ("insertText:", "̀");
+      ":" = ("insertText:", "̈");
+      "4" = {
+        "." = ("insertText:", "⃜");
+      };
+      "3" = {
+        "." = ("insertText:", "⃛");
+      };
+      "." = ("insertText:", "̇");
+      ">" = ("insertText:", "͐");
+      "<" = ("insertText:", "᷾");
     };
   };
   ":" = {

@@ -30,6 +30,8 @@
 | <code>bmedal</code> | 🥉 |
 | <code>WIP</code> | 🚧 |
 | <code>TOP</code> | 🔝 |
+| <code>drums</code> | 🥁 |
+| <code>drum</code> | 🥁 |
 | <code>NO</code> | ❌ |
 | <code>YES</code> | ✅ |
 | <code>N</code> | ❌ |
@@ -46,7 +48,6 @@
 | <code>gun</code> | 🔫 |
 | <code>knife</code> | 🔪 |
 | <code>shovel</code> | 🪏 |
-| <code>grave</code> | 🪦 |
 | <code>tomb</code> | 🪦 |
 | <code>ninja</code> | 🥷 |
 | <code>zombie</code> | 🧟 |

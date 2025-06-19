@@ -29,6 +29,8 @@ inoremap \\smedal 🥈
 inoremap \\bmedal 🥉
 inoremap \\WIP 🚧
 inoremap \\TOP 🔝
+inoremap \\drums 🥁
+inoremap \\drum 🥁
 inoremap \\NO ❌
 inoremap \\YES ✅
 inoremap \\N ❌
@@ -45,7 +47,6 @@ inoremap \\jack 🎃
 inoremap \\gun 🔫
 inoremap \\knife 🔪
 inoremap \\shovel 🪏
-inoremap \\grave 🪦
 inoremap \\tomb 🪦
 inoremap \\ninja 🥷
 inoremap \\zombie 🧟
