@@ -1168,8 +1168,6 @@ Fromto            ⥃
 toFrom            ⥄
 eqto              ⥱
 eqfrom            ⭀
-isoto             ⥲
-isofrom           ⭉
 simto             ⥲
 simfrom           ⭉
 misto             ⭇
@@ -1444,6 +1442,20 @@ conjrel           ≈  # group [conj]ugation [rel]ation
 conjeq            ≈  # up to [conj]ugation, [eq]uals
 conjsim           ≈  # [conj]ugationally [sim]ilar
 conjor            ϱ  # [conj]ugat[or]
+homto             →ͪ
+homfrom           ←ͪ
+Homto             ‒hom→
+Homfrom           ←hom‒
+Monto             ‒mon→
+Monfrom           ←mon‒
+Epito             ‒epi→
+Epifrom           ←epi‒
+Homto,            ‒ͪ‒ͦ‒ͫ→
+Homfrom,          ←‒ͪ‒ͦ‒ͫ
+Monto,            ‒ͫ‒ͦ‒ᷠ→
+Monfrom,          ←‒ͫ‒ͦ‒ᷠ
+Epito,            ‒ͤ‒ᷮ‒ͥ→
+Epifrom,          ←‒ͤ‒ᷮ‒ͥ
 slop              ⋄  # unbiased [s]emi[l]attice [op]eration (∨∧)
 slOp              ◇
 slop,             ⬫
@@ -1540,12 +1552,38 @@ coprod            ⨿
 Coprod            ∐
 op                ᵒᵖ # [op]posite
 ab                ᵃᵇ # [ab]elianization
-homto             →ͪ  # [hom]omorphism
-monoto            →ͫ  # [mono]morphism
-epito             →ͤ  # [epi]morphism
-homfrom           ←ͪ
-epifrom           ←ͤ
-monofrom          ←ͫ
+thento            ⇢
+thenfrom          ⇠
+thenl             ⇠
+thenr             ⇢
+thenu             ⇡
+thend             ⇣
+thenuniqto        ̣̍⇢   # XXX: usually problematic
+thenuniqfrom      ̣̍⇢   # XXX: usually problematic
+uniqto            ‒!→
+uniqfrom          ←!‒
+theto             ‒!→
+thefrom           ←!‒
+forallto          ‒∀→
+forallfrom        ←∀‒
+fato              ‒∀→
+fafrom            ←∀‒
+existsto          ‒∃→
+existsfrom        ←∃‒
+exto              ‒∃→
+exfrom            ←∃‒
+uniqueto          ‒∃!→
+uniquefrom        ←∃!‒
+unto              ‒∃!→
+unfrom            ←∃!‒
+monto             ↣  # [mon]omorphism
+monfrom           ↢
+epito             ↠  # [epi]morphism
+epifrom           ↞
+isoto             ⥲  # [iso]morphism
+isofrom           ⭉
+Isoto             ‒≅→
+Isofrom           ←≅‒
 natto             ⇒  # [nat]ural transformation
 natfrom           ⇐
 natur             ⇒  # [natu]ral transformation [r]ight
