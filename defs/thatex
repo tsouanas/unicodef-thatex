@@ -14,7 +14,7 @@
 
 vspc              ␣  # [v]isible [sp]a[c]e
 spc               ␣  # (synonym)
-nbsyl             ⁞  # [n]o[b]reak [syl]lable
+nbsyl             ⁞  # [n]o-[b]reak [syl]lable
 nbspc                # [n]o-[b]reak [sp]a[c]e
 nbsp                 # [n]o-[b]reak [sp]ace
 nnbspc               # [n]arrow
@@ -22,7 +22,7 @@ nnbsp                # [n]arrow
 nbh               ‑  # [n]o-[b]reak [h]yphen
 nb-               ‑  #
 thinspc            
-thin             dpography  
+thin               
 hairspc            
 enspc              
 emspc              
