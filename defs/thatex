@@ -206,63 +206,63 @@ teu               ℆
 # %{{{ checkboxes and radio buttons 
 
 ## ballot / checkboxes
-checkb      ☐  # [check]box ([b]lank)
-checkc      ☑  # [c]heck-marked
-checkt      ☑  # [t]ick-marked
-checkx      ☒  # [x]-marked
-checkm      ☒  # x-[m]arked
-cbox        ☐  # [c]heck[box]
-cboxb       ☐  # [b]lank
-cboxc       ☑  # [c]heck-marked
-cboxt       ☑  # [t]ick-marked
-cboxx       ☒  # [x]-marked
-cboxm       ☒  # x-[m]arked
-ymark       ✓  # [y]es [mark]
-nmark       ✗  # [n]o
-tick        ✓
-yeap        ✓
-nope        ✗
-bmark       ◎  # [b]ullseye
-omark       ○
-tmark       △
-xmark       ✕
+checkb            ☐  # [check]box ([b]lank)
+checkc            ☑  # [c]heck-marked
+checkt            ☑  # [t]ick-marked
+checkx            ☒  # [x]-marked
+checkm            ☒  # x-[m]arked
+cbox              ☐  # [c]heck[box]
+cboxb             ☐  # [b]lank
+cboxc             ☑  # [c]heck-marked
+cboxt             ☑  # [t]ick-marked
+cboxx             ☒  # [x]-marked
+cboxm             ☒  # x-[m]arked
+ymark             ✓  # [y]es [mark]
+nmark             ✗  # [n]o
+tick              ✓
+yeap              ✓
+nope              ✗
+bmark             ◎  # [b]ullseye
+omark             ○
+tmark             △
+xmark             ✕
 
 ## radio buttons
-rad         ○  # [rad]io button
-rado        ○  # [o]ption
-radd        ◎  # [d]efault
-rads        ◉  # [s]elected
-radw        ◎  # [w]hite-selected
-radb        ◉  # [b]lack
-radbe       ◎  # [b]ulls[e]ye
-radfe       ◉  # [f]ish[e]ye
+rad               ○  # [rad]io button
+rado              ○  # [o]ption
+radd              ◎  # [d]efault
+rads              ◉  # [s]elected
+radw              ◎  # [w]hite-selected
+radb              ◉  # [b]lack
+radbe             ◎  # [b]ulls[e]ye
+radfe             ◉  # [f]ish[e]ye
 
 # %}}}
 
 # %{{{ music 
 
-fclef       𝄢
-cclef       𝄡
-gclef       𝄞
-natu        ♮  # [natu]ral
-flat        ♭
-fflat       𝄫
-dflat       𝄫
-sharp       ♯
-ssharp      𝄪  # (double)
-dsharp      𝄪  # [d]ouble
-sharpu      𝄰  # [u]p
-sharpd      𝄱  # [d]own
-qsharp      𝄲  # [q]uarter-tone [sharp]
-qnote       ♩  # [q]uarter
-enote       ♪  # [e]ightth
-enotes      ♫
-snotes      ♬  # [s]ixteenth
-4note       ♩
-8note       ♪
-8notes      ♫
-16notes     ♬
-turn        ∾
+fclef             𝄢
+cclef             𝄡
+gclef             𝄞
+natu              ♮  # [natu]ral
+flat              ♭
+fflat             𝄫
+dflat             𝄫
+sharp             ♯
+ssharp            𝄪  # (double)
+dsharp            𝄪  # [d]ouble
+sharpu            𝄰  # [u]p
+sharpd            𝄱  # [d]own
+qsharp            𝄲  # [q]uarter-tone [sharp]
+qnote             ♩  # [q]uarter
+enote             ♪  # [e]ightth
+enotes            ♫
+snotes            ♬  # [s]ixteenth
+4note             ♩
+8note             ♪
+8notes            ♫
+16notes           ♬
+turn              ∾
 
 # %}}}
 
@@ -2134,18 +2134,18 @@ bdots             ⋱  # [b]ackslash
 
 ## quotes %{{{
 
-ls              «  # [s]poken words
-rs              »
-lw              “  # [w]ritten words
-rw              ”
-lb              ‟  # [b]unny ears (sarcasm, figurative)
-rb              ”
-lS              ‹  # (nesting)
-rS              ›
-lW              ‘
-rW              ’
-lB              ‛
-rB              ’
+ls                «  # [s]poken words
+rs                »
+lw                “  # [w]ritten words
+rw                ”
+lb                ‟  # [b]unny ears (sarcasm, figurative)
+rb                ”
+lS                ‹  # (nesting)
+rS                ›
+lW                ‘
+rW                ’
+lB                ‛
+rB                ’
 
 # %}}}
 
@@ -2284,14 +2284,14 @@ ubrack            ⎵
 # for height > 2: [u]pper, e[x]tension, [m]iddle, [l]ower
 # for height = 2: [t]op, [b]ottom
 # (see also: multiline brackets in defs/math_)
-sumt   ⎲  # sum
-sumb   ⎳  #
-intt   ⌠  # [int]egral (height = 2)
-intb   ⌡  #
-intu   ⌠  # [int]egral (height > 2)
-intm   ⎮  #
-intx   ⎮  #
-intl   ⌡  #
+sumt              ⎲  # sum
+sumb              ⎳  #
+intt              ⌠  # [int]egral (height = 2)
+intb              ⌡  #
+intu              ⌠  # [int]egral (height > 2)
+intm              ⎮  #
+intx              ⎮  #
+intl              ⌡  #
 # %}}}
 
 # %}}}
@@ -3264,19 +3264,19 @@ _top              ˕
 
 # sem-named %{{{
 
-@cantorc   ̿   # [cantor]'s [c]ardinality
-@oinv      ̅   # [o]ver [inv]erse
-@oiinv     ̿   # (double)
-@cconj     ̅   # [c]omplex [conj]ugate
-@ccconj    ̿   # (double)
-@dual       ᷙ
-@dual,      ᷘ
-@vec        ⃗  # [vec]tor
-@cev        ⃖  # (vec backwards)
-@vecr       ⃗  # [r]ight
-@vecl       ⃖  # [l]eft
-@check     ̌
-@forbid    ⃠
+@cantorc           ̿   # [cantor]'s [c]ardinality
+@oinv              ̅   # [o]ver [inv]erse
+@oiinv             ̿   # (double)
+@cconj             ̅   # [c]omplex [conj]ugate
+@ccconj            ̿   # (double)
+@dual              ᷙ
+@dual,             ᷘ
+@vec               ⃗  # [vec]tor
+@cev               ⃖  # (vec backwards)
+@vecr              ⃗  # [r]ight
+@vecl              ⃖  # [l]eft
+@check             ̌
+@forbid           ⃠
 
 # %}}}
 
@@ -3285,306 +3285,307 @@ _top              ˕
 ## [o]ver (above) %{{{
 
 ### arrows
-@oarrl      ⃖  # [arr]ow [l]eft
-@oarrr      ⃗
-@oleft      ⃖  # (arrow)
-@oright     ⃗
-@ofrom      ⃖
-@oto        ⃗
-@oparfrom   ⃐
-@oparto     ⃑
-@olt        ᷾
-@ogt        ͐
-@obi        ⃡
-@oliff      ⃡
-@oarcl      ⃔
-@oarcr      ⃕
-@orotpos    ⃔
-@orotneg    ⃕
-@orotp      ⃔
-@orotn      ⃕
-@orotl      ⃔
-@orotr      ⃕
-@oproved    ҆
-@oproves    ҅
+@oarrl             ⃖  # [arr]ow [l]eft
+@oarrr             ⃗
+@oleft             ⃖  # (arrow)
+@oright            ⃗
+@ofrom             ⃖
+@oto               ⃗
+@oparfrom          ⃐
+@oparto            ⃑
+@olt               ᷾
+@ogt               ͐
+@obi               ⃡
+@oliff             ⃡
+@oarcl             ⃔
+@oarcr             ⃕
+@orotpos           ⃔
+@orotneg           ⃕
+@orotp             ⃔
+@orotn             ⃕
+@orotl             ⃔
+@orotr             ⃕
+@oproved           ҆
+@oproves           ҅
 
 ### accentlike
-@otonos     ΄
-@ograve     ̀
-@oggrave    ̏
-@o2grave    ̏
-@oacute     ́
-@oaacute    ̋
-@o2acute    ̋
-@ohook      ̉
-@ocflex     ̂  # [c]ircum[flex]
-@ocaret     ̂
-@ocaron     ̌
-@ocheck     ̌
-@otilde    ̃  # [til]de
-@otil      ̃  # [til]de
-@ontil      ͊
-@ottil      ͌
-@oarc       ̑
-@obreve     ̆
-@obre       ̆
-@omacron    ̄
-@omac       ̄
-@odiaer     ̈  # [diaer]esis
-@otrema     ̈
+@otonos           ΄
+@ograve            ̀
+@oggrave           ̏
+@o2grave           ̏
+@oacute            ́
+@oaacute           ̋
+@o2acute           ̋
+@ohook             ̉
+@ocflex            ̂  # [c]ircum[flex]
+@ocaret            ̂
+@ocaron            ̌
+@ocheck            ̌
+@otilde            ̃  # [til]de
+@otil              ̃  # [til]de
+@ontil             ͊
+@ottil             ͌
+@oarc              ̑
+@obreve            ̆
+@obre              ̆
+@omacron           ̄
+@omac              ̄
+@odiaer            ̈  # [diaer]esis
+@otrema            ̈
 
 ### lines
-@obar       ̄
-@oline      ̅
-@olline     ̿
-@o2line     ̿
-@overt      ̍
-@ovvert     ̎
+@obar              ̄
+@oline             ̅
+@olline            ̿
+@o2line            ̿
+@overt             ̍
+@ovvert            ̎
 
 ### dots
-@odot       ̇
-@oddot      ̈
-@odddot     ⃛
-@oddddot    ⃜
-@o2dot      ̈
-@o3dot      ⃛
-@o4dot      ⃜
+@odot              ̇
+@oddot             ̈
+@odddot            ⃛
+@oddddot           ⃜
+@o2dot             ̈
+@o3dot             ⃛
+@o4dot             ⃜
 
 ### mod / unops
-@oinfty     ᪲
-@oast       ⃰
-@ohat       ̂
-@obridge    ͆
-@ocirc      ̊
-@oring      ̊
-@osharp     ᫆
+@oinfty            ᪲
+@oast              ⃰
+@ohat              ̂
+@obridge           ͆
+@ocirc             ̊
+@oring             ̊
+@osharp            ᫆
 
 ### binops / binrels
-@oplus      ᫈
-@opplus     ᫉
-@otimes     ̽
-@osim       ̃
-@onsim      ͊
-@ossim      ͌
-@osmile     ̆
-@ofrown     ̑
+@oplus             ᫈
+@opplus            ᫉
+@otimes            ̽
+@osim              ̃
+@onsim             ͊
+@ossim             ͌
+@osmile            ̆
+@ofrown            ̑
 
 ### @oX, on the side
-@odot,      ͘
-@ocomma,     ̕
+@odot,             ͘
+@ocomma,           ̕
 
 ### misc
-@ozap       ͛
-@olynch     ᪰
-@othis      ᪳
-@ohere      ᪳
-@ohair     ̾
-@oballs     ᷓ
+@ozap              ͛
+@olynch            ᪰
+@othis             ᪳
+@ohere             ᪳
+@ohair             ̾
+@oballs            ᷓ
 
 # %}}}
 
 ## [u]nder (below) %{{{
 
 ### arrows
-@uarrl      ⃮  # [arr]ow [l]eft
-@uarrr      ⃯
-@uleft      ⃮  # (arrow)
-@uright     ⃯
-@ufrom      ⃮  # (arrow)
-@uto        ⃯
-@uparfrom   ⃭
-@uparto     ⃬
-@ult        ͔  # WARN: abuse: arrowheads
-@ugt        ͕
-@ubi        ͍
-@uliff      ͍
+@uarrl             ⃮  # [arr]ow [l]eft
+@uarrr             ⃯
+@uleft             ⃮  # (arrow)
+@uright            ⃯
+@ufrom             ⃮  # (arrow)
+@uto               ⃯
+@uparfrom          ⃭
+@uparto            ⃬
+@ult               ͔  # WARN: abuse: arrowheads
+@ugt               ͕
+@ubi               ͍
+@uliff             ͍
 
 ### accentlike
-@ucflex     ̭
-@ucaret     ̭
-@ucaron     ̬
-@ucheck     ̬
-@utilde     ̰
-@util       ̰  # [til]de
-@uarc       ̯
-@ubreve     ̯
-@ubre       ̯
-@umacron    ̱
-@umac       ̱
-@udiaer     ̤  # [diaer]esis
-@utrema     ̤
+@ucflex            ̭
+@ucaret            ̭
+@ucaron            ̬
+@ucheck            ̬
+@utilde            ̰
+@util              ̰  # [til]de
+@uarc              ̯
+@ubreve            ̯
+@ubre              ̯
+@umacron           ̱
+@umac              ̱
+@udiaer            ̤  # [diaer]esis
+@utrema            ̤
 
 ### lines
-@ubar       ̱
-@uline      ̲
-@ulline     ̳
+@ubar              ̱
+@uline             ̲
+@ulline            ̳
 
 ### dots, hooks, commas, …
-@udot       ̣
-@uddot      ̤
-@udddot     ⃨
-@u2dot      ̤
-@u3dot      ⃨
-@ucedil     ̧  # [cedil]la
-@ucomma     ̦
-@uhypog      ͅ # [hypog]egrammene
-@uogon      ̨  # [ogon]ek
-@uhookl     ̡
-@uhookr     ̢
+@udot              ̣
+@uddot             ̤
+@udddot            ⃨
+@u2dot             ̤
+@u3dot             ⃨
+@ucedil            ̧  # [cedil]la
+@uced              ̧
+@ucomma            ̦
+@uhypog            ͅ # [hypog]egrammene
+@uogon             ̨  # [ogon]ek
+@uhookl            ̡
+@uhookr            ̢
 
 ### mod / unops
-@ubot       ̝
-@utop       ̞
-@uinfty     ͚
-@uast       ͙
-@uhat       ̬
-@ubridge   ̺
-@ucirc      ̥
-@uring      ̥
-@usquare    ̻
-@usq        ̻
+@ubot              ̝
+@utop              ̞
+@uinfty            ͚
+@uast              ͙
+@uhat              ̬
+@ubridge           ̺
+@ucirc             ̥
+@uring             ̥
+@usquare           ̻
+@usq               ̻
 
 ### binops / binrels
-@uplus      ̟
-@upplus     ᫊
-@utimes     ͓
-@uminus     ̠
-@uttil      ᷽
-@usim       ̰
-@ussim      ᷽
-@usmile     ̮
-@ufrown     ̯
+@uplus             ̟
+@upplus            ᫊
+@utimes            ͓
+@uminus            ̠
+@uttil             ᷽
+@usim              ̰
+@ussim             ᷽
+@usmile            ̮
+@ufrown            ̯
 
 ### misc
-@uzap       ᷏
-@uthis      ͎
-@uhere      ͎
-@usnake     ᷂
-@useagull  ̼
-@uballs    ̫
+@uzap              ᷏
+@uthis             ͎
+@uhere             ͎
+@usnake            ᷂
+@useagull          ̼
+@uballs            ̫
 
 # %}}}
 
 ## [c]ancelling (through) %{{{
 
-@ch        ̵   # [c]ancel [h]orizontally
-@cH        ̶   # (long)
-@cv         ⃓  # [v]ertically
-@cV         ⃒  # (long)
-@cvv        ⃦  # (double) WARN: actually a VV
-@cVV        ⃦
-@cd        ̷   # [d]iagonal
-@cs        ̸   # [s]lash
-@css        ⃫  # (double)
-@cb         ⃥  # [b]ackslash
-@ccirc      ⃘
-@cring      ⃘
-@co         ⃘
-@copos      ⃚
-@coneg      ⃙
-@cleft      ⃪
-@cfrom      ⃪
-@ctil      ̴ 
-@csim      ̴ 
-@cwave     ̴ 
-@cforbid   ⃠
+@ch                ̵   # [c]ancel [h]orizontally
+@cH                ̶   # (long)
+@cv                ⃓  # [v]ertically
+@cV                ⃒  # (long)
+@cvv               ⃦  # (double) WARN: actually a VV
+@cVV               ⃦
+@cd                ̷   # [d]iagonal
+@cs                ̸   # [s]lash
+@css               ⃫  # (double)
+@cb                ⃥  # [b]ackslash
+@ccirc             ⃘
+@cring             ⃘
+@co                ⃘
+@copos             ⃚
+@coneg             ⃙
+@cleft             ⃪
+@cfrom             ⃪
+@ctil              ̴
+@csim              ̴
+@cwave             ̴
+@cforbid           ⃠
 
 # %}}}
 
 ## enclosing ([a]round) %{{{
 
-@acircle     ⃝
-@acirc       ⃝
-@ao          ⃝
-@adiamond    ⃟
-@adia        ⃟
-@ad          ⃟
-@asquare     ⃞
-@asq         ⃞
-@as          ⃞
-@atriangle   ⃤
-@atri        ⃤
-@at          ⃤
-@aforbid   ⃠
-@aninja     ҉
+@acircle           ⃝
+@acirc             ⃝
+@ao                ⃝
+@adiamond          ⃟
+@adia              ⃟
+@ad                ⃟
+@asquare           ⃞
+@asq               ⃞
+@as                ⃞
+@atriangle         ⃤
+@atri              ⃤
+@at                ⃤
+@aforbid           ⃠
+@aninja            ҉
 
 # %}}}
 
 ## letters %{{{
 
-@oa          ͣ
-@ob          ᷨ
-@oc          ͨ
-@od          ͩ
-@oe          ͤ
-@of          ᷫ
-@of,         ᷥ  # WARN: abuse: long s as f
-@og          ᷚ
-@oG          ᷛ
-@oh          ͪ
-@oi          ͥ
-@ok          ᷜ
-@ol          ᷝ
-@oL          ᷞ
-@om          ͫ
-@oM          ᷟ
-@on          ᷠ
-@oN          ᷡ
-@oo          ͦ
-@op          ᷮ
-@or          ͬ
-@oR          ᷢ
-@os          ᷤ
-@ols         ᷥ
-@os,         ᷥ
-@ot          ͭ
-@ou          ͧ
-@ov          ͮ
-@ow          ᷱ
-@ox          ͯ
-@oz          ᷦ
+@oa                ͣ
+@ob                ᷨ
+@oc                ͨ
+@od                ͩ
+@oe                ͤ
+@of                ᷫ
+@of,               ᷥ  # WARN: abuse: long s as f
+@og                ᷚ
+@oG                ᷛ
+@oh                ͪ
+@oi                ͥ
+@ok                ᷜ
+@ol                ᷝ
+@oL                ᷞ
+@om                ͫ
+@oM                ᷟ
+@on                ᷠ
+@oN                ᷡ
+@oo                ͦ
+@op                ᷮ
+@or                ͬ
+@oR                ᷢ
+@os                ᷤ
+@ols               ᷥ
+@os,               ᷥ
+@ot                ͭ
+@ou                ͧ
+@ov                ͮ
+@ow                ᷱ
+@ox                ͯ
+@oz                ᷦ
 
-@oal        ᷧ
-@oalpha     ᷧ   # WARN: abuse: latin alpha
-@obeta      ᷩ
+@oal               ᷧ
+@oalpha            ᷧ   # WARN: abuse: latin alpha
+@obeta             ᷩ
 
-@oedh        ᷘ
-@odh         ᷘ
-@oesh       ᷯ
-@osh        ᷯ
-@oint       ᷯ   # WARN: abuse: letter esh
+@oedh              ᷘ
+@odh               ᷘ
+@oesh              ᷯ
+@osh               ᷯ
+@oint              ᷯ   # WARN: abuse: letter esh
 
-@oae         ᷔ
-@oao         ᷕ
-@oav         ᷖ
-@occ         ᷗ
-@oomega      ᷓ  # WARN: abuse: "flattened open a"
+@oae               ᷔ
+@oao               ᷕ
+@oav               ᷖ
+@occ               ᷗ
+@oomega            ᷓ  # WARN: abuse: "flattened open a"
 
-@ur          ᷊
-@ux          ͓
-@uW         ᪿ
-@uM         ᫀ  # WARN: abuse: "inverted W"
+@ur                ᷊
+@ux                ͓
+@uW                ᪿ
+@uM                ᫀ  # WARN: abuse: "inverted W"
 
-@uomega     ̫  # WARN: abuse: "flattened open a"
+@uomega            ̫  # WARN: abuse: "flattened open a"
 
 # %}}}
 
 ## multichar decorators %{{{
 
-@@ohat      ᷍
-@@ofrown    ͡
-@@oline     ͞
-@@otilde    ͠
-@@otil      ͠
-@@osim      ͠
-@@obreve    ͡
-@@obre      ͡
+@@ohat             ᷍
+@@ofrown           ͡
+@@oline            ͞
+@@otilde           ͠
+@@otil             ͠
+@@osim             ͠
+@@obreve           ͡
+@@obre             ͡
 
-@@usmile    ͜
-@@uarc      ͜
-@@uline     ͟
-@@uright    ͢
-@@uto       ͢
+@@usmile           ͜
+@@uarc             ͜
+@@uline            ͟
+@@uright           ͢
+@@uto              ͢
 
 # %}}}
 
