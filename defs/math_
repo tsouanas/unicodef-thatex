@@ -22,6 +22,7 @@
 ^-     ⁻
 ^=     ⁼
 ^*      ⃰
+
 _0     ₀
 _1     ₁
 _2     ₂
@@ -39,20 +40,24 @@ _-     ₋
 _=     ₌
 _^     ‸
 
-# XXX: abuse: not really superscripts
+# WARN: abuse: not really superscripts/subscripts
 ^!     ꜝ
-^<     ᑉ
+^<     ˂
+^>     ˃
 ^/=    ᙾ
 
-# XXX: abuse: not really subscripts
-_*     ⁎
-_!     ﹗
-_?     ﹕
-_#     ﹟
-_:     ﹕
-_;     ﹔
-_,     ﹐
-_.     ﹒
+_<     ˱
+_>     ˲
+_*      ͙
+
+# XXX: abuse: half-widths show up like subscripts in some fonts
+_!     ﹗  # XXX: abuse: half-width char
+_?     ﹕  # XXX: abuse: half-width char
+_#     ﹟  # XXX: abuse: half-width char
+_:     ﹕  # XXX: abuse: half-width char
+_;     ﹔  # XXX: abuse: half-width char
+_,     ﹐  # XXX: abuse: half-width char
+_.     ﹒  # XXX: abuse: half-width char
 
 # %}}}
 
