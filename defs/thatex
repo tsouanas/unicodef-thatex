@@ -3265,13 +3265,14 @@ _sim              ˷
 
 ## superscripts / subscripts: order theory
 ^lt               ˂
-^rt               ˃
+^lt,              ᑉ
+^gt               ˃
 ^meet             ˄
 ^join             ˅
 ^dual              ᷙ
 ^top              ⸆
 _lt               ˱
-_rt               ˲
+_gt               ˲
 _meet             ˰
 _join             ˯
 _bot              ˔
