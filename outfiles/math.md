@@ -34,9 +34,12 @@
 | <code>_=</code> | ₌ |
 | <code>_^</code> | ‸ |
 | <code>^!</code> | ꜝ |
-| <code>^&lt;</code> | ᑉ |
+| <code>^&lt;</code> | ˂ |
+| <code>^&gt;</code> | ˃ |
 | <code>^/=</code> | ᙾ |
-| <code>_*</code> | ⁎ |
+| <code>_&lt;</code> | ˱ |
+| <code>_&gt;</code> | ˲ |
+| <code>_*</code> |  ͙ |
 | <code>_!</code> | ﹗ |
 | <code>_?</code> | ﹕ |
 | <code>_#</code> | ﹟ |

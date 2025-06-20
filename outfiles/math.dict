@@ -430,7 +430,9 @@
     "\\#" = ("insertText:", "﹟");
     "?" = ("insertText:", "﹕");
     "!" = ("insertText:", "﹗");
-    "*" = ("insertText:", "⁎");
+    "*" = ("insertText:", " ͙");
+    ">" = ("insertText:", "˲");
+    "<" = ("insertText:", "˱");
     "\\^" = ("insertText:", "‸");
     "=" = ("insertText:", "₌");
     "-" = ("insertText:", "₋");
@@ -452,7 +454,8 @@
     "/" = {
       "=" = ("insertText:", "ᙾ");
     };
-    "<" = ("insertText:", "ᑉ");
+    ">" = ("insertText:", "˃");
+    "<" = ("insertText:", "˂");
     "!" = ("insertText:", "ꜝ");
     "*" = ("insertText:", " ⃰");
     "=" = ("insertText:", "⁼");

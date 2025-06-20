@@ -33,9 +33,12 @@ inoremap \_- ₋
 inoremap \_= ₌
 inoremap \_^ ‸
 inoremap \^! ꜝ
-inoremap \^< ᑉ
+inoremap \^< ˂
+inoremap \^> ˃
 inoremap \^/= ᙾ
-inoremap \_* ⁎
+inoremap \_< ˱
+inoremap \_> ˲
+inoremap \_*  ͙
 inoremap \_! ﹗
 inoremap \_? ﹕
 inoremap \_# ﹟
