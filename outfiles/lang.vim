@@ -1092,7 +1092,7 @@ inoremap \b] p
 inoremap \c] c
 inoremap \d] q
 inoremap \h] μ
-inoremap \j] ̣᥄
+inoremap \j] ᥄
 inoremap \l] ʃ
 inoremap \o] o
 inoremap \p] b
@@ -1136,7 +1136,7 @@ inoremap \b@v p
 inoremap \c@v c
 inoremap \d@v q
 inoremap \h@v μ
-inoremap \j@v ̣᥄
+inoremap \j@v ᥄
 inoremap \l@v ʃ
 inoremap \o@v o
 inoremap \p@v b
@@ -1180,7 +1180,7 @@ inoremap \b@V p
 inoremap \c@V c
 inoremap \d@V q
 inoremap \h@V μ
-inoremap \j@V ̣᥄
+inoremap \j@V ᥄
 inoremap \l@V ʃ
 inoremap \o@V o
 inoremap \p@V b
@@ -1235,8 +1235,8 @@ inoremap \e{ ǝ
 inoremap \f{ ɟ
 inoremap \g{ ƃ
 inoremap \h{ ɥ
-inoremap \i{ ̣ı
-inoremap \j{ ̣ɾ
+inoremap \i{ ɪ̣
+inoremap \j{ ɾ̣
 inoremap \k{ ʞ
 inoremap \l{ ʃ
 inoremap \m{ ɯ
@@ -1305,8 +1305,8 @@ inoremap \e@p ǝ
 inoremap \f@p ɟ
 inoremap \g@p ƃ
 inoremap \h@p ɥ
-inoremap \i@p ̣ı
-inoremap \j@p ̣ɾ
+inoremap \i@p ɪ̣
+inoremap \j@p ɾ̣
 inoremap \k@p ʞ
 inoremap \l@p ʃ
 inoremap \m@p ɯ
@@ -1375,8 +1375,8 @@ inoremap \e@P ǝ
 inoremap \f@P ɟ
 inoremap \g@P ƃ
 inoremap \h@P ɥ
-inoremap \i@P ̣ı
-inoremap \j@P ̣ɾ
+inoremap \i@P ɪ̣
+inoremap \j@P ɾ̣
 inoremap \k@P ʞ
 inoremap \l@P ʃ
 inoremap \m@P ɯ

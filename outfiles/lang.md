@@ -1093,7 +1093,7 @@
 | <code>c]</code> | c |
 | <code>d]</code> | q |
 | <code>h]</code> | μ |
-| <code>j]</code> | ̣᥄ |
+| <code>j]</code> | ᥄ |
 | <code>l]</code> | ʃ |
 | <code>o]</code> | o |
 | <code>p]</code> | b |
@@ -1137,7 +1137,7 @@
 | <code>c@v</code> | c |
 | <code>d@v</code> | q |
 | <code>h@v</code> | μ |
-| <code>j@v</code> | ̣᥄ |
+| <code>j@v</code> | ᥄ |
 | <code>l@v</code> | ʃ |
 | <code>o@v</code> | o |
 | <code>p@v</code> | b |
@@ -1181,7 +1181,7 @@
 | <code>c@V</code> | c |
 | <code>d@V</code> | q |
 | <code>h@V</code> | μ |
-| <code>j@V</code> | ̣᥄ |
+| <code>j@V</code> | ᥄ |
 | <code>l@V</code> | ʃ |
 | <code>o@V</code> | o |
 | <code>p@V</code> | b |
@@ -1236,8 +1236,8 @@
 | <code>f{</code> | ɟ |
 | <code>g{</code> | ƃ |
 | <code>h{</code> | ɥ |
-| <code>i{</code> | ̣ı |
-| <code>j{</code> | ̣ɾ |
+| <code>i{</code> | ɪ̣ |
+| <code>j{</code> | ɾ̣ |
 | <code>k{</code> | ʞ |
 | <code>l{</code> | ʃ |
 | <code>m{</code> | ɯ |
@@ -1306,8 +1306,8 @@
 | <code>f@p</code> | ɟ |
 | <code>g@p</code> | ƃ |
 | <code>h@p</code> | ɥ |
-| <code>i@p</code> | ̣ı |
-| <code>j@p</code> | ̣ɾ |
+| <code>i@p</code> | ɪ̣ |
+| <code>j@p</code> | ɾ̣ |
 | <code>k@p</code> | ʞ |
 | <code>l@p</code> | ʃ |
 | <code>m@p</code> | ɯ |
@@ -1376,8 +1376,8 @@
 | <code>f@P</code> | ɟ |
 | <code>g@P</code> | ƃ |
 | <code>h@P</code> | ɥ |
-| <code>i@P</code> | ̣ı |
-| <code>j@P</code> | ̣ɾ |
+| <code>i@P</code> | ɪ̣ |
+| <code>j@P</code> | ɾ̣ |
 | <code>k@P</code> | ʞ |
 | <code>l@P</code> | ʃ |
 | <code>m@P</code> | ɯ |
