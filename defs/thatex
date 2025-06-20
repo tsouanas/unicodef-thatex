@@ -64,7 +64,7 @@ paraos            ⸏  # [para]graph[os]
 fparaos           ⸐  # [f]orked
 rfparaos          ⸑  # [r]eversed [f]orked
 diple             >  # [diple]
-diplep            ̇>  # [p]eriestigmene
+diplep            >̇  # [p]eriestigmene
 diplepp           ⸖  # dipla (doubly) [pp]eriestigmene
 obelos            –
 obelosp           ⸓  # [d]otted
@@ -642,11 +642,11 @@ rats              ℚ
 irrats            𝕀
 irratios          ℝ∖ℚ
 reals             ℝ
-extreals          ̅ℝ
+extreals          ℝ̅
 comps             ℂ
 complex           ℂ
-comps,            ̧ℂ
-complex,          ̧ℂ
+comps,            ℂ̧
+complex,          ℂ̧
 quats             ℍ
 qi                𝐢
 qj                𝐣
@@ -668,20 +668,20 @@ notin             ∉  # INFO: TeX compat
 notni             ∌  # INFO: TeX compat
 in,               ε
 ni,               ɜ
-nin,              ̸ε
-nni,              ̸ɜ
+nin,              ε̸
+nni,              ɜ̸
 vin,              ო
 vni,              ω
-vnin,             ̶ო
-vnni,             ̶ω
-in,,              Ɛ
-ni,,              Ɜ
-nin,,             ̸Ɛ
-nni,,             ̸Ɜ
-vin,,             Ო
-vni,,             Ⲱ
-vnin,,            ̶Ო
-vnni,,            ̶Ⲱ
+vnin,             ო̶
+vnni,             ω̶
+In,               Ɛ
+Ni,               Ɜ
+Nin,              Ɛ̸
+Nni,              Ɜ̸
+Vin,              Ო
+Vni,              Ⲱ
+Vnin,             Ო̶
+Vnni,             Ⲱ̶
 Inter             ⋂
 Union             ⋃
 inter             ∩
@@ -724,10 +724,14 @@ subsetneq         ⊊
 supsetneq         ⊋
 subsneq           ⊊
 supsneq           ⊋
+dsubset           ⫃  # [d]ot
+dsupset           ⫄
+dsubs             ⫃
+dsups             ⫄
 isubset           ⫃  # [i]nhabited
 isupset           ⫄
-isubs             ⫃  # XXX: should look like: ̱⪽ or ̲⪽
-isups             ⫄  # XXX: should look like: ̱⪾ or ̲⪾
+isubs             ⫃  # XXX: · should be inside (like in ⪽)
+isups             ⫄  # XXX: · should be inside (like in ⪽)
 ihsubset          ⪽  # [h]orse
 ihsupset          ⪾
 ihsubs            ⪽
@@ -738,10 +742,12 @@ hsubssups         ⫓
 hsupssubs         ⫔
 hsubssubs         ⫕
 hsupssups         ⫖
-subssups          ̵⫓  # WARN: usually ugly
-supssubs          ̵⫔  # WARN: usually ugly
-subssubs          ̵⫕  # WARN: usually ugly
-supssups          ̵⫖  # WARN: usually ugly
+subssups          ⫓̶  # WARN: usually ugly
+supssubs          ⫔̶  # WARN: usually ugly
+subssubs          ⫕̶  # WARN: usually ugly
+supssups          ⫖̶  # WARN: usually ugly
+hsubstimes        ⫁
+hsupstimes        ⫂
 powerset          ℘
 power             ℘
 pset              ℘
@@ -914,8 +920,8 @@ tderiv            𝛿
 tder              𝛿
 codiff            𝛿    # [codiff]erential (delta)
 codiffs           ★𝑑★  # [codiff]erential with hodge star
-crossdot          ̣×
-dotcross          ̇×  # INFO: dottimes (⨰) for consistency
+crossdot          ⨯̣
+dotcross          ⨯̇  # INFO: dottimes (⨰) for consistency⨯̣
 dotdot            ⁚
 crosscross         ͓̽
 
@@ -1105,9 +1111,9 @@ psetpre           ℘⃖  # contravariant [pset] function-[pre]image
 pimg              ℘⃗
 ppre              ℘⃖
 astimg            ⁎  # covariant [ast]erisk [im]a[g]e
-astpre             ⃰  # contravariant [ast]erisk [pre]image
+astpre             ⃰  # contravariant [ast]erisk [pre]image
 aimg              ⁎
-apre               ⃰
+apre               ⃰
 surjto            ↠  # [surj]ection
 surjfrom          ↞
 vsurjfrom         ↟
@@ -1201,20 +1207,20 @@ dato              ⇢  # [d]ash
 dafrom            ⇠
 doto              ⤑  # [do]tted
 dofrom            ⬸
-dto               ⇢
-dfrom             ⇠
-dotto             ̇→
-dotfrom           ̇←
-ddotto            ̈→
-ddotfrom          ̈←
+dotto            →̇
+dotfrom          ←̇
+ddotto           →̈
+ddotfrom         ←̈
 dddotto           →⃛
 dddotfrom         ←⃛
-2dotto            ̈→
-2dotfrom          ̈←
+2dotto           →̈
+2dotfrom         ←̈
 3dotto            →⃛
 3dotfrom          ←⃛
 dotsto            →⃛
 dotsfrom          ←⃛
+dto               ⇢
+dfrom             ⇠
 astto             →⃰
 astfrom           ←⃰
 leadsto           ↝
@@ -1282,11 +1288,11 @@ nsim              ≁
 ssim              ≈
 nssim             ≉
 sssim             ≋
-nsssim            ̸≋
+nsssim            ≋̸
 2sim              ≈
 n2sim             ≉
 3sim              ≋
-n3sim             ̸≋
+n3sim             ≋̸
 simeq             ≃
 nsimeq            ≄
 simneq            ≆
@@ -1377,21 +1383,21 @@ expsto            ⤳  # [exp]and[s] [to]
 expsfrom          ⬿
 expto             ⤳  # [exp]and[s] [to]
 expfrom           ⬿
-CASE              ̲c̲a̲s̲e
-OF                ̲o̲f
-MATCH             ̲m̲a̲t̲c̲h
-WITH              ̲w̲i̲t̲h
-IF                ̲i̲f
-THEN              ̲t̲h̲e̲n
-ELSE              ̲e̲l̲s̲e
-BOOM              ̲b̲o̲o̲m
-ABORT             ̲a̲b̲o̲r̲t
-OUTL              ̲o̲u̲t̲l
-OUTR              ̲o̲u̲t̲r
-INL               ̲i̲n̲l
-INR               ̲i̲n̲r
-FST               ̲f̲s̲t
-SND               ̲s̲n̲d
+CASE             c̲a̲s̲e̲
+OF               o̲f̲
+MATCH            m̲a̲t̲c̲h̲
+WITH             w̲i̲t̲h̲
+IF               i̲f̲
+THEN             t̲h̲e̲n̲
+ELSE             e̲l̲s̲e̲
+BOOM             b̲o̲o̲m̲
+ABORT            a̲b̲o̲r̲t̲
+OUTL             o̲u̲t̲l̲
+OUTR             o̲u̲t̲r̲
+INL              i̲n̲l̲
+INR              i̲n̲r̲
+FST              f̲s̲t̲
+SND              s̲n̲d̲
 
 # %}}}
 
@@ -1468,7 +1474,7 @@ conjor            ϱ  # [conj]ugat[or]
 homto             →ͪ
 homfrom           ←ͪ
 Homto             ‒hom→
-Homfrom           ←hom‒
+Homfrom           ←h̶o̶m̶‒
 Homto,            ‒ͪ‒ͦ‒ͫ→
 Homfrom,          ←‒ͪ‒ͦ‒ͫ
 slop              ⋄  # unbiased [s]emi[l]attice [op]eration (∨∧)
@@ -1506,7 +1512,7 @@ tpose             ᵀ
 transpose,        ⸆
 transp,           ⸆
 tpose,            ⸆
-units             ̽ 
+units              ̽
 ewprod            ⊙  # [e]lement/ntry-[w]ise [prod]uct
 schurprod         ⊙  # [Schur] [prod]uct
 hadaprod          ⊙  # [Hada]mard [prod]uct
@@ -1579,12 +1585,12 @@ thenl             ⇠
 thenr             ⇢
 thenu             ⇡
 thend             ⇣
-thenuniqto        ̣̍⇢   # XXX: usually problematic
-thenuniqfrom      ̣̍⇢   # XXX: usually problematic
+thenuniqto        ⇢̣̍   # XXX: usually problematic
+thenuniqfrom      ⇢̣̍   # XXX: usually problematic
 uniqto            ‒!→
-uniqfrom          ←!‒
+uniqfrom          ←!̶‒
 theto             ‒!→
-thefrom           ←!‒
+thefrom           ←!̶‒
 forallto          ‒∀→
 forallfrom        ←∀‒
 fato              ‒∀→
@@ -1856,7 +1862,7 @@ vposs             ◇  # [v]ar
 
 # order theory %{{{
 
-dual               ᷙ
+dual              ​ᷙ
 dual,             ᶞ
 Dual              ∂
 Dual,             ð
@@ -2354,12 +2360,12 @@ Qgolf             Ꝙ
 
 # ,-fancified letters %{{{
 
-1,                ̵1
+1,                1̵
 2,                Ꝝ
 3,                Ӡ
 3,,               Ꝫ
 4,                Ꜭ
-7,                ̵7
+7,                7̵
 9,                Ꝯ
 a,                ɑ
 A,                Ɑ
@@ -2765,9 +2771,9 @@ wedgeq            ≙
 veeq              ≚
 asteq             ⩮
 doteq             ≐
-ddoteq            ̈=
+ddoteq            =̈
 dddoteq           =⃛
-2doteq            ̈=
+2doteq            =̈
 3doteq            =⃛
 dotseq            =⃛
 eqdot             ⩦
@@ -3171,8 +3177,8 @@ wudot             ᐧ  # [u]pper
 ^diaer            ¨  # [diaer]esis
 ^trema            ¨
 ^grave            `
-^ggrave           ̏ 
-^2grave           ̏ 
+^ggrave            ̏
+^2grave            ̏
 ^acute            ´
 ^aacute           ˝
 ^2acute           ˝
