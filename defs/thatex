@@ -56,6 +56,8 @@ anotel            ·
 swung             ⁓  # [swung] dash
 hhyph             ⸗  # oblique (double) [hhyph]en
 dhyph             ⸚  # [hyph]en with [d]iaeresis
+hyphenp           ‧  # [hyphen]ation [p]oint
+hyp               ‧
 
 coronis           ⸎
 ancorad           ⸔  # [ancora] [d]ownwards  WARN: wrong glyph common
