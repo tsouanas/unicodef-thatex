@@ -636,6 +636,10 @@ sempty            ∅  # [s]lash
 bempty            ⦰  # [b]ackslash
 coempty           O⃥
 coempty,          ⦰
+pos               ₊
+neg               ₋
+pos,              ˲₀
+neg,              ˱₀
 algs              𝔸  # [alg]ebraic[s]
 bools             𝔹
 nats              ℕ
