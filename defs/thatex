@@ -452,7 +452,7 @@ longdiv           ⟌
 percen            %
 permil            ‰
 permyr            ‱
-ntimes            ·  # [n]umeric [times]
+ntimes            ⋅  # [n]umeric [times]
 plus              +
 cross             ⨯  # WARN: different character from `times`
 times             ×
@@ -2552,7 +2552,7 @@ bangq             ⁉
 
 # individuals / ops / rels %{{{
 
-cdot              ·  # [c]enter [dot]
+cdot              ·  # [c]enter [dot] WARN: actually interpunct
 dot               ·  # default: [c]
 point             ·
 bul               ∙  # WARN: bul is not short for bullet but for bullet op
