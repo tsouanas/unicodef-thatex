@@ -648,7 +648,13 @@ rats              ℚ
 irrats            𝕀
 irratios          ℝ∖ℚ
 reals             ℝ
-extreals          ℝ̅
+extreals          ℝ̅   # [ext]ended
+ereals            ℝ̅   # [e]xtended
+xreals            ℝ̅   # e[x]tended
+hreals             ⃰ℝ  # [h]yperreals
+surno             ℕo  # [sur]reals
+suron             𝕆n
+sreals            𝕊
 comps             ℂ
 complex           ℂ
 comps,            ℂ̧
