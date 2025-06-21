@@ -2089,6 +2089,14 @@ wayb              ≪
 waya              ≫
 wb                ≪
 wa                ≫
+gtto              ⥸
+ltfrom            ⥶
+geqto             ⥸
+leqfrom           ⥶
+Fromlt            ⥷
+Togt              ⭃
+ltFrom            ⥷
+gtTo              ⭃
 downsets          𝓞
 downs             𝓞
 dsets             𝓞
@@ -2262,6 +2270,16 @@ fall              ꜜ
 rise              ꜛ
 drop              ꜜ
 raise             ꜛ
+upwards           ꜛ
+downwards         ꜜ
+uwards            ꜛ
+dwards            ꜜ
+uwards,           ⌃
+dwards,           ⌄
+upw               ꜛ
+downw             ꜜ
+upw,              ⌃
+downw,            ⌄
 
 # %}}}
 
