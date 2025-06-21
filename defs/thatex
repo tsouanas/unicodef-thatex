@@ -1556,6 +1556,46 @@ ff                𝘧𝘧
 
 # %}}}
 
+# combinatory logic (CL) %{{{
+
+## notation
+cstep             ▹
+clstep          ᴄʟ▹
+
+## combinators
+cA                𝗔
+cB                𝗕
+cB'               𝗕′
+cC                𝗖
+cD                𝗗
+cE                𝗘
+cF                𝗙
+cG                𝗚
+cH                𝗛
+cI                𝗜
+cJ                𝗝
+cK                𝗞
+cL                𝗟
+cM                𝗠
+cN                𝗡
+cO                𝗢
+cP                𝗣
+cQ                𝗤
+cR                𝗥
+cS                𝗦
+cT                𝗧
+cU                𝗨
+cV                𝗩
+cW                𝗪
+cX                𝗫
+cY                𝗬
+cZ                𝗭
+cTh               𝝝
+cOm               𝝮
+com               𝞈
+
+# %}}}
+
 # algebra / topology %{{{
 
 cong              ≡
