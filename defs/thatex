@@ -3246,7 +3246,9 @@ halfd             ￬
 halfl             ￩
 halfr             ￫
 
-## arrow (BRUTAL) abbrevs %{{{
+# %}}}
+
+### arrow (BRUTAL) abbrevs %{{{
 u                 ↑
 d                 ↓
 l                 ←
@@ -3272,8 +3274,6 @@ lr                ⇆
 rl                ⇄
 lll               ⬱
 rrr               ⇶
-
-# %}}}
 
 # %}}}
 
@@ -3326,6 +3326,12 @@ sandl             ⚟  # [sand]wich
 sandr             ⚞
 blowl             ⊱
 blowr             ⊰
+ltl               ⥶
+gtr               ⥸
+leql              ⥶
+geqr              ⥸
+ltL               ⥷
+gtR               ⭃
 
 # %}}}
 
