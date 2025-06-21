@@ -3620,6 +3620,7 @@ _top              ˕
 @ohere             ᪳
 @ohair             ̾
 @oballs            ᷓ
+@oshark            ̃̒
 
 # %}}}
 
@@ -3643,7 +3644,7 @@ _top              ˕
 @ucflex            ̭
 @ucaret            ̭
 @ucaron            ̬
-@ucheck            ̬
+@ucheck            ̭
 @utilde            ̰
 @util              ̰  # [til]de
 @uarc              ̯
@@ -3670,6 +3671,7 @@ _top              ˕
 @ucomma            ̦
 @uhypog            ͅ # [hypog]egrammene
 @uogon             ̨  # [ogon]ek
+@uhook             ̨
 @uhookl            ̡
 @uhookr            ̢
 
@@ -3718,11 +3720,16 @@ _top              ˕
 @cs                ̸   # [s]lash
 @css               ⃫  # (double)
 @cb                ⃥  # [b]ackslash
+@cx                ⃥̸
+@cplus             ̵⃓
+@cPlus             ⃒̶
 @ccirc             ⃘
 @cring             ⃘
 @co                ⃘
 @copos             ⃚
 @coneg             ⃙
+@couropos          ⃚  # [ouro]boros [pos]itive
+@couroneg          ⃙  # [outo]boros [neg]ative
 @cleft             ⃪
 @cfrom             ⃪
 @ctil              ̴
