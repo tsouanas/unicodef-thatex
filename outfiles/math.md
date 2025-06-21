@@ -189,12 +189,14 @@
 | <code>}}</code> | ⦄ |
 | <code>2{</code> | ⦃ |
 | <code>2}</code> | ⦄ |
+| <code>{&vert;</code> | ⦃ |
+| <code>&vert;}</code> | ⦄ |
 | <code>&lt;&vert;</code> | ⦉ |
-| <code>&gt;&vert;</code> | ⦊ |
 | <code>&vert;&gt;</code> | ⦊ |
 | <code>(&vert;</code> | ⦇ |
-| <code>)&vert;</code> | ⦈ |
 | <code>&vert;)</code> | ⦈ |
+| <code>&vert;(</code> | 〖 |
+| <code>)&vert;</code> | 〗 |
 | <code>((</code> | ⦅ |
 | <code>))</code> | ⦆ |
 | <code>2(</code> | ⸨ |

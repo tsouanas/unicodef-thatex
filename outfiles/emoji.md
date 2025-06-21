@@ -32,6 +32,9 @@
 | <code>TOP</code> | 🔝 |
 | <code>drums</code> | 🥁 |
 | <code>drum</code> | 🥁 |
+| <code>Radiohaz</code> | ☢️ |
+| <code>Toxic</code> | ☣️ |
+| <code>Biohaz</code> | ☣️ |
 | <code>NO</code> | ❌ |
 | <code>YES</code> | ✅ |
 | <code>N</code> | ❌ |
@@ -332,6 +335,7 @@
 | <code>/ptrack</code> | ⏮ |
 | <code>/skipf</code> | ⏭ |
 | <code>/skipb</code> | ⏮ |
+| <code>/replay</code> | ↺ |
 | <code>/shuffle</code> | 🔀 |
 | <code>/repeat</code> | 🔁 |
 | <code>/repeat1</code> | 🔂 |

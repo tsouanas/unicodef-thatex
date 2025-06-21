@@ -2,7 +2,6 @@
 | Sequence | Expansion |
 | :------- | :-------: |
 | <code>coffin</code> | ⚰ |
-| <code>pirate</code> | ☠ |
 | <code>wsun</code> | ☼ |
 | <code>bsun</code> | ☀ |
 | <code>sun</code> | ☀ |
@@ -25,6 +24,7 @@
 | <code>atom</code> | ⚛ |
 | <code>medicine</code> | ⚕ |
 | <code>law</code> | ⚖ |
+| <code>pirate</code> | ☠ |
 | <code>bhandl</code> | ☚ |
 | <code>bhandr</code> | ☛ |
 | <code>whandl</code> | ☜ |
@@ -44,6 +44,9 @@
 | <code>wflag</code> | ⚐ |
 | <code>bflag</code> | ⚑ |
 | <code>recycle</code> | ♻ |
+| <code>biohaz</code> | ☣ |
+| <code>toxic</code> | ☣ |
+| <code>poison</code> | ☠ |
 | <code>penta</code> | ⛤ |
 | <code>pentar</code> | ⛥ |
 | <code>pental</code> | ⛦ |

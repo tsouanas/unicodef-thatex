@@ -31,6 +31,9 @@ inoremap \\WIP 🚧
 inoremap \\TOP 🔝
 inoremap \\drums 🥁
 inoremap \\drum 🥁
+inoremap \\Radiohaz ☢️
+inoremap \\Toxic ☣️
+inoremap \\Biohaz ☣️
 inoremap \\NO ❌
 inoremap \\YES ✅
 inoremap \\N ❌
@@ -331,6 +334,7 @@ inoremap \\/ntrack ⏭
 inoremap \\/ptrack ⏮
 inoremap \\/skipf ⏭
 inoremap \\/skipb ⏮
+inoremap \\/replay ↺
 inoremap \\/shuffle 🔀
 inoremap \\/repeat 🔁
 inoremap \\/repeat1 🔂

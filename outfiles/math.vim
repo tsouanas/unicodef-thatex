@@ -188,12 +188,14 @@ inoremap \{{ ⦃
 inoremap \}} ⦄
 inoremap \2{ ⦃
 inoremap \2} ⦄
+inoremap \{<Bar> ⦃
+inoremap \<Bar>} ⦄
 inoremap \<<Bar> ⦉
-inoremap \><Bar> ⦊
 inoremap \<Bar>> ⦊
 inoremap \(<Bar> ⦇
-inoremap \)<Bar> ⦈
 inoremap \<Bar>) ⦈
+inoremap \<Bar>( 〖
+inoremap \)<Bar> 〗
 inoremap \(( ⦅
 inoremap \)) ⦆
 inoremap \2( ⸨
