@@ -3758,6 +3758,41 @@ _top              ˕
 
 # %}}}
 
+## multiple: [s]andwich %{{{
+
+@sdot              ̣̇
+@sddot             ̤̈
+@s2dot             ̤̈
+@s3dot             ⃨⃛
+@sbar              ̱̄
+@sline             ̲̅
+@slline            ̳̿
+@shat              ̬̂
+@scheck            ̭̌
+@stil              ̰̃
+@sttil             ᷽͌
+@s2til             ᷽͌
+@sparen            ̮̑
+@sbracket          ̺͆
+@sangle            ̬̂
+@sang              ̬̂
+@ssea              ̰̃
+@socean            ᷽͌
+@scomma            ̦̒
+@s69               ̦̒
+@sround            ̮̑
+@shook             ̨̉
+@sast              ͙⃰
+@sring             ̥̊
+@sbang             ̣̍
+@smoon             ̯̆
+@sask              ̣̉
+@szap              ᷏͛
+@szeus             ᷏͛
+@sbridge           ̺͆
+
+# %}}}
+
 ## letters %{{{
 
 @oa                ͣ
