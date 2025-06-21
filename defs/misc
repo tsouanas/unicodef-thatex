@@ -7,7 +7,6 @@
 # dingbats / drawings %{{{
 
 coffin        ⚰
-pirate        ☠
 wsun          ☼  # [w]hite
 bsun          ☀  # [b]lack
 sun           ☀  # default: [b]
@@ -32,6 +31,7 @@ male          ♂
 atom          ⚛
 medicine      ⚕
 law           ⚖
+pirate        ☠
 
 bhandl        ☚  # [b]lack hand [l]eft
 bhandr        ☛
