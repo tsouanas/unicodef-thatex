@@ -99,7 +99,7 @@ ethcol            ፥  # [eth]iopic [col]on
 
 # %}}}
 
-# misc %{{{
+# struct, print, typography %{{{
 
 para              ¶  # [para]graph
 paras             ¶¶ # [para]graph[s]
@@ -138,40 +138,84 @@ heder             ❧  # [hede]ra [r]ight
 hedel             ☙
 caretins          ⁁  # [caret] [ins]ertion point
 
-versicle          ℣
-ver               ℣
-response          ℟
-res               ℟
-
-percont           ⸮  # [percont]ation point
-rheto             ⸮  # [rheto]rical question
-sarcask           ᥄  # [sarc]asm [ask]
-sarcbang          ᥅
 copyr             ©  # [copyr]ight
 copyl             🄯 # [copyl]eft
 phono             ℗  # [phono]gram
 reg               ®  # [reg]istered
 tm                ™  # [t]rade[m]ark
 
+percont           ⸮  # [percont]ation point
+rheto             ⸮  # [rheto]rical question
+sarcask           ᥄  # [sarc]asm [ask]
+sarcbang          ᥅
+
+versicle          ℣
+ver               ℣
+response          ℟
+res               ℟
+
+prescr            ℞
+propline          ⅊  # [prop]erty [line]
+centerline        ℄
+cbore             ⌴  # [c]ounter[bore]
+csink             ⌵  # [c]ounter[sink]
+teu               ℆
+
+# %}}}
+
+# units, commerce %{{{
+
+## temperature %{{{
+
 degree            °
 deg               °
 degc              °C # [deg]ree [C]elcius
 degf              °F # [deg]ree [F]ahrenheit
 
-estim             ℮  # [estim]ated
+# %}}}
+
+## mass/volume units %{{{
+
 libra             ℔
 ounce             ℥
 dram              ℨ  # fluid drachm
 scruple           ℈
 scrup             ℈
+uncia             𐆑
+semunica          𐆒  # (½ uncia)
+sextula           𐆓  # (⅙ uncia)
+dimidia           𐆔  # (¹⁄₁₂ uncia) [dimidia] sextula
+ssextula          𐆔  # (¹⁄₁₂ uncia) [s]emisextula
+
+# %}}}
+
+## commerce %{{{
+
+estim             ℮  # [estim]ated
 per               ⅌
-prescr            ℞
-propline          ⅊  # [prop]erty [line]
-centerline        ℄
 cadauna           ℆
 c/u               ℆
 account           ℀  # [account] of
 a/c               ℀
+
+# %}}}
+
+## money %{{{
+
+eur               €
+gbp               £
+usd               $
+yen               ¥
+brl               R$
+crz               ₢$
+cent              ¢
+cur               ¤
+
+# %}}}
+
+# %}}}
+
+# sciences %{{{
 
 diameter          ⌀
 diam              ⌀
@@ -181,25 +225,81 @@ mho               Ʊ
 planck            ℎ
 rplanck           ℏ  # [r]educed
 micro             µ
+fuse              ⏛
+ac                ⏦
 
-warn              ⚠
-knuthd            ☡  # [d]anger
-knuthwiz          ☡  # [wiz]ards-only
-knutheso          ☡☡ # [eso]teric
-danger            ☡
-ddanger           ☡☡ # ([d]ouble)
-2danger           ☡☡
-Danger            ☡☡
-caution           ☡
-ccaution          ☡☡
-2caution          ☡☡
-Caution           ☡☡
-fair              ⚖
-work              ⚒
-wip               ⚒  # [w]ork [i]n [p]rogress
-luck              ☘
-fight             ⚔
-teu               ℆
+# %}}}
+
+# computer keyboard / icons %{{{
+
+return            ⏎
+cmd               ⌘
+opt               ⌥
+alt               ⎇
+esc               ␛
+bel               ␇
+bell              ⍾
+compose           ⎄
+cmp               ⎄
+tab               ↹
+rtab              ⇥  # [r]ight
+ltab              ⇤
+tabr              ⇥
+tabl              ⇤
+vtab              ⭿  # [v]ertical tab
+shift             ⇧
+capslock          ⇪
+caps              ⇪
+delete            ␡
+vdelete           ⌦  # [v]ar
+rerase            ⌦
+lerase            ⌫
+erase             ⌫  # default: [l]
+backs             ⌫
+bspace            ⌫
+undo              ↶
+redo              ↷
+undokey           ⎌
+signin            ⎆
+login             ⎆
+enter             ⎆
+pgup              ⎗
+pgdn              ⎘
+prints            ⎙  # [print][s]creen
+pscreen           ⎙  # [p]rint[screen]
+replay            ↺
+sleepkey          ⏾
+onoff             ⏻
+settings          ⚙
+
+# %}}}
+
+# directions and dimensions %{{{
+
+up                ↑
+down              ↓
+left              ←
+right             →
+lbelow            ⬐  # [l]eft [below]
+rbelow            ⬎
+lbel              ⬐
+rbel              ⬎
+labove            ⬑
+rabove            ⬏
+labo              ⬑
+rabo              ⬏
+archfrom          ⇤  # [arch]itect's
+archto            ⇥
+varchfrom         ⤒  # [v]ertical
+varchto           ⤓
+measurefrom       ⇤
+measureto         ⇥
+measfrom          ⇤
+measto            ⇥
+vmeasurefrom      ⤒  # [v]ertically
+vmeasureto        ⤓
+vmeasfrom         ⤒
+vmeasto           ⤓
 
 # %}}}
 
@@ -239,6 +339,29 @@ radfe             ◉  # [f]ish[e]ye
 
 # %}}}
 
+# reader signs %{{{
+
+warn              ⚠
+knuthd            ☡  # [d]anger
+knuthwiz          ☡  # [wiz]ards-only
+knutheso          ☡☡ # [eso]teric
+danger            ☡
+ddanger           ☡☡ # ([d]ouble)
+2danger           ☡☡
+Danger            ☡☡
+caution           ☡
+ccaution          ☡☡
+2caution          ☡☡
+Caution           ☡☡
+fair              ⚖
+work              ⚒
+wip               ⚒  # [w]ork [i]n [p]rogress
+luck              ☘
+fight             ⚔
+nuclear           ☢
+
+# %}}}
+
 # %{{{ music 
 
 fclef             𝄢
@@ -246,8 +369,8 @@ cclef             𝄡
 gclef             𝄞
 natu              ♮  # [natu]ral
 flat              ♭
-fflat             𝄫
-dflat             𝄫
+fflat             𝄫  # (double)
+dflat             𝄫  # [d]ouble
 sharp             ♯
 ssharp            𝄪  # (double)
 dsharp            𝄪  # [d]ouble
@@ -263,81 +386,6 @@ snotes            ♬  # [s]ixteenth
 8notes            ♫
 16notes           ♬
 turn              ∾
-
-# %}}}
-
-# computer keyboard / icons %{{{
-
-return            ⏎
-cmd               ⌘
-opt               ⌥
-alt               ⎇
-esc               ␛
-bel               ␇
-bell              ⍾
-tab               ↹
-rtab              ⇥  # [r]ight
-ltab              ⇤
-tabr              ⇥
-tabl              ⇤
-vtab              ⭿  # [v]ertical tab
-shift             ⇧
-capslock          ⇪
-caps              ⇪
-delete            ␡
-vdelete           ⌦  # [v]ar
-rerase            ⌦
-lerase            ⌫
-erase             ⌫  # default: [l]
-backs             ⌫
-bspace            ⌫
-undo              ↶
-redo              ↷
-replay            ↺
-onoff             ⏻
-settings          ⚙
-
-# %}}}
-
-# directions and dimensions %{{{
-
-up                ↑
-down              ↓
-left              ←
-right             →
-lbelow            ⬐  # [l]eft [below]
-rbelow            ⬎
-lbel              ⬐
-rbel              ⬎
-labove            ⬑
-rabove            ⬏
-labo              ⬑
-rabo              ⬏
-archfrom          ⇤  # [arch]itect's
-archto            ⇥
-varchfrom         ⤒  # [v]ertical
-varchto           ⤓
-measurefrom       ⇤
-measureto         ⇥
-measfrom          ⇤
-measto            ⇥
-vmeasurefrom      ⤒  # [v]ertically
-vmeasureto        ⤓
-vmeasfrom         ⤒
-vmeasto           ⤓
-
-# %}}}
-
-# money %{{{
-
-eur               €
-gbp               £
-usd               $
-yen               ¥
-brl               R$
-crz               ₢$
-cent              ¢
-cur               ¤
 
 # %}}}
 
@@ -411,7 +459,9 @@ archm             ꟿ
 Gha               Ƣ
 gha               ƣ
 
-## reverse
+# %}}}
+
+## reverse %{{{
 rlatep            ɜ
 rLatep            Ɜ  # [ep]silon
 repsilon          ɜ  # [r]everse
@@ -776,13 +826,21 @@ subssubs          ⫕̶  # WARN: usually ugly
 supssups          ⫖̶  # WARN: usually ugly
 hsubstimes        ⫁
 hsupstimes        ⫂
+hsubsto           ⥹
+hsupsfrom         ⥻
+substo            ⥹
+supsfrom          ⥻
+Tohsups           ⭄
+Fromhsubs         ⥺
+hsupsTo           ⭄
+hsubsFrom         ⥺
 powerset          ℘
 power             ℘
 pset              ℘
 pfinset           ℘ᶠ  # XXX: should be _f
 pfset             ℘ᶠ  # XXX: should be _f
 idisjoint         ꖻ   # [i]nhabited [disjoint]
-pedisjoint        )(  # [p]ossibly [e]mpty [disjoint]
+edisjoint         )(  # possibly [e]mpty [disjoint]
 disjoint          ꖻ   # default: [i]
 djoint            ꖻ
 conjoint          ≬
