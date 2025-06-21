@@ -1521,6 +1521,17 @@ rcod              ⸥
 
 # %}}}
 
+## agda / unimath %{{{
+
+### brackets
+laf               ⦇  # applicative functor 
+raf               ⦈
+eaf               ⦇⦈
+linst             ⦃  # instance arguments
+rinst             ⦄
+
+# %}}}
+
 ## lean / mathlib %{{{
 
 eqs               ▸
