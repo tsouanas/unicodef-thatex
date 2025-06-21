@@ -852,10 +852,12 @@ isects            ≬  # [i]nter[sects] (with)
 compl             ᶜ  # [compl]ement
 Compl             ∁  # (large)
 mpl               ᵓ  # cocomplement
+genfrom           ⥺  # [gen]erated [from]
+gento             ⭄  # [gen]erates [to]
+fromgen           ⥺  # [from] [gen]erator
+togen             ⭄  # [to] [gen]erate
 ingen             ⥺  # [in] [gen]erator
 nigen             ⭄  # [ni] [gen]erator
-genfrom           ⥺  # [gen]erated [from]
-fromgen           ⥺  # [from] [gen]erator
 
 # %}}}
 
@@ -1242,6 +1244,8 @@ incnw             ⤣
 incne             ⤤
 incse             ⤥
 incsw             ⤦
+incto,            ⥹
+incfrom,          ⥻
 ninjto            ⤔  # [n]ot (via strike) XXX: abuse: strike for not
 ninjfrom          ⬹
 nsurjto           ⤀
@@ -1263,6 +1267,7 @@ ssurfrom          ⬴
 
 ## additional %{{{
 
+### more sem
 Tofrom            ⥂
 Fromto            ⥃
 toFrom            ⥄
@@ -1283,10 +1288,30 @@ toapprox          ⥵
 fromapprox        ⭊
 approxto          →͌
 approxfrom        ←͌
-toplus            ⥅
-fromplus          ⥆
 ndetto            ⇝  # [n]on-[det]erministic
 ndetfrom          ⇜
+leadsto           ↝
+leadsfrom         ↜
+leadto            ↝
+leadfrom          ↜
+ledfrom           ↜
+leadsr            ↝
+leadsl            ↜
+yields            ↝
+becomes           ↝
+
+### more syn
+litto             ⭇
+totil             ⥴
+tolit             ⭌
+fromlit           ⭋
+ttilto            →͌
+ttilfrom          ←͌
+tottil            ⥵
+fromttil          ⭊
+tollit            ⭈
+toplus            ⥅
+fromplus          ⥆
 dashto            ⇢  # [dash]ed
 dashfrom          ⇠
 dato              ⇢  # [d]ash
@@ -1309,15 +1334,6 @@ dto               ⇢
 dfrom             ⇠
 astto             →⃰
 astfrom           ←⃰
-leadsto           ↝
-leadsfrom         ↜
-leadto            ↝
-leadfrom          ↜
-ledfrom           ↜
-leadsr            ↝
-leadsl            ↜
-yields            ↝
-becomes           ↝
 smilesto          ⤻
 frownsfrom        ⤺
 smileto           ⤻
@@ -1350,8 +1366,6 @@ fishto            ⤔
 fishfrom          ⬹
 Fishto            ⤕
 Fishfrom          ⬺
-substo            ⥹
-supsfrom          ⥻
 
 # %}}}
 
