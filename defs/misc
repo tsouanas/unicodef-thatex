@@ -52,7 +52,12 @@ swords        ⚔
 justice       ⚖
 wflag         ⚐
 bflag         ⚑
+
 recycle       ♻
+biohaz        ☣
+toxic         ☣
+poison        ☠
+
 penta         ⛤
 pentar        ⛥  # interlaced [r]ight-handed
 pental        ⛦
@@ -77,6 +82,7 @@ tsiour        ⍩
 tsiou         ⍩  # default: [r]
 bichinho      ⍾
 lucas         ⌖
+
 gandalf       ᚠ
 provatinaa    𐘐  # Linear A
 provatinab    𐂆  # Linear B
