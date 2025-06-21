@@ -1699,6 +1699,12 @@ clos              ˉ
 interior          ˚  # [inte]rior
 inte              ˚
 ball              ℬ
+eball             ℬᵋ # [e]psilon [ball]  WARN: should be subscript
+dball             ℬᵟ # [d]elta  WARN: should be subscript
+fsig              Fᣙ # WARN: should be subscript
+gdel              Gᵟ # WARN: should be subscript
+fsig,             Fσ # WARN: should be subscript
+gdel,             Gδ # WARN: should be subscript
 
 # %}}}
 
