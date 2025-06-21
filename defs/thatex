@@ -1483,21 +1483,22 @@ expsto            ⤳  # [exp]and[s] [to]
 expsfrom          ⬿
 expto             ⤳  # [exp]and[s] [to]
 expfrom           ⬿
-CASE             c̲a̲s̲e̲
-OF               o̲f̲
-MATCH            m̲a̲t̲c̲h̲
-WITH             w̲i̲t̲h̲
-IF               i̲f̲
-THEN             t̲h̲e̲n̲
-ELSE             e̲l̲s̲e̲
-BOOM             b̲o̲o̲m̲
-ABORT            a̲b̲o̲r̲t̲
-OUTL             o̲u̲t̲l̲
-OUTR             o̲u̲t̲r̲
-INL              i̲n̲l̲
-INR              i̲n̲r̲
-FST              f̲s̲t̲
-SND              s̲n̲d̲
+
+CASE              𝗰𝗮𝘀𝗲
+OF                𝗼𝗳
+MATCH             𝗺𝗮𝘁𝗰𝗵
+WITH              𝘄𝗶𝘁𝗵
+IF                𝗶𝗳
+THEN              𝘁𝗵𝗲𝗻
+ELSE              𝗲𝗹𝘀𝗲
+BOOM              𝗯𝗼𝗼𝗺
+ABORT             𝗮𝗯𝗼𝗿𝘁
+OUTL              𝗼𝘂𝘁𝗹
+OUTR              𝗼𝘂𝘁𝗿
+INL               𝗶𝗻𝗹
+INR               𝗶𝗻𝗿
+FST               𝗳𝘀𝘁
+SND               𝘀𝗻𝗱
 
 # %}}}
 
