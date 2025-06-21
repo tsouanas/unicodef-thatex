@@ -5,13 +5,19 @@
 #%}}}
 #
 # These are to be used while having a (modern) greek layout activated.
-
+# Actions are used as prefixes only.
+#
 # 0 (prefixed to the letter): alternative form
-# order of actions:
-#   breathing / diaeresis: > < "
-#   accent: ' ` ^
-#   ad/subscript: ,
-#   macron/breve: _ -
+#
+# actions, in order:
+#
+#   either:
+#     breathing: > <
+#     diaeresis: "
+#     accent: ' ` ^
+#     ad/subscript: ,
+#   or:
+#     macron/breve: _ -
 
 # 0-alternative forms %{{{
 
