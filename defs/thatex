@@ -2325,6 +2325,7 @@ rB                ’
 
 ## brackets %{{{
 
+### 2-point
 lpar              (
 rpar              )
 lbrack            [
@@ -2373,6 +2374,10 @@ lPar              ⦅
 rPar              ⦆
 lBra              ⟦
 rBra              ⟧
+lwipe             ⦃
+rwipe             ⦄
+lwhale            ⦃
+rwhale            ⦄
 lban              ⦇  # [ban]ana
 rban              ⦈
 llens             〖
@@ -2431,11 +2436,30 @@ lucor             ⸢  # [u]pper [cor]ner
 rucor             ⸣
 llcor             ⸤  # [l]ower
 rlcor             ⸥
+ltcor             ⸢  # [t]op
+rtcor             ⸣
 lbcor             ⸤  # [b]ottom
 rbcor             ⸥
-ltcor             ⸢  # [t]op
 lcjk              ⸢  # CJK-influenced
 rcjk              ⸥
+
+### 4-point
+cornw             ⌜  # [corn]er [n]orth [w]est
+corne             ⌝
+corsw             ⌞
+corse             ⌟
+nwcor             ⌜
+necor             ⌝
+swcor             ⌞
+secor             ⌟
+cropnw            ⌏  # [crop] [n]orth [w]est
+cropne            ⌎
+cropsw            ⌍
+cropse            ⌌
+nwcrop            ⌏
+necrop            ⌎
+swcrop            ⌍
+secrop            ⌌
 
 # %}}}
 
