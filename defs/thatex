@@ -2497,6 +2497,7 @@ intl              ⌡  #
 # shapes %{{{
 
 circle            ○  # (white)
+bfcircle          ⭘  # [b]old[f]ace
 Circle            ◯  # big
 dcircle           ◌  # [d]otted
 triangle          △  # see also: triangles
@@ -2507,6 +2508,15 @@ diamond           ◇
 lozenge           ◊
 paragram          ▱  # [para]llelo[gram]
 rectangle         ▭
+elliv             ⬭  # [elli]pse [v]ertical
+ellih             ⬯  # [h]orizontal
+elli              ⬭  # default: [h]
+segment           ⌓
+sector            ⌔
+pentag            ⬠  # [pentag]on
+pentagr           ⭔  # [r]ight
+trapez            ⏢  # [trapez]ium
+hexag             ⬡  # [hexag]on
 fpstar            ☆  # [f]ive-[p]ointed star
 wstar             ☆  # [w]hite
 bcircle           ●  # [b]lack
@@ -2516,13 +2526,17 @@ bdiamond          ◆
 blozenge          ⧫
 bparagram         ▰
 brectangle        ▬
+belliv            ⬬
+bellih            ⬮
+belli             ⬬
+bpentag           ⬟
+bpentagr          ⭓
+bpentagd          ⯂
+bhexag            ⬣
+bhexagh           ⬣
+bhexagv           ⬢
 bstar             ★
 bfpstar           ★
-wlozenge          ◊
-wparagram         ▱  # [para]llelo[gram]
-wrectangle        ▭
-bowtie            ⨝
-hourglass         ⧖
 
 # %}}}
 
@@ -2706,11 +2720,20 @@ ggrave            ˵  # (double)
 
 # self-explanatory %{{{
 
+arc               ⌒
+bald              ⌒
+bowtie            ⨝
+hourglass         ⧖
+negloop           ↻  # [neg]ative
+posloop           ↺  # [pos]itive
 cwloop            ↻  # [c]lock[w]ise
 ccwloop           ↺  # [c]ounter[c]lock[w]ise
 floopl            ⟲  # [f]ull [loop] ccw [l]eft
 floopr            ⟳  # cw [r]ight
+ouror             ⟳  # [ouro]boros [r]ight
+ourol             ⟲  # [l]eft
 loop              ↺
+coloop            ↻
 pool              ↻  # (loop backwards)
 twixt             ≬
 zap               ↯
