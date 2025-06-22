@@ -65,9 +65,6 @@
 | <code>/?</code> | ‽ |
 | <code>(/?</code> | ⸘ |
 | <code>)/?</code> | ‽ |
-| <code>!.?</code> | ‽ |
-| <code>(!.?</code> | ⸘ |
-| <code>)!.?</code> | ‽ |
 | <code>--0</code> | ‒ |
 | <code>--n</code> | – |
 | <code>--.</code> | – |

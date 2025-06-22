@@ -3646,7 +3646,7 @@ inoremap \\Lcdr ᴄᴅʀ
 inoremap \\LET 𝗹𝗲𝘁
 inoremap \\IN 𝗶𝗻
 inoremap \\LETREC 𝗹𝗲𝘁𝗿𝗲𝗰
-inoremap \\LETREC, 𝗹𝗲𝘁 𝗿𝗲𝗰
+inoremap \\LET_REC 𝗹𝗲𝘁 𝗿𝗲𝗰
 inoremap \\REC 𝗿𝗲𝗰
 inoremap \\CASE 𝗰𝗮𝘀𝗲
 inoremap \\OF 𝗼𝗳
@@ -6460,9 +6460,6 @@ inoremap \2? ⁇
 inoremap \/? ‽
 inoremap \(/? ⸘
 inoremap \)/? ‽
-inoremap \!.? ‽
-inoremap \(!.? ⸘
-inoremap \)!.? ‽
 inoremap \--0 ‒
 inoremap \--n –
 inoremap \--. –

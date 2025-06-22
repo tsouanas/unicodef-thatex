@@ -2948,9 +2948,6 @@
 | <code>/?</code> | ‽ |
 | <code>(/?</code> | ⸘ |
 | <code>)/?</code> | ‽ |
-| <code>!.?</code> | ‽ |
-| <code>(!.?</code> | ⸘ |
-| <code>)!.?</code> | ‽ |
 | <code>--0</code> | ‒ |
 | <code>--n</code> | – |
 | <code>--.</code> | – |
@@ -6323,7 +6320,7 @@
 | <code>LET</code> | 𝗹𝗲𝘁 |
 | <code>IN</code> | 𝗶𝗻 |
 | <code>LETREC</code> | 𝗹𝗲𝘁𝗿𝗲𝗰 |
-| <code>LETREC,</code> | 𝗹𝗲𝘁 𝗿𝗲𝗰 |
+| <code>LET_REC</code> | 𝗹𝗲𝘁 𝗿𝗲𝗰 |
 | <code>REC</code> | 𝗿𝗲𝗰 |
 | <code>CASE</code> | 𝗰𝗮𝘀𝗲 |
 | <code>OF</code> | 𝗼𝗳 |

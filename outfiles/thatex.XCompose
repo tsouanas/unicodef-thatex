@@ -1327,7 +1327,7 @@
 <Multi_key><Multi_key><L><E><T><space> : "𝗹𝗲𝘁"
 <Multi_key><Multi_key><I><N><space> : "𝗶𝗻"
 <Multi_key><Multi_key><L><E><T><R><E><C><space> : "𝗹𝗲𝘁𝗿𝗲𝗰"
-<Multi_key><Multi_key><L><E><T><R><E><C><comma><space> : "𝗹𝗲𝘁 𝗿𝗲𝗰"
+<Multi_key><Multi_key><L><E><T><underscore><R><E><C><space> : "𝗹𝗲𝘁 𝗿𝗲𝗰"
 <Multi_key><Multi_key><R><E><C><space> : "𝗿𝗲𝗰"
 <Multi_key><Multi_key><C><A><S><E><space> : "𝗰𝗮𝘀𝗲"
 <Multi_key><Multi_key><O><F><space> : "𝗼𝗳"
