@@ -2768,7 +2768,7 @@ grave             ˴  # middle [grave] accent
 ggrave            ˵  # (double)
 2grave            ˵  # middle double grave accent
 2acute            ˶  # WARN: there is no single acute
-
+eqop              ꞊
 
 # %}}}
 
@@ -2819,18 +2819,18 @@ vtil              ⸯ  # [v]ertical [til]
 hair              ⸯ
 
 tdot              ˙  # [t]op [dot]
-bdot                ߲ # [b]ottom [dot] XXX: decorator abuse
+bdot               ̣  # [b]ottom [dot] XXX: decorator abuse
 bang              !
 gnab              ¡  # (bang backwards)
 bbang             ‼
-ibang             ‽  # [i]nterro[bang]
-ignab             ⸘
 askbang           ⁈
 bangask           ⁉
 abang             ⁈
 banga             ⁉
 qbang             ⁈  # [q]uestion
 bangq             ⁉
+ibang             ‽  # [i]nterro[bang]
+ignab             ⸘
 
 # %}}}
 
