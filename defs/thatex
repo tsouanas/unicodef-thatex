@@ -538,8 +538,10 @@ ndivs             ∤
 ndiv              ∤  # WARN: deprecated
 dotdivs           ⍿
 ddivs             ⍿
+simdivs           ⍭
 coprime           ⟂
 eq                =
+Eq                ＝
 neq               ≠
 nneq              ⧣  # [n]ot[n]ot
 ssapart           ⧣  # [s]lash-[s]lash [apart]ness
@@ -696,7 +698,7 @@ nats              ℕ
 ints              ℤ
 rats              ℚ
 irrats            𝕀
-irratios          ℝ∖ℚ
+Irrats            ℝ∖ℚ
 reals             ℝ
 extreals          ℝ̅   # [ext]ended
 ereals            ℝ̅   # [e]xtended
@@ -894,6 +896,9 @@ emul              ⟅⟆
 
 dotin             ⋵
 din               ⋵
+ndin              ⋵̸
+dni               ∋̇
+ndni              ∋⃥̇
 dothsubs          ⪽
 dothsups          ⪾
 dhsubs            ⪽  # [d]ot
@@ -1396,6 +1401,10 @@ n3sim             ≋̸
 simeq             ≃
 nsimeq            ≄
 simneq            ≆
+ssimeq            ≊
+ssimeeq           ⩰
+ssim2eq           ⩰
+eqsim             ≂
 mis               ∽  # (sim backwards)
 miseq             ⋍
 Sim               ∾
