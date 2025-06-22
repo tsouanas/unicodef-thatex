@@ -1507,7 +1507,7 @@ Lcdr              ᴄᴅʀ
 LET               𝗹𝗲𝘁
 IN                𝗶𝗻
 LETREC            𝗹𝗲𝘁𝗿𝗲𝗰
-LETREC,           𝗹𝗲𝘁 𝗿𝗲𝗰
+LET_REC           𝗹𝗲𝘁 𝗿𝗲𝗰
 REC               𝗿𝗲𝗰
 CASE              𝗰𝗮𝘀𝗲
 OF                𝗼𝗳
