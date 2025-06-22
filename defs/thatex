@@ -3476,6 +3476,7 @@ wudot             ᐧ  # [u]pper
 ^gnab             ꜞ
 ^caret            ˆ
 ^cflex            ˆ  # [c]ircum[flex]
+^flex             ˆ
 ^caron            ˇ
 ^tilde            ˜
 ^til              ˜  # [til]de
@@ -3515,11 +3516,13 @@ _bowtie           ⑅
 _ask              ﹖
 _caret            ‸
 _cflex            ‸  # [c]ircum[flex]
+_flex             ‸
 _caron            ˬ
 _tilde            ˷
 _til              ˷  # [til]de
 _circ             ˳
 _ring             ˳
+_ogon             ˛  # [ogon]ek
 _lang             ˱
 _rang             ˲
 _uang             ˰
@@ -3539,7 +3542,6 @@ _lam              ⲗ
 ^sim              ˜
 ^vsim             ⸯ
 _sim              ˷
-
 
 ## superscripts / subscripts: sets
 ^symdiff          ᐞ
