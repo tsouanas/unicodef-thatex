@@ -2760,7 +2760,7 @@
 | <code>arr-</code> | ↔ |
 | <code>arr&vert;</code> | ↕ |
 | <code>arr/</code> | ⤢ |
-| <code>arr\</code> | ⤡ |
+| <code>arr\\</code> | ⤡ |
 | <code>sarru</code> | ⤉ |
 | <code>sarrd</code> | ⤈ |
 | <code>sarrl</code> | ⇷ |
