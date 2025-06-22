@@ -1402,17 +1402,24 @@ simeq             ≃
 nsimeq            ≄
 simneq            ≆
 ssimeq            ≊
+nssimeq           ≊̸
 ssimeeq           ⩰
 ssim2eq           ⩰
+hatssim           ⩯
+hssim             ⩯
 eqsim             ≂
+neqsim            ≂̸
 mis               ∽  # (sim backwards)
+nmis              ∽̸
 miseq             ⋍
+nmiseq            ⋍̸
 Sim               ∾
 approx            ≈  # [approx]imates
 napprox           ≉
 appr              ≈
 nappr             ≉
 approxeq          ≊
+approxeeq         ⩰
 approx2eq         ⩰
 hatapprox         ⩯
 happrox           ⩯
