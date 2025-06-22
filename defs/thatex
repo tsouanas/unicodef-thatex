@@ -2914,6 +2914,12 @@ bbackslash        ⑊
 bbslash           ⑊
 2backslash        ⑊
 2bslash           ⑊
+dotpipe           ⍿
+dpipe             ⍿
+dotvert           ⍿
+dvert             ⍿
+tilvert           ⍭
+stile             ⍭
 
 # %}}}
 
@@ -3055,9 +3061,9 @@ baldeq            ≘
 triangleq         ≜
 treq              ≜
 deltaeq           ≜
-Deq               ≜
-wedgeq            ≙
-veeq              ≚
+Deq               ≜  # [D]elta/efinition
+weq               ≙  # [w]edge
+veq               ≚  # [v]ee
 asteq             ⩮
 doteq             ≐
 ddoteq            =̈
@@ -3065,9 +3071,16 @@ dddoteq           =⃛
 2doteq            =̈
 3doteq            =⃛
 dotseq            =⃛
+leqr              ≒
+reql              ≓
+eqinfty           ⯹
 eqdot             ⩦
 doteqdot          ≑
 coleq             ≑  # [col]on
+scoleq            ≓  # [s]lash [col]on
+bcoleq            ≒  # [b]ackslash
+eq4dot            ⩷
+frogs             ⩷  # ♡
 stareq            ≛
 circeq            ≗
 eqcirc            ≖
@@ -3079,6 +3092,9 @@ bump              ≏
 bumps             ≎
 bumpeq            ⪮
 poemeq            ⌯
+poems             ⌯
+poem              ⌯
+eqtil             ⩳
 simeqsim          ⩬
 
 # %}}}
