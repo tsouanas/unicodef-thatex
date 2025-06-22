@@ -1458,8 +1458,8 @@ assjeq            :≐ # [ass]igned
 assdeq            :≡
 jeqass            ≐:
 deqass            ≡:
-matches           ≡: # pattern [matches]
-matcheq           ≕  # (with = instead of ≡)
+matches           ≡: # [matches] pattern
+matcheq           ≕  # (with = [eq] instead of ≡)
 unit              1
 counit            ߁
 unit,             ⥠  # XXX: abuse: harpoons
@@ -1470,10 +1470,6 @@ outl              ·l
 outr              ·r
 inl               l·
 inr               r·
-lcar              𝚌𝚊𝚛  # [l]isp
-lcdr              𝚌𝚍𝚛
-Lcar              ᴄᴀʀ  # [L]ISP
-Lcdr              ᴄᴅʀ
 arat              𝟎  # [ar]ity [at]omic (single & saturated)
 arcom             ⊗  # [ar]ity [com]bination (combined)
 arto              ↠  # [ar]ity [to] (unsaturated)
@@ -1500,6 +1496,19 @@ expsfrom          ⬿
 expto             ⤳  # [exp]and[s] [to]
 expfrom           ⬿
 
+splat             ⊛
+pbind             ≫=  # [p]retty [bind]
+
+lcar              𝚌𝚊𝚛  # [l]isp
+lcdr              𝚌𝚍𝚛
+Lcar              ᴄᴀʀ  # [L]ISP
+Lcdr              ᴄᴅʀ
+
+LET               𝗹𝗲𝘁
+IN                𝗶𝗻
+LETREC            𝗹𝗲𝘁𝗿𝗲𝗰
+LETREC,           𝗹𝗲𝘁 𝗿𝗲𝗰
+REC               𝗿𝗲𝗰
 CASE              𝗰𝗮𝘀𝗲
 OF                𝗼𝗳
 MATCH             𝗺𝗮𝘁𝗰𝗵
@@ -1507,6 +1516,7 @@ WITH              𝘄𝗶𝘁𝗵
 IF                𝗶𝗳
 THEN              𝘁𝗵𝗲𝗻
 ELSE              𝗲𝗹𝘀𝗲
+FI                𝗳𝗶
 BOOM              𝗯𝗼𝗼𝗺
 ABORT             𝗮𝗯𝗼𝗿𝘁
 OUTL              𝗼𝘂𝘁𝗹
@@ -1515,6 +1525,10 @@ INL               𝗶𝗻𝗹
 INR               𝗶𝗻𝗿
 FST               𝗳𝘀𝘁
 SND               𝘀𝗻𝗱
+WHILE             𝘄𝗵𝗶𝗹𝗲
+FOR               𝐟𝐨𝐫
+DO                𝗱𝗼
+DONE              𝗱𝗼𝗻𝗲
 
 # %}}}
 
@@ -1540,11 +1554,33 @@ rcod              ⸥
 ## agda / unimath %{{{
 
 ### brackets
-laf               ⦇  # applicative functor 
+laf               ⦇  # applicative functor idiom brackets
 raf               ⦈
 eaf               ⦇⦈
 linst             ⦃  # instance arguments
-rinst             ⦄
+rinst             ⦄  # INFO: {{ }} micros in math_
+
+### universes
+UU                𝓤
+UV                𝓥
+UW                𝓦
+UT                𝓣
+ty                 ̇  #@[ X]  corresponding [ty]pe to name/level
+us                ⁺   # [u]niverse [s]uccessor
+
+### Id types and paths
+Id                ＝   # [Id]entity type (infix)
+Idby              ＝⟨  #@[X ] [Id]entified [by]
+Eqby              ＝⟨  #@[X ]
+Eq0               ＝⟨⟩ #@[X ]
+pthen             ∙    #@[X ] [p]ath [then]
+pcomp             ∙    # [p]ath [comp]osition
+
+### misc
+yoneda            ょ
+yo                ょ
+lifting           ⧄
+diagonal          ⧄
 
 # %}}}
 
@@ -2354,6 +2390,8 @@ langle            ⟨
 rangle            ⟩
 lang              ⟨
 rang              ⟩
+la                ⟨
+ra                ⟩
 ldangle           ⦑  # [d]ot
 rdangle           ⦒
 ldang             ⦑
