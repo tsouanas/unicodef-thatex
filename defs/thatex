@@ -3597,7 +3597,16 @@ _top              ˕
 # %}}}
 
 # combining decorators %{{{
-# WARN: experimental
+#
+# INFO: to be used **AFTER** a character.
+# example: typing @not after = produces ≠
+#
+# WARN: most fonts tend to be terrible in this
+# One common error is to have the combinator affect
+# its following character instead of its preceding one.
+# Please do not encourage this using what shows up well
+# on your chosen font; consider switching to a different
+# font or avoid such characters altogether.
 
 # sem-named %{{{
 
@@ -3614,6 +3623,7 @@ _top              ˕
 @vecl              ⃖  # [l]eft
 @check             ̌
 @forbid           ⃠
+@not               ̸   # [s]lash  INFO: see also: syn-named @c* below for more cancelling
 
 # %}}}
 
@@ -3655,6 +3665,7 @@ _top              ˕
 @o2acute           ̋
 @ohook             ̉
 @ocflex            ̂  # [c]ircum[flex]
+@oflex             ̂
 @ocaret            ̂
 @ocaron            ̌
 @ocheck            ̌
@@ -3739,6 +3750,7 @@ _top              ˕
 
 ### accentlike
 @ucflex            ̭
+@uflex             ̭
 @ucaret            ̭
 @ucaron            ̬
 @ucheck            ̭
@@ -3789,6 +3801,7 @@ _top              ˕
 @upplus            ᫊
 @utimes            ͓
 @uminus            ̠
+@ueq               ͇
 @uttil             ᷽
 @usim              ̰
 @ussim             ᷽
