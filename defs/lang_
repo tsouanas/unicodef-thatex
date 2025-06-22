@@ -81,7 +81,7 @@ _]     ⸥
 
 # %}}}
 
-# Dashes, hyphens, … %{{{
+# Dashes, hyphens, …  %{{{
 
 --0    ‒  # digit-width dash
 --n    –  # endash
