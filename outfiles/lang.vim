@@ -61,6 +61,12 @@ inoremap \!! ‼
 inoremap \?? ⁇
 inoremap \2! ‼
 inoremap \2? ⁇
+inoremap \/? ‽
+inoremap \(/? ⸘
+inoremap \)/? ‽
+inoremap \!.? ‽
+inoremap \(!.? ⸘
+inoremap \)!.? ‽
 inoremap \--0 ‒
 inoremap \--n –
 inoremap \--. –

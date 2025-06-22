@@ -529,6 +529,9 @@
     "D" = ("insertText:", "Ḍ");
     "B" = ("insertText:", "Ḅ");
     "A" = ("insertText:", "Ạ");
+    "." = {
+      "?" = ("insertText:", "‽");
+    };
     "!" = ("insertText:", "‼");
     "?" = ("insertText:", "⁉");
     ")" = ("insertText:", "!");
@@ -1943,6 +1946,7 @@
         };
       };
     };
+    "?" = ("insertText:", "‽");
   };
   "." = {
     "z" = ("insertText:", "ż");
@@ -2127,17 +2131,23 @@
     "[" = ("insertText:", "⸤");
   };
   ")" = {
+    "!" = ("insertText:", "!");
+    "/" = {
+      "?" = ("insertText:", "‽");
+    };
     ";" = ("insertText:", ";");
     "?" = ("insertText:", "?");
-    "!" = ("insertText:", "!");
     "`" = ("insertText:", "´");
     "\"" = ("insertText:", "”");
     "'" = ("insertText:", "’");
   };
   "(" = {
+    "!" = ("insertText:", "¡");
+    "/" = {
+      "?" = ("insertText:", "⸘");
+    };
     ";" = ("insertText:", "⁏");
     "?" = ("insertText:", "¿");
-    "!" = ("insertText:", "¡");
     "`" = ("insertText:", "`");
     "\"" = ("insertText:", "“");
     "'" = ("insertText:", "‘");
