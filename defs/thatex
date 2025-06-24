@@ -1954,10 +1954,12 @@ forall            ∀
 exists            ∃
 nexists           ∄
 unique            ∃!
+forno             И
 fa                ∀  # [f]or[a]ll
 ex                ∃  # [ex]ists
 un                ∃! # [un]ique
 nex               ∄
+fn                И  # [f]or[n]o
 russell           ℩  # [russell] descriptor
 rdesc             ℩  # [r]ussell [desc]riptor
 theonly           ℩
