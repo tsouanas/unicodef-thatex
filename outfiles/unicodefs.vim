@@ -4075,10 +4075,12 @@ inoremap \\forall ∀
 inoremap \\exists ∃
 inoremap \\nexists ∄
 inoremap \\unique ∃!
+inoremap \\forno И
 inoremap \\fa ∀
 inoremap \\ex ∃
 inoremap \\un ∃!
 inoremap \\nex ∄
+inoremap \\fn И
 inoremap \\russell ℩
 inoremap \\rdesc ℩
 inoremap \\theonly ℩
@@ -5531,6 +5533,7 @@ inoremap \\@vecl ⃖
 inoremap \\@check ̌
 inoremap \\@forbid ⃠
 inoremap \\@not ̸
+inoremap \\@lynch ᪰
 inoremap \\@oarrl ⃖
 inoremap \\@oarrr ⃗
 inoremap \\@oleft ⃖
@@ -5752,6 +5755,8 @@ inoremap \\@sask ̣̉
 inoremap \\@szap ᷏͛
 inoremap \\@szeus ᷏͛
 inoremap \\@sbridge ̺͆
+inoremap \\@sthis ͎᪳
+inoremap \\@shere ͎᪳
 inoremap \\@oa ͣ
 inoremap \\@ob ᷨ
 inoremap \\@oc ͨ

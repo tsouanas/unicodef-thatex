@@ -1715,10 +1715,12 @@
 | <code>exists</code> | ∃ |
 | <code>nexists</code> | ∄ |
 | <code>unique</code> | ∃! |
+| <code>forno</code> | И |
 | <code>fa</code> | ∀ |
 | <code>ex</code> | ∃ |
 | <code>un</code> | ∃! |
 | <code>nex</code> | ∄ |
+| <code>fn</code> | И |
 | <code>russell</code> | ℩ |
 | <code>rdesc</code> | ℩ |
 | <code>theonly</code> | ℩ |
@@ -3171,6 +3173,7 @@
 | <code>@check</code> | ̌ |
 | <code>@forbid</code> | ⃠ |
 | <code>@not</code> | ̸ |
+| <code>@lynch</code> | ᪰ |
 | <code>@oarrl</code> | ⃖ |
 | <code>@oarrr</code> | ⃗ |
 | <code>@oleft</code> | ⃖ |
@@ -3392,6 +3395,8 @@
 | <code>@szap</code> | ᷏͛ |
 | <code>@szeus</code> | ᷏͛ |
 | <code>@sbridge</code> | ̺͆ |
+| <code>@sthis</code> | ͎᪳ |
+| <code>@shere</code> | ͎᪳ |
 | <code>@oa</code> | ͣ |
 | <code>@ob</code> | ᷨ |
 | <code>@oc</code> | ͨ |
