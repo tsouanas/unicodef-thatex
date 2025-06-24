@@ -3623,7 +3623,8 @@ _top              ˕
 @vecl              ⃖  # [l]eft
 @check             ̌
 @forbid           ⃠
-@not               ̸   # [s]lash  INFO: see also: syn-named @c* below for more cancelling
+@not               ̸  # [s]lash  INFO: see also: syn-named @c* below for more cancelling
+@lynch             ᪰  # the owls are not what they seem
 
 # %}}}
 
@@ -3723,7 +3724,7 @@ _top              ˕
 
 ### misc
 @ozap              ͛
-@olynch            ᪰
+@olynch            ᪰  # the owls are not what they seem
 @othis             ᪳
 @ohere             ᪳
 @ohair             ̾
@@ -3900,6 +3901,8 @@ _top              ˕
 @szap              ᷏͛
 @szeus             ᷏͛
 @sbridge           ̺͆
+@sthis             ͎᪳
+@shere             ͎᪳
 
 # %}}}
 
