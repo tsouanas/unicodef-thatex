@@ -24,6 +24,7 @@ Mu              Μ
 Nu              Ν
 Xi              Ξ
 Omicron         Ο
+Omi             Ο
 Pi              Π
 Rho             Ρ
 Sigma           Σ
@@ -37,6 +38,7 @@ Phi             Φ
 Chi             Χ
 Psi             Ψ
 Omega           Ω
+Ome             Ω
 
 # %}}}
 
@@ -70,6 +72,7 @@ mu              μ
 nu              ν
 xi              ξ
 omicron         ο
+omi             ο
 pi              π
 vpi             ϖ
 cpi             ϖ  # [c]ursive
@@ -89,6 +92,7 @@ cphi            ϕ  # [c]losed
 chi             χ
 psi             ψ
 omega           ω
+ome             ω
 
 # %}}}
 
@@ -187,8 +191,11 @@ Psi,,             ყ
 psi,,             ყ
 Psi,,,            Ⴘ
 omega,            ⲱ
+ome,              ⲱ
 Omega,            Ⲱ
+Ome,              Ⲱ
 omega,,           ɷ
+ome,,             ɷ
 
 # %}}}
 
@@ -207,6 +214,7 @@ omega,,           ɷ
 ^Mu             ᴹ
 ^Nu             ᴺ
 ^Omicron        ᴼ
+^Omi            ᴼ
 ^Rho            ᴾ
 ^Tau            ᵀ
 
@@ -219,6 +227,7 @@ omega,,           ɷ
 ^theta          ᶿ
 ^iota           ᶥ
 ^omicron        ᵒ
+^omi            ᵒ
 ^rho            ᣖ
 ^sigma          ᣙ
 ^vsigma         ᕐ
@@ -269,16 +278,19 @@ lepsi@H         ϶
 Delta]          ∇
 Pi]             ⨿
 Omega]          ℧
+Ome]            ℧
 
 ### X@v
 Delta@v         ∇
 Pi@v            ⨿
 Omega@v         ℧
+Ome@v           ℧
 
 ### X@V
 Delta@V         ∇
 Pi@V            ⨿
 Omega@V         ℧
+Ome@V           ℧
 
 # %}}}
 
@@ -290,6 +302,7 @@ Gamma{          ⅃
 Delta{          ∇
 Pi{             ⨿
 Omega{          ℧
+Ome{            ℧
 alpha{          ɒ
 delta{          ƍ
 iota{           ℩
@@ -301,6 +314,7 @@ Gamma@p         ⅃
 Delta@p         ∇
 Pi@p            ⨿
 Omega@p         ℧
+Ome@p           ℧
 alpha@p         ɒ
 delta@p         ƍ
 iota@p          ℩
@@ -312,6 +326,7 @@ Gamma@P         ⅃
 Delta@P         ∇
 Pi@P            ⨿
 Omega@P         ℧
+Ome@P           ℧
 alpha@P         ɒ
 delta@P         ƍ
 iota@P          ℩
@@ -356,7 +371,9 @@ copnu             ⲛ
 copKsi            Ⲝ
 copksi            ⲝ
 copOmicron        Ⲟ
+copOmi            Ⲟ
 copomicron        ⲟ
+copomi            ⲟ
 copPi             Ⲡ
 coppi             ⲡ
 copRho            Ⲣ
@@ -376,7 +393,9 @@ copchi            ⲭ
 copPsi            Ⲯ
 coppsi            ⲯ
 copOmega          Ⲱ
+copOme            Ⲱ
 copomega          ⲱ
+copome            ⲱ
 
 # %}}}
 
@@ -408,6 +427,7 @@ bfMu            𝚳
 bfNu            𝚴
 bfXi            𝚵
 bfOmicron       𝚶
+bfOmi           𝚶
 bfPi            𝚷
 bfRho           𝚸
 bfSigma         𝚺
@@ -417,6 +437,7 @@ bfPhi           𝚽
 bfChi           𝚾
 bfPsi           𝚿
 bfOmega         𝛀
+bfOme           𝛀
 
 bfalpha         𝛂
 bfbeta          𝛃
@@ -441,6 +462,7 @@ bfmu            𝛍
 bfnu            𝛎
 bfxi            𝛏
 bfomicron       𝛐
+bfomi           𝛐
 bfpi            𝛑
 bfvpi           𝛡
 bfcpi           𝛡
@@ -457,6 +479,7 @@ bfvphi          𝛟
 bfchi           𝛘
 bfpsi           𝛙
 bfomega         𝛚
+bfome           𝛚
 
 bfDigamma       𝟊
 bfdigamma       𝟋
@@ -482,6 +505,7 @@ itMu            𝛭
 itNu            𝛮
 itXi            𝛯
 itOmicron       𝛰
+itOmi           𝛰
 itPi            𝛱
 itRho           𝛲
 itSigma         𝛴
@@ -492,6 +516,7 @@ itPhi           𝛷
 itChi           𝛸
 itPsi           𝛹
 itOmega         𝛺
+itOme           𝛺
 
 italpha         𝛼
 itbeta          𝛽
@@ -516,6 +541,7 @@ itmu            𝜇
 itnu            𝜈
 itxi            𝜉
 itomicron       𝜊
+itomi           𝜊
 itpi            𝜋
 itvpi           𝜛
 itcpi           𝜛
@@ -533,6 +559,7 @@ itcphi          𝜙
 itchi           𝜒
 itpsi           𝜓
 itomega         𝜔
+itome           𝜔
 
 # %}}}
 
@@ -557,6 +584,7 @@ biMu            𝜧
 biNu            𝜨
 biXi            𝜩
 biOmicron       𝜪
+biOmi           𝜪
 biPi            𝜫
 biRho           𝜬
 biSigma         𝜮
@@ -567,6 +595,7 @@ biPhi           𝜱
 biChi           𝜲
 biPsi           𝜳
 biOmega         𝜴
+biOme           𝜴
 
 bialpha         𝜶
 bibeta          𝜷
@@ -591,6 +620,7 @@ bimu            𝝁
 binu            𝝂
 bixi            𝝃
 biomicron       𝝄
+biomi           𝝄
 bipi            𝝅
 bivpi           𝝕
 bicpi           𝝕
@@ -608,6 +638,7 @@ bicphi          𝝓
 bichi           𝝌
 bipsi           𝝍
 biomega         𝝎
+biome           𝝎
 
 # %}}}
 
@@ -630,6 +661,7 @@ bfsMu           𝝡
 bfsNu           𝝢
 bfsXi           𝝣
 bfsOmicron      𝝤
+bfsOmi          𝝤
 bfsPi           𝝥
 bfsRho          𝝦
 bfsSigma        𝝨
@@ -640,6 +672,7 @@ bfsPhi          𝝫
 bfsChi          𝝬
 bfsPsi          𝝭
 bfsOmega        𝝮
+bfsOme          𝝮
 
 bfsalpha        𝝰
 bfsbeta         𝝱
@@ -664,6 +697,7 @@ bfsmu           𝝻
 bfsnu           𝝼
 bfsxi           𝝽
 bfsomicron      𝝾
+bfsomi          𝝾
 bfspi           𝝿
 bfsvpi          𝞏
 bfscpi          𝞏
@@ -681,6 +715,7 @@ bfscphi         𝞍
 bfschi          𝞆
 bfspsi          𝞇
 bfsomega        𝞈
+bfsome          𝞈
 
 # %}}}
 
@@ -703,6 +738,7 @@ bisMu           𝞛
 bisNu           𝞜
 bisXi           𝞝
 bisOmicron      𝞞
+bisOmi          𝞞
 bisPi           𝞟
 bisRho          𝞠
 bisSigma        𝞢
@@ -713,6 +749,7 @@ bisPhi          𝞥
 bisChi          𝞦
 bisPsi          𝞧
 bisOmega        𝞨
+bisOme          𝞨
 
 bisalpha        𝞪
 bisbeta         𝞫
@@ -737,6 +774,7 @@ bismu           𝞵
 bisnu           𝞶
 bisxi           𝞷
 bisomicron      𝞸
+bisomi          𝞸
 bispi           𝞹
 bisvpi          𝟉
 biscpi          𝟉
@@ -754,6 +792,7 @@ biscphi         𝟇
 bischi          𝟀
 bispsi          𝟁
 bisomega        𝟂
+bisome          𝟂
 
 # %}}}
 
@@ -771,6 +810,7 @@ bbKappa    𝕂  # WARN: latin abuse
 bbMu       𝕄  # WARN: latin abuse
 bbNu       ℕ  # WARN: latin abuse
 bbOmicron  𝕆  # WARN: latin abuse
+bbOmi      𝕆  # WARN: latin abuse
 bbPi       ℿ
 bbRho      ℙ  # WARN: latin abuse
 bbSigma    ⅀
@@ -782,6 +822,7 @@ bbChi      𝕏
 bbgamma    ℽ
 bbnu       𝕧  # WARN: latin abuse
 bbomicron  𝕠  # WARN: latin abuse
+bbomi      𝕠  # WARN: latin abuse
 bbpi       ℼ
 
 # %}}}
@@ -802,6 +843,7 @@ sclam      ᴧ
 scmu       ᴍ  # WARN: latin abuse
 scnu       ɴ  # WARN: latin abuse
 scomicron  ᴏ  # WARN: latin abuse
+scomi      ᴏ  # WARN: latin abuse
 scpi       ᴨ
 scrho      ᴩ
 sctau      ᴛ  # WARN: latin abuse
