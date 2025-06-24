@@ -17,6 +17,7 @@
 | <code>Nu</code> | Ν |
 | <code>Xi</code> | Ξ |
 | <code>Omicron</code> | Ο |
+| <code>Omi</code> | Ο |
 | <code>Pi</code> | Π |
 | <code>Rho</code> | Ρ |
 | <code>Sigma</code> | Σ |
@@ -30,6 +31,7 @@
 | <code>Chi</code> | Χ |
 | <code>Psi</code> | Ψ |
 | <code>Omega</code> | Ω |
+| <code>Ome</code> | Ω |
 | <code>alpha</code> | α |
 | <code>valpha</code> | ɑ |
 | <code>beta</code> | β |
@@ -58,6 +60,7 @@
 | <code>nu</code> | ν |
 | <code>xi</code> | ξ |
 | <code>omicron</code> | ο |
+| <code>omi</code> | ο |
 | <code>pi</code> | π |
 | <code>vpi</code> | ϖ |
 | <code>cpi</code> | ϖ |
@@ -77,6 +80,7 @@
 | <code>chi</code> | χ |
 | <code>psi</code> | ψ |
 | <code>omega</code> | ω |
+| <code>ome</code> | ω |
 | <code>ou</code> | ȣ |
 | <code>Ou</code> | Ȣ |
 | <code>kai</code> | ϗ |
@@ -159,8 +163,11 @@
 | <code>psi,,</code> | ყ |
 | <code>Psi,,,</code> | Ⴘ |
 | <code>omega,</code> | ⲱ |
+| <code>ome,</code> | ⲱ |
 | <code>Omega,</code> | Ⲱ |
+| <code>Ome,</code> | Ⲱ |
 | <code>omega,,</code> | ɷ |
+| <code>ome,,</code> | ɷ |
 | <code>^Alpha</code> | ᴬ |
 | <code>^Beta</code> | ᴮ |
 | <code>^Gamma</code> | ᣘ |
@@ -174,6 +181,7 @@
 | <code>^Mu</code> | ᴹ |
 | <code>^Nu</code> | ᴺ |
 | <code>^Omicron</code> | ᴼ |
+| <code>^Omi</code> | ᴼ |
 | <code>^Rho</code> | ᴾ |
 | <code>^Tau</code> | ᵀ |
 | <code>^alpha</code> | ᵅ |
@@ -185,6 +193,7 @@
 | <code>^theta</code> | ᶿ |
 | <code>^iota</code> | ᶥ |
 | <code>^omicron</code> | ᵒ |
+| <code>^omi</code> | ᵒ |
 | <code>^rho</code> | ᣖ |
 | <code>^sigma</code> | ᣙ |
 | <code>^vsigma</code> | ᕐ |
@@ -209,17 +218,21 @@
 | <code>Delta]</code> | ∇ |
 | <code>Pi]</code> | ⨿ |
 | <code>Omega]</code> | ℧ |
+| <code>Ome]</code> | ℧ |
 | <code>Delta@v</code> | ∇ |
 | <code>Pi@v</code> | ⨿ |
 | <code>Omega@v</code> | ℧ |
+| <code>Ome@v</code> | ℧ |
 | <code>Delta@V</code> | ∇ |
 | <code>Pi@V</code> | ⨿ |
 | <code>Omega@V</code> | ℧ |
+| <code>Ome@V</code> | ℧ |
 | <code>Beta{</code> | ꓭ |
 | <code>Gamma{</code> | ⅃ |
 | <code>Delta{</code> | ∇ |
 | <code>Pi{</code> | ⨿ |
 | <code>Omega{</code> | ℧ |
+| <code>Ome{</code> | ℧ |
 | <code>alpha{</code> | ɒ |
 | <code>delta{</code> | ƍ |
 | <code>iota{</code> | ℩ |
@@ -229,6 +242,7 @@
 | <code>Delta@p</code> | ∇ |
 | <code>Pi@p</code> | ⨿ |
 | <code>Omega@p</code> | ℧ |
+| <code>Ome@p</code> | ℧ |
 | <code>alpha@p</code> | ɒ |
 | <code>delta@p</code> | ƍ |
 | <code>iota@p</code> | ℩ |
@@ -238,6 +252,7 @@
 | <code>Delta@P</code> | ∇ |
 | <code>Pi@P</code> | ⨿ |
 | <code>Omega@P</code> | ℧ |
+| <code>Ome@P</code> | ℧ |
 | <code>alpha@P</code> | ɒ |
 | <code>delta@P</code> | ƍ |
 | <code>iota@P</code> | ℩ |
@@ -275,7 +290,9 @@
 | <code>copKsi</code> | Ⲝ |
 | <code>copksi</code> | ⲝ |
 | <code>copOmicron</code> | Ⲟ |
+| <code>copOmi</code> | Ⲟ |
 | <code>copomicron</code> | ⲟ |
+| <code>copomi</code> | ⲟ |
 | <code>copPi</code> | Ⲡ |
 | <code>coppi</code> | ⲡ |
 | <code>copRho</code> | Ⲣ |
@@ -295,7 +312,9 @@
 | <code>copPsi</code> | Ⲯ |
 | <code>coppsi</code> | ⲯ |
 | <code>copOmega</code> | Ⲱ |
+| <code>copOme</code> | Ⲱ |
 | <code>copomega</code> | ⲱ |
+| <code>copome</code> | ⲱ |
 | <code>bfAlpha</code> | 𝚨 |
 | <code>bfBeta</code> | 𝚩 |
 | <code>bfGamma</code> | 𝚪 |
@@ -313,6 +332,7 @@
 | <code>bfNu</code> | 𝚴 |
 | <code>bfXi</code> | 𝚵 |
 | <code>bfOmicron</code> | 𝚶 |
+| <code>bfOmi</code> | 𝚶 |
 | <code>bfPi</code> | 𝚷 |
 | <code>bfRho</code> | 𝚸 |
 | <code>bfSigma</code> | 𝚺 |
@@ -322,6 +342,7 @@
 | <code>bfChi</code> | 𝚾 |
 | <code>bfPsi</code> | 𝚿 |
 | <code>bfOmega</code> | 𝛀 |
+| <code>bfOme</code> | 𝛀 |
 | <code>bfalpha</code> | 𝛂 |
 | <code>bfbeta</code> | 𝛃 |
 | <code>bfgamma</code> | 𝛄 |
@@ -345,6 +366,7 @@
 | <code>bfnu</code> | 𝛎 |
 | <code>bfxi</code> | 𝛏 |
 | <code>bfomicron</code> | 𝛐 |
+| <code>bfomi</code> | 𝛐 |
 | <code>bfpi</code> | 𝛑 |
 | <code>bfvpi</code> | 𝛡 |
 | <code>bfcpi</code> | 𝛡 |
@@ -361,6 +383,7 @@
 | <code>bfchi</code> | 𝛘 |
 | <code>bfpsi</code> | 𝛙 |
 | <code>bfomega</code> | 𝛚 |
+| <code>bfome</code> | 𝛚 |
 | <code>bfDigamma</code> | 𝟊 |
 | <code>bfdigamma</code> | 𝟋 |
 | <code>itAlpha</code> | 𝛢 |
@@ -380,6 +403,7 @@
 | <code>itNu</code> | 𝛮 |
 | <code>itXi</code> | 𝛯 |
 | <code>itOmicron</code> | 𝛰 |
+| <code>itOmi</code> | 𝛰 |
 | <code>itPi</code> | 𝛱 |
 | <code>itRho</code> | 𝛲 |
 | <code>itSigma</code> | 𝛴 |
@@ -390,6 +414,7 @@
 | <code>itChi</code> | 𝛸 |
 | <code>itPsi</code> | 𝛹 |
 | <code>itOmega</code> | 𝛺 |
+| <code>itOme</code> | 𝛺 |
 | <code>italpha</code> | 𝛼 |
 | <code>itbeta</code> | 𝛽 |
 | <code>itgamma</code> | 𝛾 |
@@ -413,6 +438,7 @@
 | <code>itnu</code> | 𝜈 |
 | <code>itxi</code> | 𝜉 |
 | <code>itomicron</code> | 𝜊 |
+| <code>itomi</code> | 𝜊 |
 | <code>itpi</code> | 𝜋 |
 | <code>itvpi</code> | 𝜛 |
 | <code>itcpi</code> | 𝜛 |
@@ -430,6 +456,7 @@
 | <code>itchi</code> | 𝜒 |
 | <code>itpsi</code> | 𝜓 |
 | <code>itomega</code> | 𝜔 |
+| <code>itome</code> | 𝜔 |
 | <code>biAlpha</code> | 𝜜 |
 | <code>biBeta</code> | 𝜝 |
 | <code>biGamma</code> | 𝜞 |
@@ -447,6 +474,7 @@
 | <code>biNu</code> | 𝜨 |
 | <code>biXi</code> | 𝜩 |
 | <code>biOmicron</code> | 𝜪 |
+| <code>biOmi</code> | 𝜪 |
 | <code>biPi</code> | 𝜫 |
 | <code>biRho</code> | 𝜬 |
 | <code>biSigma</code> | 𝜮 |
@@ -457,6 +485,7 @@
 | <code>biChi</code> | 𝜲 |
 | <code>biPsi</code> | 𝜳 |
 | <code>biOmega</code> | 𝜴 |
+| <code>biOme</code> | 𝜴 |
 | <code>bialpha</code> | 𝜶 |
 | <code>bibeta</code> | 𝜷 |
 | <code>bigamma</code> | 𝜸 |
@@ -480,6 +509,7 @@
 | <code>binu</code> | 𝝂 |
 | <code>bixi</code> | 𝝃 |
 | <code>biomicron</code> | 𝝄 |
+| <code>biomi</code> | 𝝄 |
 | <code>bipi</code> | 𝝅 |
 | <code>bivpi</code> | 𝝕 |
 | <code>bicpi</code> | 𝝕 |
@@ -497,6 +527,7 @@
 | <code>bichi</code> | 𝝌 |
 | <code>bipsi</code> | 𝝍 |
 | <code>biomega</code> | 𝝎 |
+| <code>biome</code> | 𝝎 |
 | <code>bfsAlpha</code> | 𝝖 |
 | <code>bfsBeta</code> | 𝝗 |
 | <code>bfsGamma</code> | 𝝘 |
@@ -514,6 +545,7 @@
 | <code>bfsNu</code> | 𝝢 |
 | <code>bfsXi</code> | 𝝣 |
 | <code>bfsOmicron</code> | 𝝤 |
+| <code>bfsOmi</code> | 𝝤 |
 | <code>bfsPi</code> | 𝝥 |
 | <code>bfsRho</code> | 𝝦 |
 | <code>bfsSigma</code> | 𝝨 |
@@ -524,6 +556,7 @@
 | <code>bfsChi</code> | 𝝬 |
 | <code>bfsPsi</code> | 𝝭 |
 | <code>bfsOmega</code> | 𝝮 |
+| <code>bfsOme</code> | 𝝮 |
 | <code>bfsalpha</code> | 𝝰 |
 | <code>bfsbeta</code> | 𝝱 |
 | <code>bfsgamma</code> | 𝝲 |
@@ -547,6 +580,7 @@
 | <code>bfsnu</code> | 𝝼 |
 | <code>bfsxi</code> | 𝝽 |
 | <code>bfsomicron</code> | 𝝾 |
+| <code>bfsomi</code> | 𝝾 |
 | <code>bfspi</code> | 𝝿 |
 | <code>bfsvpi</code> | 𝞏 |
 | <code>bfscpi</code> | 𝞏 |
@@ -564,6 +598,7 @@
 | <code>bfschi</code> | 𝞆 |
 | <code>bfspsi</code> | 𝞇 |
 | <code>bfsomega</code> | 𝞈 |
+| <code>bfsome</code> | 𝞈 |
 | <code>bisAlpha</code> | 𝞐 |
 | <code>bisBeta</code> | 𝞑 |
 | <code>bisGamma</code> | 𝞒 |
@@ -581,6 +616,7 @@
 | <code>bisNu</code> | 𝞜 |
 | <code>bisXi</code> | 𝞝 |
 | <code>bisOmicron</code> | 𝞞 |
+| <code>bisOmi</code> | 𝞞 |
 | <code>bisPi</code> | 𝞟 |
 | <code>bisRho</code> | 𝞠 |
 | <code>bisSigma</code> | 𝞢 |
@@ -591,6 +627,7 @@
 | <code>bisChi</code> | 𝞦 |
 | <code>bisPsi</code> | 𝞧 |
 | <code>bisOmega</code> | 𝞨 |
+| <code>bisOme</code> | 𝞨 |
 | <code>bisalpha</code> | 𝞪 |
 | <code>bisbeta</code> | 𝞫 |
 | <code>bisgamma</code> | 𝞬 |
@@ -614,6 +651,7 @@
 | <code>bisnu</code> | 𝞶 |
 | <code>bisxi</code> | 𝞷 |
 | <code>bisomicron</code> | 𝞸 |
+| <code>bisomi</code> | 𝞸 |
 | <code>bispi</code> | 𝞹 |
 | <code>bisvpi</code> | 𝟉 |
 | <code>biscpi</code> | 𝟉 |
@@ -631,6 +669,7 @@
 | <code>bischi</code> | 𝟀 |
 | <code>bispsi</code> | 𝟁 |
 | <code>bisomega</code> | 𝟂 |
+| <code>bisome</code> | 𝟂 |
 | <code>bbAlpha</code> | 𝔸 |
 | <code>bbBeta</code> | 𝔸 |
 | <code>bbGamma</code> | ℾ |
@@ -643,6 +682,7 @@
 | <code>bbMu</code> | 𝕄 |
 | <code>bbNu</code> | ℕ |
 | <code>bbOmicron</code> | 𝕆 |
+| <code>bbOmi</code> | 𝕆 |
 | <code>bbPi</code> | ℿ |
 | <code>bbRho</code> | ℙ |
 | <code>bbSigma</code> | ⅀ |
@@ -653,6 +693,7 @@
 | <code>bbgamma</code> | ℽ |
 | <code>bbnu</code> | 𝕧 |
 | <code>bbomicron</code> | 𝕠 |
+| <code>bbomi</code> | 𝕠 |
 | <code>bbpi</code> | ℼ |
 | <code>scalpha</code> | ᴀ |
 | <code>scbeta</code> | ʙ |
@@ -668,6 +709,7 @@
 | <code>scmu</code> | ᴍ |
 | <code>scnu</code> | ɴ |
 | <code>scomicron</code> | ᴏ |
+| <code>scomi</code> | ᴏ |
 | <code>scpi</code> | ᴨ |
 | <code>scrho</code> | ᴩ |
 | <code>sctau</code> | ᴛ |

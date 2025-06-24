@@ -1561,6 +1561,7 @@ inoremap \\Mu Μ
 inoremap \\Nu Ν
 inoremap \\Xi Ξ
 inoremap \\Omicron Ο
+inoremap \\Omi Ο
 inoremap \\Pi Π
 inoremap \\Rho Ρ
 inoremap \\Sigma Σ
@@ -1574,6 +1575,7 @@ inoremap \\Phi Φ
 inoremap \\Chi Χ
 inoremap \\Psi Ψ
 inoremap \\Omega Ω
+inoremap \\Ome Ω
 inoremap \\alpha α
 inoremap \\valpha ɑ
 inoremap \\beta β
@@ -1602,6 +1604,7 @@ inoremap \\mu μ
 inoremap \\nu ν
 inoremap \\xi ξ
 inoremap \\omicron ο
+inoremap \\omi ο
 inoremap \\pi π
 inoremap \\vpi ϖ
 inoremap \\cpi ϖ
@@ -1621,6 +1624,7 @@ inoremap \\cphi ϕ
 inoremap \\chi χ
 inoremap \\psi ψ
 inoremap \\omega ω
+inoremap \\ome ω
 inoremap \\ou ȣ
 inoremap \\Ou Ȣ
 inoremap \\kai ϗ
@@ -1703,8 +1707,11 @@ inoremap \\Psi,, ყ
 inoremap \\psi,, ყ
 inoremap \\Psi,,, Ⴘ
 inoremap \\omega, ⲱ
+inoremap \\ome, ⲱ
 inoremap \\Omega, Ⲱ
+inoremap \\Ome, Ⲱ
 inoremap \\omega,, ɷ
+inoremap \\ome,, ɷ
 inoremap \\^Alpha ᴬ
 inoremap \\^Beta ᴮ
 inoremap \\^Gamma ᣘ
@@ -1718,6 +1725,7 @@ inoremap \\^Lambda ᣔ
 inoremap \\^Mu ᴹ
 inoremap \\^Nu ᴺ
 inoremap \\^Omicron ᴼ
+inoremap \\^Omi ᴼ
 inoremap \\^Rho ᴾ
 inoremap \\^Tau ᵀ
 inoremap \\^alpha ᵅ
@@ -1729,6 +1737,7 @@ inoremap \\^epsi ᵋ
 inoremap \\^theta ᶿ
 inoremap \\^iota ᶥ
 inoremap \\^omicron ᵒ
+inoremap \\^omi ᵒ
 inoremap \\^rho ᣖ
 inoremap \\^sigma ᣙ
 inoremap \\^vsigma ᕐ
@@ -1753,17 +1762,21 @@ inoremap \\lepsi@H ϶
 inoremap \\Delta] ∇
 inoremap \\Pi] ⨿
 inoremap \\Omega] ℧
+inoremap \\Ome] ℧
 inoremap \\Delta@v ∇
 inoremap \\Pi@v ⨿
 inoremap \\Omega@v ℧
+inoremap \\Ome@v ℧
 inoremap \\Delta@V ∇
 inoremap \\Pi@V ⨿
 inoremap \\Omega@V ℧
+inoremap \\Ome@V ℧
 inoremap \\Beta{ ꓭ
 inoremap \\Gamma{ ⅃
 inoremap \\Delta{ ∇
 inoremap \\Pi{ ⨿
 inoremap \\Omega{ ℧
+inoremap \\Ome{ ℧
 inoremap \\alpha{ ɒ
 inoremap \\delta{ ƍ
 inoremap \\iota{ ℩
@@ -1773,6 +1786,7 @@ inoremap \\Gamma@p ⅃
 inoremap \\Delta@p ∇
 inoremap \\Pi@p ⨿
 inoremap \\Omega@p ℧
+inoremap \\Ome@p ℧
 inoremap \\alpha@p ɒ
 inoremap \\delta@p ƍ
 inoremap \\iota@p ℩
@@ -1782,6 +1796,7 @@ inoremap \\Gamma@P ⅃
 inoremap \\Delta@P ∇
 inoremap \\Pi@P ⨿
 inoremap \\Omega@P ℧
+inoremap \\Ome@P ℧
 inoremap \\alpha@P ɒ
 inoremap \\delta@P ƍ
 inoremap \\iota@P ℩
@@ -1819,7 +1834,9 @@ inoremap \\copnu ⲛ
 inoremap \\copKsi Ⲝ
 inoremap \\copksi ⲝ
 inoremap \\copOmicron Ⲟ
+inoremap \\copOmi Ⲟ
 inoremap \\copomicron ⲟ
+inoremap \\copomi ⲟ
 inoremap \\copPi Ⲡ
 inoremap \\coppi ⲡ
 inoremap \\copRho Ⲣ
@@ -1839,7 +1856,9 @@ inoremap \\copchi ⲭ
 inoremap \\copPsi Ⲯ
 inoremap \\coppsi ⲯ
 inoremap \\copOmega Ⲱ
+inoremap \\copOme Ⲱ
 inoremap \\copomega ⲱ
+inoremap \\copome ⲱ
 inoremap \\bfAlpha 𝚨
 inoremap \\bfBeta 𝚩
 inoremap \\bfGamma 𝚪
@@ -1857,6 +1876,7 @@ inoremap \\bfMu 𝚳
 inoremap \\bfNu 𝚴
 inoremap \\bfXi 𝚵
 inoremap \\bfOmicron 𝚶
+inoremap \\bfOmi 𝚶
 inoremap \\bfPi 𝚷
 inoremap \\bfRho 𝚸
 inoremap \\bfSigma 𝚺
@@ -1866,6 +1886,7 @@ inoremap \\bfPhi 𝚽
 inoremap \\bfChi 𝚾
 inoremap \\bfPsi 𝚿
 inoremap \\bfOmega 𝛀
+inoremap \\bfOme 𝛀
 inoremap \\bfalpha 𝛂
 inoremap \\bfbeta 𝛃
 inoremap \\bfgamma 𝛄
@@ -1889,6 +1910,7 @@ inoremap \\bfmu 𝛍
 inoremap \\bfnu 𝛎
 inoremap \\bfxi 𝛏
 inoremap \\bfomicron 𝛐
+inoremap \\bfomi 𝛐
 inoremap \\bfpi 𝛑
 inoremap \\bfvpi 𝛡
 inoremap \\bfcpi 𝛡
@@ -1905,6 +1927,7 @@ inoremap \\bfvphi 𝛟
 inoremap \\bfchi 𝛘
 inoremap \\bfpsi 𝛙
 inoremap \\bfomega 𝛚
+inoremap \\bfome 𝛚
 inoremap \\bfDigamma 𝟊
 inoremap \\bfdigamma 𝟋
 inoremap \\itAlpha 𝛢
@@ -1924,6 +1947,7 @@ inoremap \\itMu 𝛭
 inoremap \\itNu 𝛮
 inoremap \\itXi 𝛯
 inoremap \\itOmicron 𝛰
+inoremap \\itOmi 𝛰
 inoremap \\itPi 𝛱
 inoremap \\itRho 𝛲
 inoremap \\itSigma 𝛴
@@ -1934,6 +1958,7 @@ inoremap \\itPhi 𝛷
 inoremap \\itChi 𝛸
 inoremap \\itPsi 𝛹
 inoremap \\itOmega 𝛺
+inoremap \\itOme 𝛺
 inoremap \\italpha 𝛼
 inoremap \\itbeta 𝛽
 inoremap \\itgamma 𝛾
@@ -1957,6 +1982,7 @@ inoremap \\itmu 𝜇
 inoremap \\itnu 𝜈
 inoremap \\itxi 𝜉
 inoremap \\itomicron 𝜊
+inoremap \\itomi 𝜊
 inoremap \\itpi 𝜋
 inoremap \\itvpi 𝜛
 inoremap \\itcpi 𝜛
@@ -1974,6 +2000,7 @@ inoremap \\itcphi 𝜙
 inoremap \\itchi 𝜒
 inoremap \\itpsi 𝜓
 inoremap \\itomega 𝜔
+inoremap \\itome 𝜔
 inoremap \\biAlpha 𝜜
 inoremap \\biBeta 𝜝
 inoremap \\biGamma 𝜞
@@ -1991,6 +2018,7 @@ inoremap \\biMu 𝜧
 inoremap \\biNu 𝜨
 inoremap \\biXi 𝜩
 inoremap \\biOmicron 𝜪
+inoremap \\biOmi 𝜪
 inoremap \\biPi 𝜫
 inoremap \\biRho 𝜬
 inoremap \\biSigma 𝜮
@@ -2001,6 +2029,7 @@ inoremap \\biPhi 𝜱
 inoremap \\biChi 𝜲
 inoremap \\biPsi 𝜳
 inoremap \\biOmega 𝜴
+inoremap \\biOme 𝜴
 inoremap \\bialpha 𝜶
 inoremap \\bibeta 𝜷
 inoremap \\bigamma 𝜸
@@ -2024,6 +2053,7 @@ inoremap \\bimu 𝝁
 inoremap \\binu 𝝂
 inoremap \\bixi 𝝃
 inoremap \\biomicron 𝝄
+inoremap \\biomi 𝝄
 inoremap \\bipi 𝝅
 inoremap \\bivpi 𝝕
 inoremap \\bicpi 𝝕
@@ -2041,6 +2071,7 @@ inoremap \\bicphi 𝝓
 inoremap \\bichi 𝝌
 inoremap \\bipsi 𝝍
 inoremap \\biomega 𝝎
+inoremap \\biome 𝝎
 inoremap \\bfsAlpha 𝝖
 inoremap \\bfsBeta 𝝗
 inoremap \\bfsGamma 𝝘
@@ -2058,6 +2089,7 @@ inoremap \\bfsMu 𝝡
 inoremap \\bfsNu 𝝢
 inoremap \\bfsXi 𝝣
 inoremap \\bfsOmicron 𝝤
+inoremap \\bfsOmi 𝝤
 inoremap \\bfsPi 𝝥
 inoremap \\bfsRho 𝝦
 inoremap \\bfsSigma 𝝨
@@ -2068,6 +2100,7 @@ inoremap \\bfsPhi 𝝫
 inoremap \\bfsChi 𝝬
 inoremap \\bfsPsi 𝝭
 inoremap \\bfsOmega 𝝮
+inoremap \\bfsOme 𝝮
 inoremap \\bfsalpha 𝝰
 inoremap \\bfsbeta 𝝱
 inoremap \\bfsgamma 𝝲
@@ -2091,6 +2124,7 @@ inoremap \\bfsmu 𝝻
 inoremap \\bfsnu 𝝼
 inoremap \\bfsxi 𝝽
 inoremap \\bfsomicron 𝝾
+inoremap \\bfsomi 𝝾
 inoremap \\bfspi 𝝿
 inoremap \\bfsvpi 𝞏
 inoremap \\bfscpi 𝞏
@@ -2108,6 +2142,7 @@ inoremap \\bfscphi 𝞍
 inoremap \\bfschi 𝞆
 inoremap \\bfspsi 𝞇
 inoremap \\bfsomega 𝞈
+inoremap \\bfsome 𝞈
 inoremap \\bisAlpha 𝞐
 inoremap \\bisBeta 𝞑
 inoremap \\bisGamma 𝞒
@@ -2125,6 +2160,7 @@ inoremap \\bisMu 𝞛
 inoremap \\bisNu 𝞜
 inoremap \\bisXi 𝞝
 inoremap \\bisOmicron 𝞞
+inoremap \\bisOmi 𝞞
 inoremap \\bisPi 𝞟
 inoremap \\bisRho 𝞠
 inoremap \\bisSigma 𝞢
@@ -2135,6 +2171,7 @@ inoremap \\bisPhi 𝞥
 inoremap \\bisChi 𝞦
 inoremap \\bisPsi 𝞧
 inoremap \\bisOmega 𝞨
+inoremap \\bisOme 𝞨
 inoremap \\bisalpha 𝞪
 inoremap \\bisbeta 𝞫
 inoremap \\bisgamma 𝞬
@@ -2158,6 +2195,7 @@ inoremap \\bismu 𝞵
 inoremap \\bisnu 𝞶
 inoremap \\bisxi 𝞷
 inoremap \\bisomicron 𝞸
+inoremap \\bisomi 𝞸
 inoremap \\bispi 𝞹
 inoremap \\bisvpi 𝟉
 inoremap \\biscpi 𝟉
@@ -2175,6 +2213,7 @@ inoremap \\biscphi 𝟇
 inoremap \\bischi 𝟀
 inoremap \\bispsi 𝟁
 inoremap \\bisomega 𝟂
+inoremap \\bisome 𝟂
 inoremap \\bbAlpha 𝔸
 inoremap \\bbBeta 𝔸
 inoremap \\bbGamma ℾ
@@ -2187,6 +2226,7 @@ inoremap \\bbKappa 𝕂
 inoremap \\bbMu 𝕄
 inoremap \\bbNu ℕ
 inoremap \\bbOmicron 𝕆
+inoremap \\bbOmi 𝕆
 inoremap \\bbPi ℿ
 inoremap \\bbRho ℙ
 inoremap \\bbSigma ⅀
@@ -2197,6 +2237,7 @@ inoremap \\bbChi 𝕏
 inoremap \\bbgamma ℽ
 inoremap \\bbnu 𝕧
 inoremap \\bbomicron 𝕠
+inoremap \\bbomi 𝕠
 inoremap \\bbpi ℼ
 inoremap \\scalpha ᴀ
 inoremap \\scbeta ʙ
@@ -2212,6 +2253,7 @@ inoremap \\sclam ᴧ
 inoremap \\scmu ᴍ
 inoremap \\scnu ɴ
 inoremap \\scomicron ᴏ
+inoremap \\scomi ᴏ
 inoremap \\scpi ᴨ
 inoremap \\scrho ᴩ
 inoremap \\sctau ᴛ
