@@ -1837,10 +1837,30 @@ Monto,,           ‒ͫ‒ͦ‒ᷠ→
 Monfrom,,         ←‒ͫ‒ͦ‒ᷠ
 Epito,,           ‒ͤ‒ᷮ‒ͥ→
 Epifrom,,         ←‒ͤ‒ᷮ‒ͥ
-natto             ⇒  # [nat]ural transformation
+natuto            ⇒  # [natu]ral transformation [to]
+natufrom          ⇐
+natto             ⇒
 natfrom           ⇐
-natur             ⇒  # [natu]ral transformation [r]ight
+nato              ⇒
+nafrom            ⇐
+natur             ⇒  # [r]ight
 natul             ⇐
+natr              ⇒
+natl              ⇐
+nar               ⇒
+nal               ⇐
+natuto,           →̇
+natufrom,         ←̇
+natto,            →̇
+natfrom,          ←̇
+nato,             →̇
+nafrom,           ←̇
+natur,            →̇
+natul,            ←̇
+natr,             →̇
+natl,             ←̇
+nar,              →̇
+nal,              ←̇
 psetr             ℘⃗  # covariant pset functor
 psetl             ℘⃖  # contravariant pset functor
 psetto            ℘⃗
