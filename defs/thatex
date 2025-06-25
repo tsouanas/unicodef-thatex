@@ -1103,6 +1103,8 @@ to                →
 from              ←
 tofrom            ⇄
 fromto            ⇆
+toto              ⇉
+fromfrom          ⇇
 2tos              ⇉  # [s] (plural indicates distinct arrows)
 2froms            ⇇
 3tos              ⇶
