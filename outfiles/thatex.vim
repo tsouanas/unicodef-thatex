@@ -1657,41 +1657,61 @@ inoremap \\CAT 𝐂𝐚𝐭
 inoremap \\SET 𝐒𝐞𝐭
 inoremap \\PSET 𝐏𝐒𝐞𝐭
 inoremap \\PTDSET 𝐏𝐭𝐝𝐒𝐞𝐭
+inoremap \\SET* 𝐒𝐞𝐭 ͙
 inoremap \\FINSET 𝐅𝐢𝐧𝐒𝐞𝐭
 inoremap \\FINORD 𝐅𝐢𝐧𝐎𝐫𝐝
 inoremap \\ORD 𝐎𝐫𝐝
+inoremap \\REL 𝐑𝐞𝐥
 inoremap \\PROSET 𝐏𝐫𝐨𝐬𝐞𝐭
 inoremap \\POSET 𝐏𝐨𝐬𝐞𝐭
+inoremap \\PRORSET 𝐏(𝐫)𝐨𝐬𝐞𝐭
+inoremap \\MAGMA 𝐌𝐚𝐠𝐦𝐚
+inoremap \\MAG 𝐌𝐚𝐠
 inoremap \\SEMIGROUP 𝐒𝐞𝐦𝐢𝐠𝐫𝐨𝐮𝐩
 inoremap \\SGROUP 𝐒𝐞𝐦𝐢𝐠𝐫𝐨𝐮𝐩
-inoremap \\SEMIGRP 𝐒𝐞𝐦𝐢𝐠𝐫𝐨𝐮𝐩
-inoremap \\SGRP 𝐒𝐞𝐦𝐢𝐠𝐫𝐩
+inoremap \\SEMIGRP 𝐒𝐞𝐦𝐢𝐆𝐫𝐩
+inoremap \\SGRP 𝐒𝐞𝐦𝐢𝐆𝐫𝐩
 inoremap \\MONOID 𝐌𝐨𝐧𝐨𝐢𝐝
 inoremap \\MON 𝐌𝐨𝐧
 inoremap \\GROUP 𝐆𝐫𝐨𝐮𝐩
 inoremap \\GRP 𝐆𝐫𝐩
 inoremap \\ABEL 𝐀𝐛𝐞𝐥
+inoremap \\AB 𝐀𝐛
 inoremap \\RING 𝐑𝐢𝐧𝐠
 inoremap \\RNG 𝐑𝐧𝐠
 inoremap \\RIG 𝐑𝐢𝐠
+inoremap \\MODULE 𝐌𝐨𝐝𝐮𝐥𝐞
 inoremap \\MOD 𝐌𝐨𝐝
 inoremap \\VECT 𝐕𝐞𝐜𝐭
+inoremap \\VCT 𝐕𝐜𝐭
 inoremap \\FINVECT 𝐅𝐢𝐧𝐕𝐞𝐜𝐭
 inoremap \\MATRIX 𝐌𝐚𝐭𝐫𝐢𝐱
-inoremap \\MAT 𝐌𝐚𝐭𝐫𝐢𝐱
+inoremap \\MAT 𝐌𝐚𝐭
 inoremap \\SEMILATTICE 𝐒𝐞𝐦𝐢𝐥𝐚𝐭𝐭𝐢𝐜𝐞
 inoremap \\SLATTICE 𝐒𝐞𝐦𝐢𝐥𝐚𝐭𝐭𝐢𝐜𝐞
+inoremap \\SEMILAT 𝐒𝐞𝐦𝐢𝐋𝐚𝐭
+inoremap \\SLAT 𝐒𝐞𝐦𝐢𝐋𝐚𝐭
 inoremap \\LATTICE 𝐋𝐚𝐭𝐭𝐢𝐜𝐞
-inoremap \\LAT 𝐋𝐚𝐭𝐭𝐢𝐜𝐞
+inoremap \\LAT 𝐋𝐚𝐭
+inoremap \\LOCALE 𝐋𝐨𝐜𝐚𝐥𝐞
+inoremap \\LOC 𝐋𝐨𝐜
+inoremap \\FRAME 𝐅𝐫𝐚𝐦𝐞
+inoremap \\FRM 𝐅𝐫𝐦
 inoremap \\HEYTING 𝐇𝐞𝐲𝐭𝐢𝐧𝐠
-inoremap \\HALG 𝐇𝐞𝐲𝐭𝐢𝐧𝐠
 inoremap \\BOOLEAN 𝐁𝐨𝐨𝐥𝐞𝐚𝐧
-inoremap \\BALG 𝐁𝐨𝐨𝐥𝐞𝐚𝐧
+inoremap \\HEYTALG 𝐇𝐞𝐲𝐭𝐀𝐥𝐠
+inoremap \\BOOLALG 𝐁𝐨𝐨𝐥𝐀𝐥𝐠
+inoremap \\HALG 𝐇𝐞𝐲𝐭𝐀𝐥𝐠
+inoremap \\BALG 𝐁𝐨𝐨𝐥𝐀𝐥𝐠
 inoremap \\HA 𝐇𝐀
 inoremap \\BA 𝐁𝐀
 inoremap \\MODEL 𝐌𝐨𝐝𝐞𝐥
 inoremap \\CPO 𝐂𝐩𝐨
 inoremap \\DCPO 𝐝𝐜𝐩𝐨
+inoremap \\TOP 𝐓𝐨𝐩
+inoremap \\TOPH 𝐓𝐨𝐩𝐡
+inoremap \\TOP* 𝐓𝐨𝐩 ͙
+inoremap \\TOPH* 𝐓𝐨𝐩𝐡 ͙
 inoremap \\truth ⊤
 inoremap \\verum ⊤
 inoremap \\falsity ⊥
@@ -3086,6 +3106,8 @@ inoremap \\^lang ˂
 inoremap \\^rang ˃
 inoremap \\^uang ˄
 inoremap \\^dang ˅
+inoremap \\_ast  ͙
+inoremap \\_from ˿
 inoremap \\_back ˿
 inoremap \\_bul ٜ
 inoremap \\_bang ﹗
@@ -3104,6 +3126,10 @@ inoremap \\_lang ˱
 inoremap \\_rang ˲
 inoremap \\_uang ˰
 inoremap \\_dang ˯
+inoremap \\_arru ￪
+inoremap \\_arrd ￬
+inoremap \\_arrl ￩
+inoremap \\_arrr ￫
 inoremap \\_up ￪
 inoremap \\_down ￬
 inoremap \\_left ￩

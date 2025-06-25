@@ -29,7 +29,7 @@
 | <code>smedal</code> | 🥈 |
 | <code>bmedal</code> | 🥉 |
 | <code>WIP</code> | 🚧 |
-| <code>TOP</code> | 🔝 |
+| <code>top^</code> | 🔝 |
 | <code>drums</code> | 🥁 |
 | <code>drum</code> | 🥁 |
 | <code>Radiohaz</code> | ☢️ |

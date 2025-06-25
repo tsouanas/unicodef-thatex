@@ -28,7 +28,7 @@ inoremap \\gmedal 🥇
 inoremap \\smedal 🥈
 inoremap \\bmedal 🥉
 inoremap \\WIP 🚧
-inoremap \\TOP 🔝
+inoremap \\top^ 🔝
 inoremap \\drums 🥁
 inoremap \\drum 🥁
 inoremap \\Radiohaz ☢️
