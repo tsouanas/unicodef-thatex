@@ -1,11 +1,11 @@
-#%{{{ [vim] 
+# [vim] %{{{
 # vim:foldmarker=%{{{,%}}}
 # vim:foldmethod=marker
 # vim:foldcolumn=5
-#%}}}
+# %}}}
 #
-# These are to be used while having a (modern) greek layout activated.
-# Actions are used as prefixes only.
+# INFO: These are to be used while having a (modern) greek layout activated.
+# INFO: Actions are used as prefixes only.
 #
 # 0 (prefixed to the letter): alternative form
 #

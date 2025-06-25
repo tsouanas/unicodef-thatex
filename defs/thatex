@@ -1,8 +1,8 @@
-#%{{{ [vim] 
+# [vim] %{{{
 # vim:foldmarker=%{{{,%}}}
 # vim:foldmethod=marker
 # vim:foldcolumn=5
-#%}}}
+# %}}}
 #
 # ΘάTeX-influenced unicodefs
 # [thatex]:   https://github.com/tsouanas/thatex
@@ -303,7 +303,7 @@ vmeasto           ⤓
 
 # %}}}
 
-# %{{{ checkboxes and radio buttons 
+# checkboxes and radio buttons %{{{
 
 ## ballot / checkboxes
 checkb            ☐  # [check]box ([b]lank)
@@ -362,7 +362,7 @@ nuclear           ☢
 
 # %}}}
 
-# %{{{ music 
+# music %{{{
 
 fclef             𝄢
 cclef             𝄡
@@ -1686,7 +1686,7 @@ Homfrom,          ←‒ͪ‒ͦ‒ͫ
 slop              ⋄  # unbiased [s]emi[l]attice [op]eration (∨∧)
 slOp              ◇
 slop,             ⬫
-slOp,             ◊ 
+slOp,             ◊
 slop,,            ⟡
 slcop             ⟡  # [c]urly/vy
 slunit            ɪ  # (⊥⊤)
@@ -2363,7 +2363,7 @@ downw,            ⌄
 
 # math (syn-named) %{{{
 
-# punctuation, quotes, brackets, dots %{{{ 
+# punctuation, quotes, brackets, dots %{{{
 
 ## dots %{{{
 
@@ -2556,10 +2556,11 @@ ubrack            ⎵
 
 # %}}}
 
-# %{{{ multi-line sum and integral
+# multi-line sum and integral %{{{
 # for height > 2: [u]pper, e[x]tension, [m]iddle, [l]ower
 # for height = 2: [t]op, [b]ottom
 # (see also: multiline brackets in defs/math_)
+
 sumt              ⎲  # sum
 sumb              ⎳  #
 intt              ⌠  # [int]egral (height = 2)
@@ -2568,6 +2569,7 @@ intu              ⌠  # [int]egral (height > 2)
 intm              ⎮  #
 intx              ⎮  #
 intl              ⌡  #
+
 # %}}}
 
 # %}}}
@@ -3568,7 +3570,7 @@ _minus            ˗
 _lambda           ⲗ
 _lam              ⲗ
 
-## superscripts / subscripts: relations 
+## superscripts / subscripts: relations
 ^sim              ˜
 ^vsim             ⸯ
 _sim              ˷

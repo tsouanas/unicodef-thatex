@@ -1,8 +1,8 @@
-#%{{{ [vim] 
+# [vim] %{{{
 # vim:foldmarker=%{{{,%}}}
 # vim:foldmethod=marker
 # vim:foldcolumn=5
-#%}}}
+# %}}}
 #
 # ToC
 #
