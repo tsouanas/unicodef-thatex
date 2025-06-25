@@ -483,7 +483,7 @@ rCigma            Ͻ
 
 # %}}}
 
-# general math %{{{
+# common math %{{{
 
 pm                ±   # [p]lus-[m]inus
 mp                ∓
@@ -3531,6 +3531,8 @@ wudot             ᐧ  # [u]pper
 ^uang             ˄
 ^dang             ˅
 
+_ast               ͙
+_from             ˿
 _back             ˿
 _bul               ٜ
 _bang             ﹗
@@ -3549,10 +3551,14 @@ _lang             ˱
 _rang             ˲
 _uang             ˰
 _dang             ˯
-_up               ￪  # XXX: abuse: half-width for subsript
-_down             ￬  # XXX: abuse: half-width for subsript
-_left             ￩  # XXX: abuse: half-width for subsript
-_right            ￫  # XXX: abuse: half-width for subsript
+_arru             ￪  # XXX: abuse: half-width for subscript
+_arrd             ￬  # XXX: abuse: half-width for subscript
+_arrl             ￩  # XXX: abuse: half-width for subscript
+_arrr             ￫  # XXX: abuse: half-width for subscript
+_up               ￪  # XXX: abuse: half-width for subscript
+_down             ￬  # XXX: abuse: half-width for subscript
+_left             ￩  # XXX: abuse: half-width for subscript
+_right            ￫  # XXX: abuse: half-width for subscript
 
 ^divby            ᐟ
 _plus             ˖
