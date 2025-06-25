@@ -1892,41 +1892,61 @@ CAT               𝐂𝐚𝐭
 SET               𝐒𝐞𝐭
 PSET              𝐏𝐒𝐞𝐭
 PTDSET            𝐏𝐭𝐝𝐒𝐞𝐭
+SET*              𝐒𝐞𝐭 ͙
 FINSET            𝐅𝐢𝐧𝐒𝐞𝐭
 FINORD            𝐅𝐢𝐧𝐎𝐫𝐝
 ORD               𝐎𝐫𝐝
+REL               𝐑𝐞𝐥
 PROSET            𝐏𝐫𝐨𝐬𝐞𝐭
 POSET             𝐏𝐨𝐬𝐞𝐭
+PRORSET           𝐏(𝐫)𝐨𝐬𝐞𝐭
+MAGMA             𝐌𝐚𝐠𝐦𝐚
+MAG               𝐌𝐚𝐠
 SEMIGROUP         𝐒𝐞𝐦𝐢𝐠𝐫𝐨𝐮𝐩
 SGROUP            𝐒𝐞𝐦𝐢𝐠𝐫𝐨𝐮𝐩
-SEMIGRP           𝐒𝐞𝐦𝐢𝐠𝐫𝐨𝐮𝐩
-SGRP              𝐒𝐞𝐦𝐢𝐠𝐫𝐩
+SEMIGRP           𝐒𝐞𝐦𝐢𝐆𝐫𝐩
+SGRP              𝐒𝐞𝐦𝐢𝐆𝐫𝐩
 MONOID            𝐌𝐨𝐧𝐨𝐢𝐝
 MON               𝐌𝐨𝐧
 GROUP             𝐆𝐫𝐨𝐮𝐩
 GRP               𝐆𝐫𝐩
 ABEL              𝐀𝐛𝐞𝐥
+AB                𝐀𝐛
 RING              𝐑𝐢𝐧𝐠
 RNG               𝐑𝐧𝐠
 RIG               𝐑𝐢𝐠
+MODULE            𝐌𝐨𝐝𝐮𝐥𝐞
 MOD               𝐌𝐨𝐝
 VECT              𝐕𝐞𝐜𝐭
+VCT               𝐕𝐜𝐭
 FINVECT           𝐅𝐢𝐧𝐕𝐞𝐜𝐭
 MATRIX            𝐌𝐚𝐭𝐫𝐢𝐱
-MAT               𝐌𝐚𝐭𝐫𝐢𝐱
+MAT               𝐌𝐚𝐭
 SEMILATTICE       𝐒𝐞𝐦𝐢𝐥𝐚𝐭𝐭𝐢𝐜𝐞
 SLATTICE          𝐒𝐞𝐦𝐢𝐥𝐚𝐭𝐭𝐢𝐜𝐞
+SEMILAT           𝐒𝐞𝐦𝐢𝐋𝐚𝐭
+SLAT              𝐒𝐞𝐦𝐢𝐋𝐚𝐭
 LATTICE           𝐋𝐚𝐭𝐭𝐢𝐜𝐞
-LAT               𝐋𝐚𝐭𝐭𝐢𝐜𝐞
+LAT               𝐋𝐚𝐭
+LOCALE            𝐋𝐨𝐜𝐚𝐥𝐞
+LOC               𝐋𝐨𝐜
+FRAME             𝐅𝐫𝐚𝐦𝐞
+FRM               𝐅𝐫𝐦
 HEYTING           𝐇𝐞𝐲𝐭𝐢𝐧𝐠
-HALG              𝐇𝐞𝐲𝐭𝐢𝐧𝐠
 BOOLEAN           𝐁𝐨𝐨𝐥𝐞𝐚𝐧
-BALG              𝐁𝐨𝐨𝐥𝐞𝐚𝐧
+HEYTALG           𝐇𝐞𝐲𝐭𝐀𝐥𝐠
+BOOLALG           𝐁𝐨𝐨𝐥𝐀𝐥𝐠
+HALG              𝐇𝐞𝐲𝐭𝐀𝐥𝐠
+BALG              𝐁𝐨𝐨𝐥𝐀𝐥𝐠
 HA                𝐇𝐀
 BA                𝐁𝐀
 MODEL             𝐌𝐨𝐝𝐞𝐥
 CPO               𝐂𝐩𝐨
 DCPO              𝐝𝐜𝐩𝐨
+TOP               𝐓𝐨𝐩
+TOPH              𝐓𝐨𝐩𝐡
+TOP*              𝐓𝐨𝐩 ͙
+TOPH*             𝐓𝐨𝐩𝐡 ͙
 
 # %}}}
 
