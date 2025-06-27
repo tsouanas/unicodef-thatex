@@ -1735,6 +1735,7 @@
 | <code>TOPH</code> | 𝐓𝐨𝐩𝐡 |
 | <code>TOP*</code> | 𝐓𝐨𝐩 ͙ |
 | <code>TOPH*</code> | 𝐓𝐨𝐩𝐡 ͙ |
+| <code>HASK</code> | 𝐇𝐚𝐬𝐤 |
 | <code>truth</code> | ⊤ |
 | <code>verum</code> | ⊤ |
 | <code>falsity</code> | ⊥ |
