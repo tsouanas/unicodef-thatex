@@ -2844,6 +2844,7 @@ coloop            ↻
 pool              ↻  # (loop backwards)
 twixt             ≬
 zap               ↯
+zeus              ↯
 
 # %}}}
 
@@ -3683,7 +3684,6 @@ _top              ˕
 @check             ̌
 @forbid           ⃠
 @not               ̸  # [s]lash  INFO: see also: syn-named @c* below for more cancelling
-@lynch             ᪰  # the owls are not what they seem
 
 # %}}}
 
@@ -3783,6 +3783,7 @@ _top              ˕
 
 ### misc
 @ozap              ͛
+@ozeus             ͛
 @olynch            ᪰  # the owls are not what they seem
 @othis             ᪳
 @ohere             ᪳
@@ -3870,6 +3871,7 @@ _top              ˕
 
 ### misc
 @uzap              ᷏
+@uzeus             ᷏
 @uthis             ͎
 @uhere             ͎
 @usnake            ᷂
@@ -3962,6 +3964,13 @@ _top              ˕
 @sbridge           ̺͆
 @sthis             ͎᪳
 @shere             ͎᪳
+
+# %}}}
+
+## default (o/u/c/a/s) %{{{
+
+@balls             ̫
+@lynch             ᪰  # the owls are not what they seem
 
 # %}}}
 
