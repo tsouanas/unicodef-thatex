@@ -856,10 +856,16 @@ Compl             ∁  # (large)
 mpl               ᵓ  # cocomplement
 genfrom           ⥺  # [gen]erated [from]
 gento             ⭄  # [gen]erates [to]
+gend              ⥺  # [gen]erate[d]
+gens              ⭄  # [gen]erate[s]
 fromgen           ⥺  # [from] [gen]erator
-togen             ⭄  # [to] [gen]erate
+togen             ⭄  # [gen]erate to
 ingen             ⥺  # [in] [gen]erator
 nigen             ⭄  # [ni] [gen]erator
+infrom            ⥺
+nito              ⭄
+elemr             ⭄
+eleml             ⥺
 
 # %}}}
 
