@@ -591,11 +591,12 @@
 | <code>comps,</code> | ℂ̧ |
 | <code>complex,</code> | ℂ̧ |
 | <code>quats</code> | ℍ |
+| <code>octos</code> | 𝕆 |
+| <code>Im</code> | ℑ |
+| <code>Re</code> | ℜ |
 | <code>qi</code> | 𝐢 |
 | <code>qj</code> | 𝐣 |
 | <code>qk</code> | 𝐤 |
-| <code>Im</code> | ℑ |
-| <code>Re</code> | ℜ |
 | <code>bloch</code> | ℬ |
 | <code>field</code> | 𝕜 |
 | <code>korp</code> | 𝕜 |

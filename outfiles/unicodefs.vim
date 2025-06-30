@@ -2951,11 +2951,12 @@ inoremap \\complex ℂ
 inoremap \\comps, ℂ̧
 inoremap \\complex, ℂ̧
 inoremap \\quats ℍ
+inoremap \\octos 𝕆
+inoremap \\Im ℑ
+inoremap \\Re ℜ
 inoremap \\qi 𝐢
 inoremap \\qj 𝐣
 inoremap \\qk 𝐤
-inoremap \\Im ℑ
-inoremap \\Re ℜ
 inoremap \\bloch ℬ
 inoremap \\field 𝕜
 inoremap \\korp 𝕜
