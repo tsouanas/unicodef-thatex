@@ -5657,10 +5657,16 @@
 | <code>mpl</code> | ᵓ |
 | <code>genfrom</code> | ⥺ |
 | <code>gento</code> | ⭄ |
+| <code>gend</code> | ⥺ |
+| <code>gens</code> | ⭄ |
 | <code>fromgen</code> | ⥺ |
 | <code>togen</code> | ⭄ |
 | <code>ingen</code> | ⥺ |
 | <code>nigen</code> | ⭄ |
+| <code>infrom</code> | ⥺ |
+| <code>nito</code> | ⭄ |
+| <code>elemr</code> | ⭄ |
+| <code>eleml</code> | ⥺ |
 | <code>lset</code> | { |
 | <code>rset</code> | } |
 | <code>eset</code> | {} |
@@ -7417,6 +7423,7 @@
 | <code>pool</code> | ↻ |
 | <code>twixt</code> | ≬ |
 | <code>zap</code> | ↯ |
+| <code>zeus</code> | ↯ |
 | <code>prime</code> | ′ |
 | <code>pprime</code> | ″ |
 | <code>ppprime</code> | ‴ |
@@ -8144,7 +8151,6 @@
 | <code>@check</code> | ̌ |
 | <code>@forbid</code> | ⃠ |
 | <code>@not</code> | ̸ |
-| <code>@lynch</code> | ᪰ |
 | <code>@oarrl</code> | ⃖ |
 | <code>@oarrr</code> | ⃗ |
 | <code>@oleft</code> | ⃖ |
@@ -8222,6 +8228,7 @@
 | <code>@odot,</code> | ͘ |
 | <code>@ocomma,</code> | ̕ |
 | <code>@ozap</code> | ͛ |
+| <code>@ozeus</code> | ͛ |
 | <code>@olynch</code> | ᪰ |
 | <code>@othis</code> | ᪳ |
 | <code>@ohere</code> | ᪳ |
@@ -8291,6 +8298,7 @@
 | <code>@usmile</code> | ̮ |
 | <code>@ufrown</code> | ̯ |
 | <code>@uzap</code> | ᷏ |
+| <code>@uzeus</code> | ᷏ |
 | <code>@uthis</code> | ͎ |
 | <code>@uhere</code> | ͎ |
 | <code>@usnake</code> | ᷂ |
@@ -8368,6 +8376,8 @@
 | <code>@sbridge</code> | ̺͆ |
 | <code>@sthis</code> | ͎᪳ |
 | <code>@shere</code> | ͎᪳ |
+| <code>@balls</code> | ̫ |
+| <code>@lynch</code> | ᪰ |
 | <code>@oa</code> | ͣ |
 | <code>@ob</code> | ᷨ |
 | <code>@oc</code> | ͨ |

@@ -3095,10 +3095,16 @@ inoremap \\Compl ∁
 inoremap \\mpl ᵓ
 inoremap \\genfrom ⥺
 inoremap \\gento ⭄
+inoremap \\gend ⥺
+inoremap \\gens ⭄
 inoremap \\fromgen ⥺
 inoremap \\togen ⭄
 inoremap \\ingen ⥺
 inoremap \\nigen ⭄
+inoremap \\infrom ⥺
+inoremap \\nito ⭄
+inoremap \\elemr ⭄
+inoremap \\eleml ⥺
 inoremap \\lset {
 inoremap \\rset }
 inoremap \\eset {}
@@ -4855,6 +4861,7 @@ inoremap \\coloop ↻
 inoremap \\pool ↻
 inoremap \\twixt ≬
 inoremap \\zap ↯
+inoremap \\zeus ↯
 inoremap \\prime ′
 inoremap \\pprime ″
 inoremap \\ppprime ‴
@@ -5582,7 +5589,6 @@ inoremap \\@vecl ⃖
 inoremap \\@check ̌
 inoremap \\@forbid ⃠
 inoremap \\@not ̸
-inoremap \\@lynch ᪰
 inoremap \\@oarrl ⃖
 inoremap \\@oarrr ⃗
 inoremap \\@oleft ⃖
@@ -5660,6 +5666,7 @@ inoremap \\@ofrown ̑
 inoremap \\@odot, ͘
 inoremap \\@ocomma, ̕
 inoremap \\@ozap ͛
+inoremap \\@ozeus ͛
 inoremap \\@olynch ᪰
 inoremap \\@othis ᪳
 inoremap \\@ohere ᪳
@@ -5729,6 +5736,7 @@ inoremap \\@ussim ᷽
 inoremap \\@usmile ̮
 inoremap \\@ufrown ̯
 inoremap \\@uzap ᷏
+inoremap \\@uzeus ᷏
 inoremap \\@uthis ͎
 inoremap \\@uhere ͎
 inoremap \\@usnake ᷂
@@ -5806,6 +5814,8 @@ inoremap \\@szeus ᷏͛
 inoremap \\@sbridge ̺͆
 inoremap \\@sthis ͎᪳
 inoremap \\@shere ͎᪳
+inoremap \\@balls ̫
+inoremap \\@lynch ᪰
 inoremap \\@oa ͣ
 inoremap \\@ob ᷨ
 inoremap \\@oc ͨ
