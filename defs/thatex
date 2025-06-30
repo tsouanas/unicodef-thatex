@@ -712,11 +712,12 @@ complex           ℂ
 comps,            ℂ̧
 complex,          ℂ̧
 quats             ℍ
+octos             𝕆
+Im                ℑ
+Re                ℜ
 qi                𝐢
 qj                𝐣
 qk                𝐤
-Im                ℑ
-Re                ℜ
 bloch             ℬ
 field             𝕜
 korp              𝕜  # [korp]{o,er,s,…}
