@@ -26,6 +26,7 @@ inoremap \(` `
 inoremap \)` ´
 inoremap \`` “
 inoremap \'' ”
+inoremap \,, „
 inoremap \_[ ⸤
 inoremap \_] ⸥
 inoremap \^[ ⸢

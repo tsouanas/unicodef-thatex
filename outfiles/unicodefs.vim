@@ -2398,6 +2398,8 @@ inoremap \\hypog ͺ
 inoremap \\anoteleia ·
 inoremap \\anotel ·
 inoremap \\swung ⁓
+inoremap \\asabove „
+inoremap \\asab „
 inoremap \\hhyph ⸗
 inoremap \\dhyph ⸚
 inoremap \\hyphenp ‧
@@ -5056,6 +5058,9 @@ inoremap \\vvee ⩔
 inoremap \\wwedge ⩓
 inoremap \\dotminus ∸
 inoremap \\dminus ∸
+inoremap \\2dotminus ⸚
+inoremap \\ddminus ⸚
+inoremap \\frog ⸚
 inoremap \\minusdot ⨪
 inoremap \\commaminus ⨩
 inoremap \\cominus ⨩
@@ -6417,6 +6422,7 @@ inoremap \(` `
 inoremap \)` ´
 inoremap \`` “
 inoremap \'' ”
+inoremap \,, „
 inoremap \_[ ⸤
 inoremap \_] ⸥
 inoremap \^[ ⸢

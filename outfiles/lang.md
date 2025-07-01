@@ -27,6 +27,7 @@
 | <code>)&#96;</code> | ´ |
 | <code>&#96;&#96;</code> | “ |
 | <code>''</code> | ” |
+| <code>,,</code> | „ |
 | <code>_[</code> | ⸤ |
 | <code>_]</code> | ⸥ |
 | <code>^[</code> | ⸢ |

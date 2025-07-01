@@ -38,6 +38,8 @@
 | <code>anoteleia</code> | · |
 | <code>anotel</code> | · |
 | <code>swung</code> | ⁓ |
+| <code>asabove</code> | „ |
+| <code>asab</code> | „ |
 | <code>hhyph</code> | ⸗ |
 | <code>dhyph</code> | ⸚ |
 | <code>hyphenp</code> | ‧ |
@@ -2696,6 +2698,9 @@
 | <code>wwedge</code> | ⩓ |
 | <code>dotminus</code> | ∸ |
 | <code>dminus</code> | ∸ |
+| <code>2dotminus</code> | ⸚ |
+| <code>ddminus</code> | ⸚ |
+| <code>frog</code> | ⸚ |
 | <code>minusdot</code> | ⨪ |
 | <code>commaminus</code> | ⨩ |
 | <code>cominus</code> | ⨩ |

@@ -26,6 +26,7 @@
 <Multi_key><parenright><grave> : "´"
 <Multi_key><grave><grave> : "“"
 <Multi_key><apostrophe><apostrophe> : "”"
+<Multi_key><comma><comma> : "„"
 <Multi_key><underscore><bracketleft> : "⸤"
 <Multi_key><underscore><bracketright> : "⸥"
 <Multi_key><asciicircum><bracketleft> : "⸢"

@@ -1789,6 +1789,7 @@
     "D" = ("insertText:", "Ḑ");
     "C" = ("insertText:", "Ç");
     "A" = ("insertText:", "Ą");
+    "," = ("insertText:", "„");
   };
   "%" = {
     "s" = ("insertText:", "ṩ");
