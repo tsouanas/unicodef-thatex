@@ -1046,6 +1046,16 @@ leqo              ≤ₒ
 lto               <ₒ
 geqo              ≥ₒ
 gto               >ₒ
+eqc,              =ͨ
+leqc,             ≤ͨ
+ltc,              <ͨ
+geqc,             ≥ͨ
+gtc,              >ͨ
+eqo,              =ͦ
+leqo,             ≤ͦ
+lto,              <ͦ
+geqo,             ≥ͦ
+gto,              >ͦ
 forces            ⊩
 nforces           ⊮
 incinfty          ⧜  # [inc]omplete
@@ -1686,8 +1696,8 @@ conjrel           ≈  # group [conj]ugation [rel]ation
 conjeq            ≈  # up to [conj]ugation, [eq]uals
 conjsim           ≈  # [conj]ugationally [sim]ilar
 conjor            ϱ  # [conj]ugat[or]
-homto             →ͪ
-homfrom           ←ͪ
+homto             →
+homfrom           ←
 Homto             ‒hom→
 Homfrom           ←h̶o̶m̶‒
 Homto,            ‒ͪ‒ͦ‒ͫ→
@@ -1768,6 +1778,11 @@ fsig              Fᣙ # WARN: should be subscript
 gdel              Gᵟ # WARN: should be subscript
 fsig,             Fσ # WARN: should be subscript
 gdel,             Gδ # WARN: should be subscript
+ctsto             ‒cts→
+ctsfrom           ←cts‒
+hequiv            ≃ͪ  # [h]omotopy [equiv]alent
+heq               ≃ͪ
+eqh               ≃ͪ
 
 # %}}}
 
