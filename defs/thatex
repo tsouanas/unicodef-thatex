@@ -3702,6 +3702,14 @@ _top              ˕
 @cev               ⃖  # (vec backwards)
 @vecr              ⃗  # [r]ight
 @vecl              ⃖  # [l]eft
+@curry             ̬
+@cur               ̬
+@curry,            ̌
+@cur,              ̌
+@uncurry           ̂
+@uncur             ̂
+@uncurry,          ̽
+@uncur,            ̽
 @check             ̌
 @forbid           ⃠
 @not               ̸  # [s]lash  INFO: see also: syn-named @c* below for more cancelling
