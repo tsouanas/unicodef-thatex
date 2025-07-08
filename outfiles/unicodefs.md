@@ -8170,6 +8170,14 @@
 | <code>@cev</code> | ⃖ |
 | <code>@vecr</code> | ⃗ |
 | <code>@vecl</code> | ⃖ |
+| <code>@curry</code> | ̬ |
+| <code>@cur</code> | ̬ |
+| <code>@curry,</code> | ̌ |
+| <code>@cur,</code> | ̌ |
+| <code>@uncurry</code> | ̂ |
+| <code>@uncur</code> | ̂ |
+| <code>@uncurry,</code> | ̽ |
+| <code>@uncur,</code> | ̽ |
 | <code>@check</code> | ̌ |
 | <code>@forbid</code> | ⃠ |
 | <code>@not</code> | ̸ |

@@ -3246,6 +3246,14 @@ inoremap \\@vec ⃗
 inoremap \\@cev ⃖
 inoremap \\@vecr ⃗
 inoremap \\@vecl ⃖
+inoremap \\@curry ̬
+inoremap \\@cur ̬
+inoremap \\@curry, ̌
+inoremap \\@cur, ̌
+inoremap \\@uncurry ̂
+inoremap \\@uncur ̂
+inoremap \\@uncurry, ̽
+inoremap \\@uncur, ̽
 inoremap \\@check ̌
 inoremap \\@forbid ⃠
 inoremap \\@not ̸
