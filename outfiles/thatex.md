@@ -1676,6 +1676,7 @@
 | <code>adjun</code> | 𝜀 |
 | <code>adjcoun</code> | 𝜂 |
 | <code>deloop</code> | 𝗕 |
+| <code>loops</code> | Ω |
 | <code>shriek</code> | ! |
 | <code>shrieku</code> | ꜝ |
 | <code>shriekd</code> | ﹗ |
@@ -1722,6 +1723,8 @@
 | <code>MON</code> | 𝐌𝐨𝐧 |
 | <code>GROUP</code> | 𝐆𝐫𝐨𝐮𝐩 |
 | <code>GRP</code> | 𝐆𝐫𝐩 |
+| <code>GROUPOID</code> | 𝐆𝐫𝐨𝐮𝐩𝐨𝐢𝐝 |
+| <code>GRPD</code> | 𝐆𝐫𝐩𝐝 |
 | <code>ABEL</code> | 𝐀𝐛𝐞𝐥 |
 | <code>AB</code> | 𝐀𝐛 |
 | <code>RING</code> | 𝐑𝐢𝐧𝐠 |

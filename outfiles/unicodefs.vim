@@ -4036,6 +4036,7 @@ inoremap \\adjcounit 𝜂
 inoremap \\adjun 𝜀
 inoremap \\adjcoun 𝜂
 inoremap \\deloop 𝗕
+inoremap \\loops Ω
 inoremap \\shriek !
 inoremap \\shrieku ꜝ
 inoremap \\shriekd ﹗
@@ -4082,6 +4083,8 @@ inoremap \\MONOID 𝐌𝐨𝐧𝐨𝐢𝐝
 inoremap \\MON 𝐌𝐨𝐧
 inoremap \\GROUP 𝐆𝐫𝐨𝐮𝐩
 inoremap \\GRP 𝐆𝐫𝐩
+inoremap \\GROUPOID 𝐆𝐫𝐨𝐮𝐩𝐨𝐢𝐝
+inoremap \\GRPD 𝐆𝐫𝐩𝐝
 inoremap \\ABEL 𝐀𝐛𝐞𝐥
 inoremap \\AB 𝐀𝐛
 inoremap \\RING 𝐑𝐢𝐧𝐠
