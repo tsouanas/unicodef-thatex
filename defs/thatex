@@ -3714,6 +3714,7 @@ _top              ˕
 @uncurry,          ̽
 @uncur,            ̽
 @check             ̌
+@lift              ̃
 @forbid           ⃠
 @not               ̸  # [s]lash  INFO: see also: syn-named @c* below for more cancelling
 
