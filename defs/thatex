@@ -3680,7 +3680,7 @@ _top              ˕
 
 # %}}}
 
-# combining decorators %{{{
+# combining @decorators %{{{
 #
 # INFO: to be used **AFTER** a character.
 # example: typing @not after = produces ≠
