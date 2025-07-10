@@ -3259,6 +3259,7 @@
 | <code>@uncurry,</code> | ̽ |
 | <code>@uncur,</code> | ̽ |
 | <code>@check</code> | ̌ |
+| <code>@lift</code> | ̃ |
 | <code>@forbid</code> | ⃠ |
 | <code>@not</code> | ̸ |
 | <code>@oarrl</code> | ⃖ |

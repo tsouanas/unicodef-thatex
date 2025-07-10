@@ -5619,6 +5619,7 @@ inoremap \\@uncur ̂
 inoremap \\@uncurry, ̽
 inoremap \\@uncur, ̽
 inoremap \\@check ̌
+inoremap \\@lift ̃
 inoremap \\@forbid ⃠
 inoremap \\@not ̸
 inoremap \\@oarrl ⃖
