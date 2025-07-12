@@ -524,14 +524,6 @@ Sum               ∑
 bbProd            ℿ
 bbSum             ⅀
 Times             ⨉
-p                 𝜋
-i                 𝑖
-e                 𝑒
-z                 𝜁
-riemannz          𝜁  # [riemann]'s [z]eta function
-zfun              𝜁  # Riemann's [z]eta [fun]ction
-golden            𝜙  # [golden] ratio
-gold              𝜙
 divides           ∣
 divs              ∣
 div               ∣  # WARN: deprecated
@@ -678,6 +670,19 @@ vintimps          ⤋
 vintimpd          ⤊
 sameimps          ⭆
 sameimpd          ⭅
+
+# %}}}
+
+## celebrities %{{{
+
+p                 𝜋
+i                 𝑖
+e                 𝑒
+z                 𝜁
+riemannz          𝜁  # [riemann]'s [z]eta function
+zfun              𝜁  # Riemann's [z]eta [fun]ction
+golden            𝜙  # [golden] ratio
+gold              𝜙
 
 # %}}}
 
