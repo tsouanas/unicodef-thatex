@@ -418,14 +418,6 @@
 | <code>bbProd</code> | ℿ |
 | <code>bbSum</code> | ⅀ |
 | <code>Times</code> | ⨉ |
-| <code>p</code> | 𝜋 |
-| <code>i</code> | 𝑖 |
-| <code>e</code> | 𝑒 |
-| <code>z</code> | 𝜁 |
-| <code>riemannz</code> | 𝜁 |
-| <code>zfun</code> | 𝜁 |
-| <code>golden</code> | 𝜙 |
-| <code>gold</code> | 𝜙 |
 | <code>divides</code> | ∣ |
 | <code>divs</code> | ∣ |
 | <code>div</code> | ∣ |
@@ -562,6 +554,14 @@
 | <code>vintimpd</code> | ⤊ |
 | <code>sameimps</code> | ⭆ |
 | <code>sameimpd</code> | ⭅ |
+| <code>p</code> | 𝜋 |
+| <code>i</code> | 𝑖 |
+| <code>e</code> | 𝑒 |
+| <code>z</code> | 𝜁 |
+| <code>riemannz</code> | 𝜁 |
+| <code>zfun</code> | 𝜁 |
+| <code>golden</code> | 𝜙 |
+| <code>gold</code> | 𝜙 |
 | <code>emptyset</code> | Ø |
 | <code>empty</code> | Ø |
 | <code>empty,</code> | ∅ |
@@ -1472,6 +1472,7 @@
 | <code>nslamron</code> | ⋫ |
 | <code>tensor</code> | ⊗ |
 | <code>dirsum</code> | ⊕ |
+| <code>dsum</code> | ⊕ |
 | <code>gconjrel</code> | ≈ |
 | <code>conjrel</code> | ≈ |
 | <code>conjeq</code> | ≈ |
@@ -1580,6 +1581,8 @@
 | <code>nnorm</code> | ⦀ |
 | <code>lnnorm</code> | ⦀ |
 | <code>rnnorm</code> | ⦀ |
+| <code>prod</code> | ⨯ |
+| <code>biprod</code> | ⊕ |
 | <code>coprod</code> | ⨿ |
 | <code>Coprod</code> | ∐ |
 | <code>op</code> | ᵒᵖ |

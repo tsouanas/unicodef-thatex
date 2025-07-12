@@ -417,14 +417,6 @@ inoremap \\2Sum ⅀
 inoremap \\bbProd ℿ
 inoremap \\bbSum ⅀
 inoremap \\Times ⨉
-inoremap \\p 𝜋
-inoremap \\i 𝑖
-inoremap \\e 𝑒
-inoremap \\z 𝜁
-inoremap \\riemannz 𝜁
-inoremap \\zfun 𝜁
-inoremap \\golden 𝜙
-inoremap \\gold 𝜙
 inoremap \\divides ∣
 inoremap \\divs ∣
 inoremap \\div ∣
@@ -561,6 +553,14 @@ inoremap \\vintimps ⤋
 inoremap \\vintimpd ⤊
 inoremap \\sameimps ⭆
 inoremap \\sameimpd ⭅
+inoremap \\p 𝜋
+inoremap \\i 𝑖
+inoremap \\e 𝑒
+inoremap \\z 𝜁
+inoremap \\riemannz 𝜁
+inoremap \\zfun 𝜁
+inoremap \\golden 𝜙
+inoremap \\gold 𝜙
 inoremap \\emptyset Ø
 inoremap \\empty Ø
 inoremap \\empty, ∅
@@ -1471,6 +1471,7 @@ inoremap \\nsnormal ⋪
 inoremap \\nslamron ⋫
 inoremap \\tensor ⊗
 inoremap \\dirsum ⊕
+inoremap \\dsum ⊕
 inoremap \\gconjrel ≈
 inoremap \\conjrel ≈
 inoremap \\conjeq ≈
@@ -1579,6 +1580,8 @@ inoremap \\norm ‖
 inoremap \\nnorm ⦀
 inoremap \\lnnorm ⦀
 inoremap \\rnnorm ⦀
+inoremap \\prod ⨯
+inoremap \\biprod ⊕
 inoremap \\coprod ⨿
 inoremap \\Coprod ∐
 inoremap \\op ᵒᵖ
