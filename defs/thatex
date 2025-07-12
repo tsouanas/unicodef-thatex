@@ -1696,6 +1696,7 @@ nsnormal          ⋪  # [n]ot [s]imply/trict
 nslamron          ⋫
 tensor            ⊗
 dirsum            ⊕  # [dir]ected [sum]
+dsum              ⊕
 gconjrel          ≈  # [g]roup [conj]ugation [rel]ation
 conjrel           ≈  # group [conj]ugation [rel]ation
 conjeq            ≈  # up to [conj]ugation, [eq]uals
@@ -1814,6 +1815,8 @@ rnnorm            ⦀
 
 # cats %{{{
 
+prod              ⨯
+biprod            ⊕
 coprod            ⨿
 Coprod            ∐
 op                ᵒᵖ # [op]posite
