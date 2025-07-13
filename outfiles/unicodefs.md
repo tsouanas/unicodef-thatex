@@ -4388,6 +4388,7 @@
 | <code>3#</code> | ⩩ |
 | <code>2+</code> | ⧺ |
 | <code>3+</code> | ⧻ |
+| <code>++</code> | ⧺ |
 | <code>2;</code> | ⨾ |
 | <code>2:</code> | ⦂ |
 | <code>1//</code> | ⁄ |

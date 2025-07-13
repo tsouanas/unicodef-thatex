@@ -7997,6 +7997,7 @@ inoremap \2# ⋕
 inoremap \3# ⩩
 inoremap \2+ ⧺
 inoremap \3+ ⧻
+inoremap \++ ⧺
 inoremap \2; ⨾
 inoremap \2: ⦂
 inoremap \1// ⁄

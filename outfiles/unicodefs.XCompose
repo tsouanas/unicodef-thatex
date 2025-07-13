@@ -7997,6 +7997,7 @@
 <Multi_key><3><numbersign> : "⩩"
 <Multi_key><2><plus> : "⧺"
 <Multi_key><3><plus> : "⧻"
+<Multi_key><plus><plus> : "⧺"
 <Multi_key><2><semicolon> : "⨾"
 <Multi_key><2><colon> : "⦂"
 <Multi_key><1><slash><slash> : "⁄"

@@ -369,18 +369,19 @@
     "3" = ("insertText:", "‰");
     "2" = ("insertText:", "%");
   };
-  "o" = {
-    "c" = ("insertText:", "∝");
-  };
-  ";" = {
-    ";" = ("insertText:", "⨾");
-  };
   "+" = {
+    "+" = ("insertText:", "⧺");
     "0" = ("insertText:", "⨢");
     "=" = ("insertText:", "⩲");
     "\\~" = ("insertText:", "⨦");
     "." = ("insertText:", "⨥");
     "-" = ("insertText:", "±");
+  };
+  "o" = {
+    "c" = ("insertText:", "∝");
+  };
+  ";" = {
+    ";" = ("insertText:", "⨾");
   };
   "*" = {
     ":" = ("insertText:", "⁑");
