@@ -2048,6 +2048,10 @@ himpd             ⊂
 hiff              ⫗
 Himplies          ⥰  # [H]orseshoe
 Himps             ⥰
+horseto           ⸧
+horsefrom         ⸦
+horto             ⸧
+horfrom           ⸦
 assert            ⊢
 sequent           ⊢
 proves            ⊢
