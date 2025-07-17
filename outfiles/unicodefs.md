@@ -5144,10 +5144,6 @@
 | <code>leftright</code> | ⇆ |
 | <code>rightright</code> | ⇉ |
 | <code>leftleft</code> | ⇇ |
-| <code>rright</code> | ⇉ |
-| <code>lleft</code> | ⇇ |
-| <code>rrright</code> | ⇶ |
-| <code>llleft</code> | ⬱ |
 | <code>2rights</code> | ⇉ |
 | <code>2lefts</code> | ⇇ |
 | <code>3rights</code> | ⇶ |
@@ -5904,10 +5900,6 @@
 | <code>fromto</code> | ⇆ |
 | <code>toto</code> | ⇉ |
 | <code>fromfrom</code> | ⇇ |
-| <code>tto</code> | ⇉ |
-| <code>ffrom</code> | ⇇ |
-| <code>ttto</code> | ⇶ |
-| <code>fffrom</code> | ⬱ |
 | <code>2tos</code> | ⇉ |
 | <code>2froms</code> | ⇇ |
 | <code>3tos</code> | ⇶ |

@@ -219,10 +219,6 @@ inoremap \\rightleft ⇄
 inoremap \\leftright ⇆
 inoremap \\rightright ⇉
 inoremap \\leftleft ⇇
-inoremap \\rright ⇉
-inoremap \\lleft ⇇
-inoremap \\rrright ⇶
-inoremap \\llleft ⬱
 inoremap \\2rights ⇉
 inoremap \\2lefts ⇇
 inoremap \\3rights ⇶
@@ -979,10 +975,6 @@ inoremap \\tofrom ⇄
 inoremap \\fromto ⇆
 inoremap \\toto ⇉
 inoremap \\fromfrom ⇇
-inoremap \\tto ⇉
-inoremap \\ffrom ⇇
-inoremap \\ttto ⇶
-inoremap \\fffrom ⬱
 inoremap \\2tos ⇉
 inoremap \\2froms ⇇
 inoremap \\3tos ⇶

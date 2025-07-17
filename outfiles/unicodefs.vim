@@ -756,7 +756,7 @@ inoremap \\ttk 𝚔
 inoremap \\ttl 𝚕
 inoremap \\ttm 𝚖
 inoremap \\ttn 𝚗
-inoremap \\tto ⇉
+inoremap \\tto 𝚘
 inoremap \\ttp 𝚙
 inoremap \\ttq 𝚚
 inoremap \\ttr 𝚛
@@ -2580,10 +2580,6 @@ inoremap \\rightleft ⇄
 inoremap \\leftright ⇆
 inoremap \\rightright ⇉
 inoremap \\leftleft ⇇
-inoremap \\rright ⇉
-inoremap \\lleft ⇇
-inoremap \\rrright ⇶
-inoremap \\llleft ⬱
 inoremap \\2rights ⇉
 inoremap \\2lefts ⇇
 inoremap \\3rights ⇶
@@ -3340,9 +3336,6 @@ inoremap \\tofrom ⇄
 inoremap \\fromto ⇆
 inoremap \\toto ⇉
 inoremap \\fromfrom ⇇
-inoremap \\ffrom ⇇
-inoremap \\ttto ⇶
-inoremap \\fffrom ⬱
 inoremap \\2tos ⇉
 inoremap \\2froms ⇇
 inoremap \\3tos ⇶
