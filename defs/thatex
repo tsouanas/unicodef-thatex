@@ -286,10 +286,6 @@ rightleft         ⇄
 leftright         ⇆
 rightright        ⇉
 leftleft          ⇇
-rright            ⇉
-lleft             ⇇
-rrright           ⇶
-llleft            ⬱
 2rights           ⇉
 2lefts            ⇇
 3rights           ⇶
@@ -1143,10 +1139,6 @@ tofrom            ⇄
 fromto            ⇆
 toto              ⇉
 fromfrom          ⇇
-tto               ⇉
-ffrom             ⇇
-ttto              ⇶
-fffrom            ⬱
 2tos              ⇉  # [s] (plural indicates distinct arrows)
 2froms            ⇇
 3tos              ⇶
