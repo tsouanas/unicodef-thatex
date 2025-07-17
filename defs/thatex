@@ -282,6 +282,20 @@ up                ↑
 down              ↓
 left              ←
 right             →
+rightleft         ⇄
+leftright         ⇆
+rightright        ⇉
+leftleft          ⇇
+rright            ⇉
+lleft             ⇇
+rrright           ⇶
+llleft            ⬱
+2rights           ⇉
+2lefts            ⇇
+3rights           ⇶
+3lefts            ⬱
+updown            ⇅
+downup            ⇵
 lbelow            ⬐  # [l]eft [below]
 rbelow            ⬎
 lbel              ⬐
@@ -1129,6 +1143,10 @@ tofrom            ⇄
 fromto            ⇆
 toto              ⇉
 fromfrom          ⇇
+tto               ⇉
+ffrom             ⇇
+ttto              ⇶
+fffrom            ⬱
 2tos              ⇉  # [s] (plural indicates distinct arrows)
 2froms            ⇇
 3tos              ⇶
@@ -3594,6 +3612,12 @@ wudot             ᐧ  # [u]pper
 ^eth              ᶞ
 ^up               ꜛ
 ^down             ꜜ
+^updown           ꜛꜜ
+^downup           ꜜꜛ
+^upup             ꜛꜛ
+^downdown         ꜜꜜ
+^uup              ꜛꜛ
+^ddown            ꜜꜜ
 ^lang             ˂
 ^rang             ˃
 ^uang             ˄
