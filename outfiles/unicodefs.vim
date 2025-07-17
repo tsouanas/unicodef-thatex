@@ -4164,6 +4164,10 @@ inoremap \\himpd ⊂
 inoremap \\hiff ⫗
 inoremap \\Himplies ⥰
 inoremap \\Himps ⥰
+inoremap \\horseto ⸧
+inoremap \\horsefrom ⸦
+inoremap \\horto ⸧
+inoremap \\horfrom ⸦
 inoremap \\assert ⊢
 inoremap \\sequent ⊢
 inoremap \\proves ⊢

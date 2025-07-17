@@ -6728,6 +6728,10 @@
 | <code>hiff</code> | ⫗ |
 | <code>Himplies</code> | ⥰ |
 | <code>Himps</code> | ⥰ |
+| <code>horseto</code> | ⸧ |
+| <code>horsefrom</code> | ⸦ |
+| <code>horto</code> | ⸧ |
+| <code>horfrom</code> | ⸦ |
 | <code>assert</code> | ⊢ |
 | <code>sequent</code> | ⊢ |
 | <code>proves</code> | ⊢ |
