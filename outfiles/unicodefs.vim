@@ -149,6 +149,8 @@ inoremap \\beers 🍻
 inoremap \\burger 🍔
 inoremap \\cafe ☕
 inoremap \\coco 🥥
+inoremap \\donut 🍩
+inoremap \\doh 🍩
 inoremap \\icecream 🍨
 inoremap \\kebab 🌯
 inoremap \\martini 🍸

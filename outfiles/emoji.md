@@ -150,6 +150,8 @@
 | <code>burger</code> | 🍔 |
 | <code>cafe</code> | ☕ |
 | <code>coco</code> | 🥥 |
+| <code>donut</code> | 🍩 |
+| <code>doh</code> | 🍩 |
 | <code>icecream</code> | 🍨 |
 | <code>kebab</code> | 🌯 |
 | <code>martini</code> | 🍸 |
