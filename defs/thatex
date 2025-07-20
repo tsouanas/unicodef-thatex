@@ -258,7 +258,7 @@ vtab              ⭿  # [v]ertical tab
 shift             ⇧
 capslock          ⇪
 caps              ⇪
-del               ⌦  # [v]ar
+delete            ⌦  # [v]ar
 rerase            ⌦
 lerase            ⌫
 erase             ⌫  # default: [l]
