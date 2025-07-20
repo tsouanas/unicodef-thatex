@@ -234,16 +234,22 @@ ac                ⏦
 
 # computer keyboard / icons %{{{
 
+ESC               ␛
+BEL               ␇
+DEL               ␡
 return            ⏎
 cmd               ⌘
 opt               ⌥
 alt               ⎇
-esc               ␛
-bel               ␇
+esc               ⎋
 bell              ⍾
+bel               ⍾
 compose           ⎄
 cmp               ⎄
 tab               ↹
+pause             ⎊
+break             ⎊
+brk               ⎊
 rtab              ⇥  # [r]ight
 ltab              ⇤
 tabr              ⇥
@@ -252,13 +258,14 @@ vtab              ⭿  # [v]ertical tab
 shift             ⇧
 capslock          ⇪
 caps              ⇪
-delete            ␡
-vdelete           ⌦  # [v]ar
+del               ⌦  # [v]ar
 rerase            ⌦
 lerase            ⌫
 erase             ⌫  # default: [l]
 backs             ⌫
 bspace            ⌫
+bspc              ⌫
+bksp              ⌫
 undo              ↶
 redo              ↷
 undokey           ⎌
@@ -267,8 +274,17 @@ login             ⎆
 enter             ⎆
 pgup              ⎗
 pgdn              ⎘
+nextpage          ⎗
+prevpage          ⎘
+npage             ⎗
+ppage             ⎘
+nextp             ⎗
+prevp             ⎘
 prints            ⎙  # [print][s]creen
 pscreen           ⎙  # [p]rint[screen]
+print             ⎙
+scroll            ⤓
+scrlk             ⤓
 replay            ↺
 sleepkey          ⏾
 onoff             ⏻
