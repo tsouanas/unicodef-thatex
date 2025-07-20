@@ -15348,6 +15348,15 @@
               " " = ("insertText:", "⇧");
             };
           };
+          "n" = {
+            " " = ("insertText:", "✨");
+            "y" = {
+              " " = ("insertText:", "✨");
+            };
+            "e" = {
+              " " = ("insertText:", "✨");
+            };
+          };
         };
         "o" = {
           " " = ("insertText:", "ϸ");

@@ -102,6 +102,9 @@ inoremap \\nmoon 🌑
 inoremap \\fmoon 🌕
 inoremap \\fog 🌫️
 inoremap \\mist 🌫
+inoremap \\shine ✨
+inoremap \\shiny ✨
+inoremap \\shin ✨
 inoremap \\bat 🦇
 inoremap \\bee 🐝
 inoremap \\butterfly 🦋

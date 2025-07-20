@@ -620,6 +620,9 @@
 | <code>fmoon</code> | 🌕 |
 | <code>fog</code> | 🌫️ |
 | <code>mist</code> | 🌫 |
+| <code>shine</code> | ✨ |
+| <code>shiny</code> | ✨ |
+| <code>shin</code> | ✨ |
 | <code>bat</code> | 🦇 |
 | <code>bee</code> | 🐝 |
 | <code>butterfly</code> | 🦋 |
