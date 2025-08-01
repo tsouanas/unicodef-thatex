@@ -3322,6 +3322,7 @@ inoremap \\@orotl ⃔
 inoremap \\@orotr ⃕
 inoremap \\@oproved ҆
 inoremap \\@oproves ҅
+inoremap \\@onot ̚
 inoremap \\@otonos ΄
 inoremap \\@ograve ̀
 inoremap \\@oggrave ̏

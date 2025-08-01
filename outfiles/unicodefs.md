@@ -8252,6 +8252,7 @@
 | <code>@orotr</code> | ⃕ |
 | <code>@oproved</code> | ҆ |
 | <code>@oproves</code> | ҅ |
+| <code>@onot</code> | ̚ |
 | <code>@otonos</code> | ΄ |
 | <code>@ograve</code> | ̀ |
 | <code>@oggrave</code> | ̏ |
