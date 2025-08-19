@@ -1590,6 +1590,8 @@ inoremap \\ctsfrom ←cts‒
 inoremap \\hequiv ≃ͪ
 inoremap \\heq ≃ͪ
 inoremap \\eqh ≃ͪ
+inoremap \\opens 𝓞
+inoremap \\compacts 𝓚
 inoremap \\lgen ⟨
 inoremap \\rgen ⟩
 inoremap \\egen ⟨⟩

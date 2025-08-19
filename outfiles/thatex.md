@@ -1591,6 +1591,8 @@
 | <code>hequiv</code> | ≃ͪ |
 | <code>heq</code> | ≃ͪ |
 | <code>eqh</code> | ≃ͪ |
+| <code>opens</code> | 𝓞 |
+| <code>compacts</code> | 𝓚 |
 | <code>lgen</code> | ⟨ |
 | <code>rgen</code> | ⟩ |
 | <code>egen</code> | ⟨⟩ |
