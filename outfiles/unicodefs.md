@@ -6720,6 +6720,8 @@
 | <code>TOPH</code> | 𝐓𝐨𝐩𝐡 |
 | <code>TOP*</code> | 𝐓𝐨𝐩 ͙ |
 | <code>TOPH*</code> | 𝐓𝐨𝐩𝐡 ͙ |
+| <code>MET</code> | 𝐌𝐞𝐭 |
+| <code>METRIC</code> | 𝐌𝐞𝐭𝐫𝐢𝐜 |
 | <code>HASK</code> | 𝐇𝐚𝐬𝐤 |
 | <code>truth</code> | ⊤ |
 | <code>verum</code> | ⊤ |

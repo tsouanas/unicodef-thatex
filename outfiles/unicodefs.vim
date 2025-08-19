@@ -4156,6 +4156,8 @@ inoremap \\TOP 𝐓𝐨𝐩
 inoremap \\TOPH 𝐓𝐨𝐩𝐡
 inoremap \\TOP* 𝐓𝐨𝐩 ͙
 inoremap \\TOPH* 𝐓𝐨𝐩𝐡 ͙
+inoremap \\MET 𝐌𝐞𝐭
+inoremap \\METRIC 𝐌𝐞𝐭𝐫𝐢𝐜
 inoremap \\HASK 𝐇𝐚𝐬𝐤
 inoremap \\truth ⊤
 inoremap \\verum ⊤
