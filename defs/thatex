@@ -1028,6 +1028,9 @@ df,,              𝘥
 dl,,              𝘥
 pd,               𝜕
 
+ball              ℬ
+eball             ℬᵋ # [e]psilon [ball]  WARN: should be subscript
+dball             ℬᵟ # [d]elta  WARN: should be subscript
 tends             →   # [tends] to
 limof             ←
 vtends            ↓
@@ -1038,6 +1041,8 @@ nvtends           ⤈  # XXX: abuse: strike as not
 vntends           ⤈
 nvlimof           ⤉
 vnlimof           ⤉
+unifto            ⇉  # [unif]ormly [to]
+uniffrom          ⇇
 convol            ∗  # [convol]ution
 crocor            ⋆  # [cro]ss-[cor]relation
 
@@ -1803,9 +1808,6 @@ closure           ˉ  # [clos]ure
 clos              ˉ
 interior          ˚  # [inte]rior
 inte              ˚
-ball              ℬ
-eball             ℬᵋ # [e]psilon [ball]  WARN: should be subscript
-dball             ℬᵟ # [d]elta  WARN: should be subscript
 fsig              Fᣙ # WARN: should be subscript
 gdel              Gᵟ # WARN: should be subscript
 fsig,             Fσ # WARN: should be subscript
