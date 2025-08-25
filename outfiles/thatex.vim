@@ -880,6 +880,9 @@ inoremap \\dl, 𝖽
 inoremap \\df,, 𝘥
 inoremap \\dl,, 𝘥
 inoremap \\pd, 𝜕
+inoremap \\ball ℬ
+inoremap \\eball ℬᵋ
+inoremap \\dball ℬᵟ
 inoremap \\tends →
 inoremap \\limof ←
 inoremap \\vtends ↓
@@ -890,6 +893,8 @@ inoremap \\nvtends ⤈
 inoremap \\vntends ⤈
 inoremap \\nvlimof ⤉
 inoremap \\vnlimof ⤉
+inoremap \\unifto ⇉
+inoremap \\uniffrom ⇇
 inoremap \\convol ∗
 inoremap \\crocor ⋆
 inoremap \\partial ∂
@@ -1578,9 +1583,6 @@ inoremap \\closure ˉ
 inoremap \\clos ˉ
 inoremap \\interior ˚
 inoremap \\inte ˚
-inoremap \\ball ℬ
-inoremap \\eball ℬᵋ
-inoremap \\dball ℬᵟ
 inoremap \\fsig Fᣙ
 inoremap \\gdel Gᵟ
 inoremap \\fsig, Fσ

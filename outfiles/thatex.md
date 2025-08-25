@@ -881,6 +881,9 @@
 | <code>df,,</code> | 𝘥 |
 | <code>dl,,</code> | 𝘥 |
 | <code>pd,</code> | 𝜕 |
+| <code>ball</code> | ℬ |
+| <code>eball</code> | ℬᵋ |
+| <code>dball</code> | ℬᵟ |
 | <code>tends</code> | → |
 | <code>limof</code> | ← |
 | <code>vtends</code> | ↓ |
@@ -891,6 +894,8 @@
 | <code>vntends</code> | ⤈ |
 | <code>nvlimof</code> | ⤉ |
 | <code>vnlimof</code> | ⤉ |
+| <code>unifto</code> | ⇉ |
+| <code>uniffrom</code> | ⇇ |
 | <code>convol</code> | ∗ |
 | <code>crocor</code> | ⋆ |
 | <code>partial</code> | ∂ |
@@ -1579,9 +1584,6 @@
 | <code>clos</code> | ˉ |
 | <code>interior</code> | ˚ |
 | <code>inte</code> | ˚ |
-| <code>ball</code> | ℬ |
-| <code>eball</code> | ℬᵋ |
-| <code>dball</code> | ℬᵟ |
 | <code>fsig</code> | Fᣙ |
 | <code>gdel</code> | Gᵟ |
 | <code>fsig,</code> | Fσ |
