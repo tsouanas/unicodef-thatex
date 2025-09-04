@@ -3889,6 +3889,7 @@ _top              ˕
 ### mod / unops
 @oinfty            ᪲
 @oast              ⃰
+@ostar             ⃰  # XXX: actually ast
 @ohat              ̂
 @obridge           ͆
 @ocirc             ̊
@@ -3978,6 +3979,7 @@ _top              ˕
 @utop              ̞
 @uinfty            ͚
 @uast              ͙
+@ustar             ͙  # XXX: actually ast
 @uhat              ̬
 @ubridge           ̺
 @ucirc             ̥
