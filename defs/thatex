@@ -1093,7 +1093,9 @@ lto,              <ͦ
 geqo,             ≥ͦ
 gto,              >ͦ
 forces            ⊩
+forced            ⫣
 nforces           ⊮
+nforced           ⫣̸  # XXX: combined
 incinfty          ⧜  # [inc]omplete
 ninfty            ⧞  # [n]egated
 baldinfty         ⧝
@@ -2087,33 +2089,75 @@ horfrom           ⸦
 assert            ⊢
 sequent           ⊢
 proves            ⊢
-nproves           ⊬
 proved            ⊣
 provs             ⊢  # [prov]e[s]
 provd             ⊣  # [prov]e[d by]
+nproves           ⊬
+nproved           ⊣̸  # XXX: combined
 nprovs            ⊬
+nprovd            ⊣̸  # XXX: combined
 provesd           ⊢⊣
-proveds           ⟛
+proveds           ⊣⊢
 provsd            ⊢⊣
-provds            ⟛
-biproves          ⟛
-biprovs           ⟛
+provds            ⊣⊢
+biprove           ⟛
+biprov            ⟛
+biproves          ⊢⊣  # XXX: lack of symbol
+biproved          ⟛
+biprovs           ⊢⊣  # XXX: lack of symbol
+biprovd           ⟛
+mproves           ⛤⊢ # [m]agic
+mproved           ⊣⛤
+mprovs            ⛤⊢
+mprovd            ⊣⛤
+mbiprove          ⊣⛤⊢
+mbiprov           ⊣⛤⊢
+sproves           ⊢⃰  # [s]tar  XXX: combined
+sproved           ⊣⃰  # XXX: combined
+sprovs            ⊢⃰  # XXX: combined
+sprovd            ⊣⃰  # XXX: combined
+sprovesd          ⊢⃰⊣⃰ # XXX: combined
+sproveds          ⊣⃰⊢⃰ # XXX: combined
+sprovsd           ⊢⃰⊣⃰ # XXX: combined
+sprovds           ⊣⃰⊢⃰ # XXX: combined
 Proves            ⟝
 Proved            ⟞
 Provs             ⟝
 Provd             ⟞
+Provesd           ⟝⟞
+Proveds           ⟞⟝
+Provsd            ⟝⟞
+Provds            ⟞⟝
+mProves           ⛤⟝
+mProved           ⟞⛤
+mProvs            ⛤⟝
+mProvd            ⟞⛤
+mProvesd          ⛤⟝⟞⛤
+mProveds          ⟞⛤⟝
+mProvsd           ⛤⟝⟞⛤
+mProvds           ⟞⛤⟝
 models            ⊨
-nmodels           ⊭
 modeled           ⫤
 modeld            ⫤
 mods              ⊨  # [mod]el[s]
 modd              ⫤  # [mod]ele[d]
+nmodels           ⊭
+nmodeled          ⫤̸  # XXX: combined
+nmodeld           ⫤̸  # XXX: combined
 nmods             ⊭
-modelsd           ⧦
-modeleds          ⟚
-modelds           ⟚
-bimodels          ⊨
-bimods            ⊨
+nmodd             ⫤̸  # XXX: combined
+modelsd           ⊨⫤
+modeleds          ⫤⊨
+modelds           ⫤⊨
+modsd             ⊨⫤
+modds             ⫤⊨
+bimodel           ⟚
+bimod             ⟚
+bimodels          ⧦
+bimodeled         ⟚
+bimodeld          ⟚
+bimods            ⧦
+bimodd            ⟚
 
 # %}}}
 
