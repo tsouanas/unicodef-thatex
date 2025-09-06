@@ -566,9 +566,9 @@ neq               ≠
 nneq              ⧣  # [n]ot[n]ot
 ssapart           ⧣  # [s]lash-[s]lash [apart]ness
 shapart           ♯  # [sh]arp [apart]ness
-apart             ♯  # default: [sh]
-vapart            ⧣  # [v]ar: [ss]
 vvapart           =⃦  # ([v]ert-[v]ert) / (another var)
+apart             ♯  # default: [sh]
+apart,            ⧣  # alt: [ss]
 leq               ≤
 geq               ≥
 nlt               ≮
@@ -612,17 +612,19 @@ there             ∴
 hence             ∴
 because           ∵
 cause             ∵
-lem               ⛦  # [l]aw of [e]xcluded [m]iddle
-dnl               ⛥  # [d]ouble [n]egation [l]aw
-raa               ⛥  # [r]eductio [a]d [a]bsurdum
-noncons           ⛤  # [non]-[cons]tructive
+noncons           ⛤     # [non]-[cons]tructive
+lem               ⛤LEM  # [l]aw of [e]xcluded [m]iddle
+dnl               ⛤DNL  # [d]ouble [n]egation [l]aw
+raa               ⛤RAA  # [r]eductio [a]d [a]bsurdum
 halmos            ∎
 qed               ∎
-QED               ꞯᴇᴅ  # [D]emonstrandum
-QEF               ꞯᴇꜰ  # [F]aciendum
-QEC               ꞯᴇᴄ  # [C]onstruendum
-OED               ΟΕΔ  # ὅπερ ἔδει δεῖξαι
-OEP               ΟΕΠ  # ὅπερ ἔδει ποιῆσαι
+QED               ꞯᴇᴅ   # [D]emonstrandum
+QEF               ꞯᴇꜰ   # [F]aciendum
+QEC               ꞯᴇᴄ   # [C]onstruendum
+OED               ΟΕΔ   # ὅπερ ἔδει δεῖξαι
+OEP               ΟΕΠ   # ὅπερ ἔδει ποιῆσαι
+qedm              ∎⛤    # qed [m]agically
+mqed              ∎⛤
 
 # %}}}
 
@@ -2225,8 +2227,8 @@ mconj             ⊗  # [m]ultiplicative [conj]unction
 
 nece              □  # [nece]ssary
 poss              ◊  # [poss]ible
-vnece             ◻  # [v]ar
-vposs             ◇  # [v]ar
+nece,             ◻ 
+poss,             ◇ 
 
 # %}}}
 
