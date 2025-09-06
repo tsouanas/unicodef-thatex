@@ -2256,6 +2256,12 @@ meet              ∧
 join              ∨
 Meet              ⋀
 Join              ⋁
+dirJoin           ⋁ꜛ
+upJoin            ⋁ꜛ
+downMeet          ⋀￬
+Dirjoin           ⋁ꜛ
+Upjoin            ⋁ꜛ
+Downmeet          ⋀￬
 glb               ∧
 lub               ∨
 Glb               ⋀
@@ -2277,6 +2283,7 @@ compareq          ⋚
 ncompar           ≸
 incompar          ≸  # [incompar]able
 incompardp        ‖  # [d]avey [p]riestley
+incompar,         ‖
 lteq              ≦
 gteq              ≧
 ltneq             ≨
@@ -2293,22 +2300,22 @@ leqgeq            ⋚
 lgeq              ⋚
 geqleq            ⋛
 gleq              ⋛
-wbelow            ≪  # [w]ay below
+waybelow          ≪  # [w]ay below
+wayabove          ≫
+wbelow            ≪
 wabove            ≫
 wbel              ≪
 wabo              ≫
-wayb              ≪
-waya              ≫
-wb                ≪
-wa                ≫
-gtto              ⥸
-ltfrom            ⥶
-geqto             ⥸
-leqfrom           ⥶
-Fromlt            ⥷
-Togt              ⭃
-ltFrom            ⥷
-gtTo              ⭃
+waybelows         ⇓
+wayaboves         ⇑
+wbelows           ⇓
+waboves           ⇑
+wbels             ⇓
+wabos             ⇑
+belows            ↓
+aboves            ↑
+bels              ↓
+abos              ↑
 downsets          𝓞
 downs             𝓞
 dsets             𝓞
@@ -2323,7 +2330,17 @@ ucl               ꜛ
 dcl               ꜜ
 upd               ꜛ  # [up]'[d]
 downd             ꜜ  # [down]'[d]
+gtto              ⥸
+ltfrom            ⥶
+geqto             ⥸
+leqfrom           ⥶
+fromlt            ⥷
+togt              ⭃
+frombig           ⥷
+tosmall           ⭃
 ep                ᵉᵖ # [e]mbedding-[p]rojection pairs as arrows
+idealish          Δ
+filterish         ∇
 idrel             Δ
 diagrel           Δ
 allrel            ∇
