@@ -459,9 +459,9 @@ inoremap \\neq ≠
 inoremap \\nneq ⧣
 inoremap \\ssapart ⧣
 inoremap \\shapart ♯
-inoremap \\apart ♯
-inoremap \\vapart ⧣
 inoremap \\vvapart =⃦
+inoremap \\apart ♯
+inoremap \\apart, ⧣
 inoremap \\leq ≤
 inoremap \\geq ≥
 inoremap \\nlt ≮
@@ -505,10 +505,10 @@ inoremap \\there ∴
 inoremap \\hence ∴
 inoremap \\because ∵
 inoremap \\cause ∵
-inoremap \\lem ⛦
-inoremap \\dnl ⛥
-inoremap \\raa ⛥
 inoremap \\noncons ⛤
+inoremap \\lem ⛤LEM
+inoremap \\dnl ⛤DNL
+inoremap \\raa ⛤RAA
 inoremap \\halmos ∎
 inoremap \\qed ∎
 inoremap \\QED ꞯᴇᴅ
@@ -516,6 +516,8 @@ inoremap \\QEF ꞯᴇꜰ
 inoremap \\QEC ꞯᴇᴄ
 inoremap \\OED ΟΕΔ
 inoremap \\OEP ΟΕΠ
+inoremap \\qedm ∎⛤
+inoremap \\mqed ∎⛤
 inoremap \\lceil ⌈
 inoremap \\rceil ⌉
 inoremap \\lcei ⌈
@@ -1965,8 +1967,8 @@ inoremap \\mdisj ⅋
 inoremap \\mconj ⊗
 inoremap \\nece □
 inoremap \\poss ◊
-inoremap \\vnece ◻
-inoremap \\vposs ◇
+inoremap \\nece, ◻
+inoremap \\poss, ◇
 inoremap \\dual ​ᷙ
 inoremap \\dual, ᶞ
 inoremap \\Dual ∂

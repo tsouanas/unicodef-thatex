@@ -5389,9 +5389,9 @@
 | <code>nneq</code> | ⧣ |
 | <code>ssapart</code> | ⧣ |
 | <code>shapart</code> | ♯ |
-| <code>apart</code> | ♯ |
-| <code>vapart</code> | ⧣ |
 | <code>vvapart</code> | =⃦ |
+| <code>apart</code> | ♯ |
+| <code>apart,</code> | ⧣ |
 | <code>leq</code> | ≤ |
 | <code>geq</code> | ≥ |
 | <code>nlt</code> | ≮ |
@@ -5435,10 +5435,10 @@
 | <code>hence</code> | ∴ |
 | <code>because</code> | ∵ |
 | <code>cause</code> | ∵ |
-| <code>lem</code> | ⛦ |
-| <code>dnl</code> | ⛥ |
-| <code>raa</code> | ⛥ |
 | <code>noncons</code> | ⛤ |
+| <code>lem</code> | ⛤LEM |
+| <code>dnl</code> | ⛤DNL |
+| <code>raa</code> | ⛤RAA |
 | <code>halmos</code> | ∎ |
 | <code>qed</code> | ∎ |
 | <code>QED</code> | ꞯᴇᴅ |
@@ -5446,6 +5446,8 @@
 | <code>QEC</code> | ꞯᴇᴄ |
 | <code>OED</code> | ΟΕΔ |
 | <code>OEP</code> | ΟΕΠ |
+| <code>qedm</code> | ∎⛤ |
+| <code>mqed</code> | ∎⛤ |
 | <code>lceil</code> | ⌈ |
 | <code>rceil</code> | ⌉ |
 | <code>lcei</code> | ⌈ |
@@ -6895,8 +6897,8 @@
 | <code>mconj</code> | ⊗ |
 | <code>nece</code> | □ |
 | <code>poss</code> | ◊ |
-| <code>vnece</code> | ◻ |
-| <code>vposs</code> | ◇ |
+| <code>nece,</code> | ◻ |
+| <code>poss,</code> | ◇ |
 | <code>dual</code> | ​ᷙ |
 | <code>dual,</code> | ᶞ |
 | <code>Dual</code> | ∂ |
