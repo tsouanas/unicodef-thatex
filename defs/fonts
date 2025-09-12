@@ -1173,6 +1173,7 @@ scz            ᴢ
 ^=             ⁼
 ^(             ⁽
 ^)             ⁾
+^/             ⸍  # XXX: not really slash
 
 ^A             ᴬ
 ^B             ᴮ
@@ -1243,6 +1244,7 @@ _-             ₋
 _=             ₌
 _(             ₍
 _)             ₎
+_/             ⸝  # XXX: not really slash
 
 _a             ₐ
 _e             ₑ
