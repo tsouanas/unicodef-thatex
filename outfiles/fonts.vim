@@ -997,6 +997,7 @@ inoremap \\^- ⁻
 inoremap \\^= ⁼
 inoremap \\^( ⁽
 inoremap \\^) ⁾
+inoremap \\^/ ⸍
 inoremap \\^A ᴬ
 inoremap \\^B ᴮ
 inoremap \\^D ᴰ
@@ -1057,6 +1058,7 @@ inoremap \\_- ₋
 inoremap \\_= ₌
 inoremap \\_( ₍
 inoremap \\_) ₎
+inoremap \\_/ ⸝
 inoremap \\_a ₐ
 inoremap \\_e ₑ
 inoremap \\_h ₕ

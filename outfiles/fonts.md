@@ -998,6 +998,7 @@
 | <code>^=</code> | ⁼ |
 | <code>^(</code> | ⁽ |
 | <code>^)</code> | ⁾ |
+| <code>^/</code> | ⸍ |
 | <code>^A</code> | ᴬ |
 | <code>^B</code> | ᴮ |
 | <code>^D</code> | ᴰ |
@@ -1058,6 +1059,7 @@
 | <code>_=</code> | ₌ |
 | <code>_(</code> | ₍ |
 | <code>_)</code> | ₎ |
+| <code>_/</code> | ⸝ |
 | <code>_a</code> | ₐ |
 | <code>_e</code> | ₑ |
 | <code>_h</code> | ₕ |
