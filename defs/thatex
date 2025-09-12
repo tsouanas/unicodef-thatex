@@ -588,14 +588,40 @@ nnieq             ⧥
 inneq             ⧥
 sameq             ≣
 dotsinteq         ⩸
+dotsieq           ⩸
 defeq             ≝  # being [def]ined as [eq]ual to
-dfeq              ≡ͩ  # ([df] is an abbrev'ed [def])
+definteq          ≡ͩ  # XXX: just 'd' for 'def' (also: combined)
+defieq            ≡ͩ  # XXX: just 'd' for 'def' (also: combined)
+sugeq             ≡ᷤ  # XXX: just 's' for 'sug' (also: combined)
+Defeq             =def=
+Definteq          ≡def≡
+Defieq            ≡def≡
+Defiff            ⇐def⇒
+Defintiff         ⇚def⇛
+Defiiff           ⇚def⇛
+Defviff           ⇓def⇑
+Defvintiff        ⤋def⤊
+Defviiff          ⤋def⤊
+Sugeq             =sug=
+Suginteq          ≡sug≡
+Sugieq            ≡sug≡
+Sugiff            ⇐sug⇒
+Sugintiff         ⇚sug⇛
+Sugiiff           ⇚sug⇛
+Sugviff           ⇓sug⇑
+Sugvintiff        ⤋sug⤊
+Sugviiff          ⤋sug⤊
 askeq             ≟
 asklt             ⩻
 askgt             ⩼
 asseq             ≔
 eqass             ≕
-askinteq          ≡
+assinteq          :≡
+inteqass          ≡:
+assieq            :≡
+ieqass            ≡:
+askinteq          ≡?≡
+askieq            ≡?≡
 defiff            ⇐≝⇒
 dfiff             ⇚≡ͩ⇛
 askiff            ⇐≟⇒
@@ -692,10 +718,16 @@ intimplies        ⇛
 intimplied        ⇚
 intimps           ⇛
 intimpd           ⇚
+iimps             ⇛
+iimpd             ⇚
 vintimplies       ⤋
 vintimplied       ⤊
 vintimps          ⤋
 vintimpd          ⤊
+viimplies         ⤋
+viimplied         ⤊
+viimps            ⤋
+viimpd            ⤊
 sameimps          ⭆
 sameimpd          ⭅
 
