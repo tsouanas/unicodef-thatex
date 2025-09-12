@@ -639,9 +639,9 @@ hence             ∴
 because           ∵
 cause             ∵
 noncons           ⛤     # [non]-[cons]tructive
-lem               ⛤LEM  # [l]aw of [e]xcluded [m]iddle
-dnl               ⛤DNL  # [d]ouble [n]egation [l]aw
-raa               ⛤RAA  # [r]eductio [a]d [a]bsurdum
+lem               LEM⛤  # [l]aw of [e]xcluded [m]iddle
+dnl               DNL⛤  # [d]ouble [n]egation [l]aw
+raa               RAA⛤  # [r]eductio [a]d [a]bsurdum
 halmos            ∎
 qed               ∎
 QED               ꞯᴇᴅ   # [D]emonstrandum
