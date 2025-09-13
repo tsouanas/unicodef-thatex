@@ -736,6 +736,8 @@ rflo              ⌋
 ## implications %{{{
 
 iff               ⇔
+bimp              ⇔
+bimps             ⇔
 implies           ⇒
 implied           ⇐
 imps              ⇒  # [imp]lie[s]
@@ -757,6 +759,8 @@ impsne            ⇗
 impssw            ⇙
 impsse            ⇘
 niff              ⇎
+nbimp             ⇎
+nbimps            ⇎
 nimplied          ⇍
 nimplies          ⇏
 nimps             ⇏
@@ -768,6 +772,8 @@ nimpsr            ⇏
 nimpsl            ⇍
 nimpsb            ⇎
 viff              ⇕  # [v]ertical
+vbimp             ⇕
+vbimps            ⇕
 vimplies          ⇓
 vimplied          ⇑
 vimps             ⇓
@@ -862,6 +868,8 @@ vin               ⫙  # [v]ertical
 vni               ⟒
 vnin              ⫙̶
 vnni              ⟒̶
+nvin              ⫙̶
+nvni              ⟒̶
 notin             ∉  # INFO: TeX compat
 notni             ∌  # INFO: TeX compat
 in,               ε
@@ -870,16 +878,20 @@ nin,              ε̸
 nni,              ɜ̸
 vin,              ო
 vni,              ω
+nvin,             ო̶
+nvni,             ω̶
 vnin,             ო̶
 vnni,             ω̶
-In,               ᗯ
-Ni,               ᗰ
-Nin,              ᗱ
-Nni,              ᗴ
-Vin,              ᗯ̶
-Vni,              ᗰ̶
-Vnin,             ᗱ̸
-Vnni,             ᗴ̸
+In,               ᗴ
+Ni,               ᗱ
+Nin,              ᗴ̸
+Nni,              ᗱ̸
+Vin,              ᗰ
+Vni,              ᗯ
+Vnin,             ᗰ̶
+Vnni,             ᗯ̶
+Nvin,             ᗰ̶
+Nvni,             ᗯ̶
 In,,              Ɛ
 Ni,,              Ɜ
 Nin,,             Ɛ̸
@@ -888,6 +900,8 @@ Vin,,             Ო
 Vni,,             Ⲱ
 Vnin,,            Ო̶
 Vnni,,            Ⲱ̶
+Nvin,,            Ო̶
+Nvni,,            Ⲱ̶
 cin               ε  # [c]urly
 cni               ɜ
 cnin              ε̸
@@ -1138,8 +1152,8 @@ vlimof            ↑
 ntends            ↛
 nlimof            ↚
 nvtends           ⤈  # XXX: abuse: strike as not
-vntends           ⤈
 nvlimof           ⤉
+vntends           ⤈
 vnlimof           ⤉
 unifto            ⇉  # [unif]ormly [to]
 uniffrom          ⇇
