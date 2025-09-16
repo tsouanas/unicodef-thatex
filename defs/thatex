@@ -101,6 +101,15 @@ ethcol            ፥  # [eth]iopic [col]on
 
 # %}}}
 
+# retro asciiart blocks %{{{
+
+blockl           ░  # [l]ight  ( 25% ink)
+blockm           ▒  # [m]edium ( 50% ink)
+blockd           ▓  # [d]ark   ( 75% ink)
+blockf           █  # [f]ull   (100% ink)
+
+# %}}}
+
 # struct, print, typography %{{{
 
 para              ¶  # [para]graph
@@ -139,6 +148,15 @@ hedera            ❦
 heder             ❧  # [hede]ra [r]ight
 hedel             ☙
 caretins          ⁁  # [caret] [ins]ertion point
+
+cursor           █   # default: [f]
+fcursor          █   # [f]ull, [f]ocused
+lcursor          ▏   # [l]eft
+lcursor,         ▎
+vcursor          ▏   # [v]ertical
+vcursor,         ▎
+rcursor          ▕   # [r]ight
+bcursor          ▁   # [b]ottom
 
 copyr             ©  # [copyr]ight
 copyl             🄯 # [copyl]eft
