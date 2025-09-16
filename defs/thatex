@@ -3152,6 +3152,8 @@ cdot              ·  # [c]enter [dot] WARN: actually interpunct
 dot               ·  # default: [c]
 point             ·
 bul               ∙  # WARN: bul is not short for bullet but for bullet op
+sqpoint           ⬝  # [sq]uare [point]
+sqpoint,          ⬞
 spark             ⟡
 circ              ∘  # [circ]le op
 star              ⋆  # (small) star (bin op)
