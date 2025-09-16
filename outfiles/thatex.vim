@@ -79,6 +79,10 @@ inoremap \\arabask ؟
 inoremap \\arabstar ٭
 inoremap \\arabdots ؞
 inoremap \\ethcol ፥
+inoremap \\blockl ░
+inoremap \\blockm ▒
+inoremap \\blockd ▓
+inoremap \\blockf █
 inoremap \\para ¶
 inoremap \\paras ¶¶
 inoremap \\par ¶
@@ -115,6 +119,14 @@ inoremap \\hedera ❦
 inoremap \\heder ❧
 inoremap \\hedel ☙
 inoremap \\caretins ⁁
+inoremap \\cursor █
+inoremap \\fcursor █
+inoremap \\lcursor ▏
+inoremap \\lcursor, ▎
+inoremap \\vcursor ▏
+inoremap \\vcursor, ▎
+inoremap \\rcursor ▕
+inoremap \\bcursor ▁
 inoremap \\copyr ©
 inoremap \\copyl 🄯
 inoremap \\phono ℗
@@ -2765,6 +2777,8 @@ inoremap \\cdot ·
 inoremap \\dot ·
 inoremap \\point ·
 inoremap \\bul ∙
+inoremap \\sqpoint ⬝
+inoremap \\sqpoint, ⬞
 inoremap \\spark ⟡
 inoremap \\circ ∘
 inoremap \\star ⋆

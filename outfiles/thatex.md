@@ -80,6 +80,10 @@
 | <code>arabstar</code> | ٭ |
 | <code>arabdots</code> | ؞ |
 | <code>ethcol</code> | ፥ |
+| <code>blockl</code> | ░ |
+| <code>blockm</code> | ▒ |
+| <code>blockd</code> | ▓ |
+| <code>blockf</code> | █ |
 | <code>para</code> | ¶ |
 | <code>paras</code> | ¶¶ |
 | <code>par</code> | ¶ |
@@ -116,6 +120,14 @@
 | <code>heder</code> | ❧ |
 | <code>hedel</code> | ☙ |
 | <code>caretins</code> | ⁁ |
+| <code>cursor</code> | █ |
+| <code>fcursor</code> | █ |
+| <code>lcursor</code> | ▏ |
+| <code>lcursor,</code> | ▎ |
+| <code>vcursor</code> | ▏ |
+| <code>vcursor,</code> | ▎ |
+| <code>rcursor</code> | ▕ |
+| <code>bcursor</code> | ▁ |
 | <code>copyr</code> | © |
 | <code>copyl</code> | 🄯 |
 | <code>phono</code> | ℗ |
@@ -2766,6 +2778,8 @@
 | <code>dot</code> | · |
 | <code>point</code> | · |
 | <code>bul</code> | ∙ |
+| <code>sqpoint</code> | ⬝ |
+| <code>sqpoint,</code> | ⬞ |
 | <code>spark</code> | ⟡ |
 | <code>circ</code> | ∘ |
 | <code>star</code> | ⋆ |
