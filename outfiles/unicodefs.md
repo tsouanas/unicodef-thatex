@@ -5014,7 +5014,15 @@
 | <code>blockl</code> | ░ |
 | <code>blockm</code> | ▒ |
 | <code>blockd</code> | ▓ |
+| <code>blockh</code> | ▓ |
 | <code>blockf</code> | █ |
+| <code>blockb</code> | █ |
+| <code>lblock</code> | ░ |
+| <code>mblock</code> | ▒ |
+| <code>dblock</code> | ▓ |
+| <code>hblock</code> | ▓ |
+| <code>fblock</code> | █ |
+| <code>bblock</code> | █ |
 | <code>para</code> | ¶ |
 | <code>paras</code> | ¶¶ |
 | <code>par</code> | ¶ |
@@ -5057,8 +5065,11 @@
 | <code>lcursor,</code> | ▎ |
 | <code>vcursor</code> | ▏ |
 | <code>vcursor,</code> | ▎ |
+| <code>pcursor</code> | ▏ |
+| <code>pcursor,</code> | ▎ |
 | <code>rcursor</code> | ▕ |
 | <code>bcursor</code> | ▁ |
+| <code>ucursor</code> | ▁ |
 | <code>copyr</code> | © |
 | <code>copyl</code> | 🄯 |
 | <code>phono</code> | ℗ |

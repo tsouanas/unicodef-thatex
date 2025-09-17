@@ -2450,7 +2450,15 @@ inoremap \\ethcol ፥
 inoremap \\blockl ░
 inoremap \\blockm ▒
 inoremap \\blockd ▓
+inoremap \\blockh ▓
 inoremap \\blockf █
+inoremap \\blockb █
+inoremap \\lblock ░
+inoremap \\mblock ▒
+inoremap \\dblock ▓
+inoremap \\hblock ▓
+inoremap \\fblock █
+inoremap \\bblock █
 inoremap \\para ¶
 inoremap \\paras ¶¶
 inoremap \\par ¶
@@ -2493,8 +2501,11 @@ inoremap \\lcursor ▏
 inoremap \\lcursor, ▎
 inoremap \\vcursor ▏
 inoremap \\vcursor, ▎
+inoremap \\pcursor ▏
+inoremap \\pcursor, ▎
 inoremap \\rcursor ▕
 inoremap \\bcursor ▁
+inoremap \\ucursor ▁
 inoremap \\copyr ©
 inoremap \\copyl 🄯
 inoremap \\phono ℗
