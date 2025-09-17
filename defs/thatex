@@ -106,7 +106,15 @@ ethcol            ፥  # [eth]iopic [col]on
 blockl           ░  # [l]ight  ( 25% ink)
 blockm           ▒  # [m]edium ( 50% ink)
 blockd           ▓  # [d]ark   ( 75% ink)
+blockh           ▓  # [h]eavy  ( 75% ink)
 blockf           █  # [f]ull   (100% ink)
+blockb           █  # [b]lack  (100% ink)
+lblock           ░  # [l]ight  ( 25% ink)
+mblock           ▒  # [m]edium ( 50% ink)
+dblock           ▓  # [d]ark   ( 75% ink)
+hblock           ▓  # [h]eavy  ( 75% ink)
+fblock           █  # [f]ull   (100% ink)
+bblock           █  # [b]lack  (100% ink)
 
 # %}}}
 
@@ -155,8 +163,11 @@ lcursor          ▏   # [l]eft
 lcursor,         ▎
 vcursor          ▏   # [v]ertical
 vcursor,         ▎
+pcursor          ▏   # [p]ipe
+pcursor,         ▎
 rcursor          ▕   # [r]ight
 bcursor          ▁   # [b]ottom
+ucursor          ▁   # [u]nderscore
 
 copyr             ©  # [copyr]ight
 copyl             🄯 # [copyl]eft
