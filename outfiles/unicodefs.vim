@@ -3939,6 +3939,7 @@ inoremap \\eqs ▸
 inoremap \\gets ←
 inoremap \\lpre ⁻¹'
 inoremap \\limg ''
+inoremap \\heq ≍
 inoremap \\=0 𝟘
 inoremap \\=1 𝟙
 inoremap \\=2 𝟚
@@ -4089,8 +4090,8 @@ inoremap \\gdel, Gδ
 inoremap \\ctsto ‒cts→
 inoremap \\ctsfrom ←cts‒
 inoremap \\hequiv ≃ͪ
-inoremap \\heq ≃ͪ
-inoremap \\eqh ≃ͪ
+inoremap \\hoeq ≃ͪ
+inoremap \\eqho ≃ͪ
 inoremap \\opens 𝓞
 inoremap \\compacts 𝓚
 inoremap \\lgen ⟨

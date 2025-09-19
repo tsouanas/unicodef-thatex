@@ -6503,6 +6503,7 @@
 | <code>gets</code> | ← |
 | <code>lpre</code> | ⁻¹' |
 | <code>limg</code> | '' |
+| <code>heq</code> | ≍ |
 | <code>=0</code> | 𝟘 |
 | <code>=1</code> | 𝟙 |
 | <code>=2</code> | 𝟚 |
@@ -6653,8 +6654,8 @@
 | <code>ctsto</code> | ‒cts→ |
 | <code>ctsfrom</code> | ←cts‒ |
 | <code>hequiv</code> | ≃ͪ |
-| <code>heq</code> | ≃ͪ |
-| <code>eqh</code> | ≃ͪ |
+| <code>hoeq</code> | ≃ͪ |
+| <code>eqho</code> | ≃ͪ |
 | <code>opens</code> | 𝓞 |
 | <code>compacts</code> | 𝓚 |
 | <code>lgen</code> | ⟨ |
