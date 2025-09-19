@@ -1792,6 +1792,7 @@ eqs               ▸
 gets              ←
 lpre              ⁻¹'
 limg              ''
+heq               ≍   # [h]eterogenous [eq]uality
 
 # %}}}
 
@@ -1960,8 +1961,8 @@ gdel,             Gδ # WARN: should be subscript
 ctsto             ‒cts→
 ctsfrom           ←cts‒
 hequiv            ≃ͪ  # [h]omotopy [equiv]alent
-heq               ≃ͪ
-eqh               ≃ͪ
+hoeq              ≃ͪ  # [ho]motopy [eq]uivalent
+eqho              ≃ͪ
 opens             𝓞
 compacts          𝓚
 
