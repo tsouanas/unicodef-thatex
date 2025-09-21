@@ -5023,6 +5023,8 @@
 | <code>hblock</code> | ▓ |
 | <code>fblock</code> | █ |
 | <code>bblock</code> | █ |
+| <code>endash</code> | – |
+| <code>emdash</code> | — |
 | <code>para</code> | ¶ |
 | <code>paras</code> | ¶¶ |
 | <code>par</code> | ¶ |

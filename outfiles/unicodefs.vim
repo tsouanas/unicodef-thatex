@@ -2459,6 +2459,8 @@ inoremap \\dblock ▓
 inoremap \\hblock ▓
 inoremap \\fblock █
 inoremap \\bblock █
+inoremap \\endash –
+inoremap \\emdash —
 inoremap \\para ¶
 inoremap \\paras ¶¶
 inoremap \\par ¶
