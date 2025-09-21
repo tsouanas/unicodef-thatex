@@ -598,14 +598,16 @@ shapart           ♯  # [sh]arp [apart]ness
 vvapart           =⃦  # ([v]ert-[v]ert) / (another var)
 apart             ♯  # default: [sh]
 apart,            ⧣  # alt: [ss]
-leq               ≤
-geq               ≥
+lt                <  # [l]ess [t]han
+gt                >  # [g]reater
+leq               ≤  # [l]ess than or [eq]ual to
+geq               ≥  # [g]reater
 nlt               ≮
 ngt               ≯
 nleq              ≰
 ngeq              ≱
 propto            ∝  # [prop]ortional [to]
-inteq             ≡  # [int]ensional
+inteq             ≡  # [int]ensional [eq]uality
 ieq               ≡
 intneq            ≢
 ineq              ≢
