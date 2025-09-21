@@ -2853,6 +2853,8 @@ inoremap \\shapart ♯
 inoremap \\vvapart =⃦
 inoremap \\apart ♯
 inoremap \\apart, ⧣
+inoremap \\lt <
+inoremap \\gt >
 inoremap \\leq ≤
 inoremap \\geq ≥
 inoremap \\nlt ≮

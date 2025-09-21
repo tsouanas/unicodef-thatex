@@ -5417,6 +5417,8 @@
 | <code>vvapart</code> | =⃦ |
 | <code>apart</code> | ♯ |
 | <code>apart,</code> | ⧣ |
+| <code>lt</code> | &lt; |
+| <code>gt</code> | &gt; |
 | <code>leq</code> | ≤ |
 | <code>geq</code> | ≥ |
 | <code>nlt</code> | ≮ |

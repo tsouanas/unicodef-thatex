@@ -2853,6 +2853,8 @@
 <Multi_key><Multi_key><v><v><a><p><a><r><t><space> : "=⃦"
 <Multi_key><Multi_key><a><p><a><r><t><space> : "♯"
 <Multi_key><Multi_key><a><p><a><r><t><comma><space> : "⧣"
+<Multi_key><Multi_key><l><t><space> : "<"
+<Multi_key><Multi_key><g><t><space> : ">"
 <Multi_key><Multi_key><l><e><q><space> : "≤"
 <Multi_key><Multi_key><g><e><q><space> : "≥"
 <Multi_key><Multi_key><n><l><t><space> : "≮"
