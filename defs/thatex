@@ -120,6 +120,8 @@ bblock           █  # [b]lack  (100% ink)
 
 # struct, print, typography %{{{
 
+endash            –
+emdash            —
 para              ¶  # [para]graph
 paras             ¶¶ # [para]graph[s]
 par               ¶
