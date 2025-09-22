@@ -4052,6 +4052,7 @@ _top              ˕
 @o2dot             ̈
 @o3dot             ⃛
 @o4dot             ⃜
+@odots             ⃛
 
 ### mod / unops
 @oinfty            ᪲
@@ -4132,10 +4133,11 @@ _top              ˕
 @udddot            ⃨
 @u2dot             ̤
 @u3dot             ⃨
+@udots             ⃨
 @ucedil            ̧  # [cedil]la
 @uced              ̧
 @ucomma            ̦
-@uhypog            ͅ # [hypog]egrammene
+@uhypog            ͅ  # [hypog]egrammene
 @uogon             ̨  # [ogon]ek
 @uhook             ̨
 @uhookl            ̡
@@ -4266,6 +4268,8 @@ _top              ˕
 
 ## default (o/u/c/a/s) %{{{
 
+@diaer             ̈
+@trema             ̈
 @balls             ̫
 @lynch             ᪰  # the owls are not what they seem
 
