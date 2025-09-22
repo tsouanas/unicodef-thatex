@@ -3564,6 +3564,7 @@
 | <code>@o2dot</code> | ̈ |
 | <code>@o3dot</code> | ⃛ |
 | <code>@o4dot</code> | ⃜ |
+| <code>@odots</code> | ⃛ |
 | <code>@oinfty</code> | ᪲ |
 | <code>@oast</code> | ⃰ |
 | <code>@ostar</code> | ⃰ |
@@ -3624,6 +3625,7 @@
 | <code>@udddot</code> | ⃨ |
 | <code>@u2dot</code> | ̤ |
 | <code>@u3dot</code> | ⃨ |
+| <code>@udots</code> | ⃨ |
 | <code>@ucedil</code> | ̧ |
 | <code>@uced</code> | ̧ |
 | <code>@ucomma</code> | ̦ |
@@ -3732,6 +3734,8 @@
 | <code>@sbridge</code> | ̺͆ |
 | <code>@sthis</code> | ͎᪳ |
 | <code>@shere</code> | ͎᪳ |
+| <code>@diaer</code> | ̈ |
+| <code>@trema</code> | ̈ |
 | <code>@balls</code> | ̫ |
 | <code>@lynch</code> | ᪰ |
 | <code>@oa</code> | ͣ |

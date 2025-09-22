@@ -3563,6 +3563,7 @@ inoremap \\@oddddot ⃜
 inoremap \\@o2dot ̈
 inoremap \\@o3dot ⃛
 inoremap \\@o4dot ⃜
+inoremap \\@odots ⃛
 inoremap \\@oinfty ᪲
 inoremap \\@oast ⃰
 inoremap \\@ostar ⃰
@@ -3623,6 +3624,7 @@ inoremap \\@uddot ̤
 inoremap \\@udddot ⃨
 inoremap \\@u2dot ̤
 inoremap \\@u3dot ⃨
+inoremap \\@udots ⃨
 inoremap \\@ucedil ̧
 inoremap \\@uced ̧
 inoremap \\@ucomma ̦
@@ -3731,6 +3733,8 @@ inoremap \\@szeus ᷏͛
 inoremap \\@sbridge ̺͆
 inoremap \\@sthis ͎᪳
 inoremap \\@shere ͎᪳
+inoremap \\@diaer ̈
+inoremap \\@trema ̈
 inoremap \\@balls ̫
 inoremap \\@lynch ᪰
 inoremap \\@oa ͣ
