@@ -1112,8 +1112,8 @@ inoremap \\Phole ∙
 inoremap \\dhole –
 inoremap \\uhole _
 inoremap \\bhole ◻
-inoremap \\dbhole ⬚
 inoremap \\chole ○
+inoremap \\dbhole ⬚
 inoremap \\dchole ◌
 inoremap \\comp ∘
 inoremap \\fing ∘
@@ -3385,6 +3385,7 @@ inoremap \\^2acute ˝
 inoremap \\^square ⸋
 inoremap \\^sq ⸋
 inoremap \\^box ⸋
+inoremap \\^bhole ⸋
 inoremap \\^triangle ᐞ
 inoremap \\^tri ᐞ
 inoremap \\^slash ᐟ

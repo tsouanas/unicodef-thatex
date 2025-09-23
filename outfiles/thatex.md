@@ -1113,8 +1113,8 @@
 | <code>dhole</code> | – |
 | <code>uhole</code> | _ |
 | <code>bhole</code> | ◻ |
-| <code>dbhole</code> | ⬚ |
 | <code>chole</code> | ○ |
+| <code>dbhole</code> | ⬚ |
 | <code>dchole</code> | ◌ |
 | <code>comp</code> | ∘ |
 | <code>fing</code> | ∘ |
@@ -3386,6 +3386,7 @@
 | <code>^square</code> | ⸋ |
 | <code>^sq</code> | ⸋ |
 | <code>^box</code> | ⸋ |
+| <code>^bhole</code> | ⸋ |
 | <code>^triangle</code> | ᐞ |
 | <code>^tri</code> | ᐞ |
 | <code>^slash</code> | ᐟ |
