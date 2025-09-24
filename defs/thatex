@@ -1477,7 +1477,10 @@ sbijto            ⤗
 sbijfrom          ⬼
 ssurto            ⤀
 ssurfrom          ⬴
-hto               ⸧  # [h]orseshoe
+horseto           ⸧  # [horse]shoe
+horsefrom         ⸦
+horsebi           ⸧⸦
+hto               ⸧
 hfrom             ⸦
 hbi               ⸧⸦
 Hto               ⥰
@@ -2256,15 +2259,6 @@ himpd,            ⸦
 hiff,             ⸧⸦
 Himplies          ⥰  # [H]orseshoe
 Himps             ⥰
-horseto           ⸧
-horsefrom         ⸦
-horsebi           ⸧⸦
-horto             ⸧
-horfrom           ⸦
-horbi             ⸧⸦
-hto               ⸧
-hfrom             ⸦
-hbi               ⸧⸦
 assert            ⊢
 sequent           ⊢
 proves            ⊢
