@@ -1305,6 +1305,10 @@ fby,              ;
 then,             ;
 to                →
 from              ←
+bi                ↔
+to,               ⇾
+from,             ⇽
+bi,               ⇿
 tofrom            ⇄
 fromto            ⇆
 toto              ⇉
@@ -1473,6 +1477,17 @@ sbijto            ⤗
 sbijfrom          ⬼
 ssurto            ⤀
 ssurfrom          ⬴
+hto               ⸧  # [h]orseshoe
+hfrom             ⸦
+hbi               ⸧⸦
+Hto               ⥰
+htofrom           ⫔
+hfromto           ⫓
+htoto             ⫖
+hfromfrom         ⫕
+2htos             ⫖
+2hfroms           ⫕
+vhbi              ⩆
 
 # %}}}
 
@@ -1503,11 +1518,16 @@ ndetto            ⇝  # [n]on-[det]erministic
 ndetfrom          ⇜
 leadsto           ↝
 leadsfrom         ↜
+leadsbi           ↭
+bileads           ↭
 leadto            ↝
 leadfrom          ↜
+leadbi            ↭
+bilead            ↭
 ledfrom           ↜
 leadsr            ↝
 leadsl            ↜
+leadsb            ↭
 yields            ↝
 becomes           ↝
 
@@ -1886,7 +1906,7 @@ conjor            ϱ  # [conj]ugat[or]
 homto             →
 homfrom           ←
 Homto             ‒hom→
-Homfrom           ←h̶o̶m̶‒
+Homfrom           ←hom‒
 Homto,            ‒ͪ‒ͦ‒ͫ→
 Homfrom,          ←‒ͪ‒ͦ‒ͫ
 slop              ⋄  # unbiased [s]emi[l]attice [op]eration (∨∧)
@@ -2228,12 +2248,23 @@ himplied          ⊂
 himps             ⊃
 himpd             ⊂
 hiff              ⫗
+vhiff             ⩆
+himplies,         ⸧
+himplied,         ⸦
+himps,            ⸧
+himpd,            ⸦
+hiff,             ⸧⸦
 Himplies          ⥰  # [H]orseshoe
 Himps             ⥰
 horseto           ⸧
 horsefrom         ⸦
+horsebi           ⸧⸦
 horto             ⸧
 horfrom           ⸦
+horbi             ⸧⸦
+hto               ⸧
+hfrom             ⸦
+hbi               ⸧⸦
 assert            ⊢
 sequent           ⊢
 proves            ⊢
@@ -2353,6 +2384,16 @@ cconj             ⩓
 
 linto             ⊸
 linfrom           ⟜
+linimplies        ⊸
+linimplied        ⟜
+linimps           ⊸
+linimpd           ⟜
+vlinto            ⫰
+vlinfrom          ⫯
+vlinimplies       ⫰
+vlinimplied       ⫯
+vlinimps          ⫰
+vlinimpd          ⫯
 linwith           &
 linpar            ⅋
 linnot            ᗮ  # XXX: should be ^⊥
@@ -3652,6 +3693,7 @@ halfr             ￫
 # %}}}
 
 ### arrow (BRUTAL) abbrevs %{{{
+
 u                 ↑
 d                 ↓
 l                 ←
