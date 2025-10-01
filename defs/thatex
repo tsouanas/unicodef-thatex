@@ -1631,11 +1631,19 @@ simeq             ≃
 nsimeq            ≄
 simneq            ≆
 ssimeq            ≊
+2simeq            ≊
 nssimeq           ≊̸
+n2simeq           ≊̸
+simeeq            ≅
+sim2eq            ≅
+nsimeeq           ≇
+nsim2eq           ≇
 ssimeeq           ⩰
-ssim2eq           ⩰
+2sim2eq           ⩰
 hatssim           ⩯
+hat2sim           ⩯
 hssim             ⩯
+h2sim             ⩯
 eqsim             ≂
 neqsim            ≂̸
 mis               ∽  # (sim backwards)
