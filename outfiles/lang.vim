@@ -176,6 +176,7 @@ inoremap \\HW\ Ƕ
 inoremap \\ij\ ĳ
 inoremap \\IJ\ Ĳ
 inoremap \\ll\ ỻ
+inoremap \\ls\ ꬷ
 inoremap \\LL\ Ỻ
 inoremap \\lzh\ ɮ
 inoremap \\oe\ œ
@@ -217,6 +218,7 @@ inoremap \ff ﬀ
 inoremap \2fi ﬃ
 inoremap \2fl ﬄ
 inoremap \ij ĳ
+inoremap \ls ꬷ
 inoremap \sl ſ
 inoremap \st ﬅ
 inoremap \sft ﬆ

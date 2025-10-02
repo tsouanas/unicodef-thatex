@@ -177,6 +177,7 @@
 | <code>\ij\\</code> | ĳ |
 | <code>\IJ\\</code> | Ĳ |
 | <code>\ll\\</code> | ỻ |
+| <code>\ls\\</code> | ꬷ |
 | <code>\LL\\</code> | Ỻ |
 | <code>\lzh\\</code> | ɮ |
 | <code>\oe\\</code> | œ |
@@ -218,6 +219,7 @@
 | <code>2fi</code> | ﬃ |
 | <code>2fl</code> | ﬄ |
 | <code>ij</code> | ĳ |
+| <code>ls</code> | ꬷ |
 | <code>sl</code> | ſ |
 | <code>st</code> | ﬅ |
 | <code>sft</code> | ﬆ |
