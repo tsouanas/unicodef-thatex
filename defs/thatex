@@ -435,7 +435,16 @@ ssharp            𝄪  # (double)
 dsharp            𝄪  # [d]ouble
 sharpu            𝄰  # [u]p
 sharpd            𝄱  # [d]own
+flatu             𝄬
+flatd             𝄭
+natuu             𝄮
+natud             𝄯
 qsharp            𝄲  # [q]uarter-tone [sharp]
+qflat             𝄳
+comtime           𝄴  # [com]mon [time]
+cuttime           𝄵
+qrest             𝄽
+erest             𝄾
 qnote             ♩  # [q]uarter
 enote             ♪  # [e]ightth
 enotes            ♫
@@ -444,7 +453,51 @@ snotes            ♬  # [s]ixteenth
 8note             ♪
 8notes            ♫
 16notes           ♬
-turn              ∾
+lrepeat           𝄆
+rrepeat           𝄇
+lrep              𝄆
+rrep              𝄇
+mbar              𝄀  # [m]usic [bar]
+mbbar             𝄁  # (double)
+mdbar             𝄄  # [d]ashed
+msbar             𝄅  # [s]hort
+lmbbar            𝄃
+rmbbar            𝄂
+fermata           𝄐
+cofermata         𝄑
+staff             𝄚
+6string           𝄜
+4string           𝄝
+forte             𝆑
+2forte            𝆑𝆑
+3forte            𝆑𝆑𝆑
+fforte            𝆑𝆑
+ffforte           𝆑𝆑𝆑
+fortissimo        𝆑𝆑
+fortississimo     𝆑𝆑𝆑
+piano             𝆏
+2piano            𝆏𝆏
+3piano            𝆏𝆏𝆏
+ppiano            𝆏𝆏
+pppiano           𝆏𝆏𝆏
+pianissimo        𝆏𝆏
+pianississimo     𝆏𝆏𝆏
+mezzo             𝆐
+mpiano            𝆐𝆏
+mforte            𝆐𝆑
+sforzando         𝆍𝆑𝆎
+rinforzando       𝆌𝆑𝆎
+subito            𝆍
+rinfor            𝆌
+zando             𝆎
+crescendo         𝆒
+decrescendo       𝆓
+cre               𝆒
+decre             𝆓
+turn              𝆗
+coturn            𝆘
+sturn             𝆙
+vturn             𝆚
 
 # %}}}
 
