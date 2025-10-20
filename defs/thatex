@@ -1056,6 +1056,11 @@ cvin              ო
 cvni              ω
 cvnin             ო̶
 cvnni             ω̶
+powerset          ℘
+power             ℘
+pset              ℘
+pfinset           ℘ᶠⁱⁿ  # XXX: should be _fin
+pfset             ℘ᶠ    # XXX: should be _f
 Inter             ⋂
 Union             ⋃
 inter             ∩
@@ -1110,6 +1115,12 @@ ihsubset          ⪽  # [h]orse
 ihsupset          ⪾
 ihsubs            ⪽
 ihsups            ⪾
+finsubs           ⊆ᶠⁱⁿ  # XXX: should be _fin
+finsups           ⊇ᶠⁱⁿ  # XXX: should be _fin
+fsubs             ⊆ᶠ    # XXX: should be _f
+fsups             ⊇ᶠ    # XXX: should be _f
+fsubs,            ⋐
+fsups,            ⋑
 interunion        ⩇
 unioninter        ⩆
 hsubssups         ⫓
@@ -1130,14 +1141,9 @@ Tohsups           ⭄
 Fromhsubs         ⥺
 hsupsTo           ⭄
 hsubsFrom         ⥺
-powerset          ℘
-power             ℘
-pset              ℘
-pfinset           ℘ᶠ  # XXX: should be _f
-pfset             ℘ᶠ  # XXX: should be _f
-idisjoint         ꖻ   # [i]nhabited [disjoint]
-edisjoint         )(  # possibly [e]mpty [disjoint]
-disjoint          ꖻ   # default: [i]
+idisjoint         ꖻ     # [i]nhabited [disjoint]
+edisjoint         )(    # possibly [e]mpty [disjoint]
+disjoint          ꖻ     # default: [i]
 djoint            ꖻ
 conjoint          ≬
 cjoint            ≬
@@ -2177,6 +2183,8 @@ monto             ↣  # [mon]omorphism
 monfrom           ↢
 epito             ↠  # [epi]morphism
 epifrom           ↞
+vepito           ↡
+vepifrom         ↟
 Isoto             ‒≅→
 Isofrom           ←≅‒
 Isoto,            ⤚≅↠
@@ -2610,12 +2618,12 @@ wbelow            ≪
 wabove            ≫
 wbel              ≪
 wabo              ≫
-waybelows         ⇓
-wayaboves         ⇑
-wbelows           ⇓
-waboves           ⇑
-wbels             ⇓
-wabos             ⇑
+waybelows         ↡
+wayaboves         ↟
+wbelows           ↡
+waboves           ↟
+wbels             ↡
+wabos             ↟
 belows            ↓
 aboves            ↑
 bels              ↓
