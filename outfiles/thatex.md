@@ -1442,6 +1442,7 @@
 | <code>ndetto</code> | ⇝ |
 | <code>ndetfrom</code> | ⇜ |
 | <code>leadsto</code> | ↝ |
+| <code>leads</code> | ↝ |
 | <code>leadsfrom</code> | ↜ |
 | <code>leadsbi</code> | ↭ |
 | <code>bileads</code> | ↭ |
@@ -1453,6 +1454,9 @@
 | <code>leadsr</code> | ↝ |
 | <code>leadsl</code> | ↜ |
 | <code>leadsb</code> | ↭ |
+| <code>leadr</code> | ↝ |
+| <code>leadl</code> | ↜ |
+| <code>leadb</code> | ↭ |
 | <code>yields</code> | ↝ |
 | <code>becomes</code> | ↝ |
 | <code>litto</code> | ⭇ |
@@ -1617,6 +1621,10 @@
 | <code>outr</code> | ·r |
 | <code>inl</code> | l· |
 | <code>inr</code> | r· |
+| <code>outl,</code> | 𝑜𝑢𝑡𝑙 |
+| <code>outr,</code> | 𝑜𝑢𝑡𝑟 |
+| <code>inl,</code> | 𝑖𝑛𝑙 |
+| <code>inr,</code> | 𝑖𝑛𝑟 |
 | <code>arat</code> | 𝟎 |
 | <code>arcom</code> | ⊗ |
 | <code>arto</code> | ↠ |
@@ -1661,6 +1669,9 @@
 | <code>THEN</code> | 𝘁𝗵𝗲𝗻 |
 | <code>ELSE</code> | 𝗲𝗹𝘀𝗲 |
 | <code>FI</code> | 𝗳𝗶 |
+| <code>IFTHENELSE</code> | 𝗶𝗳𝘁𝗵𝗲𝗻𝗲𝗹𝘀𝗲 |
+| <code>IF_THEN_ELSE</code> | 𝗶𝗳-𝘁𝗵𝗲𝗻-𝗲𝗹𝘀𝗲 |
+| <code>IF_THEN_ELSE_</code> | 𝗶𝗳_𝘁𝗵𝗲𝗻_𝗲𝗹𝘀𝗲_ |
 | <code>BOOM</code> | 𝗯𝗼𝗼𝗺 |
 | <code>ABORT</code> | 𝗮𝗯𝗼𝗿𝘁 |
 | <code>OUTL</code> | 𝗼𝘂𝘁𝗹 |

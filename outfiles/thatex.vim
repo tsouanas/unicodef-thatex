@@ -1441,6 +1441,7 @@ inoremap \\approxfrom ←͌
 inoremap \\ndetto ⇝
 inoremap \\ndetfrom ⇜
 inoremap \\leadsto ↝
+inoremap \\leads ↝
 inoremap \\leadsfrom ↜
 inoremap \\leadsbi ↭
 inoremap \\bileads ↭
@@ -1452,6 +1453,9 @@ inoremap \\ledfrom ↜
 inoremap \\leadsr ↝
 inoremap \\leadsl ↜
 inoremap \\leadsb ↭
+inoremap \\leadr ↝
+inoremap \\leadl ↜
+inoremap \\leadb ↭
 inoremap \\yields ↝
 inoremap \\becomes ↝
 inoremap \\litto ⭇
@@ -1616,6 +1620,10 @@ inoremap \\outl ·l
 inoremap \\outr ·r
 inoremap \\inl l·
 inoremap \\inr r·
+inoremap \\outl, 𝑜𝑢𝑡𝑙
+inoremap \\outr, 𝑜𝑢𝑡𝑟
+inoremap \\inl, 𝑖𝑛𝑙
+inoremap \\inr, 𝑖𝑛𝑟
 inoremap \\arat 𝟎
 inoremap \\arcom ⊗
 inoremap \\arto ↠
@@ -1660,6 +1668,9 @@ inoremap \\IF 𝗶𝗳
 inoremap \\THEN 𝘁𝗵𝗲𝗻
 inoremap \\ELSE 𝗲𝗹𝘀𝗲
 inoremap \\FI 𝗳𝗶
+inoremap \\IFTHENELSE 𝗶𝗳𝘁𝗵𝗲𝗻𝗲𝗹𝘀𝗲
+inoremap \\IF_THEN_ELSE 𝗶𝗳-𝘁𝗵𝗲𝗻-𝗲𝗹𝘀𝗲
+inoremap \\IF_THEN_ELSE_ 𝗶𝗳_𝘁𝗵𝗲𝗻_𝗲𝗹𝘀𝗲_
 inoremap \\BOOM 𝗯𝗼𝗼𝗺
 inoremap \\ABORT 𝗮𝗯𝗼𝗿𝘁
 inoremap \\OUTL 𝗼𝘂𝘁𝗹
