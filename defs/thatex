@@ -1639,6 +1639,7 @@ approxfrom        ←͌
 ndetto            ⇝  # [n]on-[det]erministic
 ndetfrom          ⇜
 leadsto           ↝
+leads             ↝
 leadsfrom         ↜
 leadsbi           ↭
 bileads           ↭
@@ -1650,6 +1651,9 @@ ledfrom           ↜
 leadsr            ↝
 leadsl            ↜
 leadsb            ↭
+leadr             ↝
+leadl             ↜
+leadb             ↭
 yields            ↝
 becomes           ↝
 
@@ -1826,6 +1830,10 @@ outl              ·l
 outr              ·r
 inl               l·
 inr               r·
+outl,             𝑜𝑢𝑡𝑙
+outr,             𝑜𝑢𝑡𝑟
+inl,              𝑖𝑛𝑙
+inr,              𝑖𝑛𝑟
 arat              𝟎  # [ar]ity [at]omic (single & saturated)
 arcom             ⊗  # [ar]ity [com]bination (combined)
 arto              ↠  # [ar]ity [to] (unsaturated)
@@ -1873,6 +1881,9 @@ IF                𝗶𝗳
 THEN              𝘁𝗵𝗲𝗻
 ELSE              𝗲𝗹𝘀𝗲
 FI                𝗳𝗶
+IFTHENELSE        𝗶𝗳𝘁𝗵𝗲𝗻𝗲𝗹𝘀𝗲
+IF_THEN_ELSE      𝗶𝗳-𝘁𝗵𝗲𝗻-𝗲𝗹𝘀𝗲
+IF_THEN_ELSE_     𝗶𝗳_𝘁𝗵𝗲𝗻_𝗲𝗹𝘀𝗲_
 BOOM              𝗯𝗼𝗼𝗺
 ABORT             𝗮𝗯𝗼𝗿𝘁
 OUTL              𝗼𝘂𝘁𝗹
