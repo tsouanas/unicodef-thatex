@@ -197,7 +197,7 @@ ww     ʬ
 
 # Ligatures and alt-forms %{{{
 
-# \lig\ to guarantee prefix code %{{{
+## \lig\ to guarantee prefix code %{{{
 
 \wll\  ỻ
 \Wll\  Ỻ
@@ -264,7 +264,7 @@ ww     ʬ
 
 # %}}}
 
-# living dangerously %{{{
+## living dangerously %{{{
 
 ae     æ
 AE     Æ
