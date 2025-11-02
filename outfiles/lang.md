@@ -118,10 +118,10 @@
 | <code>*s</code> | ★ |
 | <code>oo</code> | º |
 | <code>aa</code> | ª |
-| <code>nst</code> | ˢᵗ |
-| <code>nnd</code> | ⁿᵈ |
-| <code>nrd</code> | ʳᵈ |
-| <code>nth</code> | ᵗʰ |
+| <code>ost</code> | ˢᵗ |
+| <code>ond</code> | ⁿᵈ |
+| <code>ord</code> | ʳᵈ |
+| <code>oth</code> | ᵗʰ |
 | <code>0th</code> | 0ᵗʰ |
 | <code>1st</code> | 1ˢᵗ |
 | <code>2nd</code> | 2ⁿᵈ |
@@ -219,10 +219,12 @@
 | <code>2fi</code> | ﬃ |
 | <code>2fl</code> | ﬄ |
 | <code>ij</code> | ĳ |
+| <code>IJ</code> | Ĳ |
 | <code>ls</code> | ꬷ |
 | <code>sl</code> | ſ |
 | <code>st</code> | ﬅ |
 | <code>sft</code> | ﬆ |
+| <code>s,t</code> | ﬆ |
 | <code>ss</code> | ß |
 | <code>SS</code> | ẞ |
 | <code>Ss</code> | ẞ |
@@ -230,19 +232,27 @@
 | <code>Sz</code> | ẞ |
 | <code>SZ</code> | ẞ |
 | <code>oe</code> | œ |
-| <code>IJ</code> | Ĳ |
 | <code>OE</code> | Œ |
-| <code>et</code> | 🙰 |
-| <code>Al</code> | Ɑ |
-| <code>Ga</code> | Ɣ |
-| <code>Ep</code> | Ɛ |
-| <code>Io</code> | Ɩ |
-| <code>al</code> | ɑ |
-| <code>ga</code> | ɣ |
-| <code>ep</code> | ɛ |
-| <code>io</code> | ɩ |
-| <code>el</code> | ℓ |
+| <code>nn</code> | ñ |
+| <code>Nn</code> | ñ |
+| <code>NN</code> | Ñ |
+| <code>ng</code> | ŋ |
+| <code>Ng</code> | Ŋ |
+| <code>NG</code> | Ŋ |
+| <code>mg</code> | ɱ |
+| <code>Mg</code> | Ɱ |
+| <code>MG</code> | Ɱ |
 | <code>lzh</code> | ɮ |
+| <code>et</code> | 🙰 |
+| <code>al</code> | ɑ |
+| <code>Al</code> | Ɑ |
+| <code>ga</code> | ɣ |
+| <code>Ga</code> | Ɣ |
+| <code>ep</code> | ɛ |
+| <code>Ep</code> | Ɛ |
+| <code>io</code> | ɩ |
+| <code>Io</code> | Ɩ |
+| <code>el</code> | ℓ |
 | <code>dh</code> | ð |
 | <code>Dh</code> | Ð |
 | <code>DH</code> | Ð |

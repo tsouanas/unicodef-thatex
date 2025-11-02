@@ -6958,10 +6958,10 @@ inoremap \*l ❥
 inoremap \*s ★
 inoremap \oo º
 inoremap \aa ª
-inoremap \nst ˢᵗ
-inoremap \nnd ⁿᵈ
-inoremap \nrd ʳᵈ
-inoremap \nth ᵗʰ
+inoremap \ost ˢᵗ
+inoremap \ond ⁿᵈ
+inoremap \ord ʳᵈ
+inoremap \oth ᵗʰ
 inoremap \0th 0ᵗʰ
 inoremap \1st 1ˢᵗ
 inoremap \2nd 2ⁿᵈ
@@ -7059,10 +7059,12 @@ inoremap \ff ﬀ
 inoremap \2fi ﬃ
 inoremap \2fl ﬄ
 inoremap \ij ĳ
+inoremap \IJ Ĳ
 inoremap \ls ꬷ
 inoremap \sl ſ
 inoremap \st ﬅ
 inoremap \sft ﬆ
+inoremap \s,t ﬆ
 inoremap \ss ß
 inoremap \SS ẞ
 inoremap \Ss ẞ
@@ -7070,19 +7072,27 @@ inoremap \sz ß
 inoremap \Sz ẞ
 inoremap \SZ ẞ
 inoremap \oe œ
-inoremap \IJ Ĳ
 inoremap \OE Œ
-inoremap \et 🙰
-inoremap \Al Ɑ
-inoremap \Ga Ɣ
-inoremap \Ep Ɛ
-inoremap \Io Ɩ
-inoremap \al ɑ
-inoremap \ga ɣ
-inoremap \ep ɛ
-inoremap \io ɩ
-inoremap \el ℓ
+inoremap \nn ñ
+inoremap \Nn ñ
+inoremap \NN Ñ
+inoremap \ng ŋ
+inoremap \Ng Ŋ
+inoremap \NG Ŋ
+inoremap \mg ɱ
+inoremap \Mg Ɱ
+inoremap \MG Ɱ
 inoremap \lzh ɮ
+inoremap \et 🙰
+inoremap \al ɑ
+inoremap \Al Ɑ
+inoremap \ga ɣ
+inoremap \Ga Ɣ
+inoremap \ep ɛ
+inoremap \Ep Ɛ
+inoremap \io ɩ
+inoremap \Io Ɩ
+inoremap \el ℓ
 inoremap \dh ð
 inoremap \Dh Ð
 inoremap \DH Ð
