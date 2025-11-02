@@ -154,10 +154,10 @@ _~     ˷  # low tilde
 
 oo     º  # WARN: does not expand to \oo\
 aa     ª  # WARN: does not expand to \aa\
-nst    ˢᵗ
-nnd    ⁿᵈ
-nrd    ʳᵈ
-nth    ᵗʰ
+ost    ˢᵗ  # [o]rdinal -[st]
+ond    ⁿᵈ  # -[nd]
+ord    ʳᵈ  # -[rd]
+oth    ᵗʰ  # -[th]
 0th    0ᵗʰ
 1st    1ˢᵗ
 2nd    2ⁿᵈ
@@ -274,10 +274,12 @@ ff     ﬀ
 2fi    ﬃ
 2fl    ﬄ
 ij     ĳ
+IJ     Ĳ
 ls     ꬷ  # [l] with lazy [s]
 sl     ſ  # [s], [l]ong
 st     ﬅ
 sft    ﬆ  # [s], [f]inal
+s,t    ﬆ
 ss     ß
 SS     ẞ
 Ss     ẞ
@@ -285,19 +287,27 @@ sz     ß
 Sz     ẞ
 SZ     ẞ
 oe     œ
-IJ     Ĳ
 OE     Œ
-et     🙰
-Al     Ɑ
-Ga     Ɣ
-Ep     Ɛ
-Io     Ɩ
-al     ɑ
-ga     ɣ
-ep     ɛ
-io     ɩ
-el     ℓ
+nn     ñ
+Nn     ñ
+NN     Ñ
+ng     ŋ
+Ng     Ŋ
+NG     Ŋ
+mg     ɱ
+Mg     Ɱ
+MG     Ɱ
 lzh    ɮ
+et     🙰
+al     ɑ  # latin [al]pha
+Al     Ɑ
+ga     ɣ  # [ga]mma
+Ga     Ɣ
+ep     ɛ  # [ep]silon
+Ep     Ɛ
+io     ɩ  # [io]ta
+Io     Ɩ
+el     ℓ  # [el]
 
 # %}}}
 
