@@ -105,6 +105,8 @@ inoremap \\mist 🌫
 inoremap \\shine ✨
 inoremap \\shiny ✨
 inoremap \\shin ✨
+inoremap \\stars ✨
+inoremap \\sparkle ✨
 inoremap \\bat 🦇
 inoremap \\bee 🐝
 inoremap \\butterfly 🦋

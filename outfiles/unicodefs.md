@@ -623,6 +623,8 @@
 | <code>shine</code> | ✨ |
 | <code>shiny</code> | ✨ |
 | <code>shin</code> | ✨ |
+| <code>stars</code> | ✨ |
+| <code>sparkle</code> | ✨ |
 | <code>bat</code> | 🦇 |
 | <code>bee</code> | 🐝 |
 | <code>butterfly</code> | 🦋 |
