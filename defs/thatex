@@ -711,10 +711,14 @@ asklt             ⩻
 askgt             ⩼
 asseq             ≔
 eqass             ≕
+aeq               ≔
+eqa               ≕
 assinteq          :≡
 inteqass          ≡:
 assieq            :≡
 ieqass            ≡:
+aieq              :≡
+ieqa              ≡:
 askinteq          ≡?≡
 askieq            ≡?≡
 defiff            ⇐≝⇒
