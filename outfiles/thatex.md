@@ -598,10 +598,14 @@
 | <code>askgt</code> | ⩼ |
 | <code>asseq</code> | ≔ |
 | <code>eqass</code> | ≕ |
+| <code>aeq</code> | ≔ |
+| <code>eqa</code> | ≕ |
 | <code>assinteq</code> | :≡ |
 | <code>inteqass</code> | ≡: |
 | <code>assieq</code> | :≡ |
 | <code>ieqass</code> | ≡: |
+| <code>aieq</code> | :≡ |
+| <code>ieqa</code> | ≡: |
 | <code>askinteq</code> | ≡?≡ |
 | <code>askieq</code> | ≡?≡ |
 | <code>defiff</code> | ⇐≝⇒ |
@@ -1609,8 +1613,6 @@
 | <code>assdeq</code> | :≡ |
 | <code>jeqass</code> | ≐: |
 | <code>deqass</code> | ≡: |
-| <code>matches</code> | ≡: |
-| <code>matcheq</code> | ≕ |
 | <code>unit</code> | 1 |
 | <code>counit</code> | ߁ |
 | <code>unit,</code> | ⥠ |

@@ -105,6 +105,8 @@
 | <code>=?</code> | ≟ |
 | <code>&lt;?</code> | ⩻ |
 | <code>&gt;?</code> | ⩼ |
+| <code>?&lt;</code> | ⩻ |
+| <code>?&gt;</code> | ⩼ |
 | <code>&vert;=</code> | ⊨ |
 | <code>&vert;-</code> | ⊢ |
 | <code>=&vert;</code> | ⫤ |

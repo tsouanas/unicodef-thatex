@@ -104,6 +104,8 @@
 <Multi_key><equal><question> : "≟"
 <Multi_key><less><question> : "⩻"
 <Multi_key><greater><question> : "⩼"
+<Multi_key><question><less> : "⩻"
+<Multi_key><question><greater> : "⩼"
 <Multi_key><bar><equal> : "⊨"
 <Multi_key><bar><minus> : "⊢"
 <Multi_key><equal><bar> : "⫤"

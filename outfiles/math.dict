@@ -409,6 +409,8 @@
     "/" = ("insertText:", "⁄");
   };
   "?" = {
+    ">" = ("insertText:", "⩼");
+    "<" = ("insertText:", "⩻");
     "=" = ("insertText:", "≟");
   };
   "8" = {

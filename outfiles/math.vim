@@ -104,6 +104,8 @@ inoremap \?= ≟
 inoremap \=? ≟
 inoremap \<? ⩻
 inoremap \>? ⩼
+inoremap \?< ⩻
+inoremap \?> ⩼
 inoremap \<Bar>= ⊨
 inoremap \<Bar>- ⊢
 inoremap \=<Bar> ⫤

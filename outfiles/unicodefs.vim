@@ -2967,10 +2967,14 @@ inoremap \\asklt ⩻
 inoremap \\askgt ⩼
 inoremap \\asseq ≔
 inoremap \\eqass ≕
+inoremap \\aeq ≔
+inoremap \\eqa ≕
 inoremap \\assinteq :≡
 inoremap \\inteqass ≡:
 inoremap \\assieq :≡
 inoremap \\ieqass ≡:
+inoremap \\aieq :≡
+inoremap \\ieqa ≡:
 inoremap \\askinteq ≡?≡
 inoremap \\askieq ≡?≡
 inoremap \\defiff ⇐≝⇒
@@ -3978,8 +3982,6 @@ inoremap \\assjeq :≐
 inoremap \\assdeq :≡
 inoremap \\jeqass ≐:
 inoremap \\deqass ≡:
-inoremap \\matches ≡:
-inoremap \\matcheq ≕
 inoremap \\unit 1
 inoremap \\counit ߁
 inoremap \\unit, ⥠
@@ -8387,6 +8389,8 @@ inoremap \?= ≟
 inoremap \=? ≟
 inoremap \<? ⩻
 inoremap \>? ⩼
+inoremap \?< ⩻
+inoremap \?> ⩼
 inoremap \<Bar>= ⊨
 inoremap \<Bar>- ⊢
 inoremap \=<Bar> ⫤
