@@ -697,7 +697,7 @@ Defiiff           ⇚def⇛
 Defviff           ⇓def⇑
 Defvintiff        ⤋def⤊
 Defviiff          ⤋def⤊
-Sugeq             =sug=
+Sugeq             =sug=  # [Sug]ar
 Suginteq          ≡sug≡
 Sugieq            ≡sug≡
 Sugiff            ⇐sug⇒
@@ -709,7 +709,7 @@ Sugviiff          ⤋sug⤊
 askeq             ≟
 asklt             ⩻
 askgt             ⩼
-asseq             ≔
+asseq             ≔  # [ass]igned to be [eq]ual to
 eqass             ≕
 aeq               ≔
 eqa               ≕
@@ -1822,8 +1822,6 @@ assjeq            :≐ # [ass]igned
 assdeq            :≡
 jeqass            ≐:
 deqass            ≡:
-matches           ≡: # [matches] pattern
-matcheq           ≕  # (with = [eq] instead of ≡)
 unit              1
 counit            ߁
 unit,             ⥠  # XXX: abuse: harpoons
