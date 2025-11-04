@@ -166,6 +166,7 @@
 | <code>1&#96;</code> | ‵ |
 | <code>2&#96;</code> | ‶ |
 | <code>3&#96;</code> | ‷ |
+| <code>4&#96;</code> | ‶‶ |
 | <code>[[</code> | ⟦ |
 | <code>]]</code> | ⟧ |
 | <code>2[</code> | ⟦ |

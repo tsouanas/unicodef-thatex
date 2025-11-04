@@ -142,6 +142,7 @@
       "<" = ("insertText:", "⭅");
       ">" = ("insertText:", "⭆");
     };
+    "`" = ("insertText:", "‶‶");
     "'" = ("insertText:", "⁗");
     "%" = ("insertText:", "‱");
     "=" = ("insertText:", "≣");
