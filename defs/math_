@@ -187,6 +187,8 @@ oc     ∝
 1`     ‵
 2`     ‶
 3`     ‷
+4`     ‶‶  # XXX: two double-` characters
+
 #h-     ħ  # INFO: identical under defs/lang_
 #h/     ℏ  # INFO: identical under defs/lang_
 
