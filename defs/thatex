@@ -1291,10 +1291,12 @@ sumint            ⨋
 intsum            ⨋
 diff              𝑑  # [diff]erential
 df                𝑑  # [d]i[f]ferential
-dl                𝑑  # [d]ifferentia[l]
+diff,             𝖽
 df,               𝖽
-dl,               𝖽
+diff,,            𝘥
 df,,              𝘥
+dl                𝑑  # [d]ifferentia[l]
+dl,               𝖽
 dl,,              𝘥
 pd,               𝜕
 
@@ -1316,15 +1318,30 @@ uniffrom          ⇇
 convol            ∗  # [convol]ution
 crocor            ⋆  # [cro]ss-[cor]relation
 
+deriv             ′
+dderiv            ″
+ddderiv           ‴
+dddderiv          ⁗
+2deriv            ″
+3deriv            ‴
+4deriv            ⁗
+der               ′
+dder              ″
+ddder             ‴
+dddder            ⁗
+2der              ″
+3der              ‴
+4der              ⁗
 partial           ∂
 parder            ∂  # [par]tial [der]ivative
 pderiv            ∂  # [p]artial [deriv]ative
 pder              ∂
 del               ∇
+anadelta          ∇
 grad              ∇   # [grad]ient
 diver             ∇·  # [diver]gence
 curl              ∇×
-tderiv            𝛿
+tderiv            𝛿    # WARN: these should not be italic
 tder              𝛿
 codiff            𝛿    # [codiff]erential (delta)
 codiffs           ★𝑑★  # [codiff]erential with hodge star
@@ -2102,21 +2119,8 @@ bdry              ∂
 bd                ∂
 frontier          ∂
 front             ∂
-derived           ′
-deriv             ′
-dderiv            ″
-ddderiv           ‴
-dddderiv          ⁗
-2deriv            ″
-3deriv            ‴
-4deriv            ⁗
-der               ′
-dder              ″
-ddder             ‴
-dddder            ⁗
-2der              ″
-3der              ‴
-4der              ⁗
+derived           ′  # INFO: see also analysis section
+
 closure           ˉ  # [clos]ure
 clos              ˉ
 interior          ˚  # [inte]rior
