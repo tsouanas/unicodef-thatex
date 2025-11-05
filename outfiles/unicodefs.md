@@ -625,6 +625,7 @@
 | <code>shin</code> | ✨ |
 | <code>stars</code> | ✨ |
 | <code>sparkle</code> | ✨ |
+| <code>twinkle</code> | ✨ |
 | <code>bat</code> | 🦇 |
 | <code>bee</code> | 🐝 |
 | <code>butterfly</code> | 🦋 |
