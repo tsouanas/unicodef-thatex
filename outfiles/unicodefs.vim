@@ -276,8 +276,15 @@ inoremap \\speakno 🙊
 inoremap \\metal 🤘
 inoremap \\hearty 🫶
 inoremap \\hearth 🫶
+inoremap \\heartf 🫰
+inoremap \\fuckoff 🖕
 inoremap \\foff 🖕
+inoremap \\fuck 🖕
+inoremap \\fist ✊
+inoremap \\ehnoix ✊
 inoremap \\deal 🤝
+inoremap \\handshake 🤝
+inoremap \\hshake 🤝
 inoremap \\shake 🙂‍↔️
 inoremap \\shrug 🤷
 inoremap \\noway 🙅
@@ -290,6 +297,7 @@ inoremap \\foot 🦶
 inoremap \\eyes 👀
 inoremap \\look 👀
 inoremap \\peaceh ✌
+inoremap \\vsign ✌
 inoremap \\handwave 👋
 inoremap \\hwave 👋
 inoremap \\hleft 👈
@@ -303,6 +311,7 @@ inoremap \\handd 👇
 inoremap \\handrl 👉👈
 inoremap \\erm 👉👈
 inoremap \\me ☝
+inoremap \\you 🫵
 inoremap \\ok 👍
 inoremap \\nok 👎
 inoremap \\yea 👍
@@ -314,6 +323,11 @@ inoremap \\upv 👍
 inoremap \\downv 👎
 inoremap \\uvote 👍
 inoremap \\dvote 👎
+inoremap \\fcrossed 🤞
+inoremap \\fingersc 🤞
+inoremap \\fingersx 🤞
+inoremap \\fingers 🤞🤞
+inoremap \\tinyh 🤏
 inoremap \\heart ❤️
 inoremap \\heartb 💔
 inoremap \\brokenh 💔

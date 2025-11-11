@@ -277,8 +277,15 @@
 | <code>metal</code> | 🤘 |
 | <code>hearty</code> | 🫶 |
 | <code>hearth</code> | 🫶 |
+| <code>heartf</code> | 🫰 |
+| <code>fuckoff</code> | 🖕 |
 | <code>foff</code> | 🖕 |
+| <code>fuck</code> | 🖕 |
+| <code>fist</code> | ✊ |
+| <code>ehnoix</code> | ✊ |
 | <code>deal</code> | 🤝 |
+| <code>handshake</code> | 🤝 |
+| <code>hshake</code> | 🤝 |
 | <code>shake</code> | 🙂‍↔️ |
 | <code>shrug</code> | 🤷 |
 | <code>noway</code> | 🙅 |
@@ -291,6 +298,7 @@
 | <code>eyes</code> | 👀 |
 | <code>look</code> | 👀 |
 | <code>peaceh</code> | ✌ |
+| <code>vsign</code> | ✌ |
 | <code>handwave</code> | 👋 |
 | <code>hwave</code> | 👋 |
 | <code>hleft</code> | 👈 |
@@ -304,6 +312,7 @@
 | <code>handrl</code> | 👉👈 |
 | <code>erm</code> | 👉👈 |
 | <code>me</code> | ☝ |
+| <code>you</code> | 🫵 |
 | <code>ok</code> | 👍 |
 | <code>nok</code> | 👎 |
 | <code>yea</code> | 👍 |
@@ -315,6 +324,11 @@
 | <code>downv</code> | 👎 |
 | <code>uvote</code> | 👍 |
 | <code>dvote</code> | 👎 |
+| <code>fcrossed</code> | 🤞 |
+| <code>fingersc</code> | 🤞 |
+| <code>fingersx</code> | 🤞 |
+| <code>fingers</code> | 🤞🤞 |
+| <code>tinyh</code> | 🤏 |
 | <code>heart</code> | ❤️ |
 | <code>heartb</code> | 💔 |
 | <code>brokenh</code> | 💔 |
