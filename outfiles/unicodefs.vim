@@ -30,11 +30,15 @@ inoremap \\smedal 🥈
 inoremap \\bmedal 🥉
 inoremap \\WIP 🚧
 inoremap \\top^ 🔝
+inoremap \\topsign 🔝
 inoremap \\drums 🥁
 inoremap \\drum 🥁
 inoremap \\Radiohaz ☢️
 inoremap \\Toxic ☣️
 inoremap \\Biohaz ☣️
+inoremap \\sunglasses 🕶
+inoremap \\sglasses 🕶
+inoremap \\glasses 👓
 inoremap \\NO ❌
 inoremap \\YES ✅
 inoremap \\N ❌
@@ -255,6 +259,7 @@ inoremap \\sniff 🤧
 inoremap \\mind 🤯
 inoremap \\party 🥳
 inoremap \\fake 🥸
+inoremap \\disguise 🥸
 inoremap \\cool 😎
 inoremap \\nerd 🤓
 inoremap \\geek 🤓

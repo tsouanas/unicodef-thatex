@@ -548,11 +548,15 @@
 | <code>bmedal</code> | 🥉 |
 | <code>WIP</code> | 🚧 |
 | <code>top^</code> | 🔝 |
+| <code>topsign</code> | 🔝 |
 | <code>drums</code> | 🥁 |
 | <code>drum</code> | 🥁 |
 | <code>Radiohaz</code> | ☢️ |
 | <code>Toxic</code> | ☣️ |
 | <code>Biohaz</code> | ☣️ |
+| <code>sunglasses</code> | 🕶 |
+| <code>sglasses</code> | 🕶 |
+| <code>glasses</code> | 👓 |
 | <code>NO</code> | ❌ |
 | <code>YES</code> | ✅ |
 | <code>N</code> | ❌ |
@@ -773,6 +777,7 @@
 | <code>mind</code> | 🤯 |
 | <code>party</code> | 🥳 |
 | <code>fake</code> | 🥸 |
+| <code>disguise</code> | 🥸 |
 | <code>cool</code> | 😎 |
 | <code>nerd</code> | 🤓 |
 | <code>geek</code> | 🤓 |
