@@ -80,7 +80,8 @@
 | <code>notes</code> | ♫ |
 | <code>mrhappy</code> | ☺ |
 | <code>mrsad</code> | ☹ |
-| <code>sad</code> | ᑥ |
+| <code>boohoo</code> | ᑥ |
+| <code>buhu</code> | ᑥ |
 | <code>hrmf</code> | ⍨ |
 | <code>hm</code> | ⸚ |
 | <code>smooch</code> | ⍣ |

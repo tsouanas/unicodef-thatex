@@ -79,7 +79,8 @@ inoremap \\note ♪
 inoremap \\notes ♫
 inoremap \\mrhappy ☺
 inoremap \\mrsad ☹
-inoremap \\sad ᑥ
+inoremap \\boohoo ᑥ
+inoremap \\buhu ᑥ
 inoremap \\hrmf ⍨
 inoremap \\hm ⸚
 inoremap \\smooch ⍣
