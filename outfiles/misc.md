@@ -85,7 +85,8 @@
 | <code>hm</code> | ⸚ |
 | <code>smooch</code> | ⍣ |
 | <code>woa</code> | ⍤ |
-| <code>Woa</code> | ⍥ |
+| <code>Woa</code> | ö |
+| <code>WOA</code> | ⍥ |
 | <code>tsioud</code> | ⍢ |
 | <code>tsiour</code> | ⍩ |
 | <code>tsiou</code> | ⍩ |

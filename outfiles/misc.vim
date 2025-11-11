@@ -84,7 +84,8 @@ inoremap \\hrmf ⍨
 inoremap \\hm ⸚
 inoremap \\smooch ⍣
 inoremap \\woa ⍤
-inoremap \\Woa ⍥
+inoremap \\Woa ö
+inoremap \\WOA ⍥
 inoremap \\tsioud ⍢
 inoremap \\tsiour ⍩
 inoremap \\tsiou ⍩
