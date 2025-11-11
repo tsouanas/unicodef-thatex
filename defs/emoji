@@ -10,7 +10,6 @@ anchor      ⚓
 boat        ⛵
 brick       🧱
 tijolo      🧱
-broke       💸
 bubbles     🫧
 bulb        💡
 buoy        🛟
@@ -29,22 +28,29 @@ rocket      🚀
 shower      🚿
 tada        🎉
 toilet      🚽
-wave        🌊
-imedal      🏅
-gmedal      🥇
-smedal      🥈
-bmedal      🥉
-WIP         🚧
-top^        🔝  # TODO: rename to TOP or top (if/when we prefix emojis)
-topsign     🔝
-drums       🥁
-drum        🥁
-Radiohaz    ☢️
-Toxic       ☣️
-Biohaz      ☣️
 sunglasses  🕶
 sglasses    🕶
 glasses     👓
+wave        🌊
+gcup        🏆
+gmedal      🥇
+smedal      🥈
+bmedal      🥉
+imedal      🏅
+medal       🎖
+money       💰
+eurs        💶
+gbps        💷
+usds        💵
+yens        💴
+WIP         🚧
+underc      🚧
+ucons       🚧
+top^        🔝  # TODO: rename to TOP or top (if/when we prefix emojis)
+topsign     🔝
+Radiohaz    ☢️
+Toxic       ☣️
+Biohaz      ☣️
 
 # %}}}
 
@@ -69,6 +75,7 @@ dead        💀
 hammer      🔨
 jack        🎃
 gun         🔫
+saw         🪚
 knife       🔪
 shovel      🪏
 tomb        🪦
@@ -81,6 +88,30 @@ invader     👾
 ufo         🛸
 robot       🤖
 boo         👻
+
+# %}}}
+
+# music %{{{
+
+phones      🎧
+mic         🎤
+drums       🥁
+drum        🥁
+ldrum       🪘
+toubeleki   🪘
+belek       🪘
+maracas     🪇
+flute       🪈
+recorder    🪈
+sax         🎷
+trumpet     🎺
+violin      🎻
+guitar      🎸
+eguitar     🎸
+banjo       🪕
+keyboard    🎹
+keys        🎹
+accordion   🪗
 
 # %}}}
 
@@ -248,8 +279,6 @@ Sad         ☹️
 lying       🤥
 cowboy      🤠
 yeeha       🤠
-callw       🤙🙄  # [callw]aiting
-Callw       🤙😖
 eyesonly    😶
 poker       😶
 invis       🫥
@@ -372,6 +401,7 @@ facep       🤦
 fpalm       🤦
 nails       💅
 flex        💪
+leg         🦵
 foot        🦶
 eyes        👀
 look        👀
@@ -379,6 +409,12 @@ peaceh      ✌   # [peace] [h]and
 vsign       ✌
 handwave    👋
 hwave       👋
+okh         👌
+itah        🤌
+chevuoi     🤌
+che         🤌
+chef        🧑‍🍳
+chefkiss    🧑‍🍳🤌
 hleft       👈  # [h]and pointing [left]
 hright      👉
 hup         👆
@@ -416,6 +452,11 @@ callh       🤙
 callme      🤙
 callyou     🤙
 callu       🤙
+callw       🤙🙄  # [callw]aiting
+Callw       🤙😖
+howmuch     🫰
+moneyh      🫰
+broke       💸
 
 # %}}}
 
