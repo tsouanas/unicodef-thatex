@@ -529,11 +529,23 @@ Tiroet            ⹒  # [Tiro]nian [et]
 tiroet            ⁊
 Schwa             Ə
 schwa             ə
+feng              ʩ
 Heng              Ꜧ
 heng              ꜧ
+Meng              Ɱ
+meng              ɱ
+Emg               Ɱ
+emg               ɱ
+Eng               Ŋ
+eng               ŋ
+Agma              Ŋ
+agma              ŋ
 halfh             ⱶ
 Halfh             Ⱶ
 halfH             Ⱶ
+turnh             ɥ
+Turnh             Ɥ
+turnH             Ɥ
 Rotunda           Ꝛ
 rotunda           ꝛ
 Rotunda,          Ꝝ
@@ -578,6 +590,9 @@ lazys             ∾
 archm             ꟿ
 Gha               Ƣ
 gha               ƣ
+ww                ʬ
+bilp              ʬ  # [bi][l]abial [p]ercussive
+bidp              ʭ  # [bi][d]ental
 
 # %}}}
 
@@ -656,6 +671,8 @@ coprime           ⟂
 eq                =
 Eq                ＝
 neq               ≠
+neq,              ⵐ
+neq,,             ǂ
 nneq              ⧣  # [n]ot[n]ot
 ssapart           ⧣  # [s]lash-[s]lash [apart]ness
 shapart           ♯  # [sh]arp [apart]ness
@@ -3170,10 +3187,10 @@ g,,               ɡ
 G,,               Ɡ
 g,,,              ǥ
 G,,,              Ǥ
-h,                ɦ
-H,                Ɦ
-h,,               ꜧ
-H,,               Ꜧ
+h,                ꜧ
+H,                Ꜧ
+h,,               ɦ
+H,,               Ɦ
 h,,,              ɧ
 H,,,              ℋ  # WARN: abuse: not its uppercase
 i,                ɩ
@@ -3183,22 +3200,24 @@ j,                ʝ
 J,                Ʝ
 k,                ƙ
 K,                Ƙ
-K,,               Ꝁ
 k,,               ꝁ
-K,,,              Ꝃ
+K,,               Ꝁ
 k,,,              ꝃ
-K,4               Ꝅ
+K,,,              Ꝃ
 k,4               ꝅ
+K,4               Ꝅ
 k,5               ᶄ
 l,                ℓ
 L,                ℒ
 l,,               ȴ
 m,                ɱ
 M,                Ɱ
-n,                ɲ
-N,                Ɲ
-n,,               ɳ
-n,,,              ȵ
+n,                ŋ
+N,                Ŋ
+n,,               ɲ
+N,,               Ɲ
+n,,,              ɳ
+n,4               ȵ
 p,                ƥ
 P,                Ƥ
 p,,               ꝓ
@@ -4018,6 +4037,7 @@ wudot             ᐧ  # [u]pper
 ^slash            ᐟ
 ^bslash           ᐠ
 ^eth              ᶞ
+^feng             𐞐
 ^up               ꜛ
 ^down             ꜜ
 ^updown           ꜛꜜ

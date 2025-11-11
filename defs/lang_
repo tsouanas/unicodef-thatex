@@ -291,13 +291,17 @@ OE     Œ
 nn     ñ
 Nn     ñ
 NN     Ñ
-ng     ŋ
+fng    ʩ  # feng
+hg     ꜧ  # heng
+Hg     Ꜧ
+HG     Ꜧ
+ng     ŋ  # eng
 Ng     Ŋ
 NG     Ŋ
-mg     ɱ
+mg     ɱ  # meng
 Mg     Ɱ
 MG     Ɱ
-lzh    ɮ
+lzh    ɮ  # lezh
 et     🙰
 al     ɑ  # latin [al]pha
 Al     Ɑ
@@ -1164,6 +1168,7 @@ b@h     d
 c@h     ͻ
 d@h     b
 e@h     ɘ
+k@h     𝼃
 l@h     ʃ
 o@h     o
 p@h     q
@@ -1221,6 +1226,7 @@ b@H     d
 c@H     ͻ
 d@H     b
 e@H     ɘ
+k@H     𝼃
 l@H     ʃ
 o@H     o
 p@H     q
