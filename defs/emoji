@@ -160,6 +160,7 @@ flamingo    🦩
 goat        🐐
 gorilla     🦍
 grl         🦍
+monkey      🐒
 goose       🪿
 ganso       🪿
 hippo       🦛
@@ -240,6 +241,25 @@ thugl       🚬😎
 thugr       😎🚬
 inno        😗🎶
 rofl        🤣
+happy       🙂
+yppah       🙃
+sad         🙁
+Sad         ☹️
+lying       🤥
+cowboy      🤠
+yeeha       🤠
+callw       🤙🙄  # [callw]aiting
+Callw       🤙😖
+eyesonly    😶
+poker       😶
+invis       🫥
+loved       🥰
+inlove      😍
+instar      🤩
+stareyes    🤩
+ouch        😕
+yessir      🫡
+salute      🫡
 notcool     🫤
 ncool       🫤
 woah        😲
@@ -248,7 +268,8 @@ embar       😳
 shy         ☺️
 gasp        😦
 fear        😨
-worry       😰
+worry       😟
+Worry       😰
 sweat       😅
 snot        😪
 tired       😪
@@ -275,6 +296,7 @@ winky       😜
 prr         😝
 shh         🤫
 zipface     🤐
+zip         🤐
 melt        🫠
 peek        🫣
 sleep       😴
@@ -300,9 +322,11 @@ sick        🤒
 woozy       🥴
 hypno       😵‍💫
 cold        🥶
+freeze      🥶
 freezing    🥶
 hot         🥵
 nausea      🤢
+naus        🤢
 yikes       🤢
 vomit       🤮
 puke        🤮
@@ -324,6 +348,10 @@ skull       💀
 seeno       🙈
 hearno      🙉
 speakno     🙊
+mizaru      🙈
+kikazaru    🙉
+iwazaru     🙊
+monkeys     🙈🙉🙊
 metal       🤘
 hearty      🫶
 hearth      🫶  # [heart] [h]ands
@@ -379,6 +407,20 @@ fingersc    🤞
 fingersx    🤞
 fingers     🤞🤞
 tinyh       🤏
+hangloose   🤙
+hloose      🤙
+hangl       🤙
+loose       🤙
+shaka       🤙
+callh       🤙
+callme      🤙
+callyou     🤙
+callu       🤙
+
+# %}}}
+
+# hearts %{{{ 
+
 heart       ❤️
 heartb      💔
 brokenh     💔
