@@ -236,6 +236,10 @@
 | <code>nn</code> | ñ |
 | <code>Nn</code> | ñ |
 | <code>NN</code> | Ñ |
+| <code>fng</code> | ʩ |
+| <code>hg</code> | ꜧ |
+| <code>Hg</code> | Ꜧ |
+| <code>HG</code> | Ꜧ |
 | <code>ng</code> | ŋ |
 | <code>Ng</code> | Ŋ |
 | <code>NG</code> | Ŋ |
@@ -1016,6 +1020,7 @@
 | <code>c@h</code> | ͻ |
 | <code>d@h</code> | b |
 | <code>e@h</code> | ɘ |
+| <code>k@h</code> | 𝼃 |
 | <code>l@h</code> | ʃ |
 | <code>o@h</code> | o |
 | <code>p@h</code> | q |
@@ -1064,6 +1069,7 @@
 | <code>c@H</code> | ͻ |
 | <code>d@H</code> | b |
 | <code>e@H</code> | ɘ |
+| <code>k@H</code> | 𝼃 |
 | <code>l@H</code> | ʃ |
 | <code>o@H</code> | o |
 | <code>p@H</code> | q |

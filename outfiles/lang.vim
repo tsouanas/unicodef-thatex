@@ -235,6 +235,10 @@ inoremap \OE Œ
 inoremap \nn ñ
 inoremap \Nn ñ
 inoremap \NN Ñ
+inoremap \fng ʩ
+inoremap \hg ꜧ
+inoremap \Hg Ꜧ
+inoremap \HG Ꜧ
 inoremap \ng ŋ
 inoremap \Ng Ŋ
 inoremap \NG Ŋ
@@ -1015,6 +1019,7 @@ inoremap \b@h d
 inoremap \c@h ͻ
 inoremap \d@h b
 inoremap \e@h ɘ
+inoremap \k@h 𝼃
 inoremap \l@h ʃ
 inoremap \o@h o
 inoremap \p@h q
@@ -1063,6 +1068,7 @@ inoremap \b@H d
 inoremap \c@H ͻ
 inoremap \d@H b
 inoremap \e@H ɘ
+inoremap \k@H 𝼃
 inoremap \l@H ʃ
 inoremap \o@H o
 inoremap \p@H q

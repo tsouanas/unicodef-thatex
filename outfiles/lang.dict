@@ -1050,6 +1050,8 @@
     "\\@" = {
       "P" = ("insertText:", "ʞ");
       "p" = ("insertText:", "ʞ");
+      "H" = ("insertText:", "𝼃");
+      "h" = ("insertText:", "𝼃");
     };
     "{" = ("insertText:", "ʞ");
     "v" = ("insertText:", "ǩ");
@@ -1110,6 +1112,7 @@
     "," = ("insertText:", "ḩ");
     "!" = ("insertText:", "ḥ");
     "s" = ("insertText:", "ʅ");
+    "g" = ("insertText:", "ꜧ");
   };
   "g" = {
     "\\@" = {
@@ -1132,6 +1135,9 @@
     };
     "{" = ("insertText:", "ɟ");
     "." = ("insertText:", "ḟ");
+    "n" = {
+      "g" = ("insertText:", "ʩ");
+    };
     "f" = ("insertText:", "ﬀ");
     "l" = ("insertText:", "ﬂ");
     "i" = ("insertText:", "ﬁ");
@@ -1615,6 +1621,8 @@
     "-" = ("insertText:", "Ħ");
     "," = ("insertText:", "Ḩ");
     "!" = ("insertText:", "Ḥ");
+    "G" = ("insertText:", "Ꜧ");
+    "g" = ("insertText:", "Ꜧ");
   };
   "G" = {
     "\\@" = {
