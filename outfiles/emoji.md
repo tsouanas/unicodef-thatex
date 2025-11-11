@@ -19,6 +19,7 @@
 | <code>poo</code> | 💩 |
 | <code>prrt</code> | 💨 |
 | <code>rainbow</code> | 🌈 |
+| <code>gay</code> | 🌈 |
 | <code>rocket</code> | 🚀 |
 | <code>shower</code> | 🚿 |
 | <code>tada</code> | 🎉 |
@@ -176,6 +177,7 @@
 | <code>yell</code> | 🗯️ |
 | <code>shout</code> | 🗯️ |
 | <code>zzz</code> | 💤 |
+| <code>snor</code> | 💤 |
 | <code>inbed</code> | 🛌 |
 | <code>pawp</code> | 🐾 |
 | <code>footp</code> | 👣 |
@@ -184,7 +186,8 @@
 | <code>thugr</code> | 😎🚬 |
 | <code>inno</code> | 😗🎶 |
 | <code>rofl</code> | 🤣 |
-| <code>erm</code> | 🫤 |
+| <code>notcool</code> | 🫤 |
+| <code>ncool</code> | 🫤 |
 | <code>woah</code> | 😲 |
 | <code>blush</code> | 😳 |
 | <code>embar</code> | 😳 |
@@ -193,7 +196,8 @@
 | <code>fear</code> | 😨 |
 | <code>worry</code> | 😰 |
 | <code>sweat</code> | 😅 |
-| <code>mourn</code> | 😪 |
+| <code>snot</code> | 😪 |
+| <code>tired</code> | 😪 |
 | <code>lygm</code> | 😢 |
 | <code>cry</code> | 😭 |
 | <code>grr</code> | 😠 |
@@ -281,7 +285,7 @@
 | <code>foot</code> | 🦶 |
 | <code>eyes</code> | 👀 |
 | <code>look</code> | 👀 |
-| <code>peace</code> | ✌ |
+| <code>peaceh</code> | ✌ |
 | <code>handwave</code> | 👋 |
 | <code>hwave</code> | 👋 |
 | <code>hleft</code> | 👈 |
@@ -293,6 +297,7 @@
 | <code>handu</code> | 👆 |
 | <code>handd</code> | 👇 |
 | <code>handrl</code> | 👉👈 |
+| <code>erm</code> | 👉👈 |
 | <code>me</code> | ☝ |
 | <code>ok</code> | 👍 |
 | <code>nok</code> | 👎 |
@@ -331,6 +336,8 @@
 | <code>BFLAG</code> | 🏴 |
 | <code>WFLAG</code> | 🏳️ |
 | <code>PIRATE</code> | 🏴‍☠️ |
+| <code>GAY</code> | 🏳️‍🌈 |
+| <code>TRANS</code> | 🏳️‍⚧️ |
 | <code>/play</code> | ⏵ |
 | <code>/pause</code> | ⏸ |
 | <code>/playpause</code> | ⏯ |

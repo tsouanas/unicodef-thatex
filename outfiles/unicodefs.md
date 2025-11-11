@@ -536,6 +536,7 @@
 | <code>poo</code> | 💩 |
 | <code>prrt</code> | 💨 |
 | <code>rainbow</code> | 🌈 |
+| <code>gay</code> | 🌈 |
 | <code>rocket</code> | 🚀 |
 | <code>shower</code> | 🚿 |
 | <code>tada</code> | 🎉 |
@@ -693,6 +694,7 @@
 | <code>yell</code> | 🗯️ |
 | <code>shout</code> | 🗯️ |
 | <code>zzz</code> | 💤 |
+| <code>snor</code> | 💤 |
 | <code>inbed</code> | 🛌 |
 | <code>pawp</code> | 🐾 |
 | <code>footp</code> | 👣 |
@@ -701,7 +703,8 @@
 | <code>thugr</code> | 😎🚬 |
 | <code>inno</code> | 😗🎶 |
 | <code>rofl</code> | 🤣 |
-| <code>erm</code> | 🫤 |
+| <code>notcool</code> | 🫤 |
+| <code>ncool</code> | 🫤 |
 | <code>woah</code> | 😲 |
 | <code>blush</code> | 😳 |
 | <code>embar</code> | 😳 |
@@ -710,7 +713,8 @@
 | <code>fear</code> | 😨 |
 | <code>worry</code> | 😰 |
 | <code>sweat</code> | 😅 |
-| <code>mourn</code> | 😪 |
+| <code>snot</code> | 😪 |
+| <code>tired</code> | 😪 |
 | <code>lygm</code> | 😢 |
 | <code>cry</code> | 😭 |
 | <code>grr</code> | 😠 |
@@ -798,7 +802,7 @@
 | <code>foot</code> | 🦶 |
 | <code>eyes</code> | 👀 |
 | <code>look</code> | 👀 |
-| <code>peace</code> | ✌ |
+| <code>peaceh</code> | ✌ |
 | <code>handwave</code> | 👋 |
 | <code>hwave</code> | 👋 |
 | <code>hleft</code> | 👈 |
@@ -810,6 +814,7 @@
 | <code>handu</code> | 👆 |
 | <code>handd</code> | 👇 |
 | <code>handrl</code> | 👉👈 |
+| <code>erm</code> | 👉👈 |
 | <code>me</code> | ☝ |
 | <code>ok</code> | 👍 |
 | <code>nok</code> | 👎 |
@@ -848,6 +853,8 @@
 | <code>BFLAG</code> | 🏴 |
 | <code>WFLAG</code> | 🏳️ |
 | <code>PIRATE</code> | 🏴‍☠️ |
+| <code>GAY</code> | 🏳️‍🌈 |
+| <code>TRANS</code> | 🏳️‍⚧️ |
 | <code>/play</code> | ⏵ |
 | <code>/pause</code> | ⏸ |
 | <code>/playpause</code> | ⏯ |
@@ -4652,6 +4659,22 @@
 | <code>female</code> | ♀ |
 | <code>mars</code> | ♂ |
 | <code>male</code> | ♂ |
+| <code>herma</code> | ⚥ |
+| <code>trans</code> | ⚦ |
+| <code>trans,</code> | ⚧ |
+| <code>genders</code> | ⚧ |
+| <code>homof</code> | ⚢ |
+| <code>homom</code> | ⚣ |
+| <code>2female</code> | ⚢ |
+| <code>2male</code> | ⚣ |
+| <code>ffemale</code> | ⚢ |
+| <code>mmale</code> | ⚣ |
+| <code>marriage</code> | ⚭ |
+| <code>married</code> | ⚭ |
+| <code>divorce</code> | ⚮ |
+| <code>divorced</code> | ⚮ |
+| <code>partner</code> | ⚯ |
+| <code>partners</code> | ⚯ |
 | <code>atom</code> | ⚛ |
 | <code>medicine</code> | ⚕ |
 | <code>law</code> | ⚖ |
@@ -4678,6 +4701,11 @@
 | <code>biohaz</code> | ☣ |
 | <code>toxic</code> | ☣ |
 | <code>poison</code> | ☠ |
+| <code>peace</code> | ☮ |
+| <code>pick</code> | ⛏ |
+| <code>marx</code> | ☭ |
+| <code>commu</code> | ☭ |
+| <code>hammersickle</code> | ☭ |
 | <code>penta</code> | ⛤ |
 | <code>pentar</code> | ⛥ |
 | <code>pental</code> | ⛦ |

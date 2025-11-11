@@ -18,6 +18,7 @@ inoremap \\pill 💊
 inoremap \\poo 💩
 inoremap \\prrt 💨
 inoremap \\rainbow 🌈
+inoremap \\gay 🌈
 inoremap \\rocket 🚀
 inoremap \\shower 🚿
 inoremap \\tada 🎉
@@ -175,6 +176,7 @@ inoremap \\think 💭
 inoremap \\yell 🗯️
 inoremap \\shout 🗯️
 inoremap \\zzz 💤
+inoremap \\snor 💤
 inoremap \\inbed 🛌
 inoremap \\pawp 🐾
 inoremap \\footp 👣
@@ -183,7 +185,8 @@ inoremap \\thugl 🚬😎
 inoremap \\thugr 😎🚬
 inoremap \\inno 😗🎶
 inoremap \\rofl 🤣
-inoremap \\erm 🫤
+inoremap \\notcool 🫤
+inoremap \\ncool 🫤
 inoremap \\woah 😲
 inoremap \\blush 😳
 inoremap \\embar 😳
@@ -192,7 +195,8 @@ inoremap \\gasp 😦
 inoremap \\fear 😨
 inoremap \\worry 😰
 inoremap \\sweat 😅
-inoremap \\mourn 😪
+inoremap \\snot 😪
+inoremap \\tired 😪
 inoremap \\lygm 😢
 inoremap \\cry 😭
 inoremap \\grr 😠
@@ -280,7 +284,7 @@ inoremap \\flex 💪
 inoremap \\foot 🦶
 inoremap \\eyes 👀
 inoremap \\look 👀
-inoremap \\peace ✌
+inoremap \\peaceh ✌
 inoremap \\handwave 👋
 inoremap \\hwave 👋
 inoremap \\hleft 👈
@@ -292,6 +296,7 @@ inoremap \\handr 👉
 inoremap \\handu 👆
 inoremap \\handd 👇
 inoremap \\handrl 👉👈
+inoremap \\erm 👉👈
 inoremap \\me ☝
 inoremap \\ok 👍
 inoremap \\nok 👎
@@ -330,6 +335,8 @@ inoremap \\WHITE 🏳️
 inoremap \\BFLAG 🏴
 inoremap \\WFLAG 🏳️
 inoremap \\PIRATE 🏴‍☠️
+inoremap \\GAY 🏳️‍🌈
+inoremap \\TRANS 🏳️‍⚧️
 inoremap \\/play ⏵
 inoremap \\/pause ⏸
 inoremap \\/playpause ⏯
@@ -2323,6 +2330,22 @@ inoremap \\venus ♀
 inoremap \\female ♀
 inoremap \\mars ♂
 inoremap \\male ♂
+inoremap \\herma ⚥
+inoremap \\trans ⚦
+inoremap \\trans, ⚧
+inoremap \\genders ⚧
+inoremap \\homof ⚢
+inoremap \\homom ⚣
+inoremap \\2female ⚢
+inoremap \\2male ⚣
+inoremap \\ffemale ⚢
+inoremap \\mmale ⚣
+inoremap \\marriage ⚭
+inoremap \\married ⚭
+inoremap \\divorce ⚮
+inoremap \\divorced ⚮
+inoremap \\partner ⚯
+inoremap \\partners ⚯
 inoremap \\atom ⚛
 inoremap \\medicine ⚕
 inoremap \\law ⚖
@@ -2349,6 +2372,11 @@ inoremap \\recycle ♻
 inoremap \\biohaz ☣
 inoremap \\toxic ☣
 inoremap \\poison ☠
+inoremap \\peace ☮
+inoremap \\pick ⛏
+inoremap \\marx ☭
+inoremap \\commu ☭
+inoremap \\hammersickle ☭
 inoremap \\penta ⛤
 inoremap \\pentar ⛥
 inoremap \\pental ⛦
