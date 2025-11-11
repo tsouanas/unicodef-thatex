@@ -27,6 +27,22 @@ venus         ♀
 female        ♀
 mars          ♂
 male          ♂
+herma         ⚥
+trans         ⚦
+trans,        ⚧
+genders       ⚧
+homof         ⚢
+homom         ⚣
+2female       ⚢
+2male         ⚣
+ffemale       ⚢
+mmale         ⚣
+marriage      ⚭
+married       ⚭
+divorce       ⚮
+divorced      ⚮
+partner       ⚯
+partners      ⚯
 
 atom          ⚛
 medicine      ⚕
@@ -57,6 +73,12 @@ recycle       ♻
 biohaz        ☣
 toxic         ☣
 poison        ☠
+
+peace         ☮
+pick          ⛏
+marx          ☭
+commu         ☭
+hammersickle  ☭
 
 penta         ⛤
 pentar        ⛥  # interlaced [r]ight-handed
