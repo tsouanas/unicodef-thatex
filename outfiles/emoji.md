@@ -34,6 +34,7 @@
 | <code>imedal</code> | 🏅 |
 | <code>medal</code> | 🎖 |
 | <code>money</code> | 💰 |
+| <code>coin</code> | 🪙 |
 | <code>eurs</code> | 💶 |
 | <code>gbps</code> | 💷 |
 | <code>usds</code> | 💵 |

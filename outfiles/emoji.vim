@@ -33,6 +33,7 @@ inoremap \\bmedal 🥉
 inoremap \\imedal 🏅
 inoremap \\medal 🎖
 inoremap \\money 💰
+inoremap \\coin 🪙
 inoremap \\eurs 💶
 inoremap \\gbps 💷
 inoremap \\usds 💵
