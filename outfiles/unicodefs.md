@@ -526,6 +526,8 @@
 | <code>bulb</code> | 💡 |
 | <code>buoy</code> | 🛟 |
 | <code>car</code> | 🚙 |
+| <code>vroom</code> | 🚙💨 |
+| <code>gone</code> | 💨🍃 |
 | <code>fire</code> | 🔥 |
 | <code>flame</code> | 🔥 |
 | <code>hook</code> | 🪝 |

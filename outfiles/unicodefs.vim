@@ -8,6 +8,8 @@ inoremap \\bubbles 🫧
 inoremap \\bulb 💡
 inoremap \\buoy 🛟
 inoremap \\car 🚙
+inoremap \\vroom 🚙💨
+inoremap \\gone 💨🍃
 inoremap \\fire 🔥
 inoremap \\flame 🔥
 inoremap \\hook 🪝
