@@ -9,7 +9,13 @@ inoremap \\bulb 💡
 inoremap \\buoy 🛟
 inoremap \\car 🚙
 inoremap \\vroom 🚙💨
-inoremap \\gone 💨🍃
+inoremap \\vroum 🚙💨
+inoremap \\gone 💨
+inoremap \\dash 💨
+inoremap \\Gone 💨🍃
+inoremap \\Dash 💨🍃
+inoremap \\wind 🌬
+inoremap \\blow 🌬
 inoremap \\fire 🔥
 inoremap \\flame 🔥
 inoremap \\hook 🪝
@@ -17,7 +23,8 @@ inoremap \\gancho 🪝
 inoremap \\gift 🎁
 inoremap \\pill 💊
 inoremap \\poo 💩
-inoremap \\prrt 💨
+inoremap \\fart ⸩💨
+inoremap \\prrt ⸩💨
 inoremap \\rainbow 🌈
 inoremap \\gay 🌈
 inoremap \\rocket 🚀
@@ -320,6 +327,7 @@ inoremap \\mistys 🥺
 inoremap \\mistyh 🥹
 inoremap \\scream 😱
 inoremap \\grmf 😤
+inoremap \\puff 😮‍💨
 inoremap \\skull 💀
 inoremap \\seeno 🙈
 inoremap \\hearno 🙉

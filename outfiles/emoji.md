@@ -10,7 +10,13 @@
 | <code>buoy</code> | 🛟 |
 | <code>car</code> | 🚙 |
 | <code>vroom</code> | 🚙💨 |
-| <code>gone</code> | 💨🍃 |
+| <code>vroum</code> | 🚙💨 |
+| <code>gone</code> | 💨 |
+| <code>dash</code> | 💨 |
+| <code>Gone</code> | 💨🍃 |
+| <code>Dash</code> | 💨🍃 |
+| <code>wind</code> | 🌬 |
+| <code>blow</code> | 🌬 |
 | <code>fire</code> | 🔥 |
 | <code>flame</code> | 🔥 |
 | <code>hook</code> | 🪝 |
@@ -18,7 +24,8 @@
 | <code>gift</code> | 🎁 |
 | <code>pill</code> | 💊 |
 | <code>poo</code> | 💩 |
-| <code>prrt</code> | 💨 |
+| <code>fart</code> | ⸩💨 |
+| <code>prrt</code> | ⸩💨 |
 | <code>rainbow</code> | 🌈 |
 | <code>gay</code> | 🌈 |
 | <code>rocket</code> | 🚀 |
@@ -321,6 +328,7 @@
 | <code>mistyh</code> | 🥹 |
 | <code>scream</code> | 😱 |
 | <code>grmf</code> | 😤 |
+| <code>puff</code> | 😮‍💨 |
 | <code>skull</code> | 💀 |
 | <code>seeno</code> | 🙈 |
 | <code>hearno</code> | 🙉 |
