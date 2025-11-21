@@ -56,6 +56,12 @@
 | <code>Radiohaz</code> | ☢️ |
 | <code>Toxic</code> | ☣️ |
 | <code>Biohaz</code> | ☣️ |
+| <code>battery</code> | 🔋 |
+| <code>batt</code> | 🔋 |
+| <code>fullbatt</code> | 🔋 |
+| <code>lowbatt</code> | 🪫 |
+| <code>fbatt</code> | 🔋 |
+| <code>lbatt</code> | 🪫 |
 | <code>NO</code> | ❌ |
 | <code>YES</code> | ✅ |
 | <code>N</code> | ❌ |

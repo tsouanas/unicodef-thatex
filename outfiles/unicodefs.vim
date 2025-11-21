@@ -55,6 +55,12 @@ inoremap \\topsign 🔝
 inoremap \\Radiohaz ☢️
 inoremap \\Toxic ☣️
 inoremap \\Biohaz ☣️
+inoremap \\battery 🔋
+inoremap \\batt 🔋
+inoremap \\fullbatt 🔋
+inoremap \\lowbatt 🪫
+inoremap \\fbatt 🔋
+inoremap \\lbatt 🪫
 inoremap \\NO ❌
 inoremap \\YES ✅
 inoremap \\N ❌
