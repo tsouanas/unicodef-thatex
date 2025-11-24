@@ -72,6 +72,8 @@ inoremap \\boom 💥
 inoremap \\boxing 🥊
 inoremap \\burn 🔥
 inoremap \\dead 💀
+inoremap \\deadly ☠
+inoremap \\death ☠
 inoremap \\hammer 🔨
 inoremap \\jack 🎃
 inoremap \\gun 🔫
@@ -335,6 +337,8 @@ inoremap \\scream 😱
 inoremap \\grmf 😤
 inoremap \\puff 😮‍💨
 inoremap \\skull 💀
+inoremap \\bone 🦴
+inoremap \\bones ☠
 inoremap \\seeno 🙈
 inoremap \\hearno 🙉
 inoremap \\speakno 🙊

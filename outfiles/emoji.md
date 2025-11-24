@@ -73,6 +73,8 @@
 | <code>boxing</code> | 🥊 |
 | <code>burn</code> | 🔥 |
 | <code>dead</code> | 💀 |
+| <code>deadly</code> | ☠ |
+| <code>death</code> | ☠ |
 | <code>hammer</code> | 🔨 |
 | <code>jack</code> | 🎃 |
 | <code>gun</code> | 🔫 |
@@ -336,6 +338,8 @@
 | <code>grmf</code> | 😤 |
 | <code>puff</code> | 😮‍💨 |
 | <code>skull</code> | 💀 |
+| <code>bone</code> | 🦴 |
+| <code>bones</code> | ☠ |
 | <code>seeno</code> | 🙈 |
 | <code>hearno</code> | 🙉 |
 | <code>speakno</code> | 🙊 |
