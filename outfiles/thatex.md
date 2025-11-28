@@ -2427,6 +2427,8 @@
 | <code>blowgt</code> | ⊱ |
 | <code>succ</code> | ≻ |
 | <code>prec</code> | ≺ |
+| <code>pprec</code> | ⪻ |
+| <code>ssucc</code> | ⪼ |
 | <code>succeq</code> | ≽ |
 | <code>preceq</code> | ≼ |
 | <code>wwbelow</code> | ⋘ |

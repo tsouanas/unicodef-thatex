@@ -2426,6 +2426,8 @@ inoremap \\blowlt ⊰
 inoremap \\blowgt ⊱
 inoremap \\succ ≻
 inoremap \\prec ≺
+inoremap \\pprec ⪻
+inoremap \\ssucc ⪼
 inoremap \\succeq ≽
 inoremap \\preceq ≼
 inoremap \\wwbelow ⋘
