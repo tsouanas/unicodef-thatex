@@ -2571,8 +2571,8 @@ mconj             ⊗  # [m]ultiplicative [conj]unction
 
 nece              □  # [nece]ssary
 poss              ◊  # [poss]ible
-nece,             ◻ 
-poss,             ◇ 
+nece,             ◻
+poss,             ◇
 
 # %}}}
 
@@ -2634,6 +2634,8 @@ lteq              ≦
 gteq              ≧
 ltneq             ≨
 gtneq             ≩
+gt,lt             ⪥
+gt!lt             ⪤
 gtlt              ≷
 glt               ≷
 ltgt              ≶
@@ -3081,6 +3083,7 @@ Circle            ◯  # big
 dcircle           ◌  # [d]otted
 triangle          △  # see also: triangles
 square            ◻
+box               ◻
 bpsquare          ▢  # [b]aby[p]roof
 dsquare           ⬚  # [d]otted
 diamond           ◇

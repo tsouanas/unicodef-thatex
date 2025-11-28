@@ -188,6 +188,20 @@ oc     ∝
 2`     ‶
 3`     ‷
 4`     ‶‶  # XXX: two double-` characters
+/\     ∧
+\/     ∨
+[]     ◻
+<>     ◇
+()     ◯
+</>    ≶
+>/<    ≷
+<_>    ⋚
+>_<    ⋛
+<\>    ≸
+>\<    ≹
+<#>    ⪤
+>#<    ⪤
+><     ⪥
 
 #h-     ħ  # INFO: identical under defs/lang_
 #h/     ℏ  # INFO: identical under defs/lang_
@@ -249,10 +263,9 @@ S)     ⟆
 ]v     ⎵
 (^     ⏜
 )v     ⏝
-()     ≬
+(#)    ≬
+)#(    ≬
 )(     )(
-<>     ⪤
-><     ⪥
 
 # %}}}
 
