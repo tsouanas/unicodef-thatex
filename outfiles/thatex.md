@@ -2341,6 +2341,8 @@
 | <code>gteq</code> | ≧ |
 | <code>ltneq</code> | ≨ |
 | <code>gtneq</code> | ≩ |
+| <code>gt,lt</code> | ⪥ |
+| <code>gt!lt</code> | ⪤ |
 | <code>gtlt</code> | ≷ |
 | <code>glt</code> | ≷ |
 | <code>ltgt</code> | ≶ |
@@ -2724,6 +2726,7 @@
 | <code>dcircle</code> | ◌ |
 | <code>triangle</code> | △ |
 | <code>square</code> | ◻ |
+| <code>box</code> | ◻ |
 | <code>bpsquare</code> | ▢ |
 | <code>dsquare</code> | ⬚ |
 | <code>diamond</code> | ◇ |
@@ -3181,6 +3184,10 @@
 | <code>wavyfrac</code> | ∻ |
 | <code>bbtri</code> | ⟁ |
 | <code>ttri</code> | ⟁ |
+| <code>toeq</code> | =⃗ |
+| <code>fromeq</code> | =⃖ |
+| <code>eqr</code> | =⃗ |
+| <code>eql</code> | =⃖ |
 | <code>baldeq</code> | ≘ |
 | <code>triangleq</code> | ≜ |
 | <code>treq</code> | ≜ |

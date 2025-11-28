@@ -2340,6 +2340,8 @@ inoremap \\lteq ≦
 inoremap \\gteq ≧
 inoremap \\ltneq ≨
 inoremap \\gtneq ≩
+inoremap \\gt,lt ⪥
+inoremap \\gt!lt ⪤
 inoremap \\gtlt ≷
 inoremap \\glt ≷
 inoremap \\ltgt ≶
@@ -2723,6 +2725,7 @@ inoremap \\Circle ◯
 inoremap \\dcircle ◌
 inoremap \\triangle △
 inoremap \\square ◻
+inoremap \\box ◻
 inoremap \\bpsquare ▢
 inoremap \\dsquare ⬚
 inoremap \\diamond ◇
@@ -3180,6 +3183,10 @@ inoremap \\wavydiv ∻
 inoremap \\wavyfrac ∻
 inoremap \\bbtri ⟁
 inoremap \\ttri ⟁
+inoremap \\toeq =⃗
+inoremap \\fromeq =⃖
+inoremap \\eqr =⃗
+inoremap \\eql =⃖
 inoremap \\baldeq ≘
 inoremap \\triangleq ≜
 inoremap \\treq ≜
