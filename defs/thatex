@@ -3593,6 +3593,10 @@ ttri              ⟁  # (no bb-)
 
 # eq-like %{{{
 
+toeq              =⃗
+fromeq            =⃖
+eqr               =⃗
+eql               =⃖
 baldeq            ≘
 triangleq         ≜
 treq              ≜
