@@ -2725,6 +2725,8 @@ blowlt            ⊰
 blowgt            ⊱
 succ              ≻  # [succ]eeds
 prec              ≺  # [prec]edes
+pprec             ⪻
+ssucc             ⪼
 succeq            ≽
 preceq            ≼
 wwbelow           ⋘  # [w]ay-[w]ay below
