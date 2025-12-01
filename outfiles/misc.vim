@@ -37,6 +37,7 @@ inoremap \\divorced ⚮
 inoremap \\partner ⚯
 inoremap \\partners ⚯
 inoremap \\atom ⚛
+inoremap \\benzene ⌬
 inoremap \\medicine ⚕
 inoremap \\law ⚖
 inoremap \\pirate ☠

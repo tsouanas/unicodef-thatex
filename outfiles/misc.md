@@ -38,6 +38,7 @@
 | <code>partner</code> | ⚯ |
 | <code>partners</code> | ⚯ |
 | <code>atom</code> | ⚛ |
+| <code>benzene</code> | ⌬ |
 | <code>medicine</code> | ⚕ |
 | <code>law</code> | ⚖ |
 | <code>pirate</code> | ☠ |
