@@ -667,6 +667,10 @@ ndiv              ∤  # WARN: deprecated
 dotdivs           ⍿
 ddivs             ⍿
 simdivs           ⍭
+pipefrom          ⍅
+pipeto            ⍆
+slashminus        ⌿
+bslashminus       ⍀
 coprime           ⟂
 eq                =
 Eq                ＝
@@ -1261,10 +1265,22 @@ iin               ⋹  # (bonus: [i]ntensionally [in]))
 # geometry %{{{
 
 angle             ∠
+coangle           ⦣
+angler            ∠
+anglel            ⦣
 mangle            ∡  # [m]easured
 sangle            ∢  # [s]pherical
-righta            ∟  # [a]ngle
-tria              △  # [tria]ngle
+ang               ∠
+coang             ⦣
+angr              ∠
+angl              ⦣
+mang              ∡
+sang              ∢
+slope             ⌳
+rightang          ∟
+righta            ∟
+triang            △  # [triang]le
+tria              △
 perp              ⟂  # [perp]endicular
 ortho             ⟂  # [ortho]gonal
 paral             ∥  # [paral]lel
@@ -1750,8 +1766,10 @@ loopsto           ↬
 loopfrom          ↫
 loopto            ↬
 tobar             ⇥
+frombar           ⇤
 barfrom           ⇤
 todia             ⤞
+fromdia           ⤝
 diafrom           ⤝
 sparksto          ⟢
 sparksfrom        ⟣
@@ -1856,6 +1874,7 @@ assjeq            :≐ # [ass]igned
 assdeq            :≡
 jeqass            ≐:
 deqass            ≡:
+zilde             ⍬
 unit              1
 counit            ߁
 unit,             ⥠  # XXX: abuse: harpoons
@@ -3502,6 +3521,10 @@ sqcomp            ⧇
 sqof              ⧇
 sqneq             ⍯
 sqask             ⍰
+sqto              ⍈
+sqfrom            ⍇
+sqlt              ⍃
+sqgt              ⍄
 trplus            ⨹
 trminus           ⨺
 trtimes           ⨻
