@@ -205,6 +205,9 @@
 | <code>beers</code> | 🍻 |
 | <code>burger</code> | 🍔 |
 | <code>cafe</code> | ☕ |
+| <code>champagne</code> | 🍾 |
+| <code>champ</code> | 🍾 |
+| <code>cocktail</code> | 🍹 |
 | <code>coco</code> | 🥥 |
 | <code>donut</code> | 🍩 |
 | <code>doh</code> | 🍩 |
@@ -213,12 +216,14 @@
 | <code>martini</code> | 🍸 |
 | <code>pear</code> | 🍐 |
 | <code>pera</code> | 🍐 |
+| <code>pint</code> | 🍺 |
 | <code>pizza</code> | 🍕 |
 | <code>popcorn</code> | 🍿 |
 | <code>pipoca</code> | 🍿 |
 | <code>portobello</code> | 🍄‍🟫 |
 | <code>provar</code> | 🍨 |
 | <code>scotch</code> | 🥃 |
+| <code>tintin</code> | 🥂 |
 | <code>wine</code> | 🍷 |
 | <code>speak</code> | 💬 |
 | <code>say</code> | 💬 |

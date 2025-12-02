@@ -204,6 +204,9 @@ inoremap \\beer 🍺
 inoremap \\beers 🍻
 inoremap \\burger 🍔
 inoremap \\cafe ☕
+inoremap \\champagne 🍾
+inoremap \\champ 🍾
+inoremap \\cocktail 🍹
 inoremap \\coco 🥥
 inoremap \\donut 🍩
 inoremap \\doh 🍩
@@ -212,12 +215,14 @@ inoremap \\kebab 🌯
 inoremap \\martini 🍸
 inoremap \\pear 🍐
 inoremap \\pera 🍐
+inoremap \\pint 🍺
 inoremap \\pizza 🍕
 inoremap \\popcorn 🍿
 inoremap \\pipoca 🍿
 inoremap \\portobello 🍄‍🟫
 inoremap \\provar 🍨
 inoremap \\scotch 🥃
+inoremap \\tintin 🥂
 inoremap \\wine 🍷
 inoremap \\speak 💬
 inoremap \\say 💬
