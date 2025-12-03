@@ -238,6 +238,7 @@ inoremap \\fingerp 🫆
 inoremap \\thugl 🚬😎
 inoremap \\thugr 😎🚬
 inoremap \\inno 😗🎶
+inoremap \\lol 😂
 inoremap \\rofl 🤣
 inoremap \\happy 🙂
 inoremap \\yppah 🙃

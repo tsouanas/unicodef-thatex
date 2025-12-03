@@ -239,6 +239,7 @@
 | <code>thugl</code> | 🚬😎 |
 | <code>thugr</code> | 😎🚬 |
 | <code>inno</code> | 😗🎶 |
+| <code>lol</code> | 😂 |
 | <code>rofl</code> | 🤣 |
 | <code>happy</code> | 🙂 |
 | <code>yppah</code> | 🙃 |
