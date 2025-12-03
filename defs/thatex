@@ -1094,6 +1094,8 @@ disjunion         ⊎
 Disjunion         ⨄
 dunion            ⊎  # [d]isjoint union
 Dunion            ⨄  # [D]isjoint union
+clunion           ⩌  # [cl]osed [union]
+clinter           ⩍
 symdiff           ∆  # [sym]metric [diff]erence
 symd              ∆
 setminus          ∖
@@ -1174,6 +1176,8 @@ conjoint          ≬
 cjoint            ≬
 overlap           ≬
 olap              ≬
+between           ≬
+bet               ≬
 meets             ≬
 isects            ≬  # [i]nter[sects] (with)
 compl             ᶜ  # [compl]ement
@@ -1253,6 +1257,8 @@ ssubs             ⋐
 ssups             ⋑
 iinter            ⋒
 uunion            ⋓
+uunion,           ⩊
+iinter,           ⩋
 iin               ⋹  # (bonus: [i]ntensionally [in]))
 2subs             ⋐
 2sups             ⋑
@@ -2409,6 +2415,10 @@ and               ∧
 or                ∨
 And               ⋀
 Or                ⋁
+slor              ⩗  # [sl]oping [or]  WARN: same symbol as large
+sland             ⩘  # WARN: same symbol as large
+Slor              ⩗
+Sland             ⩘
 conj              ∧  # [conj]unction
 disj              ∨  # [disj]unction
 Conj              ⋀
@@ -2836,6 +2846,10 @@ ggt               ⪢
 2join             ⩔
 2lt               ⪡
 2gt               ⪢
+jmeet             ⩙
+mjoin             ⩙
+hmeet             ⩜  # [h]orizontal bar [meet]
+hjoin             ⩝
 
 # %}}}
 
@@ -3482,6 +3496,7 @@ stile             ⍭
 oplus             ⊕
 ominus            ⊖
 otimes            ⊗
+ootimes           ⨷
 ocross            ⊗
 odivby            ⊘
 oslash            ⊘
@@ -3546,6 +3561,7 @@ uminus            ⩁
 udot              ⨃
 Udot              ⨃
 ufrom             ⊌
+clusmash          ⩐
 uvee              ⩅
 iwedge            ⩄  # [i]nter
 idot              ⩀
@@ -3559,6 +3575,8 @@ dotwedge          ⩑
 dotvee            ⩒
 wedgedot          ⟑
 veedot            ⟇
+hvee              ⩜  # [h]orizontal bar [vee]
+hwedge            ⩝
 dvwedge           ⩕  # [d]ouble [v]ision
 dvvee             ⩖
 dvWedge           ⨇
