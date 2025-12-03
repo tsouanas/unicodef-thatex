@@ -862,6 +862,7 @@
 | <code>skull</code> | 💀 |
 | <code>bone</code> | 🦴 |
 | <code>bones</code> | ☠ |
+| <code>brain</code> | 🧠 |
 | <code>seeno</code> | 🙈 |
 | <code>hearno</code> | 🙉 |
 | <code>speakno</code> | 🙊 |

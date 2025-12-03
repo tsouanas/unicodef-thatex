@@ -344,6 +344,7 @@ inoremap \\puff 😮‍💨
 inoremap \\skull 💀
 inoremap \\bone 🦴
 inoremap \\bones ☠
+inoremap \\brain 🧠
 inoremap \\seeno 🙈
 inoremap \\hearno 🙉
 inoremap \\speakno 🙊
