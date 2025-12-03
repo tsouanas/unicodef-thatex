@@ -202,6 +202,8 @@ oc     ∝
 '\     ‵
 /\     ∧
 \/     ∨
+/|     ⩘
+|/     ⩗
 []     ◻
 <>     ◇
 ()     ◯
@@ -211,9 +213,10 @@ oc     ∝
 >_<    ⋛
 <\>    ≸
 >\<    ≹
-<#>    ⪤
->#<    ⪤
-><     ⪥
+<@>    ⪤  # (@verl@pping)
+>@<    ⪤
+><     ⪤
+>,<    ⪥
 
 #h-     ħ  # INFO: identical under defs/lang_
 #h/     ℏ  # INFO: identical under defs/lang_
