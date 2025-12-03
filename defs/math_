@@ -188,6 +188,18 @@ oc     ∝
 2`     ‶
 3`     ‷
 4`     ‶‶  # XXX: two double-` characters
+/'     ′
+\'     ‵
+'1     ′
+'2     ″
+'3     ‴
+'4     ⁗
+`1     ‵
+`2     ‶
+`3     ‷
+`4     ‶‶  # XXX: two double-` characters
+'/     ′
+'\     ‵
 /\     ∧
 \/     ∨
 []     ◻
