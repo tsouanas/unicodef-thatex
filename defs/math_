@@ -278,9 +278,10 @@ S)     ⟆
 ]v     ⎵
 (^     ⏜
 )v     ⏝
-(#)    ≬
-)#(    ≬
-)(     )(
+(@)    ≬  # (@verl@pping)
+)@(    ≬
+)(     ≬
+),(    )( # WARN: actually two characters
 
 # %}}}
 
