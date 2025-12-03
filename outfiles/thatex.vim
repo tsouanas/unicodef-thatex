@@ -939,6 +939,8 @@ inoremap \\disjunion ⊎
 inoremap \\Disjunion ⨄
 inoremap \\dunion ⊎
 inoremap \\Dunion ⨄
+inoremap \\clunion ⩌
+inoremap \\clinter ⩍
 inoremap \\symdiff ∆
 inoremap \\symd ∆
 inoremap \\setminus ∖
@@ -1019,6 +1021,8 @@ inoremap \\conjoint ≬
 inoremap \\cjoint ≬
 inoremap \\overlap ≬
 inoremap \\olap ≬
+inoremap \\between ≬
+inoremap \\bet ≬
 inoremap \\meets ≬
 inoremap \\isects ≬
 inoremap \\compl ᶜ
@@ -1088,6 +1092,8 @@ inoremap \\ssubs ⋐
 inoremap \\ssups ⋑
 inoremap \\iinter ⋒
 inoremap \\uunion ⋓
+inoremap \\uunion, ⩊
+inoremap \\iinter, ⩋
 inoremap \\iin ⋹
 inoremap \\2subs ⋐
 inoremap \\2sups ⋑
@@ -2135,6 +2141,10 @@ inoremap \\and ∧
 inoremap \\or ∨
 inoremap \\And ⋀
 inoremap \\Or ⋁
+inoremap \\slor ⩗
+inoremap \\sland ⩘
+inoremap \\Slor ⩗
+inoremap \\Sland ⩘
 inoremap \\conj ∧
 inoremap \\disj ∨
 inoremap \\Conj ⋀
@@ -2537,6 +2547,10 @@ inoremap \\2meet ⩓
 inoremap \\2join ⩔
 inoremap \\2lt ⪡
 inoremap \\2gt ⪢
+inoremap \\jmeet ⩙
+inoremap \\mjoin ⩙
+inoremap \\hmeet ⩜
+inoremap \\hjoin ⩝
 inoremap \\loutj ⟕
 inoremap \\routj ⟖
 inoremap \\foutj ⟗
@@ -3082,6 +3096,7 @@ inoremap \\stile ⍭
 inoremap \\oplus ⊕
 inoremap \\ominus ⊖
 inoremap \\otimes ⊗
+inoremap \\ootimes ⨷
 inoremap \\ocross ⊗
 inoremap \\odivby ⊘
 inoremap \\oslash ⊘
@@ -3141,6 +3156,7 @@ inoremap \\uminus ⩁
 inoremap \\udot ⨃
 inoremap \\Udot ⨃
 inoremap \\ufrom ⊌
+inoremap \\clusmash ⩐
 inoremap \\uvee ⩅
 inoremap \\iwedge ⩄
 inoremap \\idot ⩀
@@ -3154,6 +3170,8 @@ inoremap \\dotwedge ⩑
 inoremap \\dotvee ⩒
 inoremap \\wedgedot ⟑
 inoremap \\veedot ⟇
+inoremap \\hvee ⩜
+inoremap \\hwedge ⩝
 inoremap \\dvwedge ⩕
 inoremap \\dvvee ⩖
 inoremap \\dvWedge ⨇

@@ -940,6 +940,8 @@
 | <code>Disjunion</code> | ⨄ |
 | <code>dunion</code> | ⊎ |
 | <code>Dunion</code> | ⨄ |
+| <code>clunion</code> | ⩌ |
+| <code>clinter</code> | ⩍ |
 | <code>symdiff</code> | ∆ |
 | <code>symd</code> | ∆ |
 | <code>setminus</code> | ∖ |
@@ -1020,6 +1022,8 @@
 | <code>cjoint</code> | ≬ |
 | <code>overlap</code> | ≬ |
 | <code>olap</code> | ≬ |
+| <code>between</code> | ≬ |
+| <code>bet</code> | ≬ |
 | <code>meets</code> | ≬ |
 | <code>isects</code> | ≬ |
 | <code>compl</code> | ᶜ |
@@ -1089,6 +1093,8 @@
 | <code>ssups</code> | ⋑ |
 | <code>iinter</code> | ⋒ |
 | <code>uunion</code> | ⋓ |
+| <code>uunion,</code> | ⩊ |
+| <code>iinter,</code> | ⩋ |
 | <code>iin</code> | ⋹ |
 | <code>2subs</code> | ⋐ |
 | <code>2sups</code> | ⋑ |
@@ -2136,6 +2142,10 @@
 | <code>or</code> | ∨ |
 | <code>And</code> | ⋀ |
 | <code>Or</code> | ⋁ |
+| <code>slor</code> | ⩗ |
+| <code>sland</code> | ⩘ |
+| <code>Slor</code> | ⩗ |
+| <code>Sland</code> | ⩘ |
 | <code>conj</code> | ∧ |
 | <code>disj</code> | ∨ |
 | <code>Conj</code> | ⋀ |
@@ -2538,6 +2548,10 @@
 | <code>2join</code> | ⩔ |
 | <code>2lt</code> | ⪡ |
 | <code>2gt</code> | ⪢ |
+| <code>jmeet</code> | ⩙ |
+| <code>mjoin</code> | ⩙ |
+| <code>hmeet</code> | ⩜ |
+| <code>hjoin</code> | ⩝ |
 | <code>loutj</code> | ⟕ |
 | <code>routj</code> | ⟖ |
 | <code>foutj</code> | ⟗ |
@@ -3083,6 +3097,7 @@
 | <code>oplus</code> | ⊕ |
 | <code>ominus</code> | ⊖ |
 | <code>otimes</code> | ⊗ |
+| <code>ootimes</code> | ⨷ |
 | <code>ocross</code> | ⊗ |
 | <code>odivby</code> | ⊘ |
 | <code>oslash</code> | ⊘ |
@@ -3142,6 +3157,7 @@
 | <code>udot</code> | ⨃ |
 | <code>Udot</code> | ⨃ |
 | <code>ufrom</code> | ⊌ |
+| <code>clusmash</code> | ⩐ |
 | <code>uvee</code> | ⩅ |
 | <code>iwedge</code> | ⩄ |
 | <code>idot</code> | ⩀ |
@@ -3155,6 +3171,8 @@
 | <code>dotvee</code> | ⩒ |
 | <code>wedgedot</code> | ⟑ |
 | <code>veedot</code> | ⟇ |
+| <code>hvee</code> | ⩜ |
+| <code>hwedge</code> | ⩝ |
 | <code>dvwedge</code> | ⩕ |
 | <code>dvvee</code> | ⩖ |
 | <code>dvWedge</code> | ⨇ |

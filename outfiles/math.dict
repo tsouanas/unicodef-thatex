@@ -231,6 +231,7 @@
     ")" = ("insertText:", "⦈");
     ">" = ("insertText:", "⦊");
     "}" = ("insertText:", "⦄");
+    "/" = ("insertText:", "⩗");
     "-" = ("insertText:", "⊢");
     "=" = ("insertText:", "⊨");
   };
@@ -239,7 +240,7 @@
     "|" = ("insertText:", "⦉");
     "(" = ("insertText:", "⟨");
     "{" = ("insertText:", "⧼");
-    "\\#" = {
+    "\\@" = {
       ">" = ("insertText:", "⪤");
     };
     "\\" = {
@@ -308,8 +309,11 @@
     "x" = ("insertText:", "⎟");
     "m" = ("insertText:", "⎟");
     "u" = ("insertText:", "⎞");
-    "(" = ("insertText:", ")(");
-    "\\#" = {
+    "," = {
+      "(" = ("insertText:", ")(");
+    };
+    "(" = ("insertText:", "≬");
+    "\\@" = {
       "(" = ("insertText:", "≬");
     };
     "v" = ("insertText:", "⏝");
@@ -326,7 +330,7 @@
     "x" = ("insertText:", "⎜");
     "m" = ("insertText:", "⎜");
     "u" = ("insertText:", "⎛");
-    "\\#" = {
+    "\\@" = {
       ")" = ("insertText:", "≬");
     };
     "\\^" = ("insertText:", "⏜");
@@ -341,12 +345,21 @@
     "|" = ("insertText:", "⌉");
     "]" = ("insertText:", "⌝");
     "[" = ("insertText:", "⌜");
+    "\\" = ("insertText:", "‵");
+    "/" = ("insertText:", "′");
+    "4" = ("insertText:", "⁗");
+    "3" = ("insertText:", "‴");
+    "2" = ("insertText:", "″");
+    "1" = ("insertText:", "′");
   };
   ">" = {
     ")" = ("insertText:", "⟩");
     "}" = ("insertText:", "⧽");
-    "<" = ("insertText:", "⪥");
-    "\\#" = {
+    "," = {
+      "<" = ("insertText:", "⪥");
+    };
+    "<" = ("insertText:", "⪤");
+    "\\@" = {
       "<" = ("insertText:", "⪤");
     };
     "\\" = {
@@ -376,11 +389,10 @@
     ")" = ("insertText:", "⟆");
     "(" = ("insertText:", "⟅");
   };
-  "\\" = {
-    "/" = ("insertText:", "∨");
-  };
   "/" = {
+    "|" = ("insertText:", "⩘");
     "\\" = ("insertText:", "∧");
+    "'" = ("insertText:", "′");
     ":" = ("insertText:", "÷");
     "-" = {
       "\\~" = ("insertText:", "≄");
@@ -393,6 +405,16 @@
     };
     "=" = ("insertText:", "≠");
     "/" = ("insertText:", "⁄");
+  };
+  "\\" = {
+    "/" = ("insertText:", "∨");
+    "'" = ("insertText:", "‵");
+  };
+  "`" = {
+    "4" = ("insertText:", "‶‶");
+    "3" = ("insertText:", "‷");
+    "2" = ("insertText:", "‶");
+    "1" = ("insertText:", "‵");
   };
   "1" = {
     "`" = ("insertText:", "‵");
