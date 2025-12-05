@@ -14,8 +14,11 @@ bubbles     🫧
 bulb        💡
 buoy        🛟
 car         🚙
+cart        🛒
 vroom       🚙💨
 vroum       🚙💨
+fart        ⸩💨
+prrt        ⸩💨
 gone        💨
 dash        💨
 Gone        💨🍃
@@ -27,13 +30,14 @@ flame       🔥
 hook        🪝
 gancho      🪝
 gift        🎁
+log         🪵
+map         🗺️
 pill        💊
 poo         💩
-fart        ⸩💨
-prrt        ⸩💨
 rainbow     🌈
 gay         🌈
 rocket      🚀
+scroll      📜
 shower      🚿
 tada        🎉
 toilet      🚽
@@ -41,18 +45,21 @@ sunglasses  🕶
 sglasses    🕶
 glasses     👓
 wave        🌊
+
 gcup        🏆
 gmedal      🥇
 smedal      🥈
 bmedal      🥉
 imedal      🏅
 medal       🎖
+
 money       💰
 coin        🪙
 eurs        💶
 gbps        💷
 usds        💵
 yens        💴
+
 WIP         🚧
 underc      🚧
 ucons       🚧
@@ -61,12 +68,23 @@ topsign     🔝
 Radiohaz    ☢️
 Toxic       ☣️
 Biohaz      ☣️
+
 battery     🔋
 batt        🔋
 fullbatt    🔋
 lowbatt     🪫
 fbatt       🔋
 lbatt       🪫
+
+pin         📌
+
+zoom        🔍
+zooml       🔍
+zoomr       🔎
+zoomin      🔍⁺
+zoomout     🔍⁻
+magl        🔍
+magr        🔎
 
 # %}}}
 
@@ -133,12 +151,15 @@ accordion   🪗
 
 # %}}}
 
-# sports %{{{
+# sports and games %{{{
 
 basket      🏀
 bball       🏀
 tennis      🎾
 pingpong    🏓
+die         🎲
+puzzle      🧩
+chess       ♟️
 
 # %}}}
 
@@ -158,6 +179,7 @@ cam         📷
 camf        📸
 photo       📷
 video       📹
+cellphone   📱
 
 # %}}}
 
@@ -253,14 +275,19 @@ gapple      🍏
 banana      🍌
 beer        🍺
 beers       🍻
+birthday    🎂
+bday        🎂
 burger      🍔
+burrito     🌯
 cafe        ☕
+cake        🍰
 champagne   🍾
 champ       🍾
 cocktail    🍹
 coco        🥥
 donut       🍩
 doh         🍩
+gyro        🌯
 icecream    🍨
 kebab       🌯
 martini     🍸

@@ -311,11 +311,16 @@ npage             ⎗
 ppage             ⎘
 nextp             ⎗
 prevp             ⎘
-prints            ⎙  # [print][s]creen
-pscreen           ⎙  # [p]rint[screen]
+scrollu           ↑  # [u]p
+scrolld           ↓  # [d]own
+scrollt           ⤒  # [t]op
+scrollb           ⤓  # [b]ottom
+printscr          ⎙  # [print][scr]een
+prints            ⎙
 print             ⎙
-scroll            ⤓
-scrlk             ⤓
+pscreen           ⎙  # [p]rint[screen]
+scrlk             ⤓  # [scr]oll[l]oc[k]
+scrlk,            ↕̷
 replay            ↺
 sleepkey          ⏾
 onoff             ⏻
