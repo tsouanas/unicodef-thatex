@@ -98,9 +98,10 @@
 | <code>provatinaa</code> | 𐘐 |
 | <code>provatinab</code> | 𐂆 |
 | <code>provatina</code> | 𐘐 |
+| <code>chop</code> | 𓂿 |
 | <code>poutsa</code> | 𓂸 |
 | <code>Poutsa</code> | 𓂺 |
-| <code>chop</code> | 𓂿 |
+| <code>flip</code> | ╭∩╮ |
 | <code>3x3</code> | 𝓔𝓧𝟑 |
 | <code>trinca</code> | 𝓔𝓧𝟑 |
 | <code>umbrel</code> | ☂ |

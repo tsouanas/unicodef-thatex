@@ -25,7 +25,6 @@ inoremap \\hook 🪝
 inoremap \\gancho 🪝
 inoremap \\gift 🎁
 inoremap \\log 🪵
-inoremap \\map 🗺️
 inoremap \\pill 💊
 inoremap \\poo 💩
 inoremap \\rainbow 🌈
@@ -59,6 +58,7 @@ inoremap \\topsign 🔝
 inoremap \\Radiohaz ☢️
 inoremap \\Toxic ☣️
 inoremap \\Biohaz ☣️
+inoremap \\plug 🔌
 inoremap \\battery 🔋
 inoremap \\batt 🔋
 inoremap \\fullbatt 🔋
@@ -66,6 +66,17 @@ inoremap \\lowbatt 🪫
 inoremap \\fbatt 🔋
 inoremap \\lbatt 🪫
 inoremap \\pin 📌
+inoremap \\map 🗺️
+inoremap \\earth 🌍
+inoremap \\earthw 🌎
+inoremap \\earthe 🌏
+inoremap \\americas 🌎
+inoremap \\america 🌎
+inoremap \\europe 🌍
+inoremap \\africa 🌍
+inoremap \\asia 🌏
+inoremap \\oceania 🌏
+inoremap \\globe 🌐
 inoremap \\zoom 🔍
 inoremap \\zooml 🔍
 inoremap \\zoomr 🔎

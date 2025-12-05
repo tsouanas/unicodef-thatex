@@ -97,9 +97,10 @@ inoremap \\gandalf ᚠ
 inoremap \\provatinaa 𐘐
 inoremap \\provatinab 𐂆
 inoremap \\provatina 𐘐
+inoremap \\chop 𓂿
 inoremap \\poutsa 𓂸
 inoremap \\Poutsa 𓂺
-inoremap \\chop 𓂿
+inoremap \\flip ╭∩╮
 inoremap \\3x3 𝓔𝓧𝟑
 inoremap \\trinca 𝓔𝓧𝟑
 inoremap \\umbrel ☂

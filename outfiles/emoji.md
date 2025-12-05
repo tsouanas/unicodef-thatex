@@ -26,7 +26,6 @@
 | <code>gancho</code> | 🪝 |
 | <code>gift</code> | 🎁 |
 | <code>log</code> | 🪵 |
-| <code>map</code> | 🗺️ |
 | <code>pill</code> | 💊 |
 | <code>poo</code> | 💩 |
 | <code>rainbow</code> | 🌈 |
@@ -60,6 +59,7 @@
 | <code>Radiohaz</code> | ☢️ |
 | <code>Toxic</code> | ☣️ |
 | <code>Biohaz</code> | ☣️ |
+| <code>plug</code> | 🔌 |
 | <code>battery</code> | 🔋 |
 | <code>batt</code> | 🔋 |
 | <code>fullbatt</code> | 🔋 |
@@ -67,6 +67,17 @@
 | <code>fbatt</code> | 🔋 |
 | <code>lbatt</code> | 🪫 |
 | <code>pin</code> | 📌 |
+| <code>map</code> | 🗺️ |
+| <code>earth</code> | 🌍 |
+| <code>earthw</code> | 🌎 |
+| <code>earthe</code> | 🌏 |
+| <code>americas</code> | 🌎 |
+| <code>america</code> | 🌎 |
+| <code>europe</code> | 🌍 |
+| <code>africa</code> | 🌍 |
+| <code>asia</code> | 🌏 |
+| <code>oceania</code> | 🌏 |
+| <code>globe</code> | 🌐 |
 | <code>zoom</code> | 🔍 |
 | <code>zooml</code> | 🔍 |
 | <code>zoomr</code> | 🔎 |
