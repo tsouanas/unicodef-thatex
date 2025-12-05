@@ -31,7 +31,6 @@ hook        🪝
 gancho      🪝
 gift        🎁
 log         🪵
-map         🗺️
 pill        💊
 poo         💩
 rainbow     🌈
@@ -69,6 +68,7 @@ Radiohaz    ☢️
 Toxic       ☣️
 Biohaz      ☣️
 
+plug        🔌
 battery     🔋
 batt        🔋
 fullbatt    🔋
@@ -77,6 +77,17 @@ fbatt       🔋
 lbatt       🪫
 
 pin         📌
+map         🗺️
+earth       🌍
+earthw      🌎
+earthe      🌏
+americas    🌎
+america     🌎
+europe      🌍
+africa      🌍
+asia        🌏
+oceania     🌏
+globe       🌐
 
 zoom        🔍
 zooml       🔍

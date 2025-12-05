@@ -280,6 +280,7 @@ ESC               ␛
 BEL               ␇
 DEL               ␡
 return            ⏎
+glob              🌐
 cmd               ⌘
 opt               ⌥
 alt               ⎇
@@ -3090,6 +3091,30 @@ nwcrop            ⌏
 necrop            ⌎
 swcrop            ⌍
 secrop            ⌌
+arccropnw         ╯  # [arc] [crop] [n]orth [w]est
+arccropne         ╰
+arccropsw         ╮
+arccropse         ╭
+nwarccrop         ╯
+nearccrop         ╰
+swarccrop         ╮
+searccrop         ╭
+arccornw          ╭  # [arc] [cor]ner [n]orth [w]est
+arccorne          ╮
+arccorsw          ╰
+arccorse          ╯
+nwarccor          ╭
+nearccor          ╮
+swarccor          ╰
+searccor          ╯
+arcnw             ╭  # [arc] (corner) [n]orth [w]est
+arcne             ╮
+arcsw             ╰
+arcse             ╯
+nwarc             ╭
+nearc             ╮
+swarc             ╰
+searc             ╯
 
 # %}}}
 
