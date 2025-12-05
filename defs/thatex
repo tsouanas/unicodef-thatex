@@ -84,6 +84,7 @@ punc5             ⁙
 tricolon          ⁝
 3colon            ⁝
 fcolon            ： # [f]ull-width [colon]
+wcolon            ： # [w]ide [colon]
 wordsep           ⸱  # [word] [sep]arator
 wsep              ⸱
 worddiv           ⁞  # [word] [div]ider
