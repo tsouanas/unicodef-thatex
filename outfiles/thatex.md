@@ -66,6 +66,7 @@
 | <code>5punc</code> | ⁙ |
 | <code>tricolon</code> | ⁝ |
 | <code>3colon</code> | ⁝ |
+| <code>fcolon</code> | ： |
 | <code>wordsep</code> | ⸱ |
 | <code>wsep</code> | ⸱ |
 | <code>worddiv</code> | ⁞ |
@@ -244,11 +245,16 @@
 | <code>ppage</code> | ⎘ |
 | <code>nextp</code> | ⎗ |
 | <code>prevp</code> | ⎘ |
+| <code>scrollu</code> | ↑ |
+| <code>scrolld</code> | ↓ |
+| <code>scrollt</code> | ⤒ |
+| <code>scrollb</code> | ⤓ |
+| <code>printscr</code> | ⎙ |
 | <code>prints</code> | ⎙ |
-| <code>pscreen</code> | ⎙ |
 | <code>print</code> | ⎙ |
-| <code>scroll</code> | ⤓ |
+| <code>pscreen</code> | ⎙ |
 | <code>scrlk</code> | ⤓ |
+| <code>scrlk,</code> | ↕̷ |
 | <code>replay</code> | ↺ |
 | <code>sleepkey</code> | ⏾ |
 | <code>onoff</code> | ⏻ |

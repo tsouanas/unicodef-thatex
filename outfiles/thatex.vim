@@ -65,6 +65,7 @@ inoremap \\4punc ⁘
 inoremap \\5punc ⁙
 inoremap \\tricolon ⁝
 inoremap \\3colon ⁝
+inoremap \\fcolon ：
 inoremap \\wordsep ⸱
 inoremap \\wsep ⸱
 inoremap \\worddiv ⁞
@@ -243,11 +244,16 @@ inoremap \\npage ⎗
 inoremap \\ppage ⎘
 inoremap \\nextp ⎗
 inoremap \\prevp ⎘
+inoremap \\scrollu ↑
+inoremap \\scrolld ↓
+inoremap \\scrollt ⤒
+inoremap \\scrollb ⤓
+inoremap \\printscr ⎙
 inoremap \\prints ⎙
-inoremap \\pscreen ⎙
 inoremap \\print ⎙
-inoremap \\scroll ⤓
+inoremap \\pscreen ⎙
 inoremap \\scrlk ⤓
+inoremap \\scrlk, ↕̷
 inoremap \\replay ↺
 inoremap \\sleepkey ⏾
 inoremap \\onoff ⏻
