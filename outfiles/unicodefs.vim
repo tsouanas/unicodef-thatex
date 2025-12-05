@@ -2621,6 +2621,7 @@ inoremap \\5punc ⁙
 inoremap \\tricolon ⁝
 inoremap \\3colon ⁝
 inoremap \\fcolon ：
+inoremap \\wcolon ：
 inoremap \\wordsep ⸱
 inoremap \\wsep ⸱
 inoremap \\worddiv ⁞

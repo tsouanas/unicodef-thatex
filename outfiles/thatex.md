@@ -67,6 +67,7 @@
 | <code>tricolon</code> | ⁝ |
 | <code>3colon</code> | ⁝ |
 | <code>fcolon</code> | ： |
+| <code>wcolon</code> | ： |
 | <code>wordsep</code> | ⸱ |
 | <code>wsep</code> | ⸱ |
 | <code>worddiv</code> | ⁞ |
