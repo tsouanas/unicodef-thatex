@@ -2622,6 +2622,14 @@ inoremap \\tricolon ⁝
 inoremap \\3colon ⁝
 inoremap \\fcolon ：
 inoremap \\wcolon ：
+inoremap \\fscolon ；
+inoremap \\wscolon ；
+inoremap \\fsemicol ；
+inoremap \\wsemicol ；
+inoremap \\fsemic ；
+inoremap \\wsemic ；
+inoremap \\fuscore ＿
+inoremap \\wuscore ＿
 inoremap \\wordsep ⸱
 inoremap \\wsep ⸱
 inoremap \\worddiv ⁞
@@ -7189,6 +7197,7 @@ inoremap \--~" ⁓
 inoremap \--= ⹀
 inoremap \--/ ⸗
 inoremap \-" ⸚
+inoremap \__ ＿
 inoremap \^. ˙
 inoremap \^: ¨
 inoremap \^~ ˜

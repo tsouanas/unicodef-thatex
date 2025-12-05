@@ -79,6 +79,7 @@ inoremap \--~" ⁓
 inoremap \--= ⹀
 inoremap \--/ ⸗
 inoremap \-" ⸚
+inoremap \__ ＿
 inoremap \^. ˙
 inoremap \^: ¨
 inoremap \^~ ˜

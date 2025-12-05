@@ -68,6 +68,14 @@
 | <code>3colon</code> | ⁝ |
 | <code>fcolon</code> | ： |
 | <code>wcolon</code> | ： |
+| <code>fscolon</code> | ； |
+| <code>wscolon</code> | ； |
+| <code>fsemicol</code> | ； |
+| <code>wsemicol</code> | ； |
+| <code>fsemic</code> | ； |
+| <code>wsemic</code> | ； |
+| <code>fuscore</code> | ＿ |
+| <code>wuscore</code> | ＿ |
 | <code>wordsep</code> | ⸱ |
 | <code>wsep</code> | ⸱ |
 | <code>worddiv</code> | ⁞ |

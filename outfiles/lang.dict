@@ -2149,6 +2149,7 @@
   };
   "_" = {
     "\\~" = ("insertText:", "˷");
+    "_" = ("insertText:", "＿");
     "]" = ("insertText:", "⸥");
     "[" = ("insertText:", "⸤");
   };

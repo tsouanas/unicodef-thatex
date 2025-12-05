@@ -80,6 +80,7 @@
 | <code>--=</code> | ⹀ |
 | <code>--/</code> | ⸗ |
 | <code>-"</code> | ⸚ |
+| <code>__</code> | ＿ |
 | <code>^.</code> | ˙ |
 | <code>^:</code> | ¨ |
 | <code>^~</code> | ˜ |

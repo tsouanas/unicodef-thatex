@@ -79,6 +79,7 @@
 <Multi_key><minus><minus><equal> : "⹀"
 <Multi_key><minus><minus><slash> : "⸗"
 <Multi_key><minus><quotedbl> : "⸚"
+<Multi_key><underscore><underscore> : "＿"
 <Multi_key><asciicircum><period> : "˙"
 <Multi_key><asciicircum><colon> : "¨"
 <Multi_key><asciicircum><asciitilde> : "˜"
