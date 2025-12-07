@@ -1775,6 +1775,10 @@
 | <code>renc</code> | ⸣ |
 | <code>lcod</code> | ⸤ |
 | <code>rcod</code> | ⸥ |
+| <code>inj1</code> | inj₁ |
+| <code>inj2</code> | inj₂ |
+| <code>proj1</code> | proj₁ |
+| <code>proj2</code> | proj₂ |
 | <code>laf</code> | ⦇ |
 | <code>raf</code> | ⦈ |
 | <code>eaf</code> | ⦇⦈ |

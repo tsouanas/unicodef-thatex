@@ -4341,6 +4341,10 @@ inoremap \\lenc ⸢
 inoremap \\renc ⸣
 inoremap \\lcod ⸤
 inoremap \\rcod ⸥
+inoremap \\inj1 inj₁
+inoremap \\inj2 inj₂
+inoremap \\proj1 proj₁
+inoremap \\proj2 proj₂
 inoremap \\laf ⦇
 inoremap \\raf ⦈
 inoremap \\eaf ⦇⦈
