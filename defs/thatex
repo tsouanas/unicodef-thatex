@@ -1998,6 +1998,12 @@ rcod              ⸥
 
 ## agda / unimath %{{{
 
+### jections
+inj1              inj₁
+inj2              inj₂
+proj1             proj₁
+proj2             proj₂
+
 ### brackets
 laf               ⦇  # applicative functor idiom brackets
 raf               ⦈
