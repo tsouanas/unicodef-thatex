@@ -13,11 +13,7 @@ tijolo      🧱
 bubbles     🫧
 bulb        💡
 buoy        🛟
-car         🚙
-pickup      🛻
 cart        🛒
-vroom       🚙💨
-vroum       🚙💨
 ding        🛎
 door        🚪
 fart        ⸩💨
@@ -83,6 +79,10 @@ magr        🔎
 
 # transport %{{{ 
 
+car           🚙
+pickup        🛻
+vroom         🚙💨
+vroum         🚙💨
 airdepart     🛫
 airarrive     🛬
 departures    🛫
@@ -103,6 +103,13 @@ taxi,         🚖
 helicopter    🚁
 heli          🚁
 bicycle       🚲
+bike          🚲
+Bike          🏍
+moto          🏍
+motovroum     🏍💨
+motovroom     🏍💨
+scooter       🛵
+patinete      🛴
 skate         🛹
 roller        🛼
 htraffic      🚥
