@@ -14,9 +14,12 @@ bubbles     🫧
 bulb        💡
 buoy        🛟
 car         🚙
+pickup      🛻
 cart        🛒
 vroom       🚙💨
 vroum       🚙💨
+ding        🛎
+door        🚪
 fart        ⸩💨
 prrt        ⸩💨
 gone        💨
@@ -37,6 +40,7 @@ rainbow     🌈
 gay         🌈
 rocket      🚀
 scroll      📜
+shopping    🛍
 shower      🚿
 tada        🎉
 toilet      🚽
@@ -59,15 +63,6 @@ gbps        💷
 usds        💵
 yens        💴
 
-WIP         🚧
-underc      🚧
-ucons       🚧
-top^        🔝  # TODO: rename to TOP or top (if/when we prefix emojis)
-topsign     🔝
-Radiohaz    ☢️
-Toxic       ☣️
-Biohaz      ☣️
-
 plug        🔌
 battery     🔋
 batt        🔋
@@ -76,19 +71,6 @@ lowbatt     🪫
 fbatt       🔋
 lbatt       🪫
 
-pin         📌
-map         🗺️
-earth       🌍
-earthw      🌎
-earthe      🌏
-americas    🌎
-america     🌎
-europe      🌍
-africa      🌍
-asia        🌏
-oceania     🌏
-globe       🌐
-
 zoom        🔍
 zooml       🔍
 zoomr       🔎
@@ -96,6 +78,76 @@ zoomin      🔍⁺
 zoomout     🔍⁻
 magl        🔍
 magr        🔎
+
+# %}}}
+
+# transport %{{{ 
+
+airdepart     🛫
+airarrive     🛬
+departures    🛫
+arrivals      🛬
+takeoff       🛫
+landing       🛬
+bus           🚌
+bus,          🚍
+busstop       🚏
+ambulance     🚑
+samu          🚑
+firetruck     🚒
+police        🚓
+police,       🚔
+siren         🚨
+taxi          🚕
+taxi,         🚖
+helicopter    🚁
+heli          🚁
+bicycle       🚲
+skate         🛹
+roller        🛼
+htraffic      🚥
+vtraffic      🚦
+traffic       🚦
+highway       🛣
+motorway      🛣
+
+# %}}}
+
+# signs %{{{
+
+WIP            🚧
+underc         🚧
+ucons          🚧
+top^           🔝  # TODO: rename to TOP or top (if/when we prefix emojis)
+topsign        🔝
+
+Forbid         🚫
+Prohib         🚫
+Recycle        ♻️
+Radiohaz       ☢️
+Toxic          ☣️
+Biohaz         ☣️
+
+pin            📌
+map            🗺️
+earth          🌍
+earthw         🌎
+earthe         🌏
+americas       🌎
+america        🌎
+europe         🌍
+africa         🌍
+asia           🌏
+oceania        🌏
+globe          🌐
+
+nosmoking      🚭
+nolitter       🚯
+potable        🚰
+nonpotable     🚱
+nobicycles     🚳
+nopedestrians  🚷
+nohumans       🚷
 
 # %}}}
 
@@ -126,6 +178,12 @@ saw         🪚
 knife       🔪
 shovel      🪏
 tomb        🪦
+policeo     👮
+policem     👮‍♂️
+policew     👮‍♀️
+clown       🤡
+pennywise   🎈🤡
+pennyw      🎈🤡
 ninja       🥷
 zombie      🧟
 vamp        🧛
@@ -326,8 +384,11 @@ shout       🗯️
 zzz         💤
 snor        💤
 inbed       🛌
-pawp        🐾
+bed         🛏
 footp       👣
+pawp        🐾
+htracks     👣
+atracks     🐾
 fingerp     🫆
 thugl       🚬😎
 thugr       😎🚬
@@ -342,6 +403,7 @@ lying       🤥
 cowboy      🤠
 yeeha       🤠
 eyesonly    😶
+stare       😶
 poker       😶
 invis       🫥
 loved       🥰
@@ -381,6 +443,7 @@ WAH         😫
 aarg        😫
 yawn        🥱
 zany        🤪
+gagadi      🤪
 slurp       😋
 yum         😋
 winky       😜
@@ -405,6 +468,7 @@ eek         😬
 roll        🙄
 lookatme    😌
 woe         😔
+dizzy       😵‍💫
 drool       🤤
 gothkid     🫩
 dodoi       🤕

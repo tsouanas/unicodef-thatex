@@ -70,7 +70,12 @@ justice       ⚖
 wflag         ⚐
 bflag         ⚑
 
+forbid        🛇
+prohib        🛇
 recycle       ♻
+recycle,      ♺
+recycle,,     ♽
+recycle,,,    ♼
 biohaz        ☣
 toxic         ☣
 poison        ☠
