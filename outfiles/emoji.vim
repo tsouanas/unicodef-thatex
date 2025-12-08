@@ -7,11 +7,7 @@ inoremap \\tijolo 🧱
 inoremap \\bubbles 🫧
 inoremap \\bulb 💡
 inoremap \\buoy 🛟
-inoremap \\car 🚙
-inoremap \\pickup 🛻
 inoremap \\cart 🛒
-inoremap \\vroom 🚙💨
-inoremap \\vroum 🚙💨
 inoremap \\ding 🛎
 inoremap \\door 🚪
 inoremap \\fart ⸩💨
@@ -68,6 +64,10 @@ inoremap \\zoomin 🔍⁺
 inoremap \\zoomout 🔍⁻
 inoremap \\magl 🔍
 inoremap \\magr 🔎
+inoremap \\car 🚙
+inoremap \\pickup 🛻
+inoremap \\vroom 🚙💨
+inoremap \\vroum 🚙💨
 inoremap \\airdepart 🛫
 inoremap \\airarrive 🛬
 inoremap \\departures 🛫
@@ -88,6 +88,13 @@ inoremap \\taxi, 🚖
 inoremap \\helicopter 🚁
 inoremap \\heli 🚁
 inoremap \\bicycle 🚲
+inoremap \\bike 🚲
+inoremap \\Bike 🏍
+inoremap \\moto 🏍
+inoremap \\motovroum 🏍💨
+inoremap \\motovroom 🏍💨
+inoremap \\scooter 🛵
+inoremap \\patinete 🛴
 inoremap \\skate 🛹
 inoremap \\roller 🛼
 inoremap \\htraffic 🚥

@@ -8,11 +8,7 @@
 | <code>bubbles</code> | 🫧 |
 | <code>bulb</code> | 💡 |
 | <code>buoy</code> | 🛟 |
-| <code>car</code> | 🚙 |
-| <code>pickup</code> | 🛻 |
 | <code>cart</code> | 🛒 |
-| <code>vroom</code> | 🚙💨 |
-| <code>vroum</code> | 🚙💨 |
 | <code>ding</code> | 🛎 |
 | <code>door</code> | 🚪 |
 | <code>fart</code> | ⸩💨 |
@@ -69,6 +65,10 @@
 | <code>zoomout</code> | 🔍⁻ |
 | <code>magl</code> | 🔍 |
 | <code>magr</code> | 🔎 |
+| <code>car</code> | 🚙 |
+| <code>pickup</code> | 🛻 |
+| <code>vroom</code> | 🚙💨 |
+| <code>vroum</code> | 🚙💨 |
 | <code>airdepart</code> | 🛫 |
 | <code>airarrive</code> | 🛬 |
 | <code>departures</code> | 🛫 |
@@ -89,6 +89,13 @@
 | <code>helicopter</code> | 🚁 |
 | <code>heli</code> | 🚁 |
 | <code>bicycle</code> | 🚲 |
+| <code>bike</code> | 🚲 |
+| <code>Bike</code> | 🏍 |
+| <code>moto</code> | 🏍 |
+| <code>motovroum</code> | 🏍💨 |
+| <code>motovroom</code> | 🏍💨 |
+| <code>scooter</code> | 🛵 |
+| <code>patinete</code> | 🛴 |
 | <code>skate</code> | 🛹 |
 | <code>roller</code> | 🛼 |
 | <code>htraffic</code> | 🚥 |
