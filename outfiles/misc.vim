@@ -59,7 +59,12 @@ inoremap \\swords ⚔
 inoremap \\justice ⚖
 inoremap \\wflag ⚐
 inoremap \\bflag ⚑
+inoremap \\forbid 🛇
+inoremap \\prohib 🛇
 inoremap \\recycle ♻
+inoremap \\recycle, ♺
+inoremap \\recycle,, ♽
+inoremap \\recycle,,, ♼
 inoremap \\biohaz ☣
 inoremap \\toxic ☣
 inoremap \\poison ☠

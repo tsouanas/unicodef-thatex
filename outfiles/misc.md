@@ -60,7 +60,12 @@
 | <code>justice</code> | ⚖ |
 | <code>wflag</code> | ⚐ |
 | <code>bflag</code> | ⚑ |
+| <code>forbid</code> | 🛇 |
+| <code>prohib</code> | 🛇 |
 | <code>recycle</code> | ♻ |
+| <code>recycle,</code> | ♺ |
+| <code>recycle,,</code> | ♽ |
+| <code>recycle,,,</code> | ♼ |
 | <code>biohaz</code> | ☣ |
 | <code>toxic</code> | ☣ |
 | <code>poison</code> | ☠ |
