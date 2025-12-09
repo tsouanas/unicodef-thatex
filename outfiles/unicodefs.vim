@@ -12,6 +12,7 @@ inoremap \\ding 🛎
 inoremap \\door 🚪
 inoremap \\fart ⸩💨
 inoremap \\prrt ⸩💨
+inoremap \\gust 💨
 inoremap \\gone 💨
 inoremap \\dash 💨
 inoremap \\Gone 💨🍃

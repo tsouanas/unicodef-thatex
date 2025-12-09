@@ -13,6 +13,7 @@
 | <code>door</code> | 🚪 |
 | <code>fart</code> | ⸩💨 |
 | <code>prrt</code> | ⸩💨 |
+| <code>gust</code> | 💨 |
 | <code>gone</code> | 💨 |
 | <code>dash</code> | 💨 |
 | <code>Gone</code> | 💨🍃 |
