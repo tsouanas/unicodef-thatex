@@ -8,6 +8,7 @@ inoremap \\bubbles 🫧
 inoremap \\bulb 💡
 inoremap \\buoy 🛟
 inoremap \\cart 🛒
+inoremap \\clip 📎
 inoremap \\ding 🛎
 inoremap \\door 🚪
 inoremap \\fart ⸩💨
@@ -25,6 +26,8 @@ inoremap \\hook 🪝
 inoremap \\gancho 🪝
 inoremap \\gift 🎁
 inoremap \\log 🪵
+inoremap \\paperc 📎
+inoremap \\pclip 📎
 inoremap \\pill 💊
 inoremap \\poo 💩
 inoremap \\rainbow 🌈
@@ -35,6 +38,9 @@ inoremap \\shopping 🛍
 inoremap \\shower 🚿
 inoremap \\tada 🎉
 inoremap \\toilet 🚽
+inoremap \\toiletp 🧻
+inoremap \\tp 🧻
+inoremap \\TP 🧻
 inoremap \\sunglasses 🕶
 inoremap \\sglasses 🕶
 inoremap \\glasses 👓
@@ -237,9 +243,9 @@ inoremap \\nmoon 🌑
 inoremap \\fmoon 🌕
 inoremap \\fog 🌫️
 inoremap \\mist 🌫
+inoremap \\glitter ✨
 inoremap \\shine ✨
 inoremap \\shiny ✨
-inoremap \\shin ✨
 inoremap \\stars ✨
 inoremap \\sparkle ✨
 inoremap \\twinkle ✨
@@ -442,6 +448,7 @@ inoremap \\puff 😮‍💨
 inoremap \\skull 💀
 inoremap \\bone 🦴
 inoremap \\bones ☠
+inoremap \\tooth 🦷
 inoremap \\brain 🧠
 inoremap \\seeno 🙈
 inoremap \\hearno 🙉
@@ -469,6 +476,9 @@ inoremap \\facepalm 🤦
 inoremap \\facep 🤦
 inoremap \\fpalm 🤦
 inoremap \\nails 💅
+inoremap \\lips 👄
+inoremap \\bitelip 🫦
+inoremap \\lipbite 🫦
 inoremap \\flex 💪
 inoremap \\leg 🦵
 inoremap \\foot 🦶
@@ -530,6 +540,18 @@ inoremap \\heart ❤️
 inoremap \\heartb 💔
 inoremap \\brokenh 💔
 inoremap \\hurth ❤️‍🩹
+inoremap \\lust ❤️‍🔥
+inoremap \\hotlove ❤️‍🔥
+inoremap \\burningh ❤️‍🔥
+inoremap \\burnh ❤️‍🔥
+inoremap \\eros 💘
+inoremap \\cupid 💘
+inoremap \\starslove 💖
+inoremap \\glitterh 💖
+inoremap \\shinyh 💖
+inoremap \\starsh 💖
+inoremap \\sparkleh 💖
+inoremap \\twinkleh 💖
 inoremap \\pinkh 🩷
 inoremap \\orangeh 🧡
 inoremap \\yellowh 💛

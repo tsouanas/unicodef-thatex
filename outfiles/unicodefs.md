@@ -526,6 +526,7 @@
 | <code>bulb</code> | 💡 |
 | <code>buoy</code> | 🛟 |
 | <code>cart</code> | 🛒 |
+| <code>clip</code> | 📎 |
 | <code>ding</code> | 🛎 |
 | <code>door</code> | 🚪 |
 | <code>fart</code> | ⸩💨 |
@@ -543,6 +544,8 @@
 | <code>gancho</code> | 🪝 |
 | <code>gift</code> | 🎁 |
 | <code>log</code> | 🪵 |
+| <code>paperc</code> | 📎 |
+| <code>pclip</code> | 📎 |
 | <code>pill</code> | 💊 |
 | <code>poo</code> | 💩 |
 | <code>rainbow</code> | 🌈 |
@@ -553,6 +556,9 @@
 | <code>shower</code> | 🚿 |
 | <code>tada</code> | 🎉 |
 | <code>toilet</code> | 🚽 |
+| <code>toiletp</code> | 🧻 |
+| <code>tp</code> | 🧻 |
+| <code>TP</code> | 🧻 |
 | <code>sunglasses</code> | 🕶 |
 | <code>sglasses</code> | 🕶 |
 | <code>glasses</code> | 👓 |
@@ -755,9 +761,9 @@
 | <code>fmoon</code> | 🌕 |
 | <code>fog</code> | 🌫️ |
 | <code>mist</code> | 🌫 |
+| <code>glitter</code> | ✨ |
 | <code>shine</code> | ✨ |
 | <code>shiny</code> | ✨ |
-| <code>shin</code> | ✨ |
 | <code>stars</code> | ✨ |
 | <code>sparkle</code> | ✨ |
 | <code>twinkle</code> | ✨ |
@@ -960,6 +966,7 @@
 | <code>skull</code> | 💀 |
 | <code>bone</code> | 🦴 |
 | <code>bones</code> | ☠ |
+| <code>tooth</code> | 🦷 |
 | <code>brain</code> | 🧠 |
 | <code>seeno</code> | 🙈 |
 | <code>hearno</code> | 🙉 |
@@ -987,6 +994,9 @@
 | <code>facep</code> | 🤦 |
 | <code>fpalm</code> | 🤦 |
 | <code>nails</code> | 💅 |
+| <code>lips</code> | 👄 |
+| <code>bitelip</code> | 🫦 |
+| <code>lipbite</code> | 🫦 |
 | <code>flex</code> | 💪 |
 | <code>leg</code> | 🦵 |
 | <code>foot</code> | 🦶 |
@@ -1048,6 +1058,18 @@
 | <code>heartb</code> | 💔 |
 | <code>brokenh</code> | 💔 |
 | <code>hurth</code> | ❤️‍🩹 |
+| <code>lust</code> | ❤️‍🔥 |
+| <code>hotlove</code> | ❤️‍🔥 |
+| <code>burningh</code> | ❤️‍🔥 |
+| <code>burnh</code> | ❤️‍🔥 |
+| <code>eros</code> | 💘 |
+| <code>cupid</code> | 💘 |
+| <code>starslove</code> | 💖 |
+| <code>glitterh</code> | 💖 |
+| <code>shinyh</code> | 💖 |
+| <code>starsh</code> | 💖 |
+| <code>sparkleh</code> | 💖 |
+| <code>twinkleh</code> | 💖 |
 | <code>pinkh</code> | 🩷 |
 | <code>orangeh</code> | 🧡 |
 | <code>yellowh</code> | 💛 |
