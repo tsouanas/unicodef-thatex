@@ -146,6 +146,7 @@
 | <code>dead</code> | 💀 |
 | <code>deadly</code> | ☠ |
 | <code>death</code> | ☠ |
+| <code>ghost</code> | 👻 |
 | <code>hammer</code> | 🔨 |
 | <code>jack</code> | 🎃 |
 | <code>gun</code> | 🔫 |
@@ -153,14 +154,17 @@
 | <code>knife</code> | 🔪 |
 | <code>shovel</code> | 🪏 |
 | <code>tomb</code> | 🪦 |
+| <code>phantom</code> | 👻 |
 | <code>policeo</code> | 👮 |
 | <code>policem</code> | 👮‍♂️ |
 | <code>policew</code> | 👮‍♀️ |
+| <code>policef</code> | 👮‍♀️ |
 | <code>clown</code> | 🤡 |
 | <code>pennywise</code> | 🎈🤡 |
 | <code>pennyw</code> | 🎈🤡 |
 | <code>ninja</code> | 🥷 |
 | <code>zombie</code> | 🧟 |
+| <code>vampire</code> | 🧛 |
 | <code>vamp</code> | 🧛 |
 | <code>troll</code> | 🧌 |
 | <code>alien</code> | 👽 |

@@ -145,6 +145,7 @@ inoremap \\burn 🔥
 inoremap \\dead 💀
 inoremap \\deadly ☠
 inoremap \\death ☠
+inoremap \\ghost 👻
 inoremap \\hammer 🔨
 inoremap \\jack 🎃
 inoremap \\gun 🔫
@@ -152,14 +153,17 @@ inoremap \\saw 🪚
 inoremap \\knife 🔪
 inoremap \\shovel 🪏
 inoremap \\tomb 🪦
+inoremap \\phantom 👻
 inoremap \\policeo 👮
 inoremap \\policem 👮‍♂️
 inoremap \\policew 👮‍♀️
+inoremap \\policef 👮‍♀️
 inoremap \\clown 🤡
 inoremap \\pennywise 🎈🤡
 inoremap \\pennyw 🎈🤡
 inoremap \\ninja 🥷
 inoremap \\zombie 🧟
+inoremap \\vampire 🧛
 inoremap \\vamp 🧛
 inoremap \\troll 🧌
 inoremap \\alien 👽
