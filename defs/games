@@ -18,18 +18,75 @@ bR           ♜
 bB           ♝
 bN           ♞
 bP           ♟
-king         ♚
-queen        ♛
-rook         ♜
-bishop       ♝
-knight       ♞
-pawn         ♟
+
 King         ♔
 Queen        ♕
 Rook         ♖
 Bishop       ♗
 Knight       ♘
 Pawn         ♙
+king         ♚
+queen        ♛
+rook         ♜
+bishop       ♝
+knight       ♞
+pawn         ♟
+
+# turned
+wK'          🨞
+wQ'          🨟
+wR'          🨠
+wB'          🨡
+wN'          🨢
+wP'          🨣
+bK'          🨤
+bQ'          🨥
+bR'          🨦
+bB'          🨧
+bN'          🨨
+bP'          🨩
+
+King'        🨞
+Queen'       🨟
+Rook'        🨠
+Bishop'      🨡
+Knight'      🨢
+Pawn'        🨣
+king'        🨤
+queen'       🨥
+rook'        🨦
+bishop'      🨧
+knight'      🨨
+pawn'        🨩
+
+# neutral color (bicolor)
+KING         🨀
+QUEEN        🨁
+ROOK         🨂
+BISHOP       🨃
+KNIGHT       🨄
+PAWN         🨅
+KING'        🨪
+QUEEN'       🨫
+ROOK'        🨬
+BISHOP'      🨭
+KNIGHT'      🨮
+PAWN'        🨯
+
+# fairy
+Eqhopper     🩈
+Amazon       🩎
+Empress      🩏
+Princess     🩐
+Ferz         🩔
+Alfil        🩕
+eqhopper     🩉
+amazon       🩑
+empress      🩒
+princess     🩓
+ferz         🩖
+alfil        🩗
+EQHOPPER     🩊
 
 # %}}}
 
