@@ -15,6 +15,7 @@ bulb        💡
 buoy        🛟
 cart        🛒
 clip        📎
+clips       🖇️
 ding        🛎
 door        🚪
 fart        ⸩💨
@@ -28,13 +29,19 @@ wind        🌬
 blow        🌬
 fire        🔥
 flame       🔥
-hook        🪝
+forkknife   🍴
 gancho      🪝
 gift        🎁
+hook        🪝
+jar         🫙
 log         🪵
+mushroom    🍄
+shroom      🍄
 paperc      📎
 pclip       📎
 pill        💊
+pit         🕳️
+plate       🍽️
 poo         💩
 rainbow     🌈
 gay         🌈
@@ -143,6 +150,7 @@ Toxic          ☣️
 Biohaz         ☣️
 
 pin            📌
+pin,           📍
 map            🗺️
 earth          🌍
 earthw         🌎
@@ -206,6 +214,11 @@ zombie      🧟
 vampire     🧛
 vamp        🧛
 troll       🧌
+elf         🧝
+darkelf     🧝🏿
+drow        🧝🏿
+fairy       🧚
+fae         🧚
 alien       👽
 invader     👾
 ufo         🛸
@@ -292,6 +305,8 @@ moonw       🌕
 moonwwb     🌖
 moonwb      🌗
 moonwbb     🌘
+newmoon     🌑
+fullmoon    🌕
 nmoon       🌑
 fmoon       🌕
 fog         🌫️
@@ -370,20 +385,26 @@ cafe        ☕
 cake        🍰
 champagne   🍾
 champ       🍾
+cherry      🍒
 cocktail    🍹
 coco        🥥
+cookie      🍪
 donut       🍩
 doh         🍩
+steak       🥩
+grape       🍇
 gyro        🌯
+honey       🍯
 icecream    🍨
 kebab       🌯
+lime        🍋‍🟩
 martini     🍸
 pear        🍐
 pera        🍐
 pint        🍺
 pizza       🍕
-popcorn     🍿
 pipoca      🍿
+popcorn     🍿
 portobello  🍄‍🟫
 provar      🍨
 scotch      🥃
@@ -555,6 +576,10 @@ lipbite     🫦
 flex        💪
 leg         🦵
 foot        🦶
+ear         👂
+nose        👃
+tongue      👅
+eye         👁️
 eyes        👀
 look        👀
 peaceh      ✌   # [peace] [h]and
