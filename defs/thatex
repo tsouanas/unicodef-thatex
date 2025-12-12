@@ -393,11 +393,12 @@ cboxc             ☑  # [c]heck-marked
 cboxt             ☑  # [t]ick-marked
 cboxx             ☒  # [x]-marked
 cboxm             ☒  # x-[m]arked
-ymark             ✓  # [y]es [mark]
-nmark             ✗  # [n]o
+check             ✓
 tick              ✓
 yeap              ✓
 nope              ✗
+ymark             ✓  # [y]es [mark]
+nmark             ✗  # [n]o
 bmark             ◎  # [b]ullseye
 omark             ○
 tmark             △
@@ -903,6 +904,115 @@ mqed              ∎⛤
 
 ()_hi           ₍ₕᵢ₎
 ()_ih           ₍ᵢₕ₎
+
+# %}}}
+
+### X(): superscript in parens %{{{ 
+
+0()            ⁽⁰⁾
+1()            ⁽¹⁾
+2()            ⁽²⁾
+3()            ⁽³⁾
+4()            ⁽⁴⁾
+5()            ⁽⁵⁾
+6()            ⁽⁶⁾
+7()            ⁽⁷⁾
+8()            ⁽⁸⁾
+9()            ⁽⁹⁾
+10()           ⁽¹⁰⁾
+11()           ⁽¹¹⁾
+12()           ⁽¹²⁾
+
+a()            ⁽ᵃ⁾
+b()            ⁽ᵇ⁾
+c()            ⁽ᶜ⁾
+d()            ⁽ᵈ⁾
+e()            ⁽ᵉ⁾
+f()            ⁽ᶠ⁾
+g()            ⁽ᵍ⁾
+h()            ⁽ʰ⁾
+i()            ⁽ⁱ⁾
+j()            ⁽ʲ⁾
+k()            ⁽ᵏ⁾
+l()            ⁽ˡ⁾
+m()            ⁽ᵐ⁾
+n()            ⁽ⁿ⁾
+o()            ⁽ᵒ⁾
+p()            ⁽ᵖ⁾
+r()            ⁽ʳ⁾
+s()            ⁽ˢ⁾
+t()            ⁽ᵗ⁾
+u()            ⁽ᵘ⁾
+v()            ⁽ᵛ⁾
+w()            ⁽ʷ⁾
+x()            ⁽ˣ⁾
+y()            ⁽ʸ⁾
+z()            ⁽ᶻ⁾
+
+A()            ⁽ᴬ⁾
+B()            ⁽ᴮ⁾
+D()            ⁽ᴰ⁾
+E()            ⁽ᴱ⁾
+G()            ⁽ᴳ⁾
+H()            ⁽ᴴ⁾
+I()            ⁽ᴵ⁾
+J()            ⁽ᴶ⁾
+K()            ⁽ᴷ⁾
+L()            ⁽ᴸ⁾
+M()            ⁽ᴹ⁾
+N()            ⁽ᴺ⁾
+O()            ⁽ᴼ⁾
+P()            ⁽ᴾ⁾
+R()            ⁽ᴿ⁾
+T()            ⁽ᵀ⁾
+U()            ⁽ᵁ⁾
+V()            ⁽ⱽ⁾
+W()            ⁽ᵂ⁾
+
+ch()           ⁽ᶜʰ⁾  # [c]ase [h]ypothesis
+hi()           ⁽ʰⁱ⁾  # [h]ypothesis of [i]nduction
+HI()           ⁽ᴴᴵ⁾
+ih()           ⁽ⁱʰ⁾  # [i]nductive [h]ypothesis
+IH()           ⁽ᴵᴴ⁾
+
+# %}}}
+
+### X()_: subscript in parens %{{{ 
+
+0()_            ₍₀₎
+1()_            ₍₁₎
+2()_            ₍₂₎
+3()_            ₍₃₎
+4()_            ₍₄₎
+5()_            ₍₅₎
+6()_            ₍₆₎
+7()_            ₍₇₎
+8()_            ₍₈₎
+9()_            ₍₉₎
+10()_           ₍₁₀₎
+11()_           ₍₁₁₎
+12()_           ₍₁₂₎
+
+a()_            ₍ₐ₎
+e()_            ₍ₑ₎
+h()_            ₍ₕ₎
+i()_            ₍ᵢ₎
+j()_            ₍ⱼ₎
+k()_            ₍ₖ₎
+l()_            ₍ₗ₎
+m()_            ₍ₘ₎
+n()_            ₍ₙ₎
+o()_            ₍ₒ₎
+p()_            ₍ₚ₎
+r()_            ₍ᵣ₎
+s()_            ₍ₛ₎
+t()_            ₍ₜ₎
+u()_            ₍ᵤ₎
+v()_            ₍ᵥ₎
+x()_            ₍ₓ₎
+
+hi()_           ₍ₕᵢ₎
+ih()_           ₍ᵢₕ₎
 
 # %}}}
 
@@ -2730,6 +2840,8 @@ ucl               ꜛ
 dcl               ꜜ
 upd               ꜛ  # [up]'[d]
 downd             ꜜ  # [down]'[d]
+upd,              ￪
+downd,            ￬
 gtto              ⥸
 ltfrom            ⥶
 geqto             ⥸
@@ -2895,26 +3007,18 @@ miny              ⧿
 
 # %}}}
 
-# common %{{{
+# misc %{{{
 
 topdown           ꜜ
-bottomup          ꜛ
+bottomup          ￪
 td                ꜜ
-bu                ꜛ
-fall              ꜜ
-rise              ꜛ
-drop              ꜜ
-raise             ꜛ
-upwards           ꜛ
-downwards         ꜜ
-uwards            ꜛ
-dwards            ꜜ
-uwards,           ⌃
-dwards,           ⌄
-upw               ꜛ
-downw             ꜜ
-upw,              ⌃
-downw,            ⌄
+bu                ￪
+updir             ⌃
+downdir           ⌄
+uphead            ⌃  # [up] arrow[head]
+downhead          ⌄
+uph               ⌃
+downh             ⌄
 
 # %}}}
 
