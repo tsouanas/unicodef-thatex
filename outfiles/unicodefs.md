@@ -551,6 +551,7 @@
 | <code>log</code> | 🪵 |
 | <code>loud</code> | 🔊 |
 | <code>mute</code> | 🔇 |
+| <code>mirror</code> | 🪞 |
 | <code>sound</code> | 🔈 |
 | <code>soundon</code> | 🔊 |
 | <code>soundoff</code> | 🔇 |

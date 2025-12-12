@@ -33,6 +33,7 @@ inoremap \\jar 🫙
 inoremap \\log 🪵
 inoremap \\loud 🔊
 inoremap \\mute 🔇
+inoremap \\mirror 🪞
 inoremap \\sound 🔈
 inoremap \\soundon 🔊
 inoremap \\soundoff 🔇
