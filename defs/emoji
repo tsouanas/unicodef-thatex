@@ -7,6 +7,7 @@
 # misc %{{{
 
 anchor      ⚓
+announce    📢
 boat        ⛵
 brick       🧱
 tijolo      🧱
@@ -18,6 +19,8 @@ clip        📎
 clips       🖇️
 ding        🛎
 door        🚪
+drop        💧
+drops       💦
 fart        ⸩💨
 prrt        ⸩💨
 gust        💨
@@ -29,20 +32,28 @@ wind        🌬
 blow        🌬
 fire        🔥
 flame       🔥
-forkknife   🍴
 gancho      🪝
 gift        🎁
 hook        🪝
 jar         🫙
 log         🪵
-mushroom    🍄
-shroom      🍄
+loud        🔊
+mute        🔇
+sound       🔈
+soundon     🔊
+soundoff    🔇
+loudspeaker 📢
+loudspeak   📢
+louds       📢
+lspeaker    📢
+speaker     🔈
+megaphone   📣
 paperc      📎
 pclip       📎
 pill        💊
 pit         🕳️
-plate       🍽️
 poo         💩
+protest     📣
 rainbow     🌈
 gay         🌈
 rocket      🚀
@@ -50,6 +61,8 @@ scroll      📜
 shopping    🛍
 shower      🚿
 tada        🎉
+tear        💧
+tears       💦
 toilet      🚽
 toiletp     🧻
 tp          🧻
@@ -78,8 +91,10 @@ battery     🔋
 batt        🔋
 fullbatt    🔋
 lowbatt     🪫
+emptybatt   🪫
 fbatt       🔋
 lbatt       🪫
+ebatt       🪫
 
 zoom        🔍
 zooml       🔍
@@ -165,6 +180,7 @@ globe          🌐
 
 nosmoking      🚭
 nolitter       🚯
+nonoise        🔇
 potable        🚰
 nonpotable     🚱
 nobicycles     🚳
@@ -196,6 +212,8 @@ death       ☠
 ghost       👻
 hammer      🔨
 jack        🎃
+halloween   🎃
+hallo       🎃
 gun         🔫
 saw         🪚
 knife       🔪
@@ -214,6 +232,11 @@ zombie      🧟
 vampire     🧛
 vamp        🧛
 troll       🧌
+ogre        👹
+devil       👹
+demon       👹
+imp         👿
+maddevil    👿
 elf         🧝
 darkelf     🧝🏿
 drow        🧝🏿
@@ -231,6 +254,7 @@ boo         👻
 
 phones      🎧
 mic         🎤
+radio       📻
 drums       🥁
 drum        🥁
 ldrum       🪘
@@ -358,7 +382,7 @@ wolf        🐺
 
 # %}}}
 
-# plants %{{{
+# plants & fungi %{{{
 
 rose        🌹
 wrose       🥀
@@ -366,6 +390,21 @@ sunflower   🌻
 cactus      🌵
 lucky       🍀
 Luck        🍀
+platanos    🍁
+platanus    🍁
+leaf        🍁
+leaves      🍃
+aleaves     🍂
+baretree    🪾
+btree       🪾
+tree        🌳
+tree,       🌲
+xmas        🎄
+palmtree    🌴
+palm        🌴
+xtree       🎄
+mushroom    🍄
+shroom      🍄
 
 # %}}}
 
@@ -411,6 +450,11 @@ scotch      🥃
 tintin      🥂
 wine        🍷
 
+chops       🥢
+forkknife   🍴
+plate       🍽️
+spoon       🥄
+
 # %}}}
 
 # faces / emotions %{{{
@@ -432,10 +476,20 @@ fingerp     🫆
 thugl       🚬😎
 thugr       😎🚬
 inno        😗🎶
+laugh       😆
 lol         😂
 rofl        🤣
+haha        😆
+Haha        😂
+HAHA        🤣
 happy       🙂
+cohappy     🙃
 yppah       🙃
+smile       🙂
+cosmile     🙃
+elims       🙃
+Smile       😀
+Happy       😀
 sad         🙁
 Sad         ☹️
 lying       🤥
@@ -450,6 +504,7 @@ inlove      😍
 instar      🤩
 stareyes    🤩
 ouch        😕
+confused    😕
 yessir      🫡
 salute      🫡
 notcool     🫤
@@ -473,6 +528,11 @@ Grr         😡
 GRR         🤬
 swear       🤬
 muah        😈
+wicked      😈
+evil        😈
+good        😇
+halo        😇
+angel       👼
 sadin       🥲  # [sad] [in]side
 thmm        🥲  # θ. μ. μ.
 weary       😩
@@ -504,6 +564,7 @@ pff         😒
 notfunny    😒
 nfunny      😒
 eek         😬
+tweek       😬
 roll        🙄
 lookatme    😌
 woe         😔
@@ -536,6 +597,8 @@ monocle     🧐
 wally       🧐
 mistys      🥺  # [misty]-eyed [s]ad
 mistyh      🥹  # [h]appy
+misty       🥹
+misty,      🥺
 scream      😱
 grmf        😤
 puff        😮‍💨
