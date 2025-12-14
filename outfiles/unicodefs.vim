@@ -6859,6 +6859,7 @@ inoremap \\@omacron ̄
 inoremap \\@omac ̄
 inoremap \\@odiaer ̈
 inoremap \\@otrema ̈
+inoremap \\@ohorn ̛
 inoremap \\@obar ̄
 inoremap \\@oline ̅
 inoremap \\@olline ̿

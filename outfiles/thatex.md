@@ -3924,6 +3924,7 @@
 | <code>@omac</code> | ̄ |
 | <code>@odiaer</code> | ̈ |
 | <code>@otrema</code> | ̈ |
+| <code>@ohorn</code> | ̛ |
 | <code>@obar</code> | ̄ |
 | <code>@oline</code> | ̅ |
 | <code>@olline</code> | ̿ |
