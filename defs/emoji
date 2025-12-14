@@ -6,6 +6,7 @@
 
 # misc %{{{
 
+abandon     🏚
 anchor      ⚓
 announce    📢
 boat        ⛵
@@ -16,7 +17,7 @@ bulb        💡
 buoy        🛟
 cart        🛒
 clip        📎
-clips       🖇️
+clips       🖇
 ding        🛎
 door        🚪
 drop        💧
@@ -48,11 +49,12 @@ loudspeak   📢
 louds       📢
 lspeaker    📢
 speaker     🔈
+speech      🗣
 megaphone   📣
 paperc      📎
 pclip       📎
 pill        💊
-pit         🕳️
+pit         🕳
 poo         💩
 protest     📣
 rainbow     🌈
@@ -164,10 +166,14 @@ Recycle        ♻️
 Radiohaz       ☢️
 Toxic          ☣️
 Biohaz         ☣️
+Poison         ☠️
+voltage        ⚡
+Zap            ⚡
+Warn           ⚠️
 
 pin            📌
 pin,           📍
-map            🗺️
+map            🗺
 earth          🌍
 earthw         🌎
 earthe         🌏
@@ -196,6 +202,10 @@ NO          ❌
 YES         ✅
 N           ❌
 Y           ✅
+Q           ❔
+QQ          ❓
+BANGASK     ⁉️
+BANGA       ⁉️
 WARN        ⚠️
 
 # %}}}
@@ -206,10 +216,12 @@ blood       🩸
 bomb        💣
 boom        💥
 boxing      🥊
+bow         🏹
 burn        🔥
 dead        💀
 deadly      ☠
 death       ☠
+Swords      ⚔️
 ghost       👻
 hammer      🔨
 jack        🎃
@@ -291,7 +303,7 @@ chess       ♟️
 # tech %{{{
 
 laptop      💻
-desktop     🖥️
+desktop     🖥
 computer    🖥
 floppy      💾
 gamepad     🎮
@@ -310,38 +322,56 @@ cellphone   📱
 
 # weather / space %{{{
 
-Cloud       ☁️
-Suncloud    🌤️
-Cloudsun    🌥️
-Sun         ☀️
-Moon        🌙
-mrsun       🌞
-mrmoon      🌚
-mrmoonb     🌚
-mrmoonw     🌝
-mrmoonl     🌛
-mrmoonr     🌜
-moony       🌚
-moonb       🌑
-moonbbw     🌒
-moonbw      🌓
-moonbww     🌔
-moonw       🌕
-moonwwb     🌖
-moonwb      🌗
-moonwbb     🌘
-newmoon     🌑
-fullmoon    🌕
-nmoon       🌑
-fmoon       🌕
-fog         🌫️
-mist        🌫
-glitter     ✨
-shine       ✨
-shiny       ✨
-stars       ✨
-sparkle     ✨
-twinkle     ✨
+suncloud      🌤️
+cloudsun      🌥️
+rain          🌧
+storm         ⛈️
+thunderrain   ⛈️
+thurain       ⛈️
+sunrain       🌦
+rainsun       🌦
+thunder       🌩
+lightning     🌩
+cloudbolt     🌩
+bolt          ⚡
+tornado       🌪
+twister       🌪
+rumbrella     ☔️
+umbrain       ☔️
+cumbrella     🌂  # [c]losed
+
+mrsun         🌞
+mrmoon        🌚
+mrmoonb       🌚
+mrmoonw       🌝
+mrmoonl       🌛
+mrmoonr       🌜
+moony         🌚
+moonb         🌑
+moonbbw       🌒
+moonbw        🌓
+moonbww       🌔
+moonw         🌕
+moonwwb       🌖
+moonwb        🌗
+moonwbb       🌘
+newmoon       🌑
+fullmoon      🌕
+nmoon         🌑
+fmoon         🌕
+moon          🌙
+fog           🌫
+mist          🌫
+glitter       ✨
+shine         ✨
+shiny         ✨
+stars         ✨
+sparkle       ✨
+twinkle       ✨
+planet        🪐
+saturn        🪐
+galaxy        🌌
+milky         🌌
 
 # %}}}
 
@@ -349,9 +379,11 @@ twinkle     ✨
 
 bat         🦇
 bee         🐝
+bird        🐦
 butterfly   🦋
 crab        🦀
 cri         🦗
+cricri      🦗🦗
 duck        🦆
 elephant    🐘
 flamingo    🦩
@@ -368,15 +400,16 @@ moo         🐮
 octo        🐙
 owl         🦉
 parrot      🦜
+phoenix     🐦‍🔥
 puffy       🐡
 sloth       🦥
 snail       🐌
 snake       🐍
-spider      🕷️
+spider      🕷
 turtle      🐢
 tzi         🐢
 unicorn     🦄
-web         🕸️
+web         🕸
 whale       🐳
 tsouf       🐳
 wolf        🐺
@@ -453,18 +486,22 @@ wine        🍷
 
 chops       🥢
 forkknife   🍴
-plate       🍽️
+plate       🍽
 spoon       🥄
 
 # %}}}
 
 # faces / emotions %{{{
 
+noprofile   👤
+profile     👤
 speak       💬
 say         💬
 think       💭
-yell        🗯️
-shout       🗯️
+yell        🗯
+shout       🗯
+yell,       🗣📣
+shout,      🗣📣
 zzz         💤
 snor        💤
 inbed       🛌
@@ -478,6 +515,8 @@ thugl       🚬😎
 thugr       😎🚬
 inno        😗🎶
 laugh       😆
+holdlaugh   🤭
+holdlol     🤭
 lol         😂
 rofl        🤣
 haha        😆
@@ -487,11 +526,16 @@ happy       🙂
 cohappy     🙃
 yppah       🙃
 Happy       😀
+neutral     😐
+neut        😐
+dunno       😐
 sad         🙁
 Sad         ☹️
 lying       🤥
 cowboy      🤠
 yeeha       🤠
+psycho      😀🔪
+psycho,     🔨😀
 eyesonly    😶
 stare       😶
 poker       😶
@@ -506,12 +550,17 @@ yessir      🫡
 salute      🫡
 notcool     🫤
 ncool       🫤
-woah        😲
+woah        😯
+Woah        😲
+gasp        😮
+hidemouth   🫢
+hmouth      🫢
 blush       😳
 embar       😳
 shy         ☺️
-gasp        😦
-fear        😨
+fear        😦
+Fear        😨
+terror      😨
 worry       😟
 Worry       😰
 sweat       😅
@@ -544,6 +593,7 @@ slurp       😋
 yum         😋
 winky       😜
 prr         😝
+Prr         ✋😝🤚
 shh         🤫
 zipface     🤐
 zip         🤐
@@ -599,6 +649,7 @@ misty,      🥺
 scream      😱
 grmf        😤
 puff        😮‍💨
+exhale      😮‍💨
 skull       💀
 bone        🦴
 bones       ☠
@@ -623,7 +674,36 @@ ehnoix      ✊
 deal        🤝
 handshake   🤝
 hshake      🤝
+hshakel     🫱
+hshaker     🫲
+hs          🤝
+hsl         🫱
+hsr         🫲
+pushl       🫷
+pushr       🫸
+haltl       🫷
+haltr       🫸
+ttth        🗣🫷
+hi5l        🫷
+hi5r        🫸
+hi5b        🫸🫷
+hi5         🫸🫷
+punch       👊
+punchr      🤜
+punchl      🤛
+fistr       🤜
+fistl       🤛
+fistb       🤜🤛
+fbump       👊
+fbump,      🤜🤛
 shake       🙂‍↔️
+nod         🙂‍↕️
+lalala      👉😄👈
+lalala,     🫸😄🫷
+killme      😩🔫
+raise       🙋
+moutza      🖐
+2moutza     🖐🖐
 shrug       🤷
 noway       🙅
 facepalm    🤦
@@ -639,11 +719,10 @@ foot        🦶
 ear         👂
 nose        👃
 tongue      👅
-eye         👁️
+eye         👁
 eyes        👀
 look        👀
-peaceh      ✌   # [peace] [h]and
-vsign       ✌
+peaceout    ✌️
 handwave    👋
 hwave       👋
 okh         👌
@@ -662,7 +741,7 @@ handu       👆
 handd       👇
 handrl      👉👈
 erm         👉👈
-me          ☝
+me          ☝️
 you         🫵
 ok          👍
 nok         👎  # [n]ot [ok]
@@ -676,10 +755,21 @@ downv       👎   # [downv]ote
 uvote       👍   # [u]p[vote]
 dvote       👎   # [d]own[vote]
 fcrossed    🤞   # [f]ingers [crossed]
+fcross      🤞
 fingersc    🤞
 fingersx    🤞
 fingers     🤞🤞
-tinyh       🤏
+bitsy       🤏
+maroui      🤏
+mikh        🤏
+pinch       🤏
+palmup      🫴
+palmdown    🫳
+palmu       🫴
+palmd       🫳
+beg         🫴
+hdrop       🫳
+micdrop     🫳🎤
 hangloose   🤙
 hloose      🤙
 hangl       🤙
@@ -690,6 +780,7 @@ callme      🤙
 callyou     🤙
 callu       🤙
 callw       🤙🙄  # [callw]aiting
+callw,      🤙😖
 Callw       🤙😖
 howmuch     🫰
 moneyh      🫰
@@ -754,35 +845,79 @@ TRANS       🏳️‍⚧️
 
 # music player (/-prefixed) %{{{
 
-/play       ⏵
-/pause      ⏸
-/playpause  ⏯
-/pp         ⏯
-/stop       ⏹
-/rec        ⏺
-/eject      ⏏
-/eje        ⏏
-/reverse    ⏴
-/rev        ⏴
-/ffwd       ⏩
-/fastfwd    ⏩
-/rewind     ⏪
-/fastf      ⏩
-/fastb      ⏩
-/next       ⏭
-/prev       ⏮
-/ntrack     ⏭
-/ptrack     ⏮
-/skipf      ⏭
-/skipb      ⏮
-/replay     ↺
-/shuffle    🔀
-/repeat     🔁
-/repeat1    🔂
-/rep        🔁
-/rep1       🔂
-/onoff      ⏻
-/power      ⏻
+/Play       ▶️
+/Pause      ⏸️
+/Playpause  ⏯️
+/Pp         ⏯️
+/Stop       ⏹️
+/Rec        ⏺️
+/Eject      ⏏️
+/Eje        ⏏️
+/Ffwd       ⏩️
+/Fastfwd    ⏩️
+/Rewind     ⏪️
+/Fastf      ⏩️
+/Fastb      ⏩️
+/Next       ⏭️
+/Prev       ⏮️
+/Ntrack     ⏭️
+/Ptrack     ⏮️
+/Skipf      ⏭️
+/Skipb      ⏮️
+/Shuffle    🔀
+/Repeat     🔁
+/Repeat1    🔂
+/Rep        🔁
+/Rep1       🔂
+
+# %}}}
+
+# %{{{ forced-emoji versions 
+
+# INFO: neutral versions in defs/misc
+
+Coffin        ⚰️
+Sun           ☀️
+Comet         ☄️
+Cloud         ☁️
+Umbrella      ☂️
+Snowman       ☃️
+Write         ✍️
+Sign          ✍️
+
+# %}}}
+
+# combining @decorators %{{{ 
+
+@zwj        ‍
+@+          ‍  # abbrev for ZWJ (zero width joiner)
++           ‍  # abbrev for ZWJ (zero width joiner)
+
+@emoji      ️
+@emo        ️
+@:          ️
+:           ️
+
+@coemo      ︎
+@unemo      ︎
+@deemo      ︎
+@;          ︎
+;           ︎
+
+@skin1      🏻
+@skin2      🏻
+@skin12     🏻
+@skin3      🏼
+@skin4      🏽
+@skin5      🏾
+@skin6      🏿
+@wskin      🏻
+@llskin     🏻
+@lskin      🏼
+@mskin      🏽
+@dskin      🏾
+@ddskin     🏿
+@bskin      🏿
 
 # %}}}
 

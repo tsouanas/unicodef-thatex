@@ -56,6 +56,10 @@ whandl        ☜  # [w]hite
 whandr        ☞
 whandu        ☝
 whandd        ☟
+peacehand     ✌
+peaceh        ✌
+vsign         ✌
+
 bphone        ☎
 wphone        ☏
 phone         ☏  # default: [w]
@@ -132,7 +136,32 @@ trinca        𝓔𝓧𝟑
 
 # %}}}
 
-# XXX: abbrevs for 6-char limit
-umbrel        ☂
-snowma        ☃
+# music player (/-prefixed) %{{{
+
+/play       ▶
+/pause      ⏸
+/playpause  ⏯
+/pp         ⏯
+/stop       ⏹
+/rec        ⏺
+/eject      ⏏
+/eje        ⏏
+/reverse    ⏴
+/rev        ⏴
+/ffwd       ⏩
+/fastfwd    ⏩
+/rewind     ⏪
+/fastf      ⏩
+/fastb      ⏩
+/next       ⏭
+/prev       ⏮
+/ntrack     ⏭
+/ptrack     ⏮
+/skipf      ⏭
+/skipb      ⏮
+/replay     ↺
+/onoff      ⏻
+/power      ⏻
+
+# %}}}
 
