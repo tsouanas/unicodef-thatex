@@ -43,6 +43,7 @@ phantom0           
 phdig                # [ph]antom [dig]it
 dspc                 # [d]igit [spc] (synonym for above)
 phantom,          ⁣  # [phantom] [,]  (invisible separator)
+,                 ⁣
 blank             ⠀  # XXX: abuse: braille blank pattern
 
 # %}}}
