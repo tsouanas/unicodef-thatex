@@ -32,6 +32,7 @@
 | <code>phdig</code> |   |
 | <code>dspc</code> |   |
 | <code>phantom,</code> | ⁣ |
+| <code>,</code> | ⁣ |
 | <code>blank</code> | ⠀ |
 | <code>hypod</code> | ⸒ |
 | <code>hypog</code> | ͺ |
@@ -2933,10 +2934,8 @@
 | <code>wp</code> | ℘ |
 | <code>nabla</code> | ∇ |
 | <code>hbar</code> | ħ |
-| <code>hb</code> | ħ |
 | <code>h-</code> | ħ |
 | <code>hslash</code> | ℏ |
-| <code>hs</code> | ℏ |
 | <code>h/</code> | ℏ |
 | <code>doti</code> | ı |
 | <code>dotj</code> | ȷ |
@@ -3284,6 +3283,10 @@
 | <code>cap</code> | ∩ |
 | <code>Cup</code> | ⋃ |
 | <code>Cap</code> | ⋂ |
+| <code>scup</code> | ⊔ |
+| <code>scap</code> | ⊓ |
+| <code>Scup</code> | ⨆ |
+| <code>Scap</code> | ⨅ |
 | <code>uplus</code> | ⊎ |
 | <code>Uplus</code> | ⨄ |
 | <code>uminus</code> | ⩁ |
@@ -4025,6 +4028,10 @@
 | <code>@ussim</code> | ᷽ |
 | <code>@usmile</code> | ̮ |
 | <code>@ufrown</code> | ̯ |
+| <code>@uscup</code> | ̺ |
+| <code>@uscap</code> | ̪ |
+| <code>@usjoin</code> | ̺ |
+| <code>@usmeet</code> | ̪ |
 | <code>@uzap</code> | ᷏ |
 | <code>@uzeus</code> | ᷏ |
 | <code>@uthis</code> | ͎ |

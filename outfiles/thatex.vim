@@ -31,6 +31,7 @@ inoremap \\phantom0  
 inoremap \\phdig  
 inoremap \\dspc  
 inoremap \\phantom, ⁣
+inoremap \\, ⁣
 inoremap \\blank ⠀
 inoremap \\hypod ⸒
 inoremap \\hypog ͺ
@@ -2932,10 +2933,8 @@ inoremap \\bfpstar ★
 inoremap \\wp ℘
 inoremap \\nabla ∇
 inoremap \\hbar ħ
-inoremap \\hb ħ
 inoremap \\h- ħ
 inoremap \\hslash ℏ
-inoremap \\hs ℏ
 inoremap \\h/ ℏ
 inoremap \\doti ı
 inoremap \\dotj ȷ
@@ -3283,6 +3282,10 @@ inoremap \\cup ∪
 inoremap \\cap ∩
 inoremap \\Cup ⋃
 inoremap \\Cap ⋂
+inoremap \\scup ⊔
+inoremap \\scap ⊓
+inoremap \\Scup ⨆
+inoremap \\Scap ⨅
 inoremap \\uplus ⊎
 inoremap \\Uplus ⨄
 inoremap \\uminus ⩁
@@ -4024,6 +4027,10 @@ inoremap \\@usim ̰
 inoremap \\@ussim ᷽
 inoremap \\@usmile ̮
 inoremap \\@ufrown ̯
+inoremap \\@uscup ̺
+inoremap \\@uscap ̪
+inoremap \\@usjoin ̺
+inoremap \\@usmeet ̪
 inoremap \\@uzap ᷏
 inoremap \\@uzeus ᷏
 inoremap \\@uthis ͎
