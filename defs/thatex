@@ -3705,6 +3705,10 @@ cup               ∪
 cap               ∩
 Cup               ⋃
 Cap               ⋂
+scup              ⊔  # [s]quare
+scap              ⊓
+Scup              ⨆
+Scap              ⨅
 uplus             ⊎  # [u]nion
 Uplus             ⨄
 uminus            ⩁
@@ -4570,6 +4574,10 @@ _top              ˕
 @ussim             ᷽
 @usmile            ̮
 @ufrown            ̯
+@uscup             ̺
+@uscap             ̪
+@usjoin            ̺
+@usmeet            ̪
 
 ### misc
 @uzap              ᷏
