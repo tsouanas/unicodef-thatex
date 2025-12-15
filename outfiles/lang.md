@@ -615,6 +615,7 @@
 | <code>~I</code> | Ĩ |
 | <code>~N</code> | Ñ |
 | <code>~O</code> | Õ |
+| <code>~S</code> | S̃ |
 | <code>~U</code> | Ũ |
 | <code>~V</code> | Ṽ |
 | <code>~Y</code> | Ỹ |
@@ -623,6 +624,7 @@
 | <code>~i</code> | ĩ |
 | <code>~n</code> | ñ |
 | <code>~o</code> | õ |
+| <code>~s</code> | s̃ |
 | <code>~u</code> | ũ |
 | <code>~v</code> | ṽ |
 | <code>~y</code> | ỹ |
@@ -744,6 +746,7 @@
 | <code>s.</code> | ṡ |
 | <code>s^</code> | ŝ |
 | <code>sv</code> | š |
+| <code>s~</code> | s̃ |
 | <code>s%</code> | ṩ |
 | <code>t!</code> | ṭ |
 | <code>t-</code> | ŧ |
@@ -903,6 +906,7 @@
 | <code>S.</code> | Ṡ |
 | <code>S^</code> | Ŝ |
 | <code>Sv</code> | Š |
+| <code>S~</code> | S̃ |
 | <code>S%</code> | Ṩ |
 | <code>T!</code> | Ṭ |
 | <code>T-</code> | Ŧ |
