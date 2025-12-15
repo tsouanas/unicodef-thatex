@@ -613,6 +613,20 @@ ww                ʬ
 bilp              ʬ  # [bi][l]abial [p]ercussive
 bidp              ʭ  # [bi][d]ental
 
+# middle tilde
+b~~               ᵬ
+d~~               ᵭ
+f~~               ᵮ
+m~~               ᵯ
+n~~               ᵰ
+p~~               ᵱ
+r~~               ᵲ
+r,~~              ᵳ  # +fishhook
+r~~,              ᵳ
+s~~               ᵴ
+t~~               ᵵ
+z~~               ᵶ
+
 # %}}}
 
 ## reverse %{{{
@@ -3356,6 +3370,7 @@ b,,               ƀ
 B,,               Ƀ
 b,,,              ƃ
 B,,,              Ƃ
+b,4               ᵬ
 c,                ɕ
 C,                𝒞  # WARN: abuse: not its uppercase
 d,                ɗ
@@ -3364,11 +3379,13 @@ d,,               ꝺ
 D,,               Ꝺ
 D,,,              Ƌ
 d,,,              ƌ
+d,4               ᵭ
 E,                Ɛ
 e,                ɛ
 e,,               𝑒
 f,                ƒ
 F,                Ƒ
+f,,               ᵮ
 g,                ɠ
 G,                Ɠ
 g,,               ɡ
@@ -3400,18 +3417,21 @@ L,                ℒ
 l,,               ȴ
 m,                ɱ
 M,                Ɱ
+m,,               ᵯ
 n,                ŋ
 N,                Ŋ
 n,,               ɲ
 N,,               Ɲ
 n,,,              ɳ
 n,4               ȵ
+n,5               ᵰ
 p,                ƥ
 P,                Ƥ
 p,,               ꝓ
 P,,               Ꝓ
 p,,,              ꝕ
 P,,,              Ꝕ
+p,4               ᵱ
 q,                ꝗ
 Q,                Ꝗ
 q,,               ɋ
@@ -3425,8 +3445,11 @@ r,,               ɍ
 R,,               Ɍ
 r,,,              ꞃ
 R,,,              Ꞃ
+r,4               ᵲ
+r,5               ᵳ
 s,                ȿ
 S,                Ȿ
+s,,               ᵴ
 t,                ƭ
 T,                Ƭ
 t,,               ꞇ
@@ -3436,6 +3459,7 @@ T,,,              ᤒ  # WARN: abuse: not its uppercase
 t,4               ⲧ
 T,4               Ⲧ
 T,5               Ʈ
+t,6               ᵵ
 v,                ⱴ
 V,                𝒱  # WARN: abuse: not its uppercase
 v,,               ʋ
@@ -3457,6 +3481,7 @@ Z,,               Ƶ
 z,,,              ʑ
 z,4               ᤃ
 Z,4               𝒵  # WARN: abuse: not its uppercase
+z,5               ᵶ
 sh                ʃ
 Sh                Ʃ
 sh,               ʆ

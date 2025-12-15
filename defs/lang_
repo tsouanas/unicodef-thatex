@@ -731,6 +731,7 @@ Lu     ȗ
 ~I     Ĩ
 ~N     Ñ
 ~O     Õ
+~S     S̃  # WARN: decorated
 ~U     Ũ
 ~V     Ṽ
 ~Y     Ỹ
@@ -739,6 +740,7 @@ Lu     ȗ
 ~i     ĩ
 ~n     ñ
 ~o     õ
+~s     s̃  # WARN: decorated
 ~u     ũ
 ~v     ṽ
 ~y     ỹ
@@ -866,6 +868,7 @@ s'     ś
 s.     ṡ
 s^     ŝ
 sv     š
+s~     s̃  # WARN: decorated
 s%     ṩ
 t!     ṭ
 t-     ŧ
@@ -1027,6 +1030,7 @@ S'     Ś
 S.     Ṡ
 S^     Ŝ
 Sv     Š
+S~     S̃  # WARN: decorated
 S%     Ṩ
 T!     Ṭ
 T-     Ŧ
