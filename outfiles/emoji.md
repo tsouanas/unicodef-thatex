@@ -394,6 +394,7 @@
 | <code>cocktail</code> | 🍹 |
 | <code>coco</code> | 🥥 |
 | <code>cookie</code> | 🍪 |
+| <code>cupcake</code> | 🧁 |
 | <code>donut</code> | 🍩 |
 | <code>doh</code> | 🍩 |
 | <code>steak</code> | 🥩 |

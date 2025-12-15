@@ -393,6 +393,7 @@ inoremap \\cherry 🍒
 inoremap \\cocktail 🍹
 inoremap \\coco 🥥
 inoremap \\cookie 🍪
+inoremap \\cupcake 🧁
 inoremap \\donut 🍩
 inoremap \\doh 🍩
 inoremap \\steak 🥩
