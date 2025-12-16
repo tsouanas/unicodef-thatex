@@ -19,7 +19,7 @@ plaster     🩹
 mimi        🩹
 vava        🩹
 ballot      🗳
-bin         🗑
+paperbin    🗑
 blow        🌬
 boat        ⛵
 brick       🧱
@@ -83,8 +83,14 @@ sound       🔈
 soundon     🔊
 soundoff    🔇
 suitcase    🧳
-hourglass   ⌛
-hourglass   ⏳
+hglass      ⏳
+hglass,     ⌛
+hglasson    ⏳
+hglassoff   ⌛
+houron      ⏳
+houroff     ⌛
+timepass    ⏳
+timeover    ⌛
 knot        🪢
 loudspeaker 📢
 loudspeak   📢
@@ -110,7 +116,7 @@ scroll      📜
 shopping    🛍
 shower      🚿
 tada        🎉
-target      🎯
+Target      🎯
 spoton      🎯
 bulls       🎯
 Bullseye    🎯
@@ -312,7 +318,9 @@ dynamite      🧨
 tnt           🧨
 fire          🔥
 flame         🔥
-fight         🫯
+brawl         🫯
+fightc        🫯
+fcloud        🫯
 firecracker   🧨
 firecrack     🧨
 ghost         👻
@@ -325,11 +333,9 @@ hammer        🔨
 gun           🔫
 pistol        🔫
 syringe       💉
-Swords        ⚔️
 saw           🪚
 knife         🔪
 scissors      ✂️
-pick          ⛏
 boomerang     🪃
 axe           🪓
 screwdriver   🪛
@@ -671,12 +677,11 @@ holdlol     🤭
 hidelaugh   🤭
 hidelol     🤭
 hlol        🤭
+fogged      😶‍🌫️
 cloudlook   😶‍🌫️
 cloudface   😶‍🌫️
 fogface     😶‍🌫️
 mistface    😶‍🌫️
-misty       😶‍🌫️
-hmouth      🫢
 hidemouth   🫢
 holdmouth   🫢
 hmouth      🫢
@@ -1129,14 +1134,16 @@ lovesign    💟
 
 # INFO: neutral versions in defs/misc
 
-Coffin        ⚰️
-Sun           ☀️
-Comet         ☄️
 Cloud         ☁️
-Umbrella      ☂️
-Snowman       ☃️
-Write         ✍️
+Coffin        ⚰️
+Comet         ☄️
+Pick          ⛏️
 Sign          ✍️
+Snowman       ☃️
+Sun           ☀️
+Swords        ⚔️
+Umbrella      ☂️
+Write         ✍️
 
 # %}}}
 
