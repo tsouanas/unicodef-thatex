@@ -537,6 +537,7 @@
 | <code>\ukraine</code> | 🇺🇦 |
 | <code>\uganda</code> | 🇺🇬 |
 | <code>\usoutlying</code> | 🇺🇲 |
+| <code>\usa</code> | 🇺🇸 |
 | <code>\uruguay</code> | 🇺🇾 |
 | <code>\uzbekistan</code> | 🇺🇿 |
 | <code>\vaticancity</code> | 🇻🇦 |

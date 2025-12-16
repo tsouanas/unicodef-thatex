@@ -536,6 +536,7 @@ inoremap \\\tanzania 🇹🇿
 inoremap \\\ukraine 🇺🇦
 inoremap \\\uganda 🇺🇬
 inoremap \\\usoutlying 🇺🇲
+inoremap \\\usa 🇺🇸
 inoremap \\\uruguay 🇺🇾
 inoremap \\\uzbekistan 🇺🇿
 inoremap \\\vaticancity 🇻🇦
