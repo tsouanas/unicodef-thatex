@@ -138,18 +138,22 @@ para              ¶  # [para]graph
 paras             ¶¶ # [para]graph[s]
 par               ¶
 pars              ¶¶
+para,             ❡
+paras,            ❡❡
+par,              ❡
+pars,             ❡❡
 sect              §  # [sect]ion
 sects             §§
 sec               §
 secs              §§
 ref               ※  # [ref]erence mark
 hlight            ⁜  # [h]igh[light] mark
-dagger            †
 dag               †
-ddagger           ‡  # ([d]ouble)
-ddag              ‡
-2dagger           ‡
+ddag              ‡  # ([d]ouble)
+dddag             ‡  # (triple)
 2dag              ‡
+3dag              ⹋
+codag             ⸸
 bullet            •  # WARN: bul is not short for bullet
 wbullet           ◦  # [w]hite
 bbul              •
@@ -684,6 +688,8 @@ fractimes         ⋇
 divtimes          ⋇
 divby             ∕  # {use inline}
 fracby            ⁄  # {use with sup/subscripts}
+2divby            ⫽
+ddivby            ⫽
 exp               ˆ  # [exp]onentiation
 pow               ˆ  # to the [pow]er of
 inv               ⁻¹ # [inv]erse
@@ -1542,6 +1548,13 @@ aleph             ℵ
 beth              ℶ
 gimel             ℷ
 daleth            ℸ
+dalet             ℸ
+aleph0            ℵ₀
+aleph1            ℵ₁
+aleph2            ℵ₂
+beth0             ℶ₀
+beth1             ℶ₁
+beth2             ℶ₂
 continuum         𝔠
 eqc               =꜀  # in [c]ardinality
 leqc              ≤꜀
@@ -3501,6 +3514,8 @@ pilcrow           ¶
 silcrow           §
 pil               ¶
 sil               §
+pilcrow,          ❡
+pil,              ❡
 spot              ⦁
 scarab            ¤
 pillow            ⌑  # zZzZzzz...
