@@ -223,6 +223,10 @@ inoremap \\Poison ☠️
 inoremap \\voltage ⚡
 inoremap \\Zap ⚡
 inoremap \\Warn ⚠️
+inoremap \\location 📍
+inoremap \\location, 📌
+inoremap \\loc 📍
+inoremap \\loc, 📌
 inoremap \\pin 📌
 inoremap \\pin, 📍
 inoremap \\map 🗺

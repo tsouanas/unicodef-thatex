@@ -741,6 +741,10 @@
 | <code>voltage</code> | ⚡ |
 | <code>Zap</code> | ⚡ |
 | <code>Warn</code> | ⚠️ |
+| <code>location</code> | 📍 |
+| <code>location,</code> | 📌 |
+| <code>loc</code> | 📍 |
+| <code>loc,</code> | 📌 |
 | <code>pin</code> | 📌 |
 | <code>pin,</code> | 📍 |
 | <code>map</code> | 🗺 |
