@@ -108,13 +108,16 @@ inoremap \*i ◘
 inoremap \*a ∗
 inoremap \*8 ⁕
 inoremap \*pp ➤
+inoremap \*> ➤
 inoremap \*pw ▻
 inoremap \*pb ►
 inoremap \*t ‣
 inoremap \*d –
+inoremap \*- –
 inoremap \*h ⁃
 inoremap \*f ❧
 inoremap \*l ❥
+inoremap \*<3 ❥
 inoremap \*s ★
 inoremap \oo º
 inoremap \aa ª

@@ -47,7 +47,7 @@
 | <code>_;</code> | ﹔ |
 | <code>_,</code> | ﹐ |
 | <code>_.</code> | ﹒ |
-| <code>//</code> | ⁄ |
+| <code>/.</code> | ⁄ |
 | <code>1/-</code> | ⅟ |
 | <code>1/;</code> | ⅟ |
 | <code>0/3</code> | ↉ |
@@ -152,6 +152,7 @@
 | <code>1//</code> | ⁄ |
 | <code>2//</code> | ⫽ |
 | <code>3//</code> | ⫻ |
+| <code>//</code> | ⫽ |
 | <code>2\\\</code> | ⑊ |
 | <code>%2</code> | % |
 | <code>%3</code> | ‰ |
@@ -196,6 +197,7 @@
 | <code>&gt;@&lt;</code> | ⪤ |
 | <code>&gt;&lt;</code> | ⪤ |
 | <code>&gt;,&lt;</code> | ⪥ |
+| <code>&lt;3</code> | ♡ |
 | <code>[[</code> | ⟦ |
 | <code>]]</code> | ⟧ |
 | <code>2[</code> | ⟦ |

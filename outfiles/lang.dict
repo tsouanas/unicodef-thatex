@@ -2131,9 +2131,13 @@
   };
   "*" = {
     "s" = ("insertText:", "★");
+    "<" = {
+      "3" = ("insertText:", "❥");
+    };
     "l" = ("insertText:", "❥");
     "f" = ("insertText:", "❧");
     "h" = ("insertText:", "⁃");
+    "-" = ("insertText:", "–");
     "d" = ("insertText:", "–");
     "t" = ("insertText:", "‣");
     "p" = {
@@ -2141,6 +2145,7 @@
       "w" = ("insertText:", "▻");
       "p" = ("insertText:", "➤");
     };
+    ">" = ("insertText:", "➤");
     "8" = ("insertText:", "⁕");
     "a" = ("insertText:", "∗");
     "i" = ("insertText:", "◘");

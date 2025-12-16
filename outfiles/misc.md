@@ -12,6 +12,8 @@
 | <code>umbrella</code> | ☂ |
 | <code>snowman</code> | ☃ |
 | <code>sham</code> | ☘ |
+| <code>celt</code> | 🕈 |
+| <code>celtic</code> | 🕈 |
 | <code>aesculapius</code> | ⚕ |
 | <code>aescul</code> | ⚕ |
 | <code>caduceus</code> | ⚚ |
@@ -42,6 +44,7 @@
 | <code>medicine</code> | ⚕ |
 | <code>law</code> | ⚖ |
 | <code>pirate</code> | ☠ |
+| <code>bheart</code> | ❤ |
 | <code>bhandl</code> | ☚ |
 | <code>bhandr</code> | ☛ |
 | <code>whandl</code> | ☜ |
@@ -51,13 +54,14 @@
 | <code>peacehand</code> | ✌ |
 | <code>peaceh</code> | ✌ |
 | <code>vsign</code> | ✌ |
+| <code>wpencil</code> | ✏ |
 | <code>bphone</code> | ☎ |
 | <code>wphone</code> | ☏ |
 | <code>phone</code> | ☏ |
 | <code>mail</code> | ✉ |
-| <code>email</code> | ✉ |
 | <code>write</code> | ✍ |
 | <code>sign</code> | ✍ |
+| <code>cuthere</code> | ✂ |
 | <code>gear</code> | ⚙ |
 | <code>swords</code> | ⚔ |
 | <code>justice</code> | ⚖ |

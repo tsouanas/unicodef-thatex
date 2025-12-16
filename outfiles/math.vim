@@ -46,7 +46,7 @@ inoremap \_: ﹕
 inoremap \_; ﹔
 inoremap \_, ﹐
 inoremap \_. ﹒
-inoremap \// ⁄
+inoremap \/. ⁄
 inoremap \1/- ⅟
 inoremap \1/; ⅟
 inoremap \0/3 ↉
@@ -151,6 +151,7 @@ inoremap \2: ⦂
 inoremap \1// ⁄
 inoremap \2// ⫽
 inoremap \3// ⫻
+inoremap \// ⫽
 inoremap \2\\ ⑊
 inoremap \%2 %
 inoremap \%3 ‰
@@ -195,6 +196,7 @@ inoremap \<@> ⪤
 inoremap \>@< ⪤
 inoremap \>< ⪤
 inoremap \>,< ⪥
+inoremap \<3 ♡
 inoremap \[[ ⟦
 inoremap \]] ⟧
 inoremap \2[ ⟦

@@ -109,13 +109,16 @@
 | <code>*a</code> | ∗ |
 | <code>*8</code> | ⁕ |
 | <code>*pp</code> | ➤ |
+| <code>*&gt;</code> | ➤ |
 | <code>*pw</code> | ▻ |
 | <code>*pb</code> | ► |
 | <code>*t</code> | ‣ |
 | <code>*d</code> | – |
+| <code>*-</code> | – |
 | <code>*h</code> | ⁃ |
 | <code>*f</code> | ❧ |
 | <code>*l</code> | ❥ |
+| <code>*&lt;3</code> | ❥ |
 | <code>*s</code> | ★ |
 | <code>oo</code> | º |
 | <code>aa</code> | ª |

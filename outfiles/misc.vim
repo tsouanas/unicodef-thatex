@@ -11,6 +11,8 @@ inoremap \\cloud ☁
 inoremap \\umbrella ☂
 inoremap \\snowman ☃
 inoremap \\sham ☘
+inoremap \\celt 🕈
+inoremap \\celtic 🕈
 inoremap \\aesculapius ⚕
 inoremap \\aescul ⚕
 inoremap \\caduceus ⚚
@@ -41,6 +43,7 @@ inoremap \\benzene ⌬
 inoremap \\medicine ⚕
 inoremap \\law ⚖
 inoremap \\pirate ☠
+inoremap \\bheart ❤
 inoremap \\bhandl ☚
 inoremap \\bhandr ☛
 inoremap \\whandl ☜
@@ -50,13 +53,14 @@ inoremap \\whandd ☟
 inoremap \\peacehand ✌
 inoremap \\peaceh ✌
 inoremap \\vsign ✌
+inoremap \\wpencil ✏
 inoremap \\bphone ☎
 inoremap \\wphone ☏
 inoremap \\phone ☏
 inoremap \\mail ✉
-inoremap \\email ✉
 inoremap \\write ✍
 inoremap \\sign ✍
+inoremap \\cuthere ✂
 inoremap \\gear ⚙
 inoremap \\swords ⚔
 inoremap \\justice ⚖
