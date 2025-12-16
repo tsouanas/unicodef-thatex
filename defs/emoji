@@ -246,6 +246,10 @@ voltage        ⚡
 Zap            ⚡
 Warn           ⚠️
 
+location       📍
+location,      📌
+loc            📍
+loc,           📌
 pin            📌
 pin,           📍
 map            🗺
