@@ -29,6 +29,7 @@
 | <code>crown</code> | 👑 |
 | <code>galois</code> | 🔪👑 |
 | <code>ding</code> | 🛎 |
+| <code>dive</code> | 🤿 |
 | <code>door</code> | 🚪 |
 | <code>drop</code> | 💧 |
 | <code>drops</code> | 💦 |
@@ -125,6 +126,7 @@
 | <code>tp</code> | 🧻 |
 | <code>TP</code> | 🧻 |
 | <code>toothbrush</code> | 🪥 |
+| <code>scuba</code> | 🤿 |
 | <code>soap</code> | 🧼 |
 | <code>sponge</code> | 🧽 |
 | <code>splatter</code> | 🫟 |
@@ -491,6 +493,7 @@
 | <code>wrose</code> | 🥀 |
 | <code>sunflower</code> | 🌻 |
 | <code>cactus</code> | 🌵 |
+| <code>coral</code> | 🪸 |
 | <code>lucky</code> | 🍀 |
 | <code>Luck</code> | 🍀 |
 | <code>platanos</code> | 🍁 |

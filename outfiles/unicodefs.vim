@@ -28,6 +28,7 @@ inoremap \\compass 🧭
 inoremap \\crown 👑
 inoremap \\galois 🔪👑
 inoremap \\ding 🛎
+inoremap \\dive 🤿
 inoremap \\door 🚪
 inoremap \\drop 💧
 inoremap \\drops 💦
@@ -124,6 +125,7 @@ inoremap \\toiletp 🧻
 inoremap \\tp 🧻
 inoremap \\TP 🧻
 inoremap \\toothbrush 🪥
+inoremap \\scuba 🤿
 inoremap \\soap 🧼
 inoremap \\sponge 🧽
 inoremap \\splatter 🫟
@@ -490,6 +492,7 @@ inoremap \\rose 🌹
 inoremap \\wrose 🥀
 inoremap \\sunflower 🌻
 inoremap \\cactus 🌵
+inoremap \\coral 🪸
 inoremap \\lucky 🍀
 inoremap \\Luck 🍀
 inoremap \\platanos 🍁
