@@ -50,6 +50,7 @@ medicine      ⚕
 law           ⚖
 pirate        ☠
 
+bheart        ❤  # [b]lack heart
 bhandl        ☚  # [b]lack hand [l]eft
 bhandr        ☛
 whandl        ☜  # [w]hite
@@ -60,13 +61,14 @@ peacehand     ✌
 peaceh        ✌
 vsign         ✌
 
+wpencil       ✏
 bphone        ☎
 wphone        ☏
 phone         ☏  # default: [w]
 mail          ✉
-email         ✉
 write         ✍
 sign          ✍
+cuthere       ✂
 
 gear          ⚙
 swords        ⚔

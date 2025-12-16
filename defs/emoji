@@ -6,9 +6,21 @@
 
 # misc %{{{
 
+100         💯
 abandon     🏚
+amphora     🏺
 anchor      ⚓
 announce    📢
+backpack    🎒
+bath        🛁
+bandaid     🩹
+bucket      🪣
+plaster     🩹
+mimi        🩹
+vava        🩹
+ballot      🗳
+bin         🗑
+blow        🌬
 boat        ⛵
 brick       🧱
 tijolo      🧱
@@ -18,32 +30,62 @@ buoy        🛟
 cart        🛒
 clip        📎
 clips       🖇
+compass     🧭
+crown       👑
+galois      🔪👑
 ding        🛎
 door        🚪
 drop        💧
 drops       💦
+email       📧
+inbox       📥
+outbox      📤
+package     📦
+parcel      📦
+cargo       📦
+envelope    ✉️
 fart        ⸩💨
 prrt        ⸩💨
+flipflop    🩴
+chinelo     🩴
+hava        🩴
+gem         💎
+glasses     👓
+gradhat     🎓
+graduate    🎓
+graduation  🎓
 gust        💨
 gone        💨
 dash        💨
 Gone        💨🍃
 Dash        💨🍃
-wind        🌬
-blow        🌬
-fire        🔥
-flame       🔥
-gancho      🪝
+goggles     🥽
+gay         🌈
 gift        🎁
-hook        🪝
+idcard      🪪
 jar         🫙
+key         🔑
+key,        🗝
+oldkey      🗝
+label       🏷
+lipstick    💄
+lock        🔒
+unlock      🔓
 log         🪵
 loud        🔊
+luggage     🧳
 mute        🔇
 mirror      🪞
+padlock     🔒
+padlock,    🔓
+pour        🫗
 sound       🔈
 soundon     🔊
 soundoff    🔇
+suitcase    🧳
+hourglass   ⌛
+hourglass   ⏳
+knot        🪢
 loudspeaker 📢
 loudspeak   📢
 louds       📢
@@ -51,29 +93,49 @@ lspeaker    📢
 speaker     🔈
 speech      🗣
 megaphone   📣
+mess        🫟
+paint       🎨
+palette     🎨
 paperc      📎
 pclip       📎
+pencil      ✏️
 pill        💊
 pit         🕳
 poo         💩
 protest     📣
 rainbow     🌈
-gay         🌈
+ring        💍
 rocket      🚀
 scroll      📜
 shopping    🛍
 shower      🚿
 tada        🎉
+target      🎯
+spoton      🎯
+bulls       🎯
+Bullseye    🎯
+namosca     🎯
 tear        💧
 tears       💦
+teddy       🧸
+thermo      🌡
 toilet      🚽
 toiletp     🧻
 tp          🧻
 TP          🧻
+toothbrush  🪥
+soap        🧼
+sponge      🧽
+splatter    🫟
 sunglasses  🕶
 sglasses    🕶
-glasses     👓
+shades      🕶
+urn         ⚱️
+vote        🗳
+wand        🪄
+watermask   🥽
 wave        🌊
+wind        🌬
 
 gcup        🏆
 gmedal      🥇
@@ -159,9 +221,16 @@ underc         🚧
 ucons          🚧
 top^           🔝  # TODO: rename to TOP or top (if/when we prefix emojis)
 topsign        🔝
+backsign       🔙
 
 Forbid         🚫
 Prohib         🚫
+donot          🚫
+dont           🚫
+noentry        ⛔
+donotenter     ⛔
+dontenter      ⛔
+
 Recycle        ♻️
 Radiohaz       ☢️
 Toxic          ☣️
@@ -186,13 +255,23 @@ oceania        🌏
 globe          🌐
 
 nosmoking      🚭
+nomobiles      📵
+nomobile       📵
+nophones       📵
+nophone        📵
 nolitter       🚯
 nonoise        🔇
 potable        🚰
 nonpotable     🚱
 nobicycles     🚳
+nobicycle      🚳
 nopedestrians  🚷
+nopedestrian   🚷
 nohumans       🚷
+nohuman        🚷
+nou18          🔞
+nokids         🔞
+adultsonly     🔞
 
 # %}}}
 
@@ -207,59 +286,92 @@ QQ          ❓
 BANGASK     ⁉️
 BANGA       ⁉️
 WARN        ⚠️
+SOS         🆘
+VS          🆚
 
 # %}}}
 
 # violence-promoting %{{{
 
-blood       🩸
-bomb        💣
-boom        💥
-boxing      🥊
-bow         🏹
-burn        🔥
-dead        💀
-deadly      ☠
-death       ☠
-Swords      ⚔️
-ghost       👻
-hammer      🔨
-jack        🎃
-halloween   🎃
-hallo       🎃
-gun         🔫
-saw         🪚
-knife       🔪
-shovel      🪏
-tomb        🪦
-phantom     👻
-policeo     👮
-policem     👮‍♂️
-policew     👮‍♀️
-policef     👮‍♀️
-clown       🤡
-pennywise   🎈🤡
-pennyw      🎈🤡
-ninja       🥷
-zombie      🧟
-vampire     🧛
-vamp        🧛
-troll       🧌
-ogre        👹
-devil       👹
-demon       👹
-imp         👿
-maddevil    👿
-elf         🧝
-darkelf     🧝🏿
-drow        🧝🏿
-fairy       🧚
-fae         🧚
-alien       👽
-invader     👾
-ufo         🛸
-robot       🤖
-boo         👻
+blood         🩸
+bomb          💣
+boom          💥
+boxing        🥊
+bow           🏹
+burn          🔥
+clown         🤡
+pennywise     🎈🤡
+pennyw        🎈🤡
+dagger        🗡
+deadly        ☠️
+death         ☠
+Death         💀
+grim          💀
+reaper        💀
+dynamite      🧨
+tnt           🧨
+fire          🔥
+flame         🔥
+fight         🫯
+firecracker   🧨
+firecrack     🧨
+ghost         👻
+jack          🎃
+halloween     🎃
+hallo         🎃
+hook          🪝
+gancho        🪝
+hammer        🔨
+gun           🔫
+pistol        🔫
+syringe       💉
+Swords        ⚔️
+saw           🪚
+knife         🔪
+scissors      ✂️
+pick          ⛏
+boomerang     🪃
+axe           🪓
+screwdriver   🪛
+screwd        🪛
+sdriver       🪛
+wrench        🔧
+fireext       🧯
+rock          🪨
+shovel        🪏
+tomb          🪦
+phantom       👻
+trap          🪤
+policeo       👮
+policem       👮‍♂️
+policew       👮‍♀️
+policef       👮‍♀️
+ninja         🥷
+zombie        🧟
+vampire       🧛
+vamp          🧛
+troll         🧌
+ogre          👹
+devil         👹
+demon         👹
+goblin        👺
+tengu         👺
+imp           👿
+maddevil      👿
+elf           🧝
+darkelf       🧝🏿
+drow          🧝🏿
+fairy         🧚
+fae           🧚
+alien         👽
+invader       👾
+ufo           🛸
+robot         🤖
+boo           👻
+mermaid       🧜
+genie         🧞
+creature      🫈
+bigfoot       🫈
 
 # %}}}
 
@@ -297,6 +409,12 @@ pingpong    🏓
 die         🎲
 puzzle      🧩
 chess       ♟️
+golf        ⛳
+dance       💃
+dancer      💃
+dancerf     💃
+dancerw     💃
+dancerm     🕺
 
 # %}}}
 
@@ -309,8 +427,11 @@ floppy      💾
 gamepad     🎮
 joystick    🕹
 joy         🕹
+bright      🔆
 wifi        🛜
 signal      📶
+mobileoff   📴
+vibrate     📳
 camera      📷
 cam         📷
 camf        📸
@@ -380,6 +501,7 @@ milky         🌌
 bat         🦇
 bee         🐝
 bird        🐦
+blackbird   🐦‍⬛
 butterfly   🦋
 crab        🦀
 cri         🦗
@@ -396,6 +518,7 @@ ganso       🪿
 hippo       🦛
 ladybug     🐞
 joan        🐞
+lobster     🦞
 moo         🐮
 octo        🐙
 owl         🦉
@@ -452,6 +575,7 @@ beer        🍺
 beers       🍻
 birthday    🎂
 bday        🎂
+bubbletea   🧋
 burger      🍔
 burrito     🌯
 cafe        ☕
@@ -462,17 +586,23 @@ cherry      🍒
 cocktail    🍹
 coco        🥥
 cookie      🍪
+croissant   🥐
 cupcake     🧁
+cupstraw    🥤
 donut       🍩
 doh         🍩
-steak       🥩
+falafel     🧆
 grape       🍇
 gyro        🌯
 honey       🍯
+ice         🧊
+icecube     🧊
 icecream    🍨
 kebab       🌯
 lime        🍋‍🟩
 martini     🍸
+mate        🧉
+pamonha     🫔
 pear        🍐
 pera        🍐
 pint        🍺
@@ -482,7 +612,11 @@ popcorn     🍿
 portobello  🍄‍🟫
 provar      🍨
 scotch      🥃
+steak       🥩
+tamale      🫔
 tintin      🥂
+whiskey     🥃
+whisky      🥃
 wine        🍷
 
 chops       🥢
@@ -498,9 +632,20 @@ noprofile   👤
 profile     👤
 speak       💬
 say         💬
+sayl        🗨
+sayr        🗩
+sayb        🗪
+saym        🗫
 think       💭
+thinkl      🗬
+thinkr      🗭
 yell        🗯
+yellr       🗯
+yelll       🗮
 shout       🗯
+shoutr      🗯
+shoutl      🗮
+witness     👁️‍🗨️
 yell,       🗣📣
 shout,      🗣📣
 zzz         💤
@@ -516,13 +661,25 @@ thugl       🚬😎
 thugr       😎🚬
 inno        😗🎶
 laugh       😆
-holdlaugh   🤭
-holdlol     🤭
 lol         😂
 rofl        🤣
 haha        😆
 Haha        😂
 HAHA        🤣
+holdlaugh   🤭
+holdlol     🤭
+hidelaugh   🤭
+hidelol     🤭
+hlol        🤭
+cloudlook   😶‍🌫️
+cloudface   😶‍🌫️
+fogface     😶‍🌫️
+mistface    😶‍🌫️
+misty       😶‍🌫️
+hmouth      🫢
+hidemouth   🫢
+holdmouth   🫢
+hmouth      🫢
 happy       🙂
 cohappy     🙃
 yppah       🙃
@@ -533,6 +690,9 @@ dunno       😐
 sad         🙁
 Sad         ☹️
 lying       🤥
+bignose     🤥
+shaken      🫨
+quake       🫨
 cowboy      🤠
 yeeha       🤠
 psycho      😀🔪
@@ -541,10 +701,15 @@ eyesonly    😶
 stare       😶
 poker       😶
 invis       🫥
+kiss        😘
+kiss,       💋
+kissmark    💋
 loved       🥰
 inlove      😍
 instar      🤩
 stareyes    🤩
+sup         😏
+smirk       😏
 ouch        😕
 confused    😕
 yessir      🫡
@@ -554,21 +719,31 @@ ncool       🫤
 woah        😯
 Woah        😲
 gasp        😮
-hidemouth   🫢
-hmouth      🫢
 blush       😳
 embar       😳
 shy         ☺️
 fear        😦
 Fear        😨
 terror      😨
+tripping    🫪
+distorted   🫪
+distort     🫪
 worry       😟
+worried     😟
 Worry       😰
+Worried     😰
 sweat       😅
 snot        😪
 tired       😪
+sadtear     😢
+stear       😢
 lygm        😢
-cry         😭
+cry         😢
+cry,        😢
+Cry         😭
+angry       😠
+angry,      😡
+Angry       😡
 grr         😠
 grrr        😡
 Grr         😡
@@ -580,6 +755,8 @@ evil        😈
 good        😇
 halo        😇
 angel       👼
+happytear   🥲
+htear       🥲
 sadin       🥲  # [sad] [in]side
 thmm        🥲  # θ. μ. μ.
 weary       😩
@@ -593,6 +770,8 @@ gagadi      🤪
 slurp       😋
 yum         😋
 winky       😜
+silly       😛
+greed       🤑
 prr         😝
 Prr         ✋😝🤚
 shh         🤫
@@ -602,26 +781,38 @@ melt        🫠
 peek        🫣
 sleep       😴
 hmm         🤔
-huh         🤨
+huh         😒
+huh?        🤨
+huh,        🤨
 eyebrow     🤨
-mrld        🤨
-sup         😏
-smirk       😏
 unamused    😒
+lame        😒
 pff         😒
 notfunny    😒
 nfunny      😒
+mrld        🤨
 eek         😬
 tweek       😬
 roll        🙄
 lookatme    😌
 woe         😔
+dead        😵
+xeyes       😵
+killed      😵
+deadeyes    😵
+spinstar    💫
+spins       💫
+halostar    💫
+starhalo    💫
 dizzy       😵‍💫
 drool       🤤
 gothkid     🫩
-dodoi       🤕
-fever       🤒
-sick        🤒
+bageyes     🫩
+eyebags     🫩
+insomnia    🫩
+inso        🫩
+nosleep     🫩
+exhaust     🫩
 woozy       🥴
 hypno       😵‍💫
 cold        🥶
@@ -634,7 +825,16 @@ yikes       🤢
 vomit       🤮
 puke        🤮
 sniff       🤧
+sneeze      🤧
+injured     🤕
+injur       🤕
+hurt        🤕
+dodoi       🤕
+fever       🤒
+sick        🤒
+mask        😷
 mind        🤯
+blown       🤯
 party       🥳
 fake        🥸
 disguise    🥸
@@ -645,6 +845,8 @@ monocle     🧐
 wally       🧐
 mistys      🥺  # [misty]-eyed [s]ad
 mistyh      🥹  # [h]appy
+aww         🥹
+awn         🥹
 misty       🥹
 misty,      🥺
 scream      😱
@@ -672,6 +874,9 @@ foff        🖕
 fuck        🖕
 fist        ✊
 ehnoix      ✊
+clap        👏
+bravo       👏
+applause    👏
 deal        🤝
 handshake   🤝
 hshake      🤝
@@ -786,12 +991,88 @@ Callw       🤙😖
 howmuch     🫰
 moneyh      🫰
 broke       💸
+noface      🟡
+faceless    🟡
+
+# %}}}
+
+# colors %{{{ 
+
+red        🟥
+orange     🟧
+yellow     🟨
+green      🟩
+blue       🟦
+purple     🟪
+violet     🟪
+brown      🟫
+black      ⬛️
+white      ⬜️
+
+red,       🔴
+orange,    🟠
+yellow,    🟡
+green,     🟢
+blue,      🔵
+purple,    🟣
+violet,    🟣
+brown,     🟤
+black,     ⚫
+white,     ⚪
+
+rlight     🔴
+olight     🟠
+ylight     🟡
+glight     🟢
+blight     🔵
+plight     🟣
+vlight     🟣
+klight     ⚫
+wlight     ⚪
+nolight    ⚫
 
 # %}}}
 
 # hearts %{{{ 
 
-heart       ❤️
+Heart       ❤️
+redh        ❤️
+pinkh       🩷
+orangeh     🧡
+yellowh     💛
+greenh      💚
+blueh       💙
+cyanh       🩵
+purpleh     💜
+brownh      🤎
+blackh      🖤
+greyh       🩶
+grayh       🩶
+whiteh      🤍
+love        💕
+loverad     💓
+heartbeat   💓
+beath       💓
+hbeat       💓
+growh       💗
+mutlove     💞
+mutualh     💞
+spinlove    💞
+halolove    💞
+lovehalo    💞
+lovedizzy   💞
+dizzyh      💞
+spinh       💞
+hearthalo   💞
+haloh       💞
+lovegift    💝
+heartgift   💝
+gifth       💝
+loveletter  💌
+lovelet     💌
+lovemail    💌
+lovecard    💌
+envelopeh   💌
 heartb      💔
 brokenh     💔
 hurth       ❤️‍🩹
@@ -806,41 +1087,12 @@ glitterh    💖
 shinyh      💖
 starsh      💖
 sparkleh    💖
+sparkh      💖
 twinkleh    💖
-pinkh       🩷
-orangeh     🧡
-yellowh     💛
-greenh      💚
-blueh       💙
-cyanh       🩵
-purpleh     💜
-brownh      🤎
-blackh      🖤
-greyh       🩶
-grayh       🩶
-whiteh      🤍
-
-# %}}}
-
-# place flags %{{{
-
-GR          🇬🇷
-BR          🇧🇷
-FR          🇫🇷
-SCOT        🏴󠁧󠁢󠁳󠁣󠁴󠁿
-EU          🇪🇺
-
-# %}}}
-
-# common flags %{{{
-
-BLACK       🏴
-WHITE       🏳️
-BFLAG       🏴
-WFLAG       🏳️
-PIRATE      🏴‍☠️
-GAY         🏳️‍🌈
-TRANS       🏳️‍⚧️
+Hbang       ❣️
+Lovebang    ❣️
+Bangh       ❣️
+lovesign    💟
 
 # %}}}
 
@@ -888,7 +1140,7 @@ Sign          ✍️
 
 # %}}}
 
-# combining @decorators %{{{ 
+# controls (including @decorators) %{{{ 
 
 @zwj        ‍
 @+          ‍  # abbrev for ZWJ (zero width joiner)
@@ -919,6 +1171,28 @@ Sign          ✍️
 @dskin      🏾
 @ddskin     🏿
 @bskin      🏿
+
+# %}}}
+
+# non-regional flags (\-prefixed) %{{{
+
+\black       🏴
+\white       🏳️
+\red         🚩
+\bflag       🏴
+\wflag       🏳️
+\rflag       🚩
+\b           🏴
+\w           🏳️
+\r           🚩
+\pirate      🏴‍☠️
+\jolly       🏴‍☠️
+\jr          🏴‍☠️
+\gay         🏳️‍🌈
+\trans       🏳️‍⚧️
+\ska         🏁
+\race        🏁
+\golf        🚩
 
 # %}}}
 

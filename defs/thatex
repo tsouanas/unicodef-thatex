@@ -193,6 +193,9 @@ percont           ⸮  # [percont]ation point
 rheto             ⸮  # [rheto]rical question
 sarcask           ᥄  # [sarc]asm [ask]
 sarcbang          ᥅
+lovebang          ❣
+hbang             ❣  # [h]eartbang
+bangh             ❣
 
 versicle          ℣
 ver               ℣
@@ -3610,10 +3613,19 @@ smile             ⌣
 frosmi            ⁐  # [fro]wn [smi]le
 magic             ⛤
 comagic           ⛧
+heart             ♡
 spades            ♠
-hearts            ♡
-diamonds          ♢
+hearts            ♥
+diamonds          ♦
 clubs             ♣
+wspades           ♤
+whearts           ♡
+wdiamonds         ♢
+wclubs            ♧
+bspades           ♠
+bhearts           ♥
+bdiamonds         ♦
+bclubs            ♣
 tictactoe         ⌗
 tic               ⌗
 crosshair         ⌖

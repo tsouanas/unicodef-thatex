@@ -92,17 +92,10 @@ EQHOPPER     🩊
 
 # cards %{{{
 
-bspades      ♠
-whearts      ♡
-wdiamonds    ♢
-wdiams       ♢
-bclubs       ♣
-
-wspades      ♤
-bhearts      ♥
-bdiamonds    ♦
-bdiams       ♦
-wclubs       ♧
+cards        ♠ # [s]pades
+cardh        ♥ # [h]earts
+cardd        ♦ # [d]iamonds
+cardc        ♣ # [c]lubs
 
 card0        🂠 # back of card
 cardb        🂠 # back of card
