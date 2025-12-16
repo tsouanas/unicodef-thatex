@@ -63,7 +63,7 @@ _.     ﹒  # XXX: abuse: half-width char
 
 # fractions %{{{
 
-//     ⁄
+/.     ⁄
 1/-    ⅟
 1/;    ⅟
 0/3    ↉
@@ -173,6 +173,7 @@ oc     ∝
 1//    ⁄
 2//    ⫽
 3//    ⫻
+//     ⫽
 2\\    ⑊
 %2     %  # /10²
 %3     ‰  # /10³
@@ -217,6 +218,7 @@ oc     ∝
 >@<    ⪤
 ><     ⪤
 >,<    ⪥
+<3     ♡
 
 #h-     ħ  # INFO: identical under defs/lang_
 #h/     ℏ  # INFO: identical under defs/lang_
