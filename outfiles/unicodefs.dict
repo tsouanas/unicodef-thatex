@@ -45450,46 +45450,6 @@
       " " = ("insertText:", "‍");
     };
   };
-  ";" = {
-    "z" = ("insertText:", "🇿");
-    "y" = ("insertText:", "🇾");
-    "x" = ("insertText:", "🇽");
-    "w" = ("insertText:", "🇼");
-    "v" = ("insertText:", "🇻");
-    "u" = ("insertText:", "🇺");
-    "t" = ("insertText:", "🇹");
-    "s" = ("insertText:", "🇸");
-    "r" = ("insertText:", "🇷");
-    "q" = ("insertText:", "🇶");
-    "p" = ("insertText:", "🇵");
-    "o" = ("insertText:", "🇴");
-    "n" = ("insertText:", "🇳");
-    "m" = ("insertText:", "🇲");
-    "l" = ("insertText:", "🇱");
-    "k" = ("insertText:", "🇰");
-    "j" = ("insertText:", "🇯");
-    "i" = ("insertText:", "🇮");
-    "h" = ("insertText:", "🇭");
-    "g" = ("insertText:", "🇬");
-    "f" = ("insertText:", "🇫");
-    "e" = ("insertText:", "🇪");
-    "d" = ("insertText:", "🇩");
-    "c" = ("insertText:", "🇨");
-    "b" = ("insertText:", "🇧");
-    "a" = ("insertText:", "🇦");
-    ";" = ("insertText:", "⨾");
-    "\\@" = {
-      "P" = ("insertText:", "؛");
-      "p" = ("insertText:", "؛");
-      "H" = ("insertText:", "⁏");
-      "h" = ("insertText:", "⁏");
-    };
-    "{" = ("insertText:", "؛");
-    "[" = ("insertText:", "⁏");
-    ")" = ("insertText:", ";");
-    "(" = ("insertText:", "⁏");
-    "." = ("insertText:", "·");
-  };
   "-" = {
     "υ" = ("insertText:", "ῠ");
     "ι" = ("insertText:", "ῐ");
@@ -48828,6 +48788,20 @@
       "t" = ("insertText:", "ˢᵗ");
     };
     "o" = ("insertText:", "º");
+  };
+  ";" = {
+    ";" = ("insertText:", "⨾");
+    "\\@" = {
+      "P" = ("insertText:", "؛");
+      "p" = ("insertText:", "؛");
+      "H" = ("insertText:", "⁏");
+      "h" = ("insertText:", "⁏");
+    };
+    "{" = ("insertText:", "؛");
+    "[" = ("insertText:", "⁏");
+    ")" = ("insertText:", ";");
+    "(" = ("insertText:", "⁏");
+    "." = ("insertText:", "·");
   };
   "*" = {
     ":" = ("insertText:", "⁑");

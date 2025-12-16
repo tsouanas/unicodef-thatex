@@ -6410,35 +6410,6 @@
 | <code>-α</code> | ᾰ |
 | <code>-ι</code> | ῐ |
 | <code>-υ</code> | ῠ |
-## regional (micro)
-| Sequence | Expansion |
-| :------- | :-------: |
-| <code>;a</code> | 🇦 |
-| <code>;b</code> | 🇧 |
-| <code>;c</code> | 🇨 |
-| <code>;d</code> | 🇩 |
-| <code>;e</code> | 🇪 |
-| <code>;f</code> | 🇫 |
-| <code>;g</code> | 🇬 |
-| <code>;h</code> | 🇭 |
-| <code>;i</code> | 🇮 |
-| <code>;j</code> | 🇯 |
-| <code>;k</code> | 🇰 |
-| <code>;l</code> | 🇱 |
-| <code>;m</code> | 🇲 |
-| <code>;n</code> | 🇳 |
-| <code>;o</code> | 🇴 |
-| <code>;p</code> | 🇵 |
-| <code>;q</code> | 🇶 |
-| <code>;r</code> | 🇷 |
-| <code>;s</code> | 🇸 |
-| <code>;t</code> | 🇹 |
-| <code>;u</code> | 🇺 |
-| <code>;v</code> | 🇻 |
-| <code>;w</code> | 🇼 |
-| <code>;x</code> | 🇽 |
-| <code>;y</code> | 🇾 |
-| <code>;z</code> | 🇿 |
 ## thatex (macro)
 | Sequence | Expansion |
 | :------- | :-------: |
