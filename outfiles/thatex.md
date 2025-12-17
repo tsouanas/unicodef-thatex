@@ -3927,6 +3927,7 @@
 | <code>@lift</code> | ̃ |
 | <code>@forbid</code> | ⃠ |
 | <code>@not</code> | ̸ |
+| <code>@key</code> | ⃣ |
 | <code>@oarrl</code> | ⃖ |
 | <code>@oarrr</code> | ⃗ |
 | <code>@oleft</code> | ⃖ |

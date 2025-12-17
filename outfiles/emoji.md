@@ -1057,6 +1057,7 @@
 | <code>+</code> | ‍ |
 | <code>@emoji</code> | ️ |
 | <code>@emo</code> | ️ |
+| <code>@e</code> | ️ |
 | <code>@:</code> | ️ |
 | <code>:</code> | ️ |
 | <code>@coemo</code> | ︎ |
@@ -1064,6 +1065,7 @@
 | <code>@deemo</code> | ︎ |
 | <code>@;</code> | ︎ |
 | <code>;</code> | ︎ |
+| <code>@ekey</code> | ️⃣ |
 | <code>@skin1</code> | 🏻 |
 | <code>@skin2</code> | 🏻 |
 | <code>@skin12</code> | 🏻 |

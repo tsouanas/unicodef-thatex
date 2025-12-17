@@ -1056,6 +1056,7 @@ inoremap \\@+ ‍
 inoremap \\+ ‍
 inoremap \\@emoji ️
 inoremap \\@emo ️
+inoremap \\@e ️
 inoremap \\@: ️
 inoremap \\: ️
 inoremap \\@coemo ︎
@@ -1063,6 +1064,7 @@ inoremap \\@unemo ︎
 inoremap \\@deemo ︎
 inoremap \\@; ︎
 inoremap \\; ︎
+inoremap \\@ekey ️⃣
 inoremap \\@skin1 🏻
 inoremap \\@skin2 🏻
 inoremap \\@skin12 🏻

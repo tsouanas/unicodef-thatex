@@ -3926,6 +3926,7 @@ inoremap \\@check ̌
 inoremap \\@lift ̃
 inoremap \\@forbid ⃠
 inoremap \\@not ̸
+inoremap \\@key ⃣
 inoremap \\@oarrl ⃖
 inoremap \\@oarrr ⃗
 inoremap \\@oleft ⃖
