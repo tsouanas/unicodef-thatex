@@ -1369,6 +1369,7 @@
 | <code>facepalm</code> | 🤦 |
 | <code>facep</code> | 🤦 |
 | <code>fpalm</code> | 🤦 |
+| <code>selfie</code> | 🤳 |
 | <code>nails</code> | 💅 |
 | <code>lips</code> | 👄 |
 | <code>bitelip</code> | 🫦 |

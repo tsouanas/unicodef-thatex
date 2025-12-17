@@ -851,6 +851,7 @@ inoremap \\noway 🙅
 inoremap \\facepalm 🤦
 inoremap \\facep 🤦
 inoremap \\fpalm 🤦
+inoremap \\selfie 🤳
 inoremap \\nails 💅
 inoremap \\lips 👄
 inoremap \\bitelip 🫦
