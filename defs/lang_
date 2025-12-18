@@ -214,6 +214,7 @@ ww     ʬ
 \AU\   Ꜷ
 \AV\   Ꜹ
 \AY\   Ꜽ
+\db\   ȸ
 \fi\   ﬁ  # f-
 \fl\   ﬂ
 \ff\   ﬀ
@@ -231,6 +232,12 @@ ww     ʬ
 \ls\   ꬷ
 \LL\   Ỻ
 \lzh\  ɮ
+\lj\   ǉ
+\Lj\   ǈ
+\LJ\   Ǉ
+\nj\   ǌ
+\Nj\   ǋ
+\NJ\   Ǌ
 \oe\   œ  # o-
 \ou\   ȣ
 \Ou\   Ȣ
@@ -238,6 +245,7 @@ ww     ʬ
 \oo\   ꝏ
 \OE\   Œ
 \OO\   Ꝏ
+\qp\   ȹ
 \ss\   ß  # s-
 \sz\   ß
 \SS\   ẞ
@@ -270,6 +278,7 @@ ww     ʬ
 
 ae     æ
 AE     Æ
+db     ȸ
 fi     ﬁ
 fl     ﬂ
 ff     ﬀ
@@ -278,10 +287,11 @@ ff     ﬀ
 ij     ĳ
 IJ     Ĳ
 ls     ꬷ  # [l] with lazy [s]
+qp     ȹ
 sl     ſ  # [s], [l]ong
 st     ﬅ
 sft    ﬆ  # [s], [f]inal
-s,t    ﬆ
+s-t    ﬆ
 ss     ß
 SS     ẞ
 Ss     ẞ
@@ -304,6 +314,12 @@ mg     ɱ  # meng
 Mg     Ɱ
 MG     Ɱ
 lzh    ɮ  # lezh
+lj     ǉ
+Lj     ǈ
+LJ     Ǉ
+nj     ǌ
+Nj     ǋ
+NJ     Ǌ
 et     🙰
 al     ɑ  # latin [al]pha
 Al     Ɑ
@@ -378,7 +394,8 @@ Tet    ⹒
 # Action-extended latin %{{{
 # !: underdot
 # ': acute, apostrophe
-# ,: cedilha, hypodiastole, ogonek
+# ,: cedilha, hypodiastole, ogonek, undercomma
+# ;: undercomma, cedilha, ...
 # -: macron, overbar, strike, crossbar
 # .: (over)dot, remove dot
 # /: sstrike, crossbar, slash
@@ -393,7 +410,7 @@ Tet    ⹒
 # u: breve
 # L: inverted breve (which looks like [L]ambda (Λ))
 # ~: tilde
-# %: other: dot above-and-below, ring below, ...
+# %: other: dot above-and-below, ring below, alt-version of some action above...
 
 ## action first %{{{
 
@@ -477,6 +494,8 @@ Tet    ⹒
 ,K     Ķ
 ,L     Ļ
 ,O     Ǫ
+,S     Ş
+,T     Ţ
 ,U     Ų
 ,a     ą
 ,c     ç
@@ -488,7 +507,16 @@ Tet    ⹒
 ,k     ķ
 ,l     ļ
 ,o     ǫ
+,s     ş
+,t     ţ
 ,u     ų
+
+;D     D̦  # WARN: decorated
+;S     Ș
+;T     Ț
+;d     d̦  # WARN: decorated
+;s     ș
+;t     ț
 
 -A     Ā
 -D     Đ
@@ -778,6 +806,7 @@ c^     ĉ
 cv     č
 d!     ḍ
 d,     ḑ
+d;     d̦  # WARN: decorated
 d-     đ
 d.     ḋ
 d/     ð
@@ -866,12 +895,16 @@ r.     ṙ
 rL     ȓ
 s!     ṣ
 s'     ś
+s,     ş
+s;     ș
 s.     ṡ
 s^     ŝ
 sv     š
 s~     s̃  # WARN: decorated
 s%     ṩ
 t!     ṭ
+t,     ţ
+t;     ț
 t-     ŧ
 t.     ṫ
 t:     ẗ
@@ -941,6 +974,7 @@ C^     Ĉ
 Cv     Č
 D!     Ḍ
 D,     Ḑ
+D;     D̦  # WARN: decorated
 D-     Đ
 D.     Ḋ
 D/     Ð
@@ -1028,12 +1062,16 @@ R.     Ṙ
 RL     Ȓ
 S!     Ṣ
 S'     Ś
+S,     Ş
+S;     Ș
 S.     Ṡ
 S^     Ŝ
 Sv     Š
 S~     S̃  # WARN: decorated
 S%     Ṩ
 T!     Ṭ
+T,     Ţ
+T;     Ț
 T-     Ŧ
 T.     Ṫ
 Tv     Ť
@@ -1685,6 +1723,7 @@ z@P     z
 
 ## hooks and friends
 @_,      ̧  # cedilha
+@_;      ̦  # comma
 @^?      ̉  # hook
 @_?      ̨  # ogonek
 @_J      ̡
