@@ -676,8 +676,9 @@
 | <code>stear</code> | 😢 |
 | <code>lygm</code> | 😢 |
 | <code>cry</code> | 😢 |
-| <code>cry,</code> | 😢 |
+| <code>cry,</code> | 😭 |
 | <code>Cry</code> | 😭 |
+| <code>CRY</code> | 😭 |
 | <code>angry</code> | 😠 |
 | <code>angry,</code> | 😡 |
 | <code>Angry</code> | 😡 |
@@ -698,12 +699,14 @@
 | <code>thmm</code> | 🥲 |
 | <code>weary</code> | 😩 |
 | <code>wah</code> | 😩 |
+| <code>wah,</code> | 😫 |
 | <code>Wah</code> | 😫 |
 | <code>WAH</code> | 😫 |
 | <code>aarg</code> | 😫 |
 | <code>yawn</code> | 🥱 |
 | <code>zany</code> | 🤪 |
 | <code>gagadi</code> | 🤪 |
+| <code>gaga</code> | 🤪 |
 | <code>slurp</code> | 😋 |
 | <code>yum</code> | 😋 |
 | <code>winky</code> | 😜 |

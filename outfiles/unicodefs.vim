@@ -675,8 +675,9 @@ inoremap \\sadtear 😢
 inoremap \\stear 😢
 inoremap \\lygm 😢
 inoremap \\cry 😢
-inoremap \\cry, 😢
+inoremap \\cry, 😭
 inoremap \\Cry 😭
+inoremap \\CRY 😭
 inoremap \\angry 😠
 inoremap \\angry, 😡
 inoremap \\Angry 😡
@@ -697,12 +698,14 @@ inoremap \\sadin 🥲
 inoremap \\thmm 🥲
 inoremap \\weary 😩
 inoremap \\wah 😩
+inoremap \\wah, 😫
 inoremap \\Wah 😫
 inoremap \\WAH 😫
 inoremap \\aarg 😫
 inoremap \\yawn 🥱
 inoremap \\zany 🤪
 inoremap \\gagadi 🤪
+inoremap \\gaga 🤪
 inoremap \\slurp 😋
 inoremap \\yum 😋
 inoremap \\winky 😜
@@ -8893,9 +8896,11 @@ inoremap \'E É
 inoremap \'G Ǵ
 inoremap \'I Í
 inoremap \'J J́
+inoremap \'K Ḱ
 inoremap \'M Ḿ
 inoremap \'N Ń
 inoremap \'O Ó
+inoremap \'P Ṕ
 inoremap \'R Ŕ
 inoremap \'S Ś
 inoremap \'U Ú
@@ -8908,9 +8913,11 @@ inoremap \'e é
 inoremap \'g ǵ
 inoremap \'i í
 inoremap \'j j́
+inoremap \'k ḱ
 inoremap \'m ḿ
 inoremap \'n ń
 inoremap \'o ó
+inoremap \'p ṕ
 inoremap \'r ŕ
 inoremap \'s ś
 inoremap \'u ú
@@ -9015,8 +9022,8 @@ inoremap \.y ẏ
 inoremap \.z ż
 inoremap \/D Ð
 inoremap \/L Ł
-inoremap \/U Ʉ
 inoremap \/O Ø
+inoremap \/U Ʉ
 inoremap \/d ð
 inoremap \/h ℏ
 inoremap \/l ł
@@ -9269,6 +9276,7 @@ inoremap \j. ȷ
 inoremap \j^ ĵ
 inoremap \jv ǰ
 inoremap \k! ḳ
+inoremap \k' ḱ
 inoremap \k, ķ
 inoremap \kv ǩ
 inoremap \l! ḷ
@@ -9300,7 +9308,7 @@ inoremap \ov ǒ
 inoremap \ou ŏ
 inoremap \oL ȏ
 inoremap \o~ õ
-inoremap \u/ ʉ
+inoremap \p' ṕ
 inoremap \p. ṗ
 inoremap \r! ṛ
 inoremap \r' ŕ
@@ -9326,6 +9334,7 @@ inoremap \u! ụ
 inoremap \u' ú
 inoremap \u, ų
 inoremap \u- ū
+inoremap \u/ ʉ
 inoremap \u: ü
 inoremap \u= ű
 inoremap \u" ű
@@ -9434,6 +9443,7 @@ inoremap \J. ȷ
 inoremap \J^ Ĵ
 inoremap \Jv ǰ
 inoremap \K! Ḳ
+inoremap \K' Ḱ
 inoremap \K, Ķ
 inoremap \Kv Ǩ
 inoremap \L! Ḷ
@@ -9465,7 +9475,7 @@ inoremap \Ov Ǒ
 inoremap \Ou Ŏ
 inoremap \OL Ȏ
 inoremap \O~ Õ
-inoremap \U/ Ʉ
+inoremap \P' Ṕ
 inoremap \P. Ṗ
 inoremap \R! Ṛ
 inoremap \R' Ŕ
@@ -9490,6 +9500,7 @@ inoremap \U! Ụ
 inoremap \U' Ú
 inoremap \U, Ų
 inoremap \U- Ū
+inoremap \U/ Ʉ
 inoremap \U: Ü
 inoremap \U= Ű
 inoremap \U" Ű

@@ -675,8 +675,9 @@ inoremap \\sadtear 😢
 inoremap \\stear 😢
 inoremap \\lygm 😢
 inoremap \\cry 😢
-inoremap \\cry, 😢
+inoremap \\cry, 😭
 inoremap \\Cry 😭
+inoremap \\CRY 😭
 inoremap \\angry 😠
 inoremap \\angry, 😡
 inoremap \\Angry 😡
@@ -697,12 +698,14 @@ inoremap \\sadin 🥲
 inoremap \\thmm 🥲
 inoremap \\weary 😩
 inoremap \\wah 😩
+inoremap \\wah, 😫
 inoremap \\Wah 😫
 inoremap \\WAH 😫
 inoremap \\aarg 😫
 inoremap \\yawn 🥱
 inoremap \\zany 🤪
 inoremap \\gagadi 🤪
+inoremap \\gaga 🤪
 inoremap \\slurp 😋
 inoremap \\yum 😋
 inoremap \\winky 😜

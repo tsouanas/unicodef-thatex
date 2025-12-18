@@ -1193,8 +1193,9 @@
 | <code>stear</code> | 😢 |
 | <code>lygm</code> | 😢 |
 | <code>cry</code> | 😢 |
-| <code>cry,</code> | 😢 |
+| <code>cry,</code> | 😭 |
 | <code>Cry</code> | 😭 |
+| <code>CRY</code> | 😭 |
 | <code>angry</code> | 😠 |
 | <code>angry,</code> | 😡 |
 | <code>Angry</code> | 😡 |
@@ -1215,12 +1216,14 @@
 | <code>thmm</code> | 🥲 |
 | <code>weary</code> | 😩 |
 | <code>wah</code> | 😩 |
+| <code>wah,</code> | 😫 |
 | <code>Wah</code> | 😫 |
 | <code>WAH</code> | 😫 |
 | <code>aarg</code> | 😫 |
 | <code>yawn</code> | 🥱 |
 | <code>zany</code> | 🤪 |
 | <code>gagadi</code> | 🤪 |
+| <code>gaga</code> | 🤪 |
 | <code>slurp</code> | 😋 |
 | <code>yum</code> | 😋 |
 | <code>winky</code> | 😜 |
@@ -4545,9 +4548,11 @@
 | <code>'G</code> | Ǵ |
 | <code>'I</code> | Í |
 | <code>'J</code> | J́ |
+| <code>'K</code> | Ḱ |
 | <code>'M</code> | Ḿ |
 | <code>'N</code> | Ń |
 | <code>'O</code> | Ó |
+| <code>'P</code> | Ṕ |
 | <code>'R</code> | Ŕ |
 | <code>'S</code> | Ś |
 | <code>'U</code> | Ú |
@@ -4560,9 +4565,11 @@
 | <code>'g</code> | ǵ |
 | <code>'i</code> | í |
 | <code>'j</code> | j́ |
+| <code>'k</code> | ḱ |
 | <code>'m</code> | ḿ |
 | <code>'n</code> | ń |
 | <code>'o</code> | ó |
+| <code>'p</code> | ṕ |
 | <code>'r</code> | ŕ |
 | <code>'s</code> | ś |
 | <code>'u</code> | ú |
@@ -4667,8 +4674,8 @@
 | <code>.z</code> | ż |
 | <code>/D</code> | Ð |
 | <code>/L</code> | Ł |
-| <code>/U</code> | Ʉ |
 | <code>/O</code> | Ø |
+| <code>/U</code> | Ʉ |
 | <code>/d</code> | ð |
 | <code>/h</code> | ℏ |
 | <code>/l</code> | ł |
@@ -4921,6 +4928,7 @@
 | <code>j^</code> | ĵ |
 | <code>jv</code> | ǰ |
 | <code>k!</code> | ḳ |
+| <code>k'</code> | ḱ |
 | <code>k,</code> | ķ |
 | <code>kv</code> | ǩ |
 | <code>l!</code> | ḷ |
@@ -4952,7 +4960,7 @@
 | <code>ou</code> | ŏ |
 | <code>oL</code> | ȏ |
 | <code>o~</code> | õ |
-| <code>u/</code> | ʉ |
+| <code>p'</code> | ṕ |
 | <code>p.</code> | ṗ |
 | <code>r!</code> | ṛ |
 | <code>r'</code> | ŕ |
@@ -4978,6 +4986,7 @@
 | <code>u'</code> | ú |
 | <code>u,</code> | ų |
 | <code>u-</code> | ū |
+| <code>u/</code> | ʉ |
 | <code>u:</code> | ü |
 | <code>u=</code> | ű |
 | <code>u"</code> | ű |
@@ -5086,6 +5095,7 @@
 | <code>J^</code> | Ĵ |
 | <code>Jv</code> | ǰ |
 | <code>K!</code> | Ḳ |
+| <code>K'</code> | Ḱ |
 | <code>K,</code> | Ķ |
 | <code>Kv</code> | Ǩ |
 | <code>L!</code> | Ḷ |
@@ -5117,7 +5127,7 @@
 | <code>Ou</code> | Ŏ |
 | <code>OL</code> | Ȏ |
 | <code>O~</code> | Õ |
-| <code>U/</code> | Ʉ |
+| <code>P'</code> | Ṕ |
 | <code>P.</code> | Ṗ |
 | <code>R!</code> | Ṛ |
 | <code>R'</code> | Ŕ |
@@ -5142,6 +5152,7 @@
 | <code>U'</code> | Ú |
 | <code>U,</code> | Ų |
 | <code>U-</code> | Ū |
+| <code>U/</code> | Ʉ |
 | <code>U:</code> | Ü |
 | <code>U=</code> | Ű |
 | <code>U"</code> | Ű |
