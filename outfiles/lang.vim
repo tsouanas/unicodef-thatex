@@ -39,6 +39,7 @@ inoremap \... …
 inoremap \../ ⋰
 inoremap \..\ ⋱
 inoremap \..- ⋯
+inoremap \.._ …
 inoremap \..<Bar> ⋮
 inoremap \3: ⁝
 inoremap \4: ⦙

@@ -4226,6 +4226,7 @@
 | <code>../</code> | ⋰ |
 | <code>..\\</code> | ⋱ |
 | <code>..-</code> | ⋯ |
+| <code>.._</code> | … |
 | <code>..&vert;</code> | ⋮ |
 | <code>3:</code> | ⁝ |
 | <code>4:</code> | ⦙ |

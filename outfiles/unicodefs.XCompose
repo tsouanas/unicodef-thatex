@@ -8574,6 +8574,7 @@
 <Multi_key><period><period><slash> : "⋰"
 <Multi_key><period><period><backslash> : "⋱"
 <Multi_key><period><period><minus> : "⋯"
+<Multi_key><period><period><underscore> : "…"
 <Multi_key><period><period><bar> : "⋮"
 <Multi_key><3><colon> : "⁝"
 <Multi_key><4><colon> : "⦙"

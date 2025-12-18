@@ -2080,6 +2080,7 @@
     "A" = ("insertText:", "Ȧ");
     "." = {
       "|" = ("insertText:", "⋮");
+      "_" = ("insertText:", "…");
       "-" = ("insertText:", "⋯");
       "\\" = ("insertText:", "⋱");
       "/" = ("insertText:", "⋰");

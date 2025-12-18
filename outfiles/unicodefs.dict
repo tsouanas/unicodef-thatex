@@ -47831,6 +47831,7 @@
       ">" = ("insertText:", "⇢");
       "\\^" = ("insertText:", "⇡");
       "|" = ("insertText:", "⋮");
+      "_" = ("insertText:", "…");
       "-" = ("insertText:", "⋯");
       "\\" = ("insertText:", "⋱");
       "/" = ("insertText:", "⋰");
