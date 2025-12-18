@@ -100,6 +100,8 @@ inoremap \\smooch ⍣
 inoremap \\woa ⍤
 inoremap \\Woa ö
 inoremap \\WOA ⍥
+inoremap \\mrevol Ǚ
+inoremap \\mrevol, ǚ
 inoremap \\tsioud ⍢
 inoremap \\tsiour ⍩
 inoremap \\tsiou ⍩

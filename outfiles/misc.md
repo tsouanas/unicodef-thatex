@@ -101,6 +101,8 @@
 | <code>woa</code> | ⍤ |
 | <code>Woa</code> | ö |
 | <code>WOA</code> | ⍥ |
+| <code>mrevol</code> | Ǚ |
+| <code>mrevol,</code> | ǚ |
 | <code>tsioud</code> | ⍢ |
 | <code>tsiour</code> | ⍩ |
 | <code>tsiou</code> | ⍩ |
