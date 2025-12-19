@@ -215,7 +215,7 @@ ww     ʬ
 \AU\   Ꜷ
 \AV\   Ꜹ
 \AY\   Ꜽ
-\db\   ȸ
+\db\   ȸ  # d-
 \fi\   ﬁ  # f-
 \fl\   ﬂ
 \ff\   ﬀ
@@ -236,7 +236,7 @@ ww     ʬ
 \lj\   ǉ
 \Lj\   ǈ
 \LJ\   Ǉ
-\nj\   ǌ
+\nj\   ǌ  # n-
 \Nj\   ǋ
 \NJ\   Ǌ
 \oe\   œ  # o-
@@ -246,7 +246,7 @@ ww     ʬ
 \oo\   ꝏ
 \OE\   Œ
 \OO\   Ꝏ
-\qp\   ȹ
+\qp\   ȹ  # q-
 \ss\   ß  # s-
 \sz\   ß
 \SS\   ẞ
@@ -400,7 +400,7 @@ Tet    ⹒
 # -: macron, overbar, strike, crossbar
 # .: (over)dot, remove dot
 # /: sstrike, crossbar, slash
-# :: diaeresis, trema
+# :: diaeresis, trema, dot-above-and-below
 # ": double acute
 # =: double acute or double bar
 # +: double grave (shift =)
@@ -410,8 +410,8 @@ Tet    ⹒
 # v: caron
 # u: breve
 # L: inverted breve (which looks like [L]ambda (Λ))
-# ~: tilde
-# %: other: dot above-and-below, ring below, alt-version of some action above...
+# ~: tilde, tildestrike
+# %: other: ring below, alt-version of some action above...
 
 ## action first %{{{
 
@@ -536,6 +536,7 @@ Tet    ⹒
 -a     ā
 -d     đ
 -e     ē
+-f     ᵮ
 -h     ħ
 -i     ī
 -l     ƚ
@@ -604,6 +605,7 @@ Tet    ⹒
 :H     Ḧ
 :I     Ï
 :O     Ö
+:S     Ṩ
 :T     ẗ
 :U     Ü
 :W     Ẅ
@@ -614,6 +616,7 @@ Tet    ⹒
 :h     ḧ
 :i     ï
 :o     ö
+:s     ṩ
 :t     ẗ
 :u     ü
 :w     ẅ
@@ -628,6 +631,7 @@ Tet    ⹒
 =u     ű
 =y     ӳ  # WARN: abuse: cyrillic
 =l     ⱡ
+
 "O     Ő
 "U     Ű
 "Y     Ӳ  # WARN: abuse: cyrillic
@@ -769,20 +773,30 @@ Lu     ȗ
 ~U     Ũ
 ~V     Ṽ
 ~Y     Ỹ
+
 ~a     ã
+~b     ᵬ
+~d     ᵭ
 ~e     ẽ
+~f     ᵮ
 ~i     ĩ
+~m     ᵯ
 ~n     ñ
 ~o     õ
+~p     ᵱ
+~r     ᵲ
 ~s     s̃  # WARN: decorated
+~t     ᵵ
 ~u     ũ
 ~v     ṽ
 ~y     ỹ
+~z     ᵶ
 
 %A     Ḁ
 %a     ḁ
-%S     Ṩ
-%s     ṩ
+%n     ᵰ
+%s     ᵴ
+
 
 # %}}}
 
@@ -804,6 +818,7 @@ a~     ã
 a%     ḁ
 b!     ḅ
 b.     ḃ
+b~     ᵬ
 c'     ć
 c,     ç
 c.     ċ
@@ -816,6 +831,7 @@ d-     đ
 d.     ḋ
 d/     ð
 dv     ď
+d~     ᵭ
 e!     ẹ
 e'     é
 e,     ę
@@ -829,6 +845,7 @@ eu     ĕ
 eL     ȇ
 e~     ẽ
 f.     ḟ
+f~     ᵮ
 g'     ǵ
 g,     ģ
 g.     ġ
@@ -872,12 +889,14 @@ l/     ł
 m!     ṃ
 m'     ḿ
 m.     ṁ
+m~     ᵯ
 n!     ṇ
 n'     ń
 n.     ṅ
 n`     ǹ
 nv     ň
 n~     ñ
+n%     ᵰ
 o!     ọ
 o'     ó
 o,     ǫ
@@ -895,19 +914,22 @@ oL     ȏ
 o~     õ
 p'     ṕ
 p.     ṗ
+p~     ᵱ
 r!     ṛ
 r'     ŕ
 r.     ṙ
 rL     ȓ
+r~     ᵲ
 s!     ṣ
 s'     ś
 s,     ş
 s;     ș
 s.     ṡ
+s:     ṩ
 s^     ŝ
 sv     š
 s~     s̃  # WARN: decorated
-s%     ṩ
+s%     ᵴ
 t!     ṭ
 t,     ţ
 t;     ț
@@ -915,6 +937,7 @@ t-     ŧ
 t.     ṫ
 t:     ẗ
 tv     ť
+t~     ᵵ
 u!     ụ
 u'     ú
 u,     ų
@@ -957,6 +980,7 @@ z'     ź
 z.     ż
 z^     ẑ
 zv     ž
+z~     ᵶ
 
 A!     Ạ
 A'     Á
