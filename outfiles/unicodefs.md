@@ -905,6 +905,9 @@
 | <code>desktop</code> | 🖥 |
 | <code>computer</code> | 🖥 |
 | <code>floppy</code> | 💾 |
+| <code>cd</code> | 💿 |
+| <code>dvd</code> | 📀 |
+| <code>printer</code> | 🖨️ |
 | <code>gamepad</code> | 🎮 |
 | <code>joystick</code> | 🕹 |
 | <code>joy</code> | 🕹 |
@@ -918,6 +921,8 @@
 | <code>camf</code> | 📸 |
 | <code>photo</code> | 📷 |
 | <code>video</code> | 📹 |
+| <code>cassette</code> | 📼 |
+| <code>vhs</code> | 📼 |
 | <code>cellphone</code> | 📱 |
 | <code>suncloud</code> | 🌤️ |
 | <code>cloudsun</code> | 🌥️ |

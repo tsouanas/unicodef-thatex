@@ -387,6 +387,9 @@ inoremap \\laptop 💻
 inoremap \\desktop 🖥
 inoremap \\computer 🖥
 inoremap \\floppy 💾
+inoremap \\cd 💿
+inoremap \\dvd 📀
+inoremap \\printer 🖨️
 inoremap \\gamepad 🎮
 inoremap \\joystick 🕹
 inoremap \\joy 🕹
@@ -400,6 +403,8 @@ inoremap \\cam 📷
 inoremap \\camf 📸
 inoremap \\photo 📷
 inoremap \\video 📹
+inoremap \\cassette 📼
+inoremap \\vhs 📼
 inoremap \\cellphone 📱
 inoremap \\suncloud 🌤️
 inoremap \\cloudsun 🌥️
