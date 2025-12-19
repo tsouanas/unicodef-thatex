@@ -270,7 +270,9 @@ inoremap \\BANGASK ⁉️
 inoremap \\BANGA ⁉️
 inoremap \\WARN ⚠️
 inoremap \\SOS 🆘
+inoremap \\sos 🆘
 inoremap \\VS 🆚
+inoremap \\vs 🆚
 inoremap \\blood 🩸
 inoremap \\bomb 💣
 inoremap \\boom 💥

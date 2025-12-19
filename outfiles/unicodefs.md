@@ -788,7 +788,9 @@
 | <code>BANGA</code> | ⁉️ |
 | <code>WARN</code> | ⚠️ |
 | <code>SOS</code> | 🆘 |
+| <code>sos</code> | 🆘 |
 | <code>VS</code> | 🆚 |
+| <code>vs</code> | 🆚 |
 | <code>blood</code> | 🩸 |
 | <code>bomb</code> | 💣 |
 | <code>boom</code> | 💥 |
@@ -4652,6 +4654,7 @@
 | <code>-a</code> | ā |
 | <code>-d</code> | đ |
 | <code>-e</code> | ē |
+| <code>-f</code> | ᵮ |
 | <code>-h</code> | ħ |
 | <code>-i</code> | ī |
 | <code>-l</code> | ƚ |
@@ -4717,6 +4720,7 @@
 | <code>:H</code> | Ḧ |
 | <code>:I</code> | Ï |
 | <code>:O</code> | Ö |
+| <code>:S</code> | Ṩ |
 | <code>:T</code> | ẗ |
 | <code>:U</code> | Ü |
 | <code>:W</code> | Ẅ |
@@ -4727,6 +4731,7 @@
 | <code>:h</code> | ḧ |
 | <code>:i</code> | ï |
 | <code>:o</code> | ö |
+| <code>:s</code> | ṩ |
 | <code>:t</code> | ẗ |
 | <code>:u</code> | ü |
 | <code>:w</code> | ẅ |
@@ -4874,18 +4879,26 @@
 | <code>~V</code> | Ṽ |
 | <code>~Y</code> | Ỹ |
 | <code>~a</code> | ã |
+| <code>~b</code> | ᵬ |
+| <code>~d</code> | ᵭ |
 | <code>~e</code> | ẽ |
+| <code>~f</code> | ᵮ |
 | <code>~i</code> | ĩ |
+| <code>~m</code> | ᵯ |
 | <code>~n</code> | ñ |
 | <code>~o</code> | õ |
+| <code>~p</code> | ᵱ |
+| <code>~r</code> | ᵲ |
 | <code>~s</code> | s̃ |
+| <code>~t</code> | ᵵ |
 | <code>~u</code> | ũ |
 | <code>~v</code> | ṽ |
 | <code>~y</code> | ỹ |
+| <code>~z</code> | ᵶ |
 | <code>%A</code> | Ḁ |
 | <code>%a</code> | ḁ |
-| <code>%S</code> | Ṩ |
-| <code>%s</code> | ṩ |
+| <code>%n</code> | ᵰ |
+| <code>%s</code> | ᵴ |
 | <code>a!</code> | ạ |
 | <code>a'</code> | á |
 | <code>a,</code> | ą |
@@ -4902,6 +4915,7 @@
 | <code>a%</code> | ḁ |
 | <code>b!</code> | ḅ |
 | <code>b.</code> | ḃ |
+| <code>b~</code> | ᵬ |
 | <code>c'</code> | ć |
 | <code>c,</code> | ç |
 | <code>c.</code> | ċ |
@@ -4914,6 +4928,7 @@
 | <code>d.</code> | ḋ |
 | <code>d/</code> | ð |
 | <code>dv</code> | ď |
+| <code>d~</code> | ᵭ |
 | <code>e!</code> | ẹ |
 | <code>e'</code> | é |
 | <code>e,</code> | ę |
@@ -4927,6 +4942,7 @@
 | <code>eL</code> | ȇ |
 | <code>e~</code> | ẽ |
 | <code>f.</code> | ḟ |
+| <code>f~</code> | ᵮ |
 | <code>g'</code> | ǵ |
 | <code>g,</code> | ģ |
 | <code>g.</code> | ġ |
@@ -4970,12 +4986,14 @@
 | <code>m!</code> | ṃ |
 | <code>m'</code> | ḿ |
 | <code>m.</code> | ṁ |
+| <code>m~</code> | ᵯ |
 | <code>n!</code> | ṇ |
 | <code>n'</code> | ń |
 | <code>n.</code> | ṅ |
 | <code>n&#96;</code> | ǹ |
 | <code>nv</code> | ň |
 | <code>n~</code> | ñ |
+| <code>n%</code> | ᵰ |
 | <code>o!</code> | ọ |
 | <code>o'</code> | ó |
 | <code>o,</code> | ǫ |
@@ -4993,19 +5011,22 @@
 | <code>o~</code> | õ |
 | <code>p'</code> | ṕ |
 | <code>p.</code> | ṗ |
+| <code>p~</code> | ᵱ |
 | <code>r!</code> | ṛ |
 | <code>r'</code> | ŕ |
 | <code>r.</code> | ṙ |
 | <code>rL</code> | ȓ |
+| <code>r~</code> | ᵲ |
 | <code>s!</code> | ṣ |
 | <code>s'</code> | ś |
 | <code>s,</code> | ş |
 | <code>s;</code> | ș |
 | <code>s.</code> | ṡ |
+| <code>s:</code> | ṩ |
 | <code>s^</code> | ŝ |
 | <code>sv</code> | š |
 | <code>s~</code> | s̃ |
-| <code>s%</code> | ṩ |
+| <code>s%</code> | ᵴ |
 | <code>t!</code> | ṭ |
 | <code>t,</code> | ţ |
 | <code>t;</code> | ț |
@@ -5013,6 +5034,7 @@
 | <code>t.</code> | ṫ |
 | <code>t:</code> | ẗ |
 | <code>tv</code> | ť |
+| <code>t~</code> | ᵵ |
 | <code>u!</code> | ụ |
 | <code>u'</code> | ú |
 | <code>u,</code> | ų |
@@ -5054,6 +5076,7 @@
 | <code>z.</code> | ż |
 | <code>z^</code> | ẑ |
 | <code>zv</code> | ž |
+| <code>z~</code> | ᵶ |
 | <code>A!</code> | Ạ |
 | <code>A'</code> | Á |
 | <code>A,</code> | Ą |

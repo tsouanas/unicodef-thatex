@@ -271,7 +271,9 @@
 | <code>BANGA</code> | ⁉️ |
 | <code>WARN</code> | ⚠️ |
 | <code>SOS</code> | 🆘 |
+| <code>sos</code> | 🆘 |
 | <code>VS</code> | 🆚 |
+| <code>vs</code> | 🆚 |
 | <code>blood</code> | 🩸 |
 | <code>bomb</code> | 💣 |
 | <code>boom</code> | 💥 |
