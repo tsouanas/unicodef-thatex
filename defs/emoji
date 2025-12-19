@@ -436,6 +436,9 @@ laptop      💻
 desktop     🖥
 computer    🖥
 floppy      💾
+cd          💿
+dvd         📀
+printer     🖨️
 gamepad     🎮
 joystick    🕹
 joy         🕹
@@ -449,6 +452,8 @@ cam         📷
 camf        📸
 photo       📷
 video       📹
+cassette    📼
+vhs         📼
 cellphone   📱
 
 # %}}}
