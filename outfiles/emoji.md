@@ -3,9 +3,11 @@
 | :------- | :-------: |
 | <code>100</code> | 💯 |
 | <code>abandon</code> | 🏚 |
+| <code>alarm</code> | ⏰ |
 | <code>amphora</code> | 🏺 |
 | <code>anchor</code> | ⚓ |
 | <code>announce</code> | 📢 |
+| <code>alert</code> | 🚨 |
 | <code>backpack</code> | 🎒 |
 | <code>bath</code> | 🛁 |
 | <code>bandaid</code> | 🩹 |
@@ -87,6 +89,7 @@
 | <code>houroff</code> | ⌛ |
 | <code>timepass</code> | ⏳ |
 | <code>timeover</code> | ⌛ |
+| <code>timer</code> | ⏲ |
 | <code>knot</code> | 🪢 |
 | <code>loudspeaker</code> | 📢 |
 | <code>loudspeak</code> | 📢 |
@@ -591,8 +594,8 @@
 | <code>shoutr</code> | 🗯 |
 | <code>shoutl</code> | 🗮 |
 | <code>witness</code> | 👁️‍🗨️ |
-| <code>yell,</code> | 🗣📣 |
-| <code>shout,</code> | 🗣📣 |
+| <code>yell,</code> | 🗣📢 |
+| <code>shout,</code> | 🗣📢 |
 | <code>zzz</code> | 💤 |
 | <code>snor</code> | 💤 |
 | <code>inbed</code> | 🛌 |
@@ -1087,6 +1090,7 @@
 | <code>Snowman</code> | ☃️ |
 | <code>Sun</code> | ☀️ |
 | <code>Swords</code> | ⚔️ |
+| <code>Timer</code> | ⏲️ |
 | <code>Umbrella</code> | ☂️ |
 | <code>Write</code> | ✍️ |
 | <code>@zwj</code> | ‍ |

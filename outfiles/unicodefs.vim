@@ -2,9 +2,11 @@
 
 inoremap \\100 💯
 inoremap \\abandon 🏚
+inoremap \\alarm ⏰
 inoremap \\amphora 🏺
 inoremap \\anchor ⚓
 inoremap \\announce 📢
+inoremap \\alert 🚨
 inoremap \\backpack 🎒
 inoremap \\bath 🛁
 inoremap \\bandaid 🩹
@@ -86,6 +88,7 @@ inoremap \\houron ⏳
 inoremap \\houroff ⌛
 inoremap \\timepass ⏳
 inoremap \\timeover ⌛
+inoremap \\timer ⏲
 inoremap \\knot 🪢
 inoremap \\loudspeaker 📢
 inoremap \\loudspeak 📢
@@ -590,8 +593,8 @@ inoremap \\shout 🗯
 inoremap \\shoutr 🗯
 inoremap \\shoutl 🗮
 inoremap \\witness 👁️‍🗨️
-inoremap \\yell, 🗣📣
-inoremap \\shout, 🗣📣
+inoremap \\yell, 🗣📢
+inoremap \\shout, 🗣📢
 inoremap \\zzz 💤
 inoremap \\snor 💤
 inoremap \\inbed 🛌
@@ -1086,6 +1089,7 @@ inoremap \\Sign ✍️
 inoremap \\Snowman ☃️
 inoremap \\Sun ☀️
 inoremap \\Swords ⚔️
+inoremap \\Timer ⏲️
 inoremap \\Umbrella ☂️
 inoremap \\Write ✍️
 inoremap \\@zwj ‍
