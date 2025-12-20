@@ -8,9 +8,11 @@
 
 100         💯
 abandon     🏚
+alarm       ⏰
 amphora     🏺
 anchor      ⚓
 announce    📢
+alert       🚨
 backpack    🎒
 bath        🛁
 bandaid     🩹
@@ -92,6 +94,7 @@ houron      ⏳
 houroff     ⌛
 timepass    ⏳
 timeover    ⌛
+timer       ⏲
 knot        🪢
 loudspeaker 📢
 loudspeak   📢
@@ -666,8 +669,8 @@ shout       🗯
 shoutr      🗯
 shoutl      🗮
 witness     👁️‍🗨️
-yell,       🗣📣
-shout,      🗣📣
+yell,       🗣📢
+shout,      🗣📢
 zzz         💤
 snor        💤
 inbed       🛌
@@ -1186,6 +1189,7 @@ Sign          ✍️
 Snowman       ☃️
 Sun           ☀️
 Swords        ⚔️
+Timer         ⏲️
 Umbrella      ☂️
 Write         ✍️
 
