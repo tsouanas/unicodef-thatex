@@ -663,7 +663,7 @@
 | <code>inlove</code> | 😍 |
 | <code>instar</code> | 🤩 |
 | <code>stareyes</code> | 🤩 |
-| <code>sup</code> | 😏 |
+| <code>'sup</code> | 😏 |
 | <code>smirk</code> | 😏 |
 | <code>ouch</code> | 😕 |
 | <code>confused</code> | 😕 |

@@ -662,7 +662,7 @@ inoremap \\loved 🥰
 inoremap \\inlove 😍
 inoremap \\instar 🤩
 inoremap \\stareyes 🤩
-inoremap \\sup 😏
+inoremap \\'sup 😏
 inoremap \\smirk 😏
 inoremap \\ouch 😕
 inoremap \\confused 😕
