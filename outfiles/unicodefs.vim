@@ -73,6 +73,8 @@ inoremap \\loud 🔊
 inoremap \\luggage 🧳
 inoremap \\mute 🔇
 inoremap \\mirror 🪞
+inoremap \\needle 🪡
+inoremap \\needle, 💉
 inoremap \\padlock 🔒
 inoremap \\padlock, 🔓
 inoremap \\pour 🫗

@@ -74,6 +74,8 @@
 | <code>luggage</code> | 🧳 |
 | <code>mute</code> | 🔇 |
 | <code>mirror</code> | 🪞 |
+| <code>needle</code> | 🪡 |
+| <code>needle,</code> | 💉 |
 | <code>padlock</code> | 🔒 |
 | <code>padlock,</code> | 🔓 |
 | <code>pour</code> | 🫗 |
