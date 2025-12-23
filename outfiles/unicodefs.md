@@ -842,9 +842,11 @@
 | <code>fireext</code> | 🧯 |
 | <code>rock</code> | 🪨 |
 | <code>shovel</code> | 🪏 |
+| <code>dig</code> | 🪏 |
 | <code>tomb</code> | 🪦 |
 | <code>rip</code> | 🪦 |
 | <code>RIP</code> | 🪦 |
+| <code>gravedig</code> | 🪦🪏 |
 | <code>phantom</code> | 👻 |
 | <code>trap</code> | 🪤 |
 | <code>policeo</code> | 👮 |

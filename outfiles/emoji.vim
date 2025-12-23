@@ -324,9 +324,11 @@ inoremap \\wrench 🔧
 inoremap \\fireext 🧯
 inoremap \\rock 🪨
 inoremap \\shovel 🪏
+inoremap \\dig 🪏
 inoremap \\tomb 🪦
 inoremap \\rip 🪦
 inoremap \\RIP 🪦
+inoremap \\gravedig 🪦🪏
 inoremap \\phantom 👻
 inoremap \\trap 🪤
 inoremap \\policeo 👮
