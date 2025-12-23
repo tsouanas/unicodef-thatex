@@ -325,6 +325,8 @@ inoremap \\fireext 🧯
 inoremap \\rock 🪨
 inoremap \\shovel 🪏
 inoremap \\tomb 🪦
+inoremap \\rip 🪦
+inoremap \\RIP 🪦
 inoremap \\phantom 👻
 inoremap \\trap 🪤
 inoremap \\policeo 👮
@@ -6118,6 +6120,7 @@ inoremap \\contra ⊥
 inoremap \\absurdum ⊥
 inoremap \\absurd ⊥
 inoremap \\not ¬
+inoremap \\Not ˥
 inoremap \\and ∧
 inoremap \\or ∨
 inoremap \\And ⋀
@@ -7031,6 +7034,12 @@ inoremap \\wprim ⸯ
 inoremap \\cprim ⸯ
 inoremap \\vtil ⸯ
 inoremap \\hair ⸯ
+inoremap \\tilde ˜
+inoremap \\ogonek ˛
+inoremap \\rhotic ˞
+inoremap \\gstop ˀ
+inoremap \\rgstop ˁ
+inoremap \\rgstop, ˤ
 inoremap \\tdot ˙
 inoremap \\bdot  ̣
 inoremap \\bang !

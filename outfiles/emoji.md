@@ -326,6 +326,8 @@
 | <code>rock</code> | 🪨 |
 | <code>shovel</code> | 🪏 |
 | <code>tomb</code> | 🪦 |
+| <code>rip</code> | 🪦 |
+| <code>RIP</code> | 🪦 |
 | <code>phantom</code> | 👻 |
 | <code>trap</code> | 🪤 |
 | <code>policeo</code> | 👮 |

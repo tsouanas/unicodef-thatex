@@ -843,6 +843,8 @@
 | <code>rock</code> | 🪨 |
 | <code>shovel</code> | 🪏 |
 | <code>tomb</code> | 🪦 |
+| <code>rip</code> | 🪦 |
+| <code>RIP</code> | 🪦 |
 | <code>phantom</code> | 👻 |
 | <code>trap</code> | 🪤 |
 | <code>policeo</code> | 👮 |
@@ -8812,6 +8814,7 @@
 | <code>absurdum</code> | ⊥ |
 | <code>absurd</code> | ⊥ |
 | <code>not</code> | ¬ |
+| <code>Not</code> | ˥ |
 | <code>and</code> | ∧ |
 | <code>or</code> | ∨ |
 | <code>And</code> | ⋀ |
@@ -9725,6 +9728,12 @@
 | <code>cprim</code> | ⸯ |
 | <code>vtil</code> | ⸯ |
 | <code>hair</code> | ⸯ |
+| <code>tilde</code> | ˜ |
+| <code>ogonek</code> | ˛ |
+| <code>rhotic</code> | ˞ |
+| <code>gstop</code> | ˀ |
+| <code>rgstop</code> | ˁ |
+| <code>rgstop,</code> | ˤ |
 | <code>tdot</code> | ˙ |
 | <code>bdot</code> |  ̣ |
 | <code>bang</code> | ! |

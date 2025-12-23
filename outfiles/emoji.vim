@@ -325,6 +325,8 @@ inoremap \\fireext 🧯
 inoremap \\rock 🪨
 inoremap \\shovel 🪏
 inoremap \\tomb 🪦
+inoremap \\rip 🪦
+inoremap \\RIP 🪦
 inoremap \\phantom 👻
 inoremap \\trap 🪤
 inoremap \\policeo 👮
