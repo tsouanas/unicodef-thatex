@@ -2575,6 +2575,7 @@ contra            ⊥
 absurdum          ⊥
 absurd            ⊥
 not               ¬
+Not               ˥
 and               ∧
 or                ∨
 And               ⋀
@@ -3598,6 +3599,13 @@ cprim             ⸯ
 
 vtil              ⸯ  # [v]ertical [til]
 hair              ⸯ
+
+tilde             ˜
+ogonek            ˛
+rhotic            ˞  # [rhotic] hook
+gstop             ˀ  # [g]lottal [stop]
+rgstop            ˁ  # [r]eversed
+rgstop,           ˤ  # (small)
 
 tdot              ˙  # [t]op [dot]
 bdot               ̣  # [b]ottom [dot] XXX: decorator abuse
