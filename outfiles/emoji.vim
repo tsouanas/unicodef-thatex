@@ -143,6 +143,7 @@ inoremap \\wand 🪄
 inoremap \\watermask 🥽
 inoremap \\wave 🌊
 inoremap \\wind 🌬
+inoremap \\window 🪟
 inoremap \\gcup 🏆
 inoremap \\gmedal 🥇
 inoremap \\smedal 🥈

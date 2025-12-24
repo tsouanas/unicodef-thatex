@@ -144,6 +144,7 @@
 | <code>watermask</code> | 🥽 |
 | <code>wave</code> | 🌊 |
 | <code>wind</code> | 🌬 |
+| <code>window</code> | 🪟 |
 | <code>gcup</code> | 🏆 |
 | <code>gmedal</code> | 🥇 |
 | <code>smedal</code> | 🥈 |
