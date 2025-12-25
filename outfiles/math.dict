@@ -237,6 +237,13 @@
   };
   "<" = {
     "-" = ("insertText:", "←");
+    "\\$" = {
+      "2" = {
+        "(" = ("insertText:", "⦕");
+      };
+      "(" = ("insertText:", "⦓");
+    };
+    "." = ("insertText:", "⦑");
     "|" = ("insertText:", "⦉");
     "(" = ("insertText:", "⟨");
     "{" = ("insertText:", "⧼");
@@ -288,6 +295,10 @@
     "m" = ("insertText:", "⎥");
     "u" = ("insertText:", "⎤");
     "v" = ("insertText:", "⎵");
+    "_" = ("insertText:", "⦌");
+    "'" = ("insertText:", "⦐");
+    "-" = ("insertText:", "⁆");
+    "," = ("insertText:", "⦎");
     ")" = ("insertText:", "⦘");
     "]" = ("insertText:", "⟧");
   };
@@ -299,6 +310,10 @@
     "m" = ("insertText:", "⎢");
     "u" = ("insertText:", "⎡");
     "\\^" = ("insertText:", "⎴");
+    "_" = ("insertText:", "⦋");
+    "'" = ("insertText:", "⦍");
+    "-" = ("insertText:", "⁅");
+    "," = ("insertText:", "⦏");
     "(" = ("insertText:", "⟬");
     "[" = ("insertText:", "⟦");
     "]" = ("insertText:", "◻");
@@ -342,18 +357,14 @@
     "[" = ("insertText:", "⦗");
     ")" = ("insertText:", "◯");
   };
-  "'" = {
-    "|" = ("insertText:", "⌉");
-    "]" = ("insertText:", "⌝");
-    "[" = ("insertText:", "⌜");
-    "\\" = ("insertText:", "‵");
-    "/" = ("insertText:", "′");
-    "4" = ("insertText:", "⁗");
-    "3" = ("insertText:", "‴");
-    "2" = ("insertText:", "″");
-    "1" = ("insertText:", "′");
-  };
   ">" = {
+    "\\$" = {
+      "2" = {
+        ")" = ("insertText:", "⦖");
+      };
+      ")" = ("insertText:", "⦔");
+    };
+    "." = ("insertText:", "⦒");
     ")" = ("insertText:", "⟩");
     "}" = ("insertText:", "⧽");
     "," = {
@@ -376,6 +387,17 @@
     "\\~" = ("insertText:", "≳");
     "=" = ("insertText:", "≥");
     ">" = ("insertText:", "≫");
+  };
+  "'" = {
+    "|" = ("insertText:", "⌉");
+    "]" = ("insertText:", "⌝");
+    "[" = ("insertText:", "⌜");
+    "\\" = ("insertText:", "‵");
+    "/" = ("insertText:", "′");
+    "4" = ("insertText:", "⁗");
+    "3" = ("insertText:", "‴");
+    "2" = ("insertText:", "″");
+    "1" = ("insertText:", "′");
   };
   "0" = {
     ">" = ("insertText:", "⧽");
@@ -405,6 +427,8 @@
     "\\~" = {
       "\\~" = ("insertText:", "≉");
     };
+    ">" = ("insertText:", "≯");
+    "<" = ("insertText:", "≮");
     "=" = ("insertText:", "≠");
     "." = ("insertText:", "⁄");
   };
