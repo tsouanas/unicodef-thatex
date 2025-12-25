@@ -655,10 +655,6 @@ rCigma            Ͻ
 
 # math (sem-named) %{{{
 
-## ancient greek numerals %{{{
-
-# %}}}
-
 # common math %{{{
 
 pm                ±   # [p]lus-[m]inus
@@ -3097,7 +3093,7 @@ nwdots            ⋱
 sdots             ⋰  # [s]lash
 bdots             ⋱  # [b]ackslash
 
-# %}}}
+## %}}}
 
 ## quotes %{{{
 
@@ -3114,19 +3110,30 @@ rW                ’
 lB                ‛
 rB                ’
 
-# %}}}
+## %}}}
 
 ## brackets %{{{
 
-### 2-point
+### 2-point %{{{
+
 lpar              (
 rpar              )
 lbrack            [
-rbrack            [
+rbrack            ]
+lbra              [
+rbra              ]
 lbrace            {
 rbrace            }
 lsquaq            ⁅  # [squa]re with [q]uill
 rsquaq            ⁆
+lbraq             ⁅  # with [q]uill
+rbraq             ⁆
+lbrat             ⦍  # with [t]op tick
+rbrat             ⦐
+lbrab             ⦏  # with [b]ottom tick
+rbrab             ⦎
+lbrau             ⦋  # with [u]nderbar
+rbrau             ⦌
 langle            ⟨
 rangle            ⟩
 lang              ⟨
@@ -3165,24 +3172,34 @@ lher              ⸨
 rher              ⸩
 lyan              ⸨
 ryan              ⸩
+lparang           ⦓
+rparang           ⦔
+Lparang           ⦕
+Rparang           ⦖
+lpara             ⦓
+rpara             ⦔
+Lpara             ⦕
+Rpara             ⦖
 lPar              ⦅
 rPar              ⦆
+lwpar             ⦅  # [l]eft [w]hite
+rwpar             ⦆
+lmoon             ⦅
+rmoon             ⦆
 lBra              ⟦
 rBra              ⟧
-lwipe             ⦃
+lwipe             ⦃  # window [wipe]
 rwipe             ⦄
-lwhale            ⦃
+lwhale            ⦃  # [whale] tail
 rwhale            ⦄
 lban              ⦇  # [ban]ana
 rban              ⦈
-llens             〖
-rlens             〗
-llen              〖
-rlen              〗
+lwlens            〖 # [w]hite
+rwlens            〗
 lblens            【 # [b]lack
 rblens            】
-lblen             【
-rblen             】
+llens             〖 # default: [w]
+rlens             〗
 lbarq             ⸠  # [l]eft vertical [bar] with [q]uill
 rbarq             ⸡
 lmaid             ⸠  # iron [maid]en
@@ -3217,8 +3234,6 @@ lbmoon            ❨
 rbmoon            ❩
 lwmoon            ☾
 rwmoon            ☽︎
-lmoon             ❨  # default: [b]
-rmoon             ❩
 lhorse            ⸦  # [l]eft [horse]shoe [bra]cket
 rhorse            ⸧
 lhor              ⸦
@@ -3238,7 +3253,9 @@ rbcor             ⸥
 lcjk              ⸢  # CJK-influenced
 rcjk              ⸥
 
-### 4-point
+### %}}}
+
+### 4-point %{{{ 
 cornw             ⌜  # [corn]er [n]orth [w]est
 corne             ⌝
 corsw             ⌞
@@ -3280,7 +3297,9 @@ nearc             ╮
 swarc             ╰
 searc             ╯
 
-# %}}}
+### %}}}
+
+## %}}}
 
 ## vbrackets ([o]ver, [u]nder, [v]oid (empty for [v]ertical) %{{{
 
@@ -3295,9 +3314,9 @@ ubrace            ⏟
 obrack            ⎴
 ubrack            ⎵
 
-# %}}}
+## %}}}
 
-# multi-line sum and integral %{{{
+## multi-line sum and integral %{{{
 # for height > 2: [u]pper, e[x]tension, [m]iddle, [l]ower
 # for height = 2: [t]op, [b]ottom
 # (see also: multiline brackets in defs/math_)
@@ -3311,7 +3330,7 @@ intm              ⎮  #
 intx              ⎮  #
 intl              ⌡  #
 
-# %}}}
+## %}}}
 
 # %}}}
 
