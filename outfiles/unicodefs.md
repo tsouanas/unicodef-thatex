@@ -1195,6 +1195,8 @@
 | <code>salute</code> | 🫡 |
 | <code>notcool</code> | 🫤 |
 | <code>ncool</code> | 🫤 |
+| <code>meh</code> | 🫤 |
+| <code>meh,</code> | 😒 |
 | <code>woah</code> | 😯 |
 | <code>Woah</code> | 😲 |
 | <code>gasp</code> | 😮 |

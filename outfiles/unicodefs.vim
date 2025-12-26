@@ -677,6 +677,8 @@ inoremap \\yessir 🫡
 inoremap \\salute 🫡
 inoremap \\notcool 🫤
 inoremap \\ncool 🫤
+inoremap \\meh 🫤
+inoremap \\meh, 😒
 inoremap \\woah 😯
 inoremap \\Woah 😲
 inoremap \\gasp 😮
