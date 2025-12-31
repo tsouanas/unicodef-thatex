@@ -44,6 +44,10 @@
 | <code>envelope</code> | ✉️ |
 | <code>fart</code> | ⸩💨 |
 | <code>prrt</code> | ⸩💨 |
+| <code>fireworks</code> | 🎆 |
+| <code>firew</code> | 🎆 |
+| <code>fireworks,</code> | 🎇 |
+| <code>firew,</code> | 🎇 |
 | <code>flipflop</code> | 🩴 |
 | <code>chinelo</code> | 🩴 |
 | <code>hava</code> | 🩴 |

@@ -43,6 +43,10 @@ inoremap \\cargo 📦
 inoremap \\envelope ✉️
 inoremap \\fart ⸩💨
 inoremap \\prrt ⸩💨
+inoremap \\fireworks 🎆
+inoremap \\firew 🎆
+inoremap \\fireworks, 🎇
+inoremap \\firew, 🎇
 inoremap \\flipflop 🩴
 inoremap \\chinelo 🩴
 inoremap \\hava 🩴
