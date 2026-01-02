@@ -534,6 +534,8 @@
 | <code>vava</code> | 🩹 |
 | <code>ballot</code> | 🗳 |
 | <code>paperbin</code> | 🗑 |
+| <code>beach</code> | 🏖 |
+| <code>beach,</code> | 🏝 |
 | <code>blow</code> | 🌬 |
 | <code>boat</code> | ⛵ |
 | <code>brick</code> | 🧱 |
@@ -554,6 +556,7 @@
 | <code>drops</code> | 💦 |
 | <code>email</code> | 📧 |
 | <code>inbox</code> | 📥 |
+| <code>island</code> | 🏝 |
 | <code>outbox</code> | 📤 |
 | <code>package</code> | 📦 |
 | <code>parcel</code> | 📦 |
@@ -652,6 +655,7 @@
 | <code>tp</code> | 🧻 |
 | <code>TP</code> | 🧻 |
 | <code>toothbrush</code> | 🪥 |
+| <code>tropical</code> | 🏝 |
 | <code>scuba</code> | 🤿 |
 | <code>soap</code> | 🧼 |
 | <code>sponge</code> | 🧽 |

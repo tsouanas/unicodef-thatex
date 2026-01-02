@@ -16,6 +16,8 @@ inoremap \\mimi 🩹
 inoremap \\vava 🩹
 inoremap \\ballot 🗳
 inoremap \\paperbin 🗑
+inoremap \\beach 🏖
+inoremap \\beach, 🏝
 inoremap \\blow 🌬
 inoremap \\boat ⛵
 inoremap \\brick 🧱
@@ -36,6 +38,7 @@ inoremap \\drop 💧
 inoremap \\drops 💦
 inoremap \\email 📧
 inoremap \\inbox 📥
+inoremap \\island 🏝
 inoremap \\outbox 📤
 inoremap \\package 📦
 inoremap \\parcel 📦
@@ -134,6 +137,7 @@ inoremap \\toiletp 🧻
 inoremap \\tp 🧻
 inoremap \\TP 🧻
 inoremap \\toothbrush 🪥
+inoremap \\tropical 🏝
 inoremap \\scuba 🤿
 inoremap \\soap 🧼
 inoremap \\sponge 🧽
