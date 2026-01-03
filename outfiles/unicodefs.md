@@ -1384,6 +1384,7 @@
 | <code>fuck</code> | 🖕 |
 | <code>fist</code> | ✊ |
 | <code>ehnoix</code> | ✊ |
+| <code>ehnoix,</code> | 👊 |
 | <code>clap</code> | 👏 |
 | <code>bravo</code> | 👏 |
 | <code>applause</code> | 👏 |

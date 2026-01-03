@@ -866,6 +866,7 @@ inoremap \\foff 🖕
 inoremap \\fuck 🖕
 inoremap \\fist ✊
 inoremap \\ehnoix ✊
+inoremap \\ehnoix, 👊
 inoremap \\clap 👏
 inoremap \\bravo 👏
 inoremap \\applause 👏
