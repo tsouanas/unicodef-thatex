@@ -409,26 +409,34 @@ bigfoot       🫈
 
 # music %{{{
 
-phones      🎧
-mic         🎤
-radio       📻
-drums       🥁
-drum        🥁
-ldrum       🪘
-toubeleki   🪘
-belek       🪘
-maracas     🪇
-flute       🪈
-recorder    🪈
-sax         🎷
-trumpet     🎺
-violin      🎻
-guitar      🎸
-eguitar     🎸
+accordion   🪗
 banjo       🪕
+belek       🪘
+drum        🥁
+drums       🥁
+eguitar     🎸
+flute       🪈
+guitar      🎸
 keyboard    🎹
 keys        🎹
-accordion   🪗
+ldrum       🪘
+maracas     🪇
+mic         🎤
+music       🎶
+music,      🎵
+Notes       🎵
+Notes,      🎶
+phones      🎧
+radio       📻
+recorder    🪈
+sax         🎷
+score       🎼
+gscore      🎼
+gstaff      🎼
+Staff       🎼
+toubeleki   🪘
+trumpet     🎺
+violin      🎻
 
 # %}}}
 
