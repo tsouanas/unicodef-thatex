@@ -88,7 +88,6 @@
 | <code>bflower</code> | ✿ |
 | <code>wflower</code> | ❀ |
 | <code>milaki</code> | ❀ |
-| <code>music</code> | ♪ |
 | <code>note</code> | ♪ |
 | <code>notes</code> | ♫ |
 | <code>mrhappy</code> | ☺ |

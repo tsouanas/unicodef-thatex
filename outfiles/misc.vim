@@ -87,7 +87,6 @@ inoremap \\bapho ⛧
 inoremap \\bflower ✿
 inoremap \\wflower ❀
 inoremap \\milaki ❀
-inoremap \\music ♪
 inoremap \\note ♪
 inoremap \\notes ♫
 inoremap \\mrhappy ☺
