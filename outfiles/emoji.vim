@@ -700,6 +700,7 @@ inoremap \\ouch 😕
 inoremap \\confused 😕
 inoremap \\yessir 🫡
 inoremap \\salute 🫡
+inoremap \\salut 🫡
 inoremap \\notcool 🫤
 inoremap \\ncool 🫤
 inoremap \\meh 🫤

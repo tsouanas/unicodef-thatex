@@ -701,6 +701,7 @@
 | <code>confused</code> | 😕 |
 | <code>yessir</code> | 🫡 |
 | <code>salute</code> | 🫡 |
+| <code>salut</code> | 🫡 |
 | <code>notcool</code> | 🫤 |
 | <code>ncool</code> | 🫤 |
 | <code>meh</code> | 🫤 |
