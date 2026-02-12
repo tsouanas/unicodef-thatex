@@ -10,6 +10,7 @@ inoremap \\comet ☄
 inoremap \\cloud ☁
 inoremap \\umbrella ☂
 inoremap \\snowman ☃
+inoremap \\shamrock ☘
 inoremap \\sham ☘
 inoremap \\celt 🕈
 inoremap \\celtic 🕈

@@ -1044,6 +1044,11 @@
 | <code>sunflower</code> | 🌻 |
 | <code>cactus</code> | 🌵 |
 | <code>coral</code> | 🪸 |
+| <code>clover</code> | ☘️ |
+| <code>clover,</code> | 🍀 |
+| <code>Clover</code> | 🍀 |
+| <code>3clov</code> | ☘️ |
+| <code>4clov</code> | 🍀 |
 | <code>lucky</code> | 🍀 |
 | <code>Luck</code> | 🍀 |
 | <code>platanos</code> | 🍁 |
@@ -1640,6 +1645,8 @@
 | <code>Comet</code> | ☄️ |
 | <code>Pick</code> | ⛏️ |
 | <code>Sign</code> | ✍️ |
+| <code>Shamrock</code> | ☘️ |
+| <code>Sham</code> | ☘️ |
 | <code>Snowman</code> | ☃️ |
 | <code>Sun</code> | ☀️ |
 | <code>Swords</code> | ⚔️ |
@@ -6194,6 +6201,7 @@
 | <code>cloud</code> | ☁ |
 | <code>umbrella</code> | ☂ |
 | <code>snowman</code> | ☃ |
+| <code>shamrock</code> | ☘ |
 | <code>sham</code> | ☘ |
 | <code>celt</code> | 🕈 |
 | <code>celtic</code> | 🕈 |

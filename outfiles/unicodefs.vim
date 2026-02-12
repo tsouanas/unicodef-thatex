@@ -526,6 +526,11 @@ inoremap \\wrose 🥀
 inoremap \\sunflower 🌻
 inoremap \\cactus 🌵
 inoremap \\coral 🪸
+inoremap \\clover ☘️
+inoremap \\clover, 🍀
+inoremap \\Clover 🍀
+inoremap \\3clov ☘️
+inoremap \\4clov 🍀
 inoremap \\lucky 🍀
 inoremap \\Luck 🍀
 inoremap \\platanos 🍁
@@ -1122,6 +1127,8 @@ inoremap \\Coffin ⚰️
 inoremap \\Comet ☄️
 inoremap \\Pick ⛏️
 inoremap \\Sign ✍️
+inoremap \\Shamrock ☘️
+inoremap \\Sham ☘️
 inoremap \\Snowman ☃️
 inoremap \\Sun ☀️
 inoremap \\Swords ⚔️
@@ -3740,6 +3747,7 @@ inoremap \\comet ☄
 inoremap \\cloud ☁
 inoremap \\umbrella ☂
 inoremap \\snowman ☃
+inoremap \\shamrock ☘
 inoremap \\sham ☘
 inoremap \\celt 🕈
 inoremap \\celtic 🕈

@@ -11,6 +11,7 @@
 | <code>cloud</code> | ☁ |
 | <code>umbrella</code> | ☂ |
 | <code>snowman</code> | ☃ |
+| <code>shamrock</code> | ☘ |
 | <code>sham</code> | ☘ |
 | <code>celt</code> | 🕈 |
 | <code>celtic</code> | 🕈 |
