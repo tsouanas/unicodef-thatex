@@ -492,6 +492,8 @@
 | <code>crab</code> | 🦀 |
 | <code>cri</code> | 🦗 |
 | <code>cricri</code> | 🦗🦗 |
+| <code>dino</code> | 🦕 |
+| <code>dino,</code> | 🦖 |
 | <code>duck</code> | 🦆 |
 | <code>elephant</code> | 🐘 |
 | <code>flamingo</code> | 🦩 |
@@ -511,10 +513,13 @@
 | <code>parrot</code> | 🦜 |
 | <code>phoenix</code> | 🐦‍🔥 |
 | <code>puffy</code> | 🐡 |
+| <code>sauropod</code> | 🦕 |
+| <code>sauro</code> | 🦕 |
 | <code>sloth</code> | 🦥 |
 | <code>snail</code> | 🐌 |
 | <code>snake</code> | 🐍 |
 | <code>spider</code> | 🕷 |
+| <code>trex</code> | 🦖 |
 | <code>turtle</code> | 🐢 |
 | <code>tzi</code> | 🐢 |
 | <code>unicorn</code> | 🦄 |

@@ -491,6 +491,8 @@ inoremap \\butterfly 🦋
 inoremap \\crab 🦀
 inoremap \\cri 🦗
 inoremap \\cricri 🦗🦗
+inoremap \\dino 🦕
+inoremap \\dino, 🦖
 inoremap \\duck 🦆
 inoremap \\elephant 🐘
 inoremap \\flamingo 🦩
@@ -510,10 +512,13 @@ inoremap \\owl 🦉
 inoremap \\parrot 🦜
 inoremap \\phoenix 🐦‍🔥
 inoremap \\puffy 🐡
+inoremap \\sauropod 🦕
+inoremap \\sauro 🦕
 inoremap \\sloth 🦥
 inoremap \\snail 🐌
 inoremap \\snake 🐍
 inoremap \\spider 🕷
+inoremap \\trex 🦖
 inoremap \\turtle 🐢
 inoremap \\tzi 🐢
 inoremap \\unicorn 🦄
