@@ -1052,6 +1052,8 @@
 | <code>clover</code> | ☘️ |
 | <code>clover,</code> | 🍀 |
 | <code>Clover</code> | 🍀 |
+| <code>3clover</code> | ☘️ |
+| <code>4clover</code> | 🍀 |
 | <code>3clov</code> | ☘️ |
 | <code>4clov</code> | 🍀 |
 | <code>lucky</code> | 🍀 |

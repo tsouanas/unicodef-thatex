@@ -534,6 +534,8 @@ inoremap \\coral 🪸
 inoremap \\clover ☘️
 inoremap \\clover, 🍀
 inoremap \\Clover 🍀
+inoremap \\3clover ☘️
+inoremap \\4clover 🍀
 inoremap \\3clov ☘️
 inoremap \\4clov 🍀
 inoremap \\lucky 🍀
