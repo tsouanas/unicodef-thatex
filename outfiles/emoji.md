@@ -649,6 +649,7 @@
 | <code>htracks</code> | 👣 |
 | <code>atracks</code> | 🐾 |
 | <code>fingerp</code> | 🫆 |
+| <code>fprint</code> | 🫆 |
 | <code>thugl</code> | 🚬😎 |
 | <code>thugr</code> | 😎🚬 |
 | <code>inno</code> | 😗🎶 |

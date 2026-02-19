@@ -648,6 +648,7 @@ inoremap \\pawp 🐾
 inoremap \\htracks 👣
 inoremap \\atracks 🐾
 inoremap \\fingerp 🫆
+inoremap \\fprint 🫆
 inoremap \\thugl 🚬😎
 inoremap \\thugr 😎🚬
 inoremap \\inno 😗🎶
