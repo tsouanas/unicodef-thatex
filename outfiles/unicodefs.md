@@ -1159,6 +1159,8 @@
 | <code>shout,</code> | 🗣📢 |
 | <code>zzz</code> | 💤 |
 | <code>snor</code> | 💤 |
+| <code>zzz,</code> | 😴 |
+| <code>snor,</code> | 😴 |
 | <code>inbed</code> | 🛌 |
 | <code>bed</code> | 🛏 |
 | <code>footp</code> | 👣 |

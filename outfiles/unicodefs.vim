@@ -641,6 +641,8 @@ inoremap \\yell, 🗣📢
 inoremap \\shout, 🗣📢
 inoremap \\zzz 💤
 inoremap \\snor 💤
+inoremap \\zzz, 😴
+inoremap \\snor, 😴
 inoremap \\inbed 🛌
 inoremap \\bed 🛏
 inoremap \\footp 👣
