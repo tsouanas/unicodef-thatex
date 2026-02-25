@@ -2684,6 +2684,54 @@ bimodeled         ⟚
 bimodeld          ⟚
 bimods            ⧦
 bimodd            ⟚
+entails           ⊢
+entaild           ⊣
+entails,          ⊨
+entaild,          ⫤
+mentails          ⊨  # [m]odel-theoretic
+mentaild          ⫤
+pentails          ⊢  # [p]roof-theoretic
+pentaild          ⊣
+sements           ⊨  # [sem]antic
+sementd           ⫤
+synents           ⊢  # [syn]tactic
+synentd           ⊣
+ments             ⊨  # [m]odel-theoretic
+mentd             ⫤
+pents             ⊢
+pentd             ⊣
+ents              ⊢
+entd              ⊣
+ents,             ⊨
+entd,             ⫤
+nentails          ⊬  # [n]ot
+nentaild          ⊣̸
+nentails,         ⊭
+nentaild,         ⫤̸
+nmentails         ⊭
+nmentaild         ⫤̸
+npentails         ⊬
+npentaild         ⊣̸
+nsements          ⊭
+nsementd          ⫤̸
+nsynents          ⊬
+nsynentd          ⊣̸
+nments            ⊭
+nmentd            ⫤̸
+npents            ⊬
+npentd            ⊣̸
+nents             ⊬
+nentd             ⊣̸
+nents,            ⊭
+nentd,            ⫤̸
+mentsd            ⊨⫤
+mentds            ⫤⊨
+pentsd            ⊢⊣
+pentds            ⊣⊢
+entsd             ⊢⊣
+entds             ⊣⊢
+entsd,            ⊨⫤
+entds,            ⫤⊨
 
 # %}}}
 
