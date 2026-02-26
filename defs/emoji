@@ -662,6 +662,8 @@ kebab       🌯
 lime        🍋‍🟩
 martini     🍸
 mate        🧉
+orange      🍊
+laranja     🍊
 pamonha     🫔
 pear        🍐
 pera        🍐
@@ -1101,28 +1103,40 @@ faceless    🟡
 
 # colors %{{{ 
 
-red        🟥
-orange     🟧
-yellow     🟨
-green      🟩
-blue       🟦
-purple     🟪
-violet     🟪
-brown      🟫
-black      ⬛️
-white      ⬜️
+reds       🟥  # [red] [s]hade (also plural; also 3rd conj; also [s]quare)
+oranges    🟧
+yellows    🟨
+greens     🟩
+blues      🟦
+purples    🟪
+violets    🟪
+browns     🟫
+blacks     ⬛️
+whites     ⬜️
 
-red,       🔴
-orange,    🟠
-yellow,    🟡
-green,     🟢
-blue,      🔵
-purple,    🟣
-violet,    🟣
-brown,     🟤
-black,     ⚫
-white,     ⚪
+redsq      🟥  # [red] [sq]uare
+orangesq   🟧
+yellowsq   🟨
+greensq    🟩
+bluesq     🟦
+purplesq   🟪
+violetsq   🟪
+brownsq    🟫
+blacksq    ⬛️
+whitesq    ⬜️
 
+red0       🔴  # [red] circle (0)  XXX: (o) would create conflicts
+orange0    🟠
+yellow0    🟡
+green0     🟢
+blue0      🔵
+purple0    🟣
+violet0    🟣
+brown0     🟤
+black0     ⚫
+white0     ⚪
+
+# traffic light
 rlight     🔴
 olight     🟠
 ylight     🟡
