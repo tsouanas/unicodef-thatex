@@ -470,6 +470,8 @@
 | <code>eng</code> | ŋ |
 | <code>Agma</code> | Ŋ |
 | <code>agma</code> | ŋ |
+| <code>Heta</code> | Ͱ |
+| <code>heta</code> | ͱ |
 | <code>halfh</code> | ⱶ |
 | <code>Halfh</code> | Ⱶ |
 | <code>halfH</code> | Ⱶ |
@@ -3807,6 +3809,8 @@
 | <code>turnsr</code> | ⊢ |
 | <code>nturnsr</code> | ⊬ |
 | <code>turns</code> | ⊢ |
+| <code>turns,</code> | ͱ |
+| <code>Turns,</code> | Ͱ |
 | <code>nturns</code> | ⊬ |
 | <code>tackl</code> | ⊣ |
 | <code>tackr</code> | ⊢ |
