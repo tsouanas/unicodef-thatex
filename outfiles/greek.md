@@ -740,5 +740,3 @@
 | <code>lunSigma</code> | Ⲥ |
 | <code>lunsigma</code> | ⲥ |
 | <code>clophi</code> | ϕ |
-| <code>Omicro</code> | Ο |
-| <code>omicro</code> | ο |

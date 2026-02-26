@@ -4291,8 +4291,6 @@
 | <code>lunSigma</code> | Ⲥ |
 | <code>lunsigma</code> | ⲥ |
 | <code>clophi</code> | ϕ |
-| <code>Omicro</code> | Ο |
-| <code>omicro</code> | ο |
 ## lang (micro)
 | Sequence | Expansion |
 | :------- | :-------: |
@@ -10939,3 +10937,7 @@
 | <code>@@uline</code> | ͟ |
 | <code>@@uright</code> | ͢ |
 | <code>@@uto</code> | ͢ |
+| <code>υποδ</code> | ⸒ |
+| <code>υπογ</code> | ͺ |
+| <code>ανοτελ</code> | · |
+| <code>ανωτελ</code> | · |

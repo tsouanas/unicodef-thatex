@@ -3761,8 +3761,6 @@ inoremap \\finsigma ς
 inoremap \\lunSigma Ⲥ
 inoremap \\lunsigma ⲥ
 inoremap \\clophi ϕ
-inoremap \\Omicro Ο
-inoremap \\omicro ο
 inoremap \\coffin ⚰
 inoremap \\wsun ☼
 inoremap \\bsun ☀
@@ -8229,6 +8227,10 @@ inoremap \\@@uarc ͜
 inoremap \\@@uline ͟
 inoremap \\@@uright ͢
 inoremap \\@@uto ͢
+inoremap \\υποδ ⸒
+inoremap \\υπογ ͺ
+inoremap \\ανοτελ ·
+inoremap \\ανωτελ ·
 inoremap \,.c ⠀
 inoremap \,.fc ⠁
 inoremap \,.dc ⠂

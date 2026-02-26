@@ -4325,3 +4325,7 @@ inoremap \\@@uarc ͜
 inoremap \\@@uline ͟
 inoremap \\@@uright ͢
 inoremap \\@@uto ͢
+inoremap \\υποδ ⸒
+inoremap \\υπογ ͺ
+inoremap \\ανοτελ ·
+inoremap \\ανωτελ ·

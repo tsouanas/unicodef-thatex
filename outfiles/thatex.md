@@ -4326,3 +4326,7 @@
 | <code>@@uline</code> | ͟ |
 | <code>@@uright</code> | ͢ |
 | <code>@@uto</code> | ͢ |
+| <code>υποδ</code> | ⸒ |
+| <code>υπογ</code> | ͺ |
+| <code>ανοτελ</code> | · |
+| <code>ανωτελ</code> | · |

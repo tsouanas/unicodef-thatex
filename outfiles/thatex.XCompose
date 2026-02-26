@@ -4325,3 +4325,7 @@
 <Multi_key><Multi_key><at><at><u><l><i><n><e><space> : "͟"
 <Multi_key><Multi_key><at><at><u><r><i><g><h><t><space> : "͢"
 <Multi_key><Multi_key><at><at><u><t><o><space> : "͢"
+<Multi_key><Multi_key><Greek_upsilon><Greek_pi><Greek_omicron><Greek_delta><space> : "⸒"
+<Multi_key><Multi_key><Greek_upsilon><Greek_pi><Greek_omicron><Greek_gamma><space> : "ͺ"
+<Multi_key><Multi_key><Greek_alpha><Greek_nu><Greek_omicron><Greek_tau><Greek_epsilon><Greek_lambda><space> : "·"
+<Multi_key><Multi_key><Greek_alpha><Greek_nu><Greek_omega><Greek_tau><Greek_epsilon><Greek_lambda><space> : "·"

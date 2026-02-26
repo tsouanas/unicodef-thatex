@@ -739,5 +739,3 @@ inoremap \\finsigma ς
 inoremap \\lunSigma Ⲥ
 inoremap \\lunsigma ⲥ
 inoremap \\clophi ϕ
-inoremap \\Omicro Ο
-inoremap \\omicro ο
