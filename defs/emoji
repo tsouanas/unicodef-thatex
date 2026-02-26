@@ -1268,15 +1268,17 @@ Write         ✍️
 @+          ‍  # abbrev for ZWJ (zero width joiner)
 +           ‍  # abbrev for ZWJ (zero width joiner)
 
-@emoji      ️
+@emoji      ️  # (U+FE0F emoji-version selector)
 @emo        ️
 @e          ️
 @:          ️
 :           ️
 
-@coemo      ︎
+@coemo      ︎  # (U+FE0E text-version selector)
 @unemo      ︎
 @deemo      ︎
+@text       ︎
+@t          ︎
 @;          ︎
 ;           ︎
 
