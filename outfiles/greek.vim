@@ -88,6 +88,8 @@ inoremap \\Sho Ϸ
 inoremap \\sho ϸ
 inoremap \\Tsan Ͷ
 inoremap \\tsan ͷ
+inoremap \\Heta Ͱ
+inoremap \\heta ͱ
 inoremap \\Digamma Ϝ
 inoremap \\digamma ϝ
 inoremap \\Pdigamma Ͷ

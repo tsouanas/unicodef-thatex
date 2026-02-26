@@ -3626,6 +3626,8 @@
 | <code>sho</code> | ϸ |
 | <code>Tsan</code> | Ͷ |
 | <code>tsan</code> | ͷ |
+| <code>Heta</code> | Ͱ |
+| <code>heta</code> | ͱ |
 | <code>Digamma</code> | Ϝ |
 | <code>digamma</code> | ϝ |
 | <code>Pdigamma</code> | Ͷ |
@@ -7067,8 +7069,6 @@
 | <code>eng</code> | ŋ |
 | <code>Agma</code> | Ŋ |
 | <code>agma</code> | ŋ |
-| <code>Heta</code> | Ͱ |
-| <code>heta</code> | ͱ |
 | <code>halfh</code> | ⱶ |
 | <code>Halfh</code> | Ⱶ |
 | <code>halfH</code> | Ⱶ |

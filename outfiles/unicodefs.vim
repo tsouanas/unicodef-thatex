@@ -3096,6 +3096,8 @@ inoremap \\Sho Ϸ
 inoremap \\sho ϸ
 inoremap \\Tsan Ͷ
 inoremap \\tsan ͷ
+inoremap \\Heta Ͱ
+inoremap \\heta ͱ
 inoremap \\Digamma Ϝ
 inoremap \\digamma ϝ
 inoremap \\Pdigamma Ͷ
@@ -4357,8 +4359,6 @@ inoremap \\Eng Ŋ
 inoremap \\eng ŋ
 inoremap \\Agma Ŋ
 inoremap \\agma ŋ
-inoremap \\Heta Ͱ
-inoremap \\heta ͱ
 inoremap \\halfh ⱶ
 inoremap \\Halfh Ⱶ
 inoremap \\halfH Ⱶ

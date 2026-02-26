@@ -89,6 +89,8 @@
 | <code>sho</code> | ϸ |
 | <code>Tsan</code> | Ͷ |
 | <code>tsan</code> | ͷ |
+| <code>Heta</code> | Ͱ |
+| <code>heta</code> | ͱ |
 | <code>Digamma</code> | Ϝ |
 | <code>digamma</code> | ϝ |
 | <code>Pdigamma</code> | Ͷ |

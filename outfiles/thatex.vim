@@ -469,8 +469,6 @@ inoremap \\Eng Ŋ
 inoremap \\eng ŋ
 inoremap \\Agma Ŋ
 inoremap \\agma ŋ
-inoremap \\Heta Ͱ
-inoremap \\heta ͱ
 inoremap \\halfh ⱶ
 inoremap \\Halfh Ⱶ
 inoremap \\halfH Ⱶ
