@@ -55,12 +55,6 @@ hypog             ͺ  # [hypog]egrammene
 anoteleia         ·  # ano teleia  WARN: many fonts have a wrong glyph
 anotel            ·
 
-# for convenience while in greek layout
-υποδ              ⸒
-υπογ              ͺ
-ανοτελ            ·
-ανωτελ            ·
-
 swung             ⁓  # [swung] dash
 asabove           „
 asab              „
@@ -4925,6 +4919,15 @@ _top              ˕
 # %}}}
 
 # %}}}
+
+# %}}}
+
+# for convenience while in greek layout %{{{
+
+υποδ              ⸒
+υπογ              ͺ
+ανοτελ            ·
+ανωτελ            ·
 
 # %}}}
 
