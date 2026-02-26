@@ -566,6 +566,8 @@ Eng               Ŋ
 eng               ŋ
 Agma              Ŋ
 agma              ŋ
+Heta              Ͱ
+heta              ͱ
 halfh             ⱶ
 Halfh             Ⱶ
 halfH             Ⱶ
@@ -4260,6 +4262,8 @@ turnsl            ⊣  # [turns]tile [r]ight
 turnsr            ⊢
 nturnsr           ⊬
 turns             ⊢  # default: [r]
+turns,            ͱ  # heta
+Turns,            Ͱ  # Heta
 nturns            ⊬
 tackl             ⊣
 tackr             ⊢
