@@ -365,6 +365,10 @@ leftleft          ⇇
 3lefts            ⬱
 updown            ⇅
 downup            ⇵
+upup              ⇈
+downdown          ⇊
+2ups              ⇈
+2downs            ⇊
 lbelow            ⬐  # [l]eft [below]
 rbelow            ⬎
 lbel              ⬐
