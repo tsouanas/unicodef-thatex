@@ -730,45 +730,26 @@ nlt               ≮
 ngt               ≯
 nleq              ≰
 ngeq              ≱
+asklt             ⩻
+askgt             ⩼
 propto            ∝  # [prop]ortional [to]
 inteq             ≡  # [int]ensional [eq]uality
 ieq               ≡
+iq                ≡
 intneq            ≢
 ineq              ≢
 ninteq            ≢
 nieq              ≢
+niq               ≢
 nninteq           ⧥  # [n]ot[n]ot
 intnneq           ⧥
 nnieq             ⧥
+nniq              ⧥
 inneq             ⧥
 sameq             ≣
 dotsinteq         ⩸
 dotsieq           ⩸
-defeq             ≝  # being [def]ined as [eq]ual to
-definteq          ≡ͩ  # XXX: just 'd' for 'def' (also: combined)
-defieq            ≡ͩ  # XXX: just 'd' for 'def' (also: combined)
-sugeq             ≡ᷤ  # XXX: just 's' for 'sug' (also: combined)
-Defeq             =def=
-Definteq          ≡def≡
-Defieq            ≡def≡
-Defiff            ⇐def⇒
-Defintiff         ⇚def⇛
-Defiiff           ⇚def⇛
-Defviff           ⇓def⇑
-Defvintiff        ⤋def⤊
-Defviiff          ⤋def⤊
-Sugeq             =sug=  # [Sug]ar
-Suginteq          ≡sug≡
-Sugieq            ≡sug≡
-Sugiff            ⇐sug⇒
-Sugintiff         ⇚sug⇛
-Sugiiff           ⇚sug⇛
-Sugviff           ⇓sug⇑
-Sugvintiff        ⤋sug⤊
-Sugviiff          ⤋sug⤊
-askeq             ≟
-asklt             ⩻
-askgt             ⩼
+dotsiq            ⩸
 asseq             ≔  # [ass]igned to be [eq]ual to
 eqass             ≕
 aeq               ≔
@@ -779,18 +760,6 @@ assieq            :≡
 ieqass            ≡:
 aieq              :≡
 ieqa              ≡:
-askinteq          ≡?≡
-askieq            ≡?≡
-defiff            ⇐≝⇒
-dfiff             ⇚≡ͩ⇛
-askiff            ⇐≟⇒
-Askiff            ⇐⁇⇒
-intiff            ⇚⇛  # [int]ensionally equivalent
-iiff              ⇚⇛
-askintiff         ⇚?⇛
-askiiff           ⇚?⇛
-Askintiff         ⇚⁇⇛
-Askiiff           ⇚⁇⇛
 peanost           ɜ  # [peano]'s [s]uch [t]hat
 therefore         ∴
 there             ∴
@@ -1055,6 +1024,7 @@ rflo              ⌋
 ## implications %{{{
 
 iff               ⇔
+iff,              ⇐⇒
 bimp              ⇔
 bimps             ⇔
 implies           ⇒
@@ -1077,6 +1047,12 @@ impsnw            ⇖
 impsne            ⇗
 impssw            ⇙
 impsse            ⇘
+impdu             ⇓
+impdd             ⇑
+impdse            ⇖
+impdsw            ⇗
+impdne            ⇙
+impdnw            ⇘
 niff              ⇎
 nbimp             ⇎
 nbimps            ⇎
@@ -1119,10 +1095,121 @@ viimplies         ⤋
 viimplied         ⤊
 viimps            ⤋
 viimpd            ⤊
+vintiff           ⤋⤊
+vintiff,          ⤊⤋
+viiff             ⤋⤊
+viiff,            ⤊⤋
+viimpsd           ⤋⤊
+viimpds           ⤊⤋
+vbiimps           ⤋⤊
+vbiimps,          ⤊⤋
+vbiimp            ⤋⤊
+vbiimp,           ⤊⤋
+intiff            ⇚⇛  # [int]ensionally equivalent
+iiff              ⇚⇛
+biimp             ⇚⇛
+biimps            ⇚⇛
 sameimps          ⭆
 sameimpd          ⭅
+sameiff           ⭅⭆
+samebiimp         ⭅⭆
+samebiimps        ⭅⭆
 
 # %}}}
+
+## def sug ask bang for eq-like and iff-like %{{{ 
+
+defeq             ≝      # being [def]ined as [eq]ual to
+defeq,            ≡def≡
+defeq,,           ≜
+def=              ≝
+definteq          ≡def≡
+defieq            ≡def≡
+defiq             ≡def≡
+diq               ≡ͩ      # XXX: just 'd' for 'def' (also: combined)
+defiff            ⇚def⇛
+defintiff         ⇚def⇛
+defiiff           ⇚def⇛
+defviff           ⤊def⤋  # NOTE: easier to break in 3 lines first
+defvintiff        ⤊def⤋
+defviiff          ⤊def⤋
+defviff,          ⤋def⤊
+defvintiff,       ⤋def⤊
+defviiff,         ⤋def⤊
+
+sugeq             ≡sug≡  # (syntactic) [sug]ar for
+suginteq          ≡sug≡
+sugieq            ≡sug≡
+sugiq             ≡sug≡
+siq               ≡ᷤ      # XXX: just 's' for 'sug' (also: combined)
+sugiff            ⇚sug⇛
+sugintiff         ⇚sug⇛
+sugiiff           ⇚sug⇛
+sugviff           ⤊sug⤋  # NOTE: easier to break in 3 lines first
+sugvintiff        ⤊sug⤋
+sugviiff          ⤊sug⤋
+sugviff,          ⤋sug⤊
+sugvintiff,       ⤋sug⤊
+sugviiff,         ⤋sug⤊
+
+askeq             ≟
+askeq,            =?=
+askeeq            =?=
+askinteq          ≡?≡
+askieq            ≡?≡
+askiq             ≡?≡
+askiff            ⇐?⇒
+askintiff         ⇚?⇛
+askiiff           ⇚?⇛
+asksameiff        ⭅?⭆
+Askeq             =⁇=
+Askinteq          ≡⁇≡
+Askieq            ≡⁇≡
+Askiq             ≡⁇≡
+Askiff            ⇐⁇⇒
+Askintiff         ⇚⁇⇛
+Askiiff           ⇚⁇⇛
+Asksameiff        ⭅⁇⭆
+?eq               ≟
+?eq,              =?=
+?eeq              =?=
+?inteq            ≡?≡
+?ieq              ≡?≡
+?iq               ≡?≡
+?iff              ⇐?⇒
+?intiff           ⇚?⇛
+?iiff             ⇚?⇛
+?sameiff          ⭅?⭆
+??eq              =⁇=
+??eeq             =⁇=
+??inteq           ≡⁇≡
+??ieq             ≡⁇≡
+??iq              ≡⁇≡
+??iff             ⇐⁇⇒
+??intiff          ⇚⁇⇛
+??iiff            ⇚⁇⇛
+??sameiff         ⭅⁇⭆
+
+bangiff           ⇐!⇒
+bangiiff          ⇚!⇛
+Bangiff           ⇐‼⇒
+Bangiiff          ⇚‼⇛
+!iff              ⇐!⇒
+!iiff             ⇚!⇛
+!!iff             ⇐‼⇒
+!!iiff            ⇚‼⇛
+
+# WARN: 2-line versions inconsistent semantically
+defeeq            =def=
+defeiff           ⇐def⇒
+defveiff          ⇑def⇓
+defveiff,         ⇓def⇑
+sugeeq            =sug=
+sugeiff           ⇐sug⇒
+sugveiff          ⇑sug⇓
+sugveiff,         ⇓sug⇑
+
+## %}}}
 
 ## celebrities %{{{
 
@@ -3971,6 +4058,8 @@ frogs             ⩷  # ♡
 stareq            ≛
 circeq            ≗
 eqcirc            ≖
+ringeq            ≗
+eqring            ≖
 meq               ≞
 pluseq            ⩲
 eqplus            ⩱
