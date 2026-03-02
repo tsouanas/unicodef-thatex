@@ -291,6 +291,10 @@
 | <code>3lefts</code> | ⬱ |
 | <code>updown</code> | ⇅ |
 | <code>downup</code> | ⇵ |
+| <code>upup</code> | ⇈ |
+| <code>downdown</code> | ⇊ |
+| <code>2ups</code> | ⇈ |
+| <code>2downs</code> | ⇊ |
 | <code>lbelow</code> | ⬐ |
 | <code>rbelow</code> | ⬎ |
 | <code>lbel</code> | ⬐ |

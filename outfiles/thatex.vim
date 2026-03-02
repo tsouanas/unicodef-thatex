@@ -290,6 +290,10 @@ inoremap \\3rights ⇶
 inoremap \\3lefts ⬱
 inoremap \\updown ⇅
 inoremap \\downup ⇵
+inoremap \\upup ⇈
+inoremap \\downdown ⇊
+inoremap \\2ups ⇈
+inoremap \\2downs ⇊
 inoremap \\lbelow ⬐
 inoremap \\rbelow ⬎
 inoremap \\lbel ⬐
