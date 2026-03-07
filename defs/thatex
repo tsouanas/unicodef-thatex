@@ -3394,7 +3394,7 @@ rcjk              ⸥
 
 ### %}}}
 
-## brackets (4-point) %{{{ 
+## corners and crop signs (4-point) %{{{ 
 
 cornw             ⌜  # [corn]er [n]orth [w]est
 corne             ⌝
@@ -3404,6 +3404,7 @@ nwcor             ⌜
 necor             ⌝
 swcor             ⌞
 secor             ⌟
+
 cropnw            ⌏  # [crop] [n]orth [w]est
 cropne            ⌎
 cropsw            ⌍
@@ -3412,30 +3413,118 @@ nwcrop            ⌏
 necrop            ⌎
 swcrop            ⌍
 secrop            ⌌
-arccropnw         ╯  # [arc] [crop] [n]orth [w]est
-arccropne         ╰
-arccropsw         ╮
-arccropse         ╭
-nwarccrop         ╯
-nearccrop         ╰
-swarccrop         ╮
-searccrop         ╭
-arccornw          ╭  # [arc] [cor]ner [n]orth [w]est
-arccorne          ╮
-arccorsw          ╰
-arccorse          ╯
-nwarccor          ╭
-nearccor          ╮
-swarccor          ╰
-searccor          ╯
-arcnw             ╭  # [arc] (corner) [n]orth [w]est
-arcne             ╮
-arcsw             ╰
-arcse             ╯
-nwarc             ╭
-nearc             ╮
-swarc             ╰
-searc             ╯
+
+### %}}}
+
+## box and bubble-drawing %{{{ 
+# [b]ox: light line
+# [B]ox: heavy line
+# [bub]: arc corners for forming bubbles
+# numeral in h/v indicates number of dashes
+# uppercase in position indicates double line
+# e.g.: nE means single north-side, double east-side
+
+boxnw             ┌  # [box] [n]orth [w]est
+boxne             ┐
+boxsw             └
+boxse             ┘
+boxh              ─
+boxh2             ╌
+boxh3             ┄
+boxh4             ┈
+boxv              │
+boxv2             ╎
+boxv3             ┆
+boxv4             ┊
+boxnv             ┬  # [n]orth with [v]ertical
+boxwh             ├
+boxeh             ┤
+boxsv             ┴
+boxhv             ┼
+boxtd             ┬  # [t]ack [d]own
+boxtr             ├
+boxtl             ┤
+boxtu             ┴
+boxc              ┼  # [c]enter or [c]ross or [c]ompass
+box-              ─
+box|              │
+box+              ┼
+
+Boxnw             ┏  # (bold)
+Boxne             ┓
+Boxsw             ┗
+Boxse             ┛
+Boxh              ━
+Boxh2             ╍
+Boxh3             ┅
+Boxh4             ┉
+Boxv              ┃
+Boxv2             ╏
+Boxv3             ┇
+Boxv4             ┋
+Boxnh             ┳
+Boxwh             ┣
+Boxeh             ┫
+Boxsh             ┻
+Boxhv             ╋
+Boxtd             ┳
+Boxtr             ┣
+Boxtl             ┫
+Boxtu             ┻
+Boxc              ╋
+Box-              ━
+Box|              ┃
+Box+              ╋
+
+boxH              ═
+boxV              ║
+boxNw             ╒
+boxnW             ╓
+boxNW             ╔
+boxNe             ╕
+boxnE             ╖
+boxNE             ╗
+boxSw             ╘
+boxsW             ╙
+boxSW             ╚
+boxSe             ╛
+boxsE             ╜
+boxSE             ╝
+boxwH             ╞
+boxWh             ╟
+boxWH             ╠
+boxeH             ╡
+boxEh             ╢
+boxEH             ╣
+boxtR             ╞
+boxTr             ╟
+boxTR             ╠
+boxtL             ╡
+boxTl             ╢
+boxTL             ╣
+boxNv             ╤
+boxnV             ╥
+boxNV             ╦
+boxTd             ╤
+boxtD             ╥
+boxTD             ╦
+boxSv             ╧
+boxsV             ╨
+boxSV             ╩
+boxTu             ╧
+boxtU             ╨
+boxTU             ╩
+boxhV             ╪
+boxHv             ╫
+boxVh             ╪
+boxvH             ╫
+boxHV             ╬
+boxC              ╬
+
+bubnw             ╭  # [bub]ble [n]orth [w]est
+bubne             ╮
+bubsw             ╰
+bubse             ╯
 
 ### %}}}
 
@@ -3455,18 +3544,20 @@ ubrack            ⎵
 ## %}}}
 
 ## multiline sum and integral %{{{
-# for height > 2: [u]pper, e[x]tension, [m]iddle, [l]ower
-# for height = 2: [t]op, [b]ottom
+# for height > 2: [t]op, e[x]tension, [m]iddle, [b]ottom
+# for height = 2: [u]pper, [l]ower
 # (see also: multiline brackets in defs/math_)
 
-sumt              ⎲  # sum
+sumu              ⎲  # [sum] (height = 2)
+suml              ⎳  #
+sumt              ⎲  # WARN: no proper way for height > 2
 sumb              ⎳  #
-intt              ⌠  # [int]egral (height = 2)
-intb              ⌡  #
-intu              ⌠  # [int]egral (height > 2)
+intu              ⌠  # [int]egral (height = 2)
+intl              ⌡  #
+intt              ⌠  # [int]egral (height > 2)
 intm              ⎮  #
 intx              ⎮  #
-intl              ⌡  #
+intb              ⌡  #
 
 ## %}}}
 

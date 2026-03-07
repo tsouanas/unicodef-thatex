@@ -304,45 +304,46 @@ S)     ⟆
 # %}}}
 
 # multiline brackets, integrals, summations %{{{
-# for height > 2: [u]pper, e[x]tension, [m]iddle, [l]ower
-# for height = 2: [t]op, [b]ottom
+# for height > 2: [t]op, e[x]tension, [m]iddle, [b]ottom
+# for height = 2: [u]pper, [l]ower
+# (see also: multiline sum and integral in defs/thatex)
 
-(u     ⎛
+(t     ⎛
 (m     ⎜
 (x     ⎜
-(l     ⎝
-)u     ⎞
-)m     ⎟
-)x     ⎟
-)l     ⎠
-[u     ⎡
-[m     ⎢
-[x     ⎢
-[l     ⎣
-]u     ⎤
-]m     ⎥
-]x     ⎥
-]l     ⎦
-{u     ⎧
-{m     ⎨
-{x     ⎪
-{l     ⎩
-}u     ⎫
-}m     ⎬
-}x     ⎪
-}l     ⎭
-(t     ⎛
 (b     ⎝
 )t     ⎞
+)m     ⎟
+)x     ⎟
 )b     ⎠
 [t     ⎡
+[m     ⎢
+[x     ⎢
 [b     ⎣
 ]t     ⎤
+]m     ⎥
+]x     ⎥
 ]b     ⎦
-{t     ⎰
-{b     ⎱
-}t     ⎱
-}b     ⎰
+{t     ⎧
+{m     ⎨
+{x     ⎪
+{b     ⎩
+}t     ⎫
+}m     ⎬
+}x     ⎪
+}b     ⎭
+(u     ⎛
+(l     ⎝
+)u     ⎞
+)l     ⎠
+[u     ⎡
+[l     ⎣
+]u     ⎤
+]l     ⎦
+{u     ⎰
+{l     ⎱
+}u     ⎱
+}l     ⎰
 
 # %}}}
 
