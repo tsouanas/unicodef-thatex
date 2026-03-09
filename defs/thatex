@@ -2736,13 +2736,21 @@ mprovd            ⊣⛤
 mbiprove          ⊣⛤⊢
 mbiprov           ⊣⛤⊢
 sproves           ⊢⃰  # [s]tar  XXX: combined
-sproved           ⊣⃰  # XXX: combined
-sprovs            ⊢⃰  # XXX: combined
-sprovd            ⊣⃰  # XXX: combined
-sprovesd          ⊢⃰⊣⃰ # XXX: combined
-sproveds          ⊣⃰⊢⃰ # XXX: combined
-sprovsd           ⊢⃰⊣⃰ # XXX: combined
-sprovds           ⊣⃰⊢⃰ # XXX: combined
+sproved           ⊣⃰
+sprovs            ⊢⃰
+sprovd            ⊣⃰
+sprovesd          ⊢⃰⊣⃰
+sproveds          ⊣⃰⊢⃰
+sprovsd           ⊢⃰⊣⃰
+sprovds           ⊣⃰⊢⃰
+sproves,          ⊢͙
+sproved,          ⊣͙
+sprovs,           ⊢͙
+sprovd,           ⊣͙
+sprovesd,         ⊢͙⊣͙
+sproveds,         ⊣͙⊢͙
+sprovsd,          ⊢͙⊣͙
+sprovds,          ⊣͙⊢͙
 Proves            ⟝
 Proved            ⟞
 Provs             ⟝
@@ -2759,6 +2767,22 @@ mProvesd          ⛤⟝⟞⛤
 mProveds          ⟞⛤⟝
 mProvsd           ⛤⟝⟞⛤
 mProvds           ⟞⛤⟝
+sProves           ⟝⃰
+sProved           ⟞⃰
+sProvs            ⟝⃰
+sProvd            ⟞⃰
+sProvesd          ⟝⃰⟞⃰
+sProveds          ⟞⃰⟝⃰
+sProvsd           ⟝⃰⟞⃰
+sProvds           ⟞⃰⟝⃰
+sProves,          ⟝͙
+sProved,          ⟞͙
+sProvs,           ⟝͙
+sProvd,           ⟞͙
+sProvesd,         ⟝͙⟞͙
+sProveds,         ⟞͙⟝͙
+sProvsd,          ⟝͙⟞͙
+sProvds,          ⟞͙⟝͙
 models            ⊨
 modeled           ⫤
 modeld            ⫤
