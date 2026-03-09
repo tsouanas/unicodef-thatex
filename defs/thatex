@@ -763,8 +763,12 @@ assinteq          :≡
 inteqass          ≡:
 assieq            :≡
 ieqass            ≡:
+assiq             :≡
+iqass             ≡:
 aieq              :≡
 ieqa              ≡:
+aiq               :≡
+iqa               ≡:
 peanost           ɜ  # [peano]'s [s]uch [t]hat
 therefore         ∴
 there             ∴
