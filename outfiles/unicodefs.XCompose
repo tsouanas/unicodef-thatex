@@ -8419,6 +8419,7 @@
 <Multi_key><Multi_key><Greek_alpha><Greek_nu><Greek_omicron><Greek_tau><Greek_epsilon><Greek_lambda><space> : "·"
 <Multi_key><Multi_key><Greek_alpha><Greek_nu><Greek_omega><Greek_tau><Greek_epsilon><Greek_lambda><space> : "·"
 <Multi_key><Multi_key><Greek_alpha><Greek_tau><space> : "·"
+<Multi_key><Multi_key><Greek_epsilon><Greek_theta><Greek_rho><space> : "€"
 <Multi_key><comma><period><c> : "⠀"
 <Multi_key><comma><period><f><c> : "⠁"
 <Multi_key><comma><period><d><c> : "⠂"

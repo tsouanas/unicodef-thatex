@@ -4518,3 +4518,4 @@
 | <code>ανοτελ</code> | · |
 | <code>ανωτελ</code> | · |
 | <code>ατ</code> | · |
+| <code>εθρ</code> | € |

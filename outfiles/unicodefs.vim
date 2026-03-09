@@ -8419,6 +8419,7 @@ inoremap \\υπογ ͺ
 inoremap \\ανοτελ ·
 inoremap \\ανωτελ ·
 inoremap \\ατ ·
+inoremap \\εθρ €
 inoremap \,.c ⠀
 inoremap \,.fc ⠁
 inoremap \,.dc ⠂
