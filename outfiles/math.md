@@ -69,6 +69,8 @@
 | <code>7/8</code> | ⅞ |
 | <code>1/9</code> | ⅑ |
 | <code>1/10</code> | ⅒ |
+| <code>AA</code> | ∀ |
+| <code>EE</code> | ∃ |
 | <code>88</code> | ∞ |
 | <code>+-</code> | ± |
 | <code>-+</code> | ∓ |

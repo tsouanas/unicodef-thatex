@@ -68,6 +68,8 @@ inoremap \5/8 ⅝
 inoremap \7/8 ⅞
 inoremap \1/9 ⅑
 inoremap \1/10 ⅒
+inoremap \AA ∀
+inoremap \EE ∃
 inoremap \88 ∞
 inoremap \+- ±
 inoremap \-+ ∓

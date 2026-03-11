@@ -10521,6 +10521,8 @@
 <Multi_key><7><slash><8> : "⅞"
 <Multi_key><1><slash><9> : "⅑"
 <Multi_key><1><slash><1><0> : "⅒"
+<Multi_key><A><A> : "∀"
+<Multi_key><E><E> : "∃"
 <Multi_key><8><8> : "∞"
 <Multi_key><plus><minus> : "±"
 <Multi_key><minus><plus> : "∓"
