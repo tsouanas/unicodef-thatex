@@ -4777,8 +4777,12 @@ _top              ˕
 @orotn             ⃕
 @orotl             ⃔
 @orotr             ⃕
+
+### logic-looking
 @oproved           ҆
 @oproves           ҅
+@oprovd            ҆
+@oprovs            ҅
 @onot              ̚
 
 ### accentlike
@@ -4816,7 +4820,7 @@ _top              ˕
 @overt             ̍
 @ovvert            ̎
 
-### dots
+### dots and commas
 @odot              ̇
 @oddot             ̈
 @odddot            ⃛
@@ -4825,6 +4829,10 @@ _top              ˕
 @o3dot             ⃛
 @o4dot             ⃜
 @odots             ⃛
+@ocomma            ̓
+@o9omma            ̓
+@o6omma            ̒
+@oeomma            ̔
 
 ### mod / unops
 @oinfty            ᪲
@@ -4877,6 +4885,13 @@ _top              ˕
 @ugt               ͕
 @ubi               ͍
 @uliff             ͍
+
+### logic-looking
+@uproved           ̘
+@uproves           ̙
+@uprovd            ̘
+@uprovs            ̙
+@unot              ͉
 
 ### accentlike
 @ucflex            ̭
