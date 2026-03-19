@@ -238,7 +238,9 @@ inoremap \\Biohaz ☣️
 inoremap \\Poison ☠️
 inoremap \\voltage ⚡
 inoremap \\Zap ⚡
+inoremap \\Warning ⚠️
 inoremap \\Warn ⚠️
+inoremap \\Stop 🛑
 inoremap \\location 📍
 inoremap \\location, 📌
 inoremap \\loc 📍
@@ -282,7 +284,9 @@ inoremap \\Q ❔
 inoremap \\QQ ❓
 inoremap \\BANGASK ⁉️
 inoremap \\BANGA ⁉️
+inoremap \\WARNING ⚠️
 inoremap \\WARN ⚠️
+inoremap \\STOP 🛑
 inoremap \\SOS 🆘
 inoremap \\sos 🆘
 inoremap \\VS 🆚

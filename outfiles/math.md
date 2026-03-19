@@ -367,6 +367,10 @@
 | <code>@^3.</code> | ⃛ |
 | <code>@^4.</code> | ⃜ |
 | <code>@^:</code> | ̈ |
+| <code>@^,</code> | ̓ |
+| <code>@^9,</code> | ̓ |
+| <code>@^6,</code> | ̒ |
+| <code>@^e,</code> | ̔ |
 | <code>@_.</code> | ̣ |
 | <code>@_2.</code> | ̤ |
 | <code>@_3.</code> | ⃨ |

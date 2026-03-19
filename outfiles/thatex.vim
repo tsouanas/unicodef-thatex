@@ -343,7 +343,15 @@ inoremap \\radw ◎
 inoremap \\radb ◉
 inoremap \\radbe ◎
 inoremap \\radfe ◉
+inoremap \\uncertain ⯑
+inoremap \\uncert ⯑
+inoremap \\unknown ⯑
+inoremap \\wonder ⯑
+inoremap \\ponder ⯑
+inoremap \\ask ⯑
+inoremap \\warning ⚠
 inoremap \\warn ⚠
+inoremap \\stop ⯄
 inoremap \\knuthd ☡
 inoremap \\knuthwiz ☡
 inoremap \\knutheso ☡☡
@@ -4233,6 +4241,8 @@ inoremap \\@orotl ⃔
 inoremap \\@orotr ⃕
 inoremap \\@oproved ҆
 inoremap \\@oproves ҅
+inoremap \\@oprovd ҆
+inoremap \\@oprovs ҅
 inoremap \\@onot ̚
 inoremap \\@otonos ΄
 inoremap \\@ograve ̀
@@ -4273,6 +4283,10 @@ inoremap \\@o2dot ̈
 inoremap \\@o3dot ⃛
 inoremap \\@o4dot ⃜
 inoremap \\@odots ⃛
+inoremap \\@ocomma ̓
+inoremap \\@o9omma ̓
+inoremap \\@o6omma ̒
+inoremap \\@oeomma ̔
 inoremap \\@oinfty ᪲
 inoremap \\@oast ⃰
 inoremap \\@ostar ⃰
@@ -4311,6 +4325,11 @@ inoremap \\@ult ͔
 inoremap \\@ugt ͕
 inoremap \\@ubi ͍
 inoremap \\@uliff ͍
+inoremap \\@uproved ̘
+inoremap \\@uproves ̙
+inoremap \\@uprovd ̘
+inoremap \\@uprovs ̙
+inoremap \\@unot ͉
 inoremap \\@ucflex ̭
 inoremap \\@uflex ̭
 inoremap \\@ucaret ̭

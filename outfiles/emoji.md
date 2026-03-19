@@ -239,7 +239,9 @@
 | <code>Poison</code> | ☠️ |
 | <code>voltage</code> | ⚡ |
 | <code>Zap</code> | ⚡ |
+| <code>Warning</code> | ⚠️ |
 | <code>Warn</code> | ⚠️ |
+| <code>Stop</code> | 🛑 |
 | <code>location</code> | 📍 |
 | <code>location,</code> | 📌 |
 | <code>loc</code> | 📍 |
@@ -283,7 +285,9 @@
 | <code>QQ</code> | ❓ |
 | <code>BANGASK</code> | ⁉️ |
 | <code>BANGA</code> | ⁉️ |
+| <code>WARNING</code> | ⚠️ |
 | <code>WARN</code> | ⚠️ |
+| <code>STOP</code> | 🛑 |
 | <code>SOS</code> | 🆘 |
 | <code>sos</code> | 🆘 |
 | <code>VS</code> | 🆚 |

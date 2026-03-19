@@ -344,7 +344,15 @@
 | <code>radb</code> | ◉ |
 | <code>radbe</code> | ◎ |
 | <code>radfe</code> | ◉ |
+| <code>uncertain</code> | ⯑ |
+| <code>uncert</code> | ⯑ |
+| <code>unknown</code> | ⯑ |
+| <code>wonder</code> | ⯑ |
+| <code>ponder</code> | ⯑ |
+| <code>ask</code> | ⯑ |
+| <code>warning</code> | ⚠ |
 | <code>warn</code> | ⚠ |
+| <code>stop</code> | ⯄ |
 | <code>knuthd</code> | ☡ |
 | <code>knuthwiz</code> | ☡ |
 | <code>knutheso</code> | ☡☡ |
@@ -4234,6 +4242,8 @@
 | <code>@orotr</code> | ⃕ |
 | <code>@oproved</code> | ҆ |
 | <code>@oproves</code> | ҅ |
+| <code>@oprovd</code> | ҆ |
+| <code>@oprovs</code> | ҅ |
 | <code>@onot</code> | ̚ |
 | <code>@otonos</code> | ΄ |
 | <code>@ograve</code> | ̀ |
@@ -4274,6 +4284,10 @@
 | <code>@o3dot</code> | ⃛ |
 | <code>@o4dot</code> | ⃜ |
 | <code>@odots</code> | ⃛ |
+| <code>@ocomma</code> | ̓ |
+| <code>@o9omma</code> | ̓ |
+| <code>@o6omma</code> | ̒ |
+| <code>@oeomma</code> | ̔ |
 | <code>@oinfty</code> | ᪲ |
 | <code>@oast</code> | ⃰ |
 | <code>@ostar</code> | ⃰ |
@@ -4312,6 +4326,11 @@
 | <code>@ugt</code> | ͕ |
 | <code>@ubi</code> | ͍ |
 | <code>@uliff</code> | ͍ |
+| <code>@uproved</code> | ̘ |
+| <code>@uproves</code> | ̙ |
+| <code>@uprovd</code> | ̘ |
+| <code>@uprovs</code> | ̙ |
+| <code>@unot</code> | ͉ |
 | <code>@ucflex</code> | ̭ |
 | <code>@uflex</code> | ̭ |
 | <code>@ucaret</code> | ̭ |

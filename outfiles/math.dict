@@ -62,6 +62,16 @@
         "<" = ("insertText:", "⃖");
       };
       "\\~" = ("insertText:", "̃");
+      "e" = {
+        "," = ("insertText:", "̔");
+      };
+      "6" = {
+        "," = ("insertText:", "̒");
+      };
+      "9" = {
+        "," = ("insertText:", "̓");
+      };
+      "," = ("insertText:", "̓");
       ":" = ("insertText:", "̈");
       "4" = {
         "." = ("insertText:", "⃜");

@@ -366,6 +366,10 @@ inoremap \@^2. ̈
 inoremap \@^3. ⃛
 inoremap \@^4. ⃜
 inoremap \@^: ̈
+inoremap \@^, ̓
+inoremap \@^9, ̓
+inoremap \@^6, ̒
+inoremap \@^e, ̔
 inoremap \@_. ̣
 inoremap \@_2. ̤
 inoremap \@_3. ⃨
