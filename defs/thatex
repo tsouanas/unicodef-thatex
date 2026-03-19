@@ -432,7 +432,15 @@ radfe             ◉  # [f]ish[e]ye
 
 # reader signs %{{{
 
+uncertain         ⯑
+uncert            ⯑
+unknown           ⯑
+wonder            ⯑
+ponder            ⯑
+ask               ⯑
+warning           ⚠
 warn              ⚠
+stop              ⯄
 knuthd            ☡  # [d]anger
 knuthwiz          ☡  # [wiz]ards-only
 knutheso          ☡☡ # [eso]teric

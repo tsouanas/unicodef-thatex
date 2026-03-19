@@ -260,7 +260,9 @@ Biohaz         ☣️
 Poison         ☠️
 voltage        ⚡
 Zap            ⚡
+Warning        ⚠️
 Warn           ⚠️
+Stop           🛑
 
 location       📍
 location,      📌
@@ -311,7 +313,9 @@ Q           ❔
 QQ          ❓
 BANGASK     ⁉️
 BANGA       ⁉️
+WARNING     ⚠️
 WARN        ⚠️
+STOP        🛑
 SOS         🆘
 sos         🆘
 VS          🆚
