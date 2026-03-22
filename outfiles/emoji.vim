@@ -220,6 +220,7 @@ inoremap \\traffic 🚦
 inoremap \\highway 🛣
 inoremap \\motorway 🛣
 inoremap \\WIP 🚧
+inoremap \\undercons 🚧
 inoremap \\underc 🚧
 inoremap \\ucons 🚧
 inoremap \\top^ 🔝
@@ -1171,6 +1172,8 @@ inoremap \\Sun ☀️
 inoremap \\Swords ⚔️
 inoremap \\Timer ⏲️
 inoremap \\Umbrella ☂️
+inoremap \\Woi ⚒️
+inoremap \\Work ⚒️
 inoremap \\Write ✍️
 inoremap \\@zwj ‍
 inoremap \\@+ ‍

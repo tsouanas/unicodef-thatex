@@ -365,7 +365,7 @@ inoremap \\2caution ☡☡
 inoremap \\Caution ☡☡
 inoremap \\fair ⚖
 inoremap \\work ⚒
-inoremap \\wip ⚒
+inoremap \\woi ⚒
 inoremap \\luck ☘
 inoremap \\fight ⚔
 inoremap \\nuclear ☢
@@ -1085,9 +1085,11 @@ inoremap \\extreals ℝ̅
 inoremap \\ereals ℝ̅
 inoremap \\xreals ℝ̅
 inoremap \\hreals  ⃰ℝ
+inoremap \\hypers  ⃰ℝ
+inoremap \\sreals 𝕊
+inoremap \\surrs 𝕊
 inoremap \\surno ℕo
 inoremap \\suron 𝕆n
-inoremap \\sreals 𝕊
 inoremap \\comps ℂ
 inoremap \\complex ℂ
 inoremap \\comps, ℂ̧

@@ -738,6 +738,7 @@
 | <code>highway</code> | 🛣 |
 | <code>motorway</code> | 🛣 |
 | <code>WIP</code> | 🚧 |
+| <code>undercons</code> | 🚧 |
 | <code>underc</code> | 🚧 |
 | <code>ucons</code> | 🚧 |
 | <code>top^</code> | 🔝 |
@@ -1689,6 +1690,8 @@
 | <code>Swords</code> | ⚔️ |
 | <code>Timer</code> | ⏲️ |
 | <code>Umbrella</code> | ☂️ |
+| <code>Woi</code> | ⚒️ |
+| <code>Work</code> | ⚒️ |
 | <code>Write</code> | ✍️ |
 | <code>@zwj</code> | ‍ |
 | <code>@+</code> | ‍ |
@@ -6998,7 +7001,7 @@
 | <code>Caution</code> | ☡☡ |
 | <code>fair</code> | ⚖ |
 | <code>work</code> | ⚒ |
-| <code>wip</code> | ⚒ |
+| <code>woi</code> | ⚒ |
 | <code>luck</code> | ☘ |
 | <code>fight</code> | ⚔ |
 | <code>nuclear</code> | ☢ |
@@ -7718,9 +7721,11 @@
 | <code>ereals</code> | ℝ̅ |
 | <code>xreals</code> | ℝ̅ |
 | <code>hreals</code> |  ⃰ℝ |
+| <code>hypers</code> |  ⃰ℝ |
+| <code>sreals</code> | 𝕊 |
+| <code>surrs</code> | 𝕊 |
 | <code>surno</code> | ℕo |
 | <code>suron</code> | 𝕆n |
-| <code>sreals</code> | 𝕊 |
 | <code>comps</code> | ℂ |
 | <code>complex</code> | ℂ |
 | <code>comps,</code> | ℂ̧ |

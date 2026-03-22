@@ -221,6 +221,7 @@
 | <code>highway</code> | 🛣 |
 | <code>motorway</code> | 🛣 |
 | <code>WIP</code> | 🚧 |
+| <code>undercons</code> | 🚧 |
 | <code>underc</code> | 🚧 |
 | <code>ucons</code> | 🚧 |
 | <code>top^</code> | 🔝 |
@@ -1172,6 +1173,8 @@
 | <code>Swords</code> | ⚔️ |
 | <code>Timer</code> | ⏲️ |
 | <code>Umbrella</code> | ☂️ |
+| <code>Woi</code> | ⚒️ |
+| <code>Work</code> | ⚒️ |
 | <code>Write</code> | ✍️ |
 | <code>@zwj</code> | ‍ |
 | <code>@+</code> | ‍ |

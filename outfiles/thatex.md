@@ -366,7 +366,7 @@
 | <code>Caution</code> | ☡☡ |
 | <code>fair</code> | ⚖ |
 | <code>work</code> | ⚒ |
-| <code>wip</code> | ⚒ |
+| <code>woi</code> | ⚒ |
 | <code>luck</code> | ☘ |
 | <code>fight</code> | ⚔ |
 | <code>nuclear</code> | ☢ |
@@ -1086,9 +1086,11 @@
 | <code>ereals</code> | ℝ̅ |
 | <code>xreals</code> | ℝ̅ |
 | <code>hreals</code> |  ⃰ℝ |
+| <code>hypers</code> |  ⃰ℝ |
+| <code>sreals</code> | 𝕊 |
+| <code>surrs</code> | 𝕊 |
 | <code>surno</code> | ℕo |
 | <code>suron</code> | 𝕆n |
-| <code>sreals</code> | 𝕊 |
 | <code>comps</code> | ℂ |
 | <code>complex</code> | ℂ |
 | <code>comps,</code> | ℂ̧ |
