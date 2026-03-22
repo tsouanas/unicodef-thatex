@@ -240,6 +240,7 @@ motorway      🛣
 # signs %{{{
 
 WIP            🚧
+undercons      🚧
 underc         🚧
 ucons          🚧
 top^           🔝  # TODO: rename to TOP or top (if/when we prefix emojis)
@@ -1273,6 +1274,8 @@ Sun           ☀️
 Swords        ⚔️
 Timer         ⏲️
 Umbrella      ☂️
+Woi           ⚒️
+Work          ⚒️
 Write         ✍️
 
 # %}}}
