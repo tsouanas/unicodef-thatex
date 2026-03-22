@@ -1265,10 +1265,12 @@ reals             ℝ
 extreals          ℝ̅   # [ext]ended
 ereals            ℝ̅   # [e]xtended
 xreals            ℝ̅   # e[x]tended
-hreals             ⃰ℝ  # [h]yperreals
-surno             ℕo  # [sur]reals
+hreals             ⃰ℝ  # [h]yper[reals]
+hypers             ⃰ℝ  # [hyper]real[s]
+sreals            𝕊   # [s]ur[reals]
+surrs             𝕊   # [surr]eal[s]
+surno             ℕo  # [sur]real numbers
 suron             𝕆n
-sreals            𝕊
 comps             ℂ
 complex           ℂ
 comps,            ℂ̧
