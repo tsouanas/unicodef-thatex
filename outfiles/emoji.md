@@ -28,6 +28,7 @@
 | <code>bulb</code> | 💡 |
 | <code>buoy</code> | 🛟 |
 | <code>cart</code> | 🛒 |
+| <code>chest</code> | 🪎 |
 | <code>clip</code> | 📎 |
 | <code>clips</code> | 🖇 |
 | <code>compass</code> | 🧭 |
@@ -139,6 +140,8 @@
 | <code>tp</code> | 🧻 |
 | <code>TP</code> | 🧻 |
 | <code>toothbrush</code> | 🪥 |
+| <code>treasure</code> | 🪎 |
+| <code>treas</code> | 🪎 |
 | <code>tropical</code> | 🏝 |
 | <code>scuba</code> | 🤿 |
 | <code>soap</code> | 🧼 |

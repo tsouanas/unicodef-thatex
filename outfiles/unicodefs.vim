@@ -27,6 +27,7 @@ inoremap \\bubbles 🫧
 inoremap \\bulb 💡
 inoremap \\buoy 🛟
 inoremap \\cart 🛒
+inoremap \\chest 🪎
 inoremap \\clip 📎
 inoremap \\clips 🖇
 inoremap \\compass 🧭
@@ -138,6 +139,8 @@ inoremap \\toiletp 🧻
 inoremap \\tp 🧻
 inoremap \\TP 🧻
 inoremap \\toothbrush 🪥
+inoremap \\treasure 🪎
+inoremap \\treas 🪎
 inoremap \\tropical 🏝
 inoremap \\scuba 🤿
 inoremap \\soap 🧼
