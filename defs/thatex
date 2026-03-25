@@ -40,12 +40,17 @@ jux               ⁢  # [juxt]aposition
 jspc              ⁢
 ideospc           　
 ispc              　
+brspc             ⠀  # braille blank pattern
+ogspc                # ogham space
 phantom0           
 phdig                # [ph]antom [dig]it
 dspc                 # [d]igit [spc] (synonym for above)
 phantom,          ⁣  # [phantom] [,]  (invisible separator)
 ,                 ⁣
 blank             ⠀  # XXX: abuse: braille blank pattern
+blank,               # XXX: abuse: ogham space
+space             ⠀  # XXX: abuse: braille blank pattern
+space,               # XXX: abuse: ogham space
 
 # %}}}
 
@@ -580,6 +585,7 @@ Eng               Ŋ
 eng               ŋ
 Agma              Ŋ
 agma              ŋ
+peith             ᚚ
 halfh             ⱶ
 Halfh             Ⱶ
 halfH             Ⱶ
@@ -647,6 +653,101 @@ r~~,              ᵳ
 s~~               ᵴ
 t~~               ᵵ
 z~~               ᵶ
+
+# %}}}
+
+## ogham %{{{
+
+ogp        ᚚ
+ogb        ᚁ
+ogl        ᚂ
+ogf        ᚃ
+ogs        ᚄ
+ogn        ᚅ
+ogh        ᚆ
+ogd        ᚇ
+ogt        ᚈ
+ogc        ᚉ
+ogq        ᚊ
+ogm        ᚋ
+ogg        ᚌ
+oggg       ᚍ
+ogz        ᚎ
+ogr        ᚏ
+oga        ᚐ
+ogo        ᚑ
+ogu        ᚒ
+oge        ᚓ
+ogi        ᚔ
+ogea       ᚕ
+ogoi       ᚖ
+ogui       ᚗ
+ogio       ᚙ
+ogae       ᚘ
+
+og-        ᚚ
+og/        ᚋ
+og//       ᚌ
+og///      ᚍ
+og////     ᚎ
+og/////    ᚏ
+og2/       ᚌ
+og3/       ᚍ
+og4/       ᚎ
+og5/       ᚏ
+og/2       ᚌ
+og/3       ᚍ
+og/4       ᚎ
+og/5       ᚏ
+og+        ᚐ
+og++       ᚑ
+og+++      ᚒ
+og++++     ᚓ
+og+++++    ᚔ
+og2+       ᚑ
+og3+       ᚒ
+og4+       ᚓ
+og5+       ᚔ
+og+2       ᚑ
+og+3       ᚒ
+og+4       ᚓ
+og+5       ᚔ
+og,        ᚁ
+og,,       ᚂ
+og,,,      ᚃ
+og,,,,     ᚄ
+og,,,,,    ᚅ
+og2,       ᚂ
+og3,       ᚃ
+og4,       ᚄ
+og5,       ᚅ
+og,2       ᚂ
+og,3       ᚃ
+og,4       ᚄ
+og,5       ᚅ
+og'        ᚆ
+og''       ᚇ
+og'''      ᚈ
+og''''     ᚉ
+og'''''    ᚊ
+og2'       ᚇ
+og3'       ᚈ
+og4'       ᚉ
+og5'       ᚊ
+og'2       ᚇ
+og'3       ᚈ
+og'4       ᚉ
+og'5       ᚊ
+ogX        ᚕ
+og><       ᚕ
+og<>       ᚖ
+og^v       ᚖ
+og^V       ᚖ
+ogG        ᚗ
+og@        ᚗ
+og#        ᚙ
+ogx        ᚘ
+og          
 
 # %}}}
 
@@ -1542,7 +1643,17 @@ righta            ∟
 triang            △  # [triang]le
 tria              △
 perp              ⟂  # [perp]endicular
+perp,             ᚆ
+2perp,            ᚇ
+3perp,            ᚈ
+4perp,            ᚉ
+5perp,            ᚊ
 ortho             ⟂  # [ortho]gonal
+ortho,            ᚆ
+2ortho,           ᚇ
+3ortho,           ᚈ
+4ortho,           ᚉ
+5ortho,           ᚊ
 paral             ∥  # [paral]lel
 nparal            ∦
 eqparal           ⋕
@@ -1729,6 +1840,7 @@ phole             ·  # [p]oint
 Phole             ∙  # (thick)
 dhole             –  # [d]ash
 uhole             _  # [u]nderscore
+uhole,            ᚚ  # peith
 bhole             ◻  # [b]ox
 chole             ○  # [c]ircle
 dbhole            ⬚  # [d]otted
@@ -2966,6 +3078,16 @@ bbbottom          ⫫
 bbot              ⫫
 2bot              ⫫
 bbbot             ⫫
+top,              ᚁ
+2top,             ᚂ
+3top,             ᚃ
+4top,             ᚄ
+5top,             ᚅ
+bot,              ᚆ
+2bot,             ᚇ
+3bot,             ᚈ
+4bot,             ᚉ
+5bot,             ᚊ
 lift              ˔
 inf               ∧
 sup               ∨
@@ -3010,6 +3132,8 @@ covs              ⤚  # [cov]er[s]
 coverd            ⤙  # [cover]e[d] by
 covd              ⤙  # [cov]ere[d] by
 covby             ⤙  # [cov]ered [by]
+covs,             ᚛  # ogham feather mark
+covd,             ᚜
 kovers            ⋗  # [k]nuth's c[overs]
 kovs              ⋗
 koverd            ⋖
@@ -3214,6 +3338,7 @@ jmeet             ⩙
 mjoin             ⩙
 hmeet             ⩜  # [h]orizontal bar [meet]
 hjoin             ⩝
+meet-join         ᚖ
 
 # %}}}
 
@@ -4515,6 +4640,66 @@ ltL               ⥷
 gtR               ⭃
 
 # %}}}
+
+# %}}}
+
+# ogham dashes %{{{
+
+sdash             ᚋ  # [s]lash
+2sdash            ᚌ
+3sdash            ᚍ
+4sdash            ᚎ
+5sdash            ᚏ
+idash             ᚐ  # [I]/(dot)
+2idash            ᚑ
+3idash            ᚒ
+4idash            ᚓ
+5idash            ᚔ
+tdash             ᚁ  # [t]op-like
+2tdash            ᚂ
+3tdash            ᚃ
+4tdash            ᚄ
+5tdash            ᚅ
+bdash             ᚆ  # [b]ottom-like
+2bdash            ᚇ
+3bdash            ᚈ
+4bdash            ᚉ
+5bdash            ᚊ
+/dash             ᚋ  # /
+2/dash            ᚌ
+3/dash            ᚍ
+4/dash            ᚎ
+5/dash            ᚏ
++dash             ᚐ  # +
+2+dash            ᚑ
+3+dash            ᚒ
+4+dash            ᚓ
+5+dash            ᚔ
+|dash             ᚐ  # |
+2|dash            ᚑ
+3|dash            ᚒ
+4|dash            ᚓ
+5|dash            ᚔ
+.dash             ᚐ  # .
+2.dash            ᚑ
+3.dash            ᚒ
+4.dash            ᚓ
+5.dash            ᚔ
+,dash             ᚁ  # ,
+2,dash            ᚂ
+3,dash            ᚃ
+4,dash            ᚄ
+5,dash            ᚅ
+'dash             ᚆ  # ’
+2'dash            ᚇ
+3'dash            ᚈ
+4'dash            ᚉ
+5'dash            ᚊ
+Xdash             ᚕ  # X
+xdash             ᚘ  # x
+Gdash             ᚗ  # [G]-like
+gdash             ᚙ  # [g]rid
+ddash             ᚖ  # [d]iamond
 
 # %}}}
 
