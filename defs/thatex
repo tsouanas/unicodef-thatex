@@ -1415,10 +1415,20 @@ gold              𝜙
 emptyset          Ø
 empty             Ø
 empty,            ∅
+empty,,           ꬾ
 sempty            ∅  # [s]lash
 bempty            ⦰  # [b]ackslash
 coempty           O⃥
 coempty,          ⦰
+oempty            ⦲
+emptyo            ⦲
+0empty            ⦲
+empty0            ⦲
+emptyring         ⦲
+emptybar          ⦱
+emptyto           ⦳
+emptyfrom         ⦴
+vempty            ᴓ  # [v]ertical
 pos               ₊
 neg               ₋
 pos,              ˲₀
