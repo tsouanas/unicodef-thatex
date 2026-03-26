@@ -2813,6 +2813,11 @@
 | <code>nece</code> | □ |
 | <code>nece,</code> | ◻ |
 | <code>necev</code> | ◫ |
+| <code>neceh</code> | 𐌇 |
+| <code>necefrom</code> | ⍇ |
+| <code>neceto</code> | ⍈ |
+| <code>necejoin</code> | ⍌ |
+| <code>necemeet</code> | ⍓ |
 | <code>poss</code> | ◊ |
 | <code>poss,</code> | ◇ |
 | <code>possh</code> | ⟠ |
@@ -3702,6 +3707,10 @@
 | <code>rgstop,</code> | ˤ |
 | <code>tdot</code> | ˙ |
 | <code>bdot</code> |  ̣ |
+| <code>period</code> | . |
+| <code>semicol</code> | ; |
+| <code>semic</code> | ; |
+| <code>scolon</code> | ; |
 | <code>bang</code> | ! |
 | <code>gnab</code> | ¡ |
 | <code>bbang</code> | ‼ |
@@ -3714,6 +3723,7 @@
 | <code>ibang</code> | ‽ |
 | <code>ignab</code> | ⸘ |
 | <code>cdot</code> | · |
+| <code>ldot</code> | . |
 | <code>dot</code> | · |
 | <code>point</code> | · |
 | <code>bul</code> | ∙ |

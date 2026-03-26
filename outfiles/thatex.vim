@@ -2812,6 +2812,11 @@ inoremap \\mconj ⊗
 inoremap \\nece □
 inoremap \\nece, ◻
 inoremap \\necev ◫
+inoremap \\neceh 𐌇
+inoremap \\necefrom ⍇
+inoremap \\neceto ⍈
+inoremap \\necejoin ⍌
+inoremap \\necemeet ⍓
 inoremap \\poss ◊
 inoremap \\poss, ◇
 inoremap \\possh ⟠
@@ -3701,6 +3706,10 @@ inoremap \\rgstop ˁ
 inoremap \\rgstop, ˤ
 inoremap \\tdot ˙
 inoremap \\bdot  ̣
+inoremap \\period .
+inoremap \\semicol ;
+inoremap \\semic ;
+inoremap \\scolon ;
 inoremap \\bang !
 inoremap \\gnab ¡
 inoremap \\bbang ‼
@@ -3713,6 +3722,7 @@ inoremap \\bangq ⁉
 inoremap \\ibang ‽
 inoremap \\ignab ⸘
 inoremap \\cdot ·
+inoremap \\ldot .
 inoremap \\dot ·
 inoremap \\point ·
 inoremap \\bul ∙
