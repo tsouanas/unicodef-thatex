@@ -777,6 +777,63 @@ rCigma            Ͻ
 
 # %}}}
 
+## roman numerals %{{{
+
+Rom1       Ⅰ
+Rom2       Ⅱ
+Rom3       Ⅲ
+Rom4       Ⅳ
+Rom5       Ⅴ
+Rom6       Ⅵ
+Rom6l      ↅ  # [l]ate form
+Rom6,      ↅ
+Rom7       Ⅶ
+Rom8       Ⅷ
+Rom9       Ⅸ
+Rom10      Ⅹ
+Rom11      Ⅺ
+Rom12      Ⅻ
+Rom50      Ⅼ
+Rom50e     ↆ  # [e]arly form
+Rom50,     ↆ
+Rom100     Ⅽ
+Rom100r    Ↄ  # [r]eversed
+Rom100,    Ↄ
+Rom500     Ⅾ
+Rom1k      Ⅿ
+Rom5k      ↁ
+Rom10k     ↂ
+Rom50k     ↇ
+Rom100k    ↈ
+rom1       ⅰ
+rom2       ⅱ
+rom3       ⅲ
+rom4       ⅳ
+rom5       ⅴ
+rom6       ⅵ
+rom6l      ↅ  # [l]ate
+rom6,      ↅ
+rom7       ⅶ
+rom8       ⅷ
+rom9       ⅸ
+rom10      ⅹ
+rom11      ⅺ
+rom12      ⅻ
+rom50      ⅼ
+rom50e     ↆ  # [e]arly
+rom50,     ↆ
+rom100     ⅽ
+rom100r    ↄ  # [r]eversed
+rom100,    ↄ
+rom500     ⅾ
+rom1k      ⅿ
+rom5k      ↁ
+rom10k     ↂ
+rom50k     ↇ
+rom100k    ↈ
+
+# %}}}
+
 # %}}}
 
 # math (sem-named) %{{{
