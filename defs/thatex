@@ -3965,7 +3965,9 @@ e,                ɛ
 e,,               𝑒
 f,                ƒ
 F,                Ƒ
-f,,               ᵮ
+f,,               ꞙ
+F,,               Ꞙ
+f,,,              ᵮ
 g,                ɠ
 G,                Ɠ
 g,,               ɡ
@@ -3991,7 +3993,6 @@ k,,,              ꝃ
 K,,,              Ꝃ
 k,4               ꝅ
 K,4               Ꝅ
-k,5               ᶄ
 l,                ℓ
 L,                ℒ
 l,,               ȴ
@@ -4038,8 +4039,11 @@ t,,,              ȶ
 T,,,              ᤒ  # WARN: abuse: not its uppercase
 t,4               ⲧ
 T,4               Ⲧ
-T,5               Ʈ
-t,6               ᵵ
+t,6               ʈ
+T,6               Ʈ
+t,7               ŧ
+T,7               Ŧ
+t,8               ᵵ
 v,                ⱴ
 V,                𝒱  # WARN: abuse: not its uppercase
 v,,               ʋ
@@ -4054,10 +4058,10 @@ y,                ƴ
 Y,                Ƴ
 y,,               ỿ
 Y,,               Ỿ
-z,                ɀ
-Z,                Ɀ
-z,,               ƶ
-Z,,               Ƶ
+z,                ƶ
+Z,                Ƶ
+z,,               ɀ
+Z,,               Ɀ
 z,,,              ʑ
 z,4               ᤃ
 Z,4               𝒵  # WARN: abuse: not its uppercase
