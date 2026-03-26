@@ -184,10 +184,115 @@ die6         ⚅
 
 # checkers %{{{
 
-wman              ⛀  # [w]hite [man]
-wdam              ⛁  # [dam]a/e
-bman              ⛂  # [b]lack
-bdam              ⛃
+wman         ⛀  # [w]hite [man]
+wdam         ⛁  # [dam]a/e
+bman         ⛂  # [b]lack
+bdam         ⛃
+
+# %}}}
+
+# dominos %{{{
+
+domh         🀰
+domh00       🀱
+domh01       🀲
+domh02       🀳
+domh03       🀴
+domh04       🀵
+domh05       🀶
+domh06       🀷
+domh10       🀸
+domh11       🀹
+domh12       🀺
+domh13       🀻
+domh14       🀼
+domh15       🀽
+domh16       🀾
+domh20       🀿
+domh21       🁀
+domh22       🁁
+domh23       🁂
+domh24       🁃
+domh25       🁄
+domh26       🁅
+domh30       🁆
+domh31       🁇
+domh32       🁈
+domh33       🁉
+domh34       🁊
+domh35       🁋
+domh36       🁌
+domh40       🁍
+domh41       🁎
+domh42       🁏
+domh43       🁐
+domh44       🁑
+domh45       🁒
+domh46       🁓
+domh50       🁔
+domh51       🁕
+domh52       🁖
+domh53       🁗
+domh54       🁘
+domh55       🁙
+domh56       🁚
+domh60       🁛
+domh61       🁜
+domh62       🁝
+domh63       🁞
+domh64       🁟
+domh65       🁠
+domh66       🁡
+domv         🁢
+domv00       🁣
+domv01       🁤
+domv02       🁥
+domv03       🁦
+domv04       🁧
+domv05       🁨
+domv06       🁩
+domv10       🁪
+domv11       🁫
+domv12       🁬
+domv13       🁭
+domv14       🁮
+domv15       🁯
+domv16       🁰
+domv20       🁱
+domv21       🁲
+domv22       🁳
+domv23       🁴
+domv24       🁵
+domv25       🁶
+domv26       🁷
+domv30       🁸
+domv31       🁹
+domv32       🁺
+domv33       🁻
+domv34       🁼
+domv35       🁽
+domv36       🁾
+domv40       🁿
+domv41       🂀
+domv42       🂁
+domv43       🂂
+domv44       🂃
+domv45       🂄
+domv46       🂅
+domv50       🂆
+domv51       🂇
+domv52       🂈
+domv53       🂉
+domv54       🂊
+domv55       🂋
+domv56       🂌
+domv60       🂍
+domv61       🂎
+domv62       🂏
+domv63       🂐
+domv64       🂑
+domv65       🂒
+domv66       🂓
 
 # %}}}
 
