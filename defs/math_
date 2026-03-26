@@ -224,8 +224,8 @@ oc     ∝
 >,<    ⪥
 <3     ♡
 
+h/     ℏ
 #h-     ħ  # INFO: identical under defs/lang_
-#h/     ℏ  # INFO: identical under defs/lang_
 
 # %}}}
 
@@ -251,6 +251,8 @@ S)     ⟆
 )>     ⟩
 <(     ⟨
 >)     ⟩
+1<     ⟨
+1>     ⟩
 2<     ⟪
 2>     ⟫
 {{     ⦃
