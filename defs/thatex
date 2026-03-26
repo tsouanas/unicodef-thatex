@@ -559,10 +559,6 @@ Eth               Ð
 eth               ð
 Thorn             Þ
 thorn             þ
-That              ꝥ
-that              Ꝥ
-Thru              Ꝧ
-thru              ꝧ
 Welshv            Ỽ  # middle [Welsh] [v]
 welshv            ỽ
 Welshll           Ỻ
@@ -654,6 +650,17 @@ r~~,              ᵳ
 s~~               ᵴ
 t~~               ᵵ
 z~~               ᵶ
+
+# %}}}
+
+## abbrevs %{{{
+
+That              ꝥ
+that              Ꝥ
+Thru              Ꝧ
+thru              ꝧ
+et                🙰
+etc               🙰c
 
 # %}}}
 
