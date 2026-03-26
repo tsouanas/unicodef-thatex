@@ -278,6 +278,7 @@ cur               ¤
 
 diameter          ⌀
 diam              ⌀
+hdiam             ⦵  # [h]orizontal
 gnd               ⏚
 ohm               Ω
 mho               Ʊ
@@ -286,6 +287,8 @@ rplanck           ℏ  # [r]educed
 micro             µ
 fuse              ⏛
 ac                ⏦
+hysteresis        ⎎
+hyster            ⎎
 
 # %}}}
 
