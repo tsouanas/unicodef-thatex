@@ -3845,6 +3845,8 @@ bpsquare          ▢  # [b]aby[p]roof
 dsquare           ⬚  # [d]otted
 diamond           ◇
 lozenge           ◊
+diamonddash       ᚖ
+diamdash          ᚖ
 paragram          ▱  # [para]llelo[gram]
 rectangle         ▭
 elliv             ⬭  # [elli]pse [v]ertical
@@ -3876,6 +3878,30 @@ bhexagh           ⬣
 bhexagv           ⬢
 bstar             ★
 bfpstar           ★
+nwsquare          ◰
+swsquare          ◱
+sesquare          ◲
+nesquare          ◳
+nwcircle          ◴
+swcircle          ◵
+secircle          ◶
+necircle          ◷
+nwtriangle        ◸
+swtriangle        ◺
+setriangle        ◿
+netriangle        ◹
+nwsq              ◰
+swsq              ◱
+sesq              ◲
+nesq              ◳
+nwcirc            ◴
+swcirc            ◵
+secirc            ◶
+necirc            ◷
+nwtri             ◸
+swtri             ◺
+setri             ◿
+netri             ◹
 
 # %}}}
 
