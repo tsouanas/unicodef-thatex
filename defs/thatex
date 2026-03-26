@@ -2741,6 +2741,12 @@ Monto,,           ‒ͫ‒ͦ‒ᷠ→
 Monfrom,,         ←‒ͫ‒ͦ‒ᷠ
 Epito,,           ‒ͤ‒ᷮ‒ͥ→
 Epifrom,,         ←‒ͤ‒ᷮ‒ͥ
+profto            ⇸  # [prof]unctor [to]
+proffrom          ⇸
+profvto           ⤈
+profvfrom         ⤉
+vprofto           ⤈
+vproffrom         ⤉
 natuto            ⇒  # [natu]ral transformation [to]
 natufrom          ⇐
 natto             ⇒
