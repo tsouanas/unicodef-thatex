@@ -201,6 +201,7 @@ inoremap \>@< ⪤
 inoremap \>< ⪤
 inoremap \>,< ⪥
 inoremap \<3 ♡
+inoremap \h/ ℏ
 inoremap \[[ ⟦
 inoremap \]] ⟧
 inoremap \2[ ⟦
@@ -221,6 +222,8 @@ inoremap \(< ⟨
 inoremap \)> ⟩
 inoremap \<( ⟨
 inoremap \>) ⟩
+inoremap \1< ⟨
+inoremap \1> ⟩
 inoremap \2< ⟪
 inoremap \2> ⟫
 inoremap \{{ ⦃

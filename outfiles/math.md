@@ -202,6 +202,7 @@
 | <code>&gt;&lt;</code> | ⪤ |
 | <code>&gt;,&lt;</code> | ⪥ |
 | <code>&lt;3</code> | ♡ |
+| <code>h/</code> | ℏ |
 | <code>[[</code> | ⟦ |
 | <code>]]</code> | ⟧ |
 | <code>2[</code> | ⟦ |
@@ -222,6 +223,8 @@
 | <code>)&gt;</code> | ⟩ |
 | <code>&lt;(</code> | ⟨ |
 | <code>&gt;)</code> | ⟩ |
+| <code>1&lt;</code> | ⟨ |
+| <code>1&gt;</code> | ⟩ |
 | <code>2&lt;</code> | ⟪ |
 | <code>2&gt;</code> | ⟫ |
 | <code>{{</code> | ⦃ |
