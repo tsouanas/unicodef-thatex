@@ -369,7 +369,17 @@ rightleft         ⇄
 leftright         ⇆
 rightright        ⇉
 leftleft          ⇇
-2rights           ⇉
+2left             ⇐
+2right            ⇒
+2up               ⇑
+2down             ⇓
+3up               ⤊
+3down             ⤋
+3left             ⇚
+3right            ⇛
+4left             ⭅
+4right            ⭆
+2rights           ⇉  # [s] (plural indicates distinct arrows)
 2lefts            ⇇
 3rights           ⇶
 3lefts            ⬱
@@ -3110,29 +3120,42 @@ cconj             ⩓
 
 # %}}}
 
-# linear logic %{{{
+# [l]inear [l]ogic %{{{
 
-linto             ⊸
-linfrom           ⟜
-linimplies        ⊸
-linimplied        ⟜
-linimps           ⊸
-linimpd           ⟜
-vlinto            ⫰
-vlinfrom          ⫯
-vlinimplies       ⫰
-vlinimplied       ⫯
-vlinimps          ⫰
-vlinimpd          ⫯
-linwith           &
-linpar            ⅋
-linnot            ᗮ  # XXX: should be ^⊥
-linneg            ᗮ  # XXX: should be ^⊥
-lintimes          ⊗
-linplus           ⊕
+llto              ⊸
+llfrom            ⟜
+llimplies         ⊸
+llimplied         ⟜
+llimps            ⊸
+llimpd            ⟜
+llvto             ⫰
+llvfrom           ⫯
+llvimplies        ⫰
+llvimplied        ⫯
+llvimps           ⫰
+llvimpd           ⫯
+vllto             ⫰
+vllfrom           ⫯
+vllimplies        ⫰
+vllimplied        ⫯
+vllimps           ⫰
+vllimpd           ⫯
+llwith            &
+llpar             ⅋
+llnot             ᗮ  # XXX: should be ^⊥
+llneg             ᗮ  # XXX: should be ^⊥
+llnot,            ┴  # WARN: actually a box-drawing char
+llneg,            ┴  # WARN: actually a box-drawing char
+llNot             ┴  # WARN: actually a box-drawing char
+llNeg             ┴  # WARN: actually a box-drawing char
+lltimes           ⊗
+llplus            ⊕
+llTimes           ⨂
+llPlus            ⨂
 ofcourse          !
 ofc               !
 whynot            ?
+ynot              ?
 adisj             ⊕  # [a]dditive [disj]unction
 aconj             &  # [a]dditive [conj]unction
 mdisj             ⅋  # [m]ultiplicative [disj]unction
@@ -3311,7 +3334,9 @@ filterish         ∇
 idrel             Δ
 diagrel           Δ
 allrel            ∇
-orthoc            ┴  # [orthoc]omplement  WARN: actually a box-drawing char
+orthoc            ᗮ  # [orthoc]omplement
+orthoc,           ┴  # WARN: actually a box-drawing char
+Orthoc            ┴  # WARN: actually a box-drawing char
 
 # %}}}
 
@@ -3491,13 +3516,17 @@ downh             ⌄
 vdots             ⋮  # [v]ertical
 hdots             ⋯  # [h]orizontal
 cdots             ⋯  # [c]enter
-dotsb             ⋯  # (between) [b]inary operator
 ldots             …  # [l]ower
+dotsb             ⋯  # (between) [b]inary operator
 dotsc             …  # [c]omma
 nedots            ⋰  # [n]orth[e]ast
 swdots            ⋰
 sedots            ⋱
 nwdots            ⋱
+dotsne            ⋰
+dotssw            ⋰
+dotsse            ⋱
+dotsnw            ⋱
 sdots             ⋰  # [s]lash
 bdots             ⋱  # [b]ackslash
 
@@ -4716,6 +4745,22 @@ lr                ⇆
 rl                ⇄
 lll               ⬱
 rrr               ⇶
+2l                ⇐
+2r                ⇒
+2u                ⇑
+2d                ⇓
+3u                ⤊
+3d                ⤋
+3l                ⇚
+3r                ⇛
+4l                ⭅
+4r                ⭆
+2us               ⇈  # [s] (plural indicates distinct arrows)
+2ds               ⇊
+2ls               ⇇
+2rs               ⇉
+3ls               ⬱
+3rs               ⇶
 
 # %}}}
 
