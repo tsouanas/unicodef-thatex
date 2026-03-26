@@ -392,6 +392,7 @@ Tet    ⹒
 # -: macron, overbar, strike, crossbar
 # .: (over)dot, remove dot
 # /: sstrike, crossbar, slash
+# |: vstrike, strike, slash, straight tonos
 # :: diaeresis, trema, dot-above-and-below
 # ": double acute
 # =: double acute or double bar
@@ -403,7 +404,7 @@ Tet    ⹒
 # u: breve
 # L: inverted breve (which looks like [L]ambda (Λ))
 # ~: tilde, tildestrike
-# %: other: ring below, alt-version of some action above...
+# %: other: ring below, combo action, alt-version of some action above...
 
 ## action first %{{{
 
@@ -518,21 +519,26 @@ Tet    ⹒
 -A     Ā
 -D     Đ
 -E     Ē
+-F     Ꞙ
+-G     Ǥ
 -H     Ħ
 -I     Ī
 -L     Ƚ
 -O     Ō
+-P     Ᵽ
 -T     Ŧ
 -U     Ū
 -Y     Ȳ
 -a     ā
 -d     đ
 -e     ē
--f     ᵮ
+-f     ꞙ
+-g     ǥ
 -h     ħ
 -i     ī
 -l     ƚ
 -o     ō
+-p     ᵽ
 -t     ŧ
 -u     ū
 -y     ȳ
@@ -582,15 +588,27 @@ Tet    ⹒
 .y     ẏ
 .z     ż
 
+/A     Ⱥ
+/C     Ȼ
 /D     Ð
+/E     Ɇ
 /L     Ł
 /O     Ø
-/U     Ʉ
+/T     Ⱦ
+/U     Ꞹ
+/a     ⱥ
+/c     ȼ
 /d     ð
-/h     ℏ
+/e     ɇ
 /l     ł
 /o     ø
-/u     ʉ
+/t     ⱦ
+/u     ꞹ
+
+|U     Ʉ
+|c     ¢
+|s     $
+|u     ʉ
 
 :A     Ä
 :E     Ë
@@ -785,10 +803,11 @@ Lu     ȗ
 ~z     ᵶ
 
 %A     Ḁ
+%O     Ǿ
 %a     ḁ
 %n     ᵰ
+%o     ǿ
 %s     ᵴ
-
 
 # %}}}
 
@@ -799,6 +818,7 @@ a'     á
 a,     ą
 a-     ā
 a.     ȧ
+a/     ⱥ
 a:     ä
 a^     â
 a`     à
@@ -814,6 +834,7 @@ b~     ᵬ
 c'     ć
 c,     ç
 c.     ċ
+c/     ȼ
 c^     ĉ
 cv     č
 d!     ḍ
@@ -829,6 +850,7 @@ e'     é
 e,     ę
 e-     ē
 e.     ė
+e/     ɇ
 e:     ë
 e^     ê
 e`     è
@@ -836,10 +858,12 @@ ev     ě
 eu     ĕ
 eL     ȇ
 e~     ẽ
+f-     ꞙ
 f.     ḟ
 f~     ᵮ
 g'     ǵ
 g,     ģ
+g-     ǥ
 g.     ġ
 g^     ĝ
 gv     ǧ
@@ -848,7 +872,6 @@ h!     ḥ
 h,     ḩ
 h-     ħ
 h.     ḣ
-h/     ℏ
 h:     ḧ
 h^     ĥ
 hv     ȟ
@@ -904,7 +927,9 @@ ov     ǒ
 ou     ŏ
 oL     ȏ
 o~     õ
+o%     ǿ
 p'     ṕ
+p-     ᵽ
 p.     ṗ
 p~     ᵱ
 r!     ṛ
@@ -927,6 +952,7 @@ t,     ţ
 t;     ț
 t-     ŧ
 t.     ṫ
+t/     ⱦ
 t:     ẗ
 tv     ť
 t~     ᵵ
@@ -934,7 +960,8 @@ u!     ụ
 u'     ú
 u,     ų
 u-     ū
-u/     ʉ
+u/     ꞹ
+u|     ʉ
 u:     ü
 u=     ű
 u"     ű
@@ -979,6 +1006,7 @@ A'     Á
 A,     Ą
 A-     Ā
 A.     Ȧ
+A/     Ⱥ
 A:     Ä
 A^     Â
 A`     À
@@ -993,6 +1021,7 @@ B.     Ḃ
 C'     Ć
 C,     Ç
 C.     Ċ
+C/     Ȼ
 C^     Ĉ
 Cv     Č
 D!     Ḍ
@@ -1007,6 +1036,7 @@ E'     É
 E,     Ę
 E-     Ē
 E.     Ė
+E/     Ɇ
 E:     Ë
 E^     Ê
 E`     È
@@ -1014,9 +1044,11 @@ Ev     Ě
 Eu     Ĕ
 EL     Ȇ
 E~     Ẽ
+F-     Ꞙ
 F.     Ḟ
 G'     Ǵ
 G,     Ģ
+G-     Ǥ
 G.     Ġ
 G^     Ĝ
 Gv     Ǧ
@@ -1078,7 +1110,9 @@ Ov     Ǒ
 Ou     Ŏ
 OL     Ȏ
 O~     Õ
+O%     Ǿ
 P'     Ṕ
+P-     Ᵽ
 P.     Ṗ
 R!     Ṛ
 R'     Ŕ
@@ -1098,12 +1132,14 @@ T,     Ţ
 T;     Ț
 T-     Ŧ
 T.     Ṫ
+T/     Ⱦ
 Tv     Ť
 U!     Ụ
 U'     Ú
 U,     Ų
 U-     Ū
-U/     Ʉ
+U/     Ꞹ
+U|     Ʉ
 U:     Ü
 U=     Ű
 U"     Ű
