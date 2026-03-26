@@ -3311,6 +3311,7 @@ filterish         ∇
 idrel             Δ
 diagrel           Δ
 allrel            ∇
+orthoc            ┴  # [orthoc]omplement  WARN: actually a box-drawing char
 
 # %}}}
 
@@ -3440,7 +3441,8 @@ jmeet             ⩙
 mjoin             ⩙
 hmeet             ⩜  # [h]orizontal bar [meet]
 hjoin             ⩝
-meet-join         ᚖ
+meet-join         ⟠
+meet-join,        ᚖ
 
 # %}}}
 
