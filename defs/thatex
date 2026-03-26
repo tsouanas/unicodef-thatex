@@ -3143,9 +3143,19 @@ mconj             ⊗  # [m]ultiplicative [conj]unction
 # modal logic %{{{
 
 nece              □  # [nece]ssary
-poss              ◊  # [poss]ible
 nece,             ◻
+necev             ◫
+neceh             𐌇
+necefrom          ⍇
+neceto            ⍈
+necejoin          ⍌
+necemeet          ⍓
+poss              ◊  # [poss]ible
 poss,             ◇
+possh             ⟠
+possh,            ᚖ
+possdash          ⟠
+possdash,         ᚖ
 
 # %}}}
 
