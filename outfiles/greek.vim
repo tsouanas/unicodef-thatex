@@ -291,8 +291,8 @@ inoremap \\copnu ⲛ
 inoremap \\copKsi Ⲝ
 inoremap \\copksi ⲝ
 inoremap \\copOmicron Ⲟ
-inoremap \\copOmi Ⲟ
 inoremap \\copomicron ⲟ
+inoremap \\copOmi Ⲟ
 inoremap \\copomi ⲟ
 inoremap \\copPi Ⲡ
 inoremap \\coppi ⲡ
@@ -313,8 +313,8 @@ inoremap \\copchi ⲭ
 inoremap \\copPsi Ⲯ
 inoremap \\coppsi ⲯ
 inoremap \\copOmega Ⲱ
-inoremap \\copOme Ⲱ
 inoremap \\copomega ⲱ
+inoremap \\copOme Ⲱ
 inoremap \\copome ⲱ
 inoremap \\bfAlpha 𝚨
 inoremap \\bfBeta 𝚩

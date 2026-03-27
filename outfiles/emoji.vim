@@ -722,6 +722,8 @@ inoremap \\psycho, 🔨😀
 inoremap \\eyesonly 😶
 inoremap \\stare 😶
 inoremap \\poker 😶
+inoremap \\looks 😶
+inoremap \\looking 😶
 inoremap \\invis 🫥
 inoremap \\kiss 😘
 inoremap \\kiss, 💋
@@ -893,6 +895,7 @@ inoremap \\mistys 🥺
 inoremap \\mistyh 🥹
 inoremap \\aww 🥹
 inoremap \\awn 🥹
+inoremap \\tadinho 🥺
 inoremap \\misty 🥹
 inoremap \\misty, 🥺
 inoremap \\scream 😱
@@ -975,7 +978,9 @@ inoremap \\nose 👃
 inoremap \\tongue 👅
 inoremap \\eye 👁
 inoremap \\eyes 👀
+inoremap \\eyes, 😶
 inoremap \\look 👀
+inoremap \\look, 😶
 inoremap \\peaceout ✌️
 inoremap \\handwave 👋
 inoremap \\hwave 👋

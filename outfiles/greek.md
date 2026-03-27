@@ -292,8 +292,8 @@
 | <code>copKsi</code> | Ⲝ |
 | <code>copksi</code> | ⲝ |
 | <code>copOmicron</code> | Ⲟ |
-| <code>copOmi</code> | Ⲟ |
 | <code>copomicron</code> | ⲟ |
+| <code>copOmi</code> | Ⲟ |
 | <code>copomi</code> | ⲟ |
 | <code>copPi</code> | Ⲡ |
 | <code>coppi</code> | ⲡ |
@@ -314,8 +314,8 @@
 | <code>copPsi</code> | Ⲯ |
 | <code>coppsi</code> | ⲯ |
 | <code>copOmega</code> | Ⲱ |
-| <code>copOme</code> | Ⲱ |
 | <code>copomega</code> | ⲱ |
+| <code>copOme</code> | Ⲱ |
 | <code>copome</code> | ⲱ |
 | <code>bfAlpha</code> | 𝚨 |
 | <code>bfBeta</code> | 𝚩 |

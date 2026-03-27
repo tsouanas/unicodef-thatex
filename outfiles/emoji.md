@@ -723,6 +723,8 @@
 | <code>eyesonly</code> | 😶 |
 | <code>stare</code> | 😶 |
 | <code>poker</code> | 😶 |
+| <code>looks</code> | 😶 |
+| <code>looking</code> | 😶 |
 | <code>invis</code> | 🫥 |
 | <code>kiss</code> | 😘 |
 | <code>kiss,</code> | 💋 |
@@ -894,6 +896,7 @@
 | <code>mistyh</code> | 🥹 |
 | <code>aww</code> | 🥹 |
 | <code>awn</code> | 🥹 |
+| <code>tadinho</code> | 🥺 |
 | <code>misty</code> | 🥹 |
 | <code>misty,</code> | 🥺 |
 | <code>scream</code> | 😱 |
@@ -976,7 +979,9 @@
 | <code>tongue</code> | 👅 |
 | <code>eye</code> | 👁 |
 | <code>eyes</code> | 👀 |
+| <code>eyes,</code> | 😶 |
 | <code>look</code> | 👀 |
+| <code>look,</code> | 😶 |
 | <code>peaceout</code> | ✌️ |
 | <code>handwave</code> | 👋 |
 | <code>hwave</code> | 👋 |
