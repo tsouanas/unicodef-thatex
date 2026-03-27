@@ -4,12 +4,15 @@
 # vim:foldcolumn=5
 # %}}}
 #
+# Polytonic and other greek-related glyphs
 # INFO: These are to be used while having a (modern) greek layout activated.
 # INFO: Actions are used as prefixes only.
 #
-# 0 (prefixed to the letter): alternative form
+# alt-form: X,
 #
-# actions, in order:
+# coptic: 0X
+#
+# actions (in order, prefixed to the letter):
 #
 #   either:
 #     breathing: > <
@@ -18,38 +21,133 @@
 #     ad/subscript: ,
 #   or:
 #     macron/breve: _ -
+#   or:
+#     caron: ω (v key)
 
-# 0-alternative forms %{{{
+# alt-form: X, %{{{
 
-0Υ     ϒ
-0ε     ϵ
-0θ     ϑ
-0κ     ϰ
-0π     ϖ
-0ρ     ϱ
-0σ     ς
+β,     ϐ
+ε,     ϵ
+Θ,     ϴ
+θ,     ϑ
+κ,     ϰ
+π,     ϖ
+ρ,     ϱ
+Σ,     Ϲ
+σ,     ϲ
+ς,     ϲ
+Υ,     ϒ
+φ,     ϕ
+
+# %}}}
+
+# coptic greek: 0X %{{{
+
+0Α        Ⲁ
+0α        ⲁ
+0Β        Ⲃ
+0β        ⲃ
+0Γ        Ⲅ
+0γ        ⲅ
+0Δ        Ⲇ
+0δ        ⲇ
+0Ε        Ⲉ
+0ε        ⲉ
+0^        Ⲋ  # (^ is shift-6 on greek layout)
+06        ⲋ
+0Ζ        Ⲍ
+0ζ        ⲍ
+0Η        Ⲏ
+0η        ⲏ
+0Θ        Ⲑ
+0θ        ⲑ
+0Ι        Ⲓ
+0ι        ⲓ
+0Κ        Ⲕ
+0κ        ⲕ
+0Λ        Ⲗ
+0λ        ⲗ
+0Μ        Ⲙ
+0μ        ⲙ
+0Ν        Ⲛ
+0ν        ⲛ
+0Ξ        Ⲝ
+0ξ        ⲝ
+0Ο        Ⲟ
+0ο        ⲟ
+0Π        Ⲡ
+0π        ⲡ
+0Ρ        Ⲣ
+0ρ        ⲣ
+0Σ        Ⲥ
+0σ        ⲥ
+0ς        ⲥ
+0Τ        Ⲧ
+0τ        ⲧ
+0Υ        Ⲩ
+0υ        ⲩ
+0Φ        Ⲫ
+0φ        ⲫ
+0Χ        Ⲭ
+0χ        ⲭ
+0Ψ        Ⲯ
+0ψ        ⲯ
+0Ω        Ⲱ
+0ω        ⲱ
 
 # %}}}
 
 # archaic and ligatures %{{{
 
-τσ     ͷ  # Arcadian "tsan"
-σσ     Ϸ  # Bactrian Ϸ "sho"
-ΟΥ     Ȣ
-Ου     Ȣ
-ου     Ȣ
+ΓΓ     Ϝ  # Digamma
+Γγ     Ϝ
+γγ     ϝ
+ΓΝ     Ͷ  # Pamphylian digamma  WARN: same unicode as Arcadian Tsan
+Γν     Ͷ
+γν     ͷ
+ΗΗ     Ͱ  # Heta
+Ηη     Ͱ
+ηη     ͱ
+ΙΙ     Ϳ  # Yot
+Ιι     Ϳ
+ιι     ϳ
 Και    Ϗ
 ΚΑΙ    Ϗ
 και    ϗ
 Κ'     Ϗ
 κ'     ϗ
-ΣΤ     Ϛ
+ΚΠ     Ϟ  # Koppa
+Κπ     Ϟ
+κπ     ϟ
+ΚΟ     Ϙ  # Archaic Koppa
+Κο     Ϙ
+κο     ϙ
+ΟΥ     Ȣ  # Ou
+Ου     Ȣ
+ου     ȣ
+ΣΝ     Ϻ  # San
+Σν     Ϻ
+σν     ϻ
+ΣΠ     Ϡ  # Sampi
+Σπ     Ϡ
+σπ     ϡ
+ΣΙ     Ͳ  # Ancient Sampi
+Σι     Ͳ
+σι     ͳ
+σσ     Ϸ  # Bactrian Ϸ "sho"
+ΤΣ     Ͷ  # Arcadian "tsan"  WARN: same unicode as Pamphylian Digamma
+Τσ     Ͷ
+τσ     ͷ
+ΣΤ     Ϛ  # Stigma
 Στ     Ϛ
 στ     ϛ
-ΤΡ     ⳨
+Σ.     Ͼ  # dotted lunate sigma
+σ.     ͼ
+ς.     ͼ
+ΤΡ     ⳨  # Coptic Tau-Ro
 Τρ     ⳨
 τρ     ⳨
-ΧΡ     ☧
+ΧΡ     ☧  # Chi-Rho
 Χρ     ☧
 χρ     ☧
 
@@ -185,6 +283,13 @@ _Υ     Ῡ
 -Α     Ᾰ
 -Ι     Ῐ
 -Υ     Ῠ
+
+## caron:  ̌
+ωΣ     Σ̌
+ωΚ     Κ̌
+ωΠ     Π̌
+ωΤ     Τ̌
+ωΖ     Ζ̌
 
 # %}}}
 
@@ -348,6 +453,13 @@ _υ     ῡ
 -α     ᾰ
 -ι     ῐ
 -υ     ῠ
+
+## caron:  ̌
+ωσ     σ̌
+ωκ     κ̌
+ωπ     π̌
+ωτ     τ̌
+ωζ     ζ̌
 
 # %}}}
 
