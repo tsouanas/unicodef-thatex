@@ -2370,6 +2370,10 @@ outl,             𝑜𝑢𝑡𝑙
 outr,             𝑜𝑢𝑡𝑟
 inl,              𝑖𝑛𝑙
 inr,              𝑖𝑛𝑟
+lefty             ᴸ
+righty            ᴿ
+lefty,            ₗ
+righty,           ᵣ
 arat              𝟎  # [ar]ity [at]omic (single & saturated)
 arcom             ⊗  # [ar]ity [com]bination (combined)
 arto              ↠  # [ar]ity [to] (unsaturated)
