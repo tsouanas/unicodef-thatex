@@ -955,7 +955,9 @@
       "H" = ("insertText:", "ƨ");
       "<" = ("insertText:", "ƨ");
     };
-    "%" = ("insertText:", "ᵴ");
+    "%" = {
+      "\\~" = ("insertText:", "ᵴ");
+    };
     "\\~" = ("insertText:", "s̃");
     "v" = ("insertText:", "š");
     "\\^" = ("insertText:", "ŝ");
@@ -1004,6 +1006,8 @@
       "H" = ("insertText:", "p");
       "<" = ("insertText:", "p");
     };
+    "/" = ("insertText:", "ꝙ");
+    "-" = ("insertText:", "ꝗ");
     "p" = ("insertText:", "ȹ");
   };
   "p" = {
@@ -1037,7 +1041,9 @@
       "H" = ("insertText:", "o");
       "<" = ("insertText:", "o");
     };
-    "%" = ("insertText:", "ǿ");
+    "%" = {
+      "'" = ("insertText:", "ǿ");
+    };
     "\\~" = ("insertText:", "õ");
     "L" = ("insertText:", "ȏ");
     "u" = ("insertText:", "ŏ");
@@ -1074,7 +1080,9 @@
       "P" = ("insertText:", "u");
       "\\@" = ("insertText:", "u");
     };
-    "%" = ("insertText:", "ᵰ");
+    "%" = {
+      "\\~" = ("insertText:", "ᵰ");
+    };
     "\\~" = ("insertText:", "ñ");
     "v" = ("insertText:", "ň");
     "`" = ("insertText:", "ǹ");
@@ -1198,8 +1206,9 @@
     "u" = ("insertText:", "ğ");
     "v" = ("insertText:", "ǧ");
     "\\^" = ("insertText:", "ĝ");
+    "/" = ("insertText:", "ǥ");
     "." = ("insertText:", "ġ");
-    "-" = ("insertText:", "ǥ");
+    "-" = ("insertText:", "ḡ");
     "," = ("insertText:", "ģ");
     "'" = ("insertText:", "ǵ");
     "a" = ("insertText:", "ɣ");
@@ -1313,7 +1322,9 @@
       "P" = ("insertText:", "ɐ");
       "\\@" = ("insertText:", "ɐ");
     };
-    "%" = ("insertText:", "ḁ");
+    "%" = {
+      "0" = ("insertText:", "ḁ");
+    };
     "\\~" = ("insertText:", "ã");
     "L" = ("insertText:", "ȃ");
     "u" = ("insertText:", "ă");
@@ -1480,7 +1491,6 @@
       "H" = ("insertText:", "Ƨ");
       "<" = ("insertText:", "Ƨ");
     };
-    "%" = ("insertText:", "Ṩ");
     "\\~" = ("insertText:", "S̃");
     "v" = ("insertText:", "Š");
     "\\^" = ("insertText:", "Ŝ");
@@ -1520,6 +1530,8 @@
       "P" = ("insertText:", "Ꝺ");
       "\\@" = ("insertText:", "Ꝺ");
     };
+    "/" = ("insertText:", "Ꝙ");
+    "-" = ("insertText:", "Ꝗ");
   };
   "P" = {
     "\\@" = {
@@ -1551,7 +1563,9 @@
       "H" = ("insertText:", "O");
       "<" = ("insertText:", "O");
     };
-    "%" = ("insertText:", "Ǿ");
+    "%" = {
+      "'" = ("insertText:", "Ǿ");
+    };
     "\\~" = ("insertText:", "Õ");
     "L" = ("insertText:", "Ȏ");
     "u" = ("insertText:", "Ŏ");
@@ -1732,8 +1746,9 @@
     "u" = ("insertText:", "Ğ");
     "v" = ("insertText:", "Ǧ");
     "\\^" = ("insertText:", "Ĝ");
+    "/" = ("insertText:", "Ǥ");
     "." = ("insertText:", "Ġ");
-    "-" = ("insertText:", "Ǥ");
+    "-" = ("insertText:", "Ḡ");
     "," = ("insertText:", "Ģ");
     "'" = ("insertText:", "Ǵ");
     "a" = ("insertText:", "Ɣ");
@@ -1846,7 +1861,9 @@
       "H" = ("insertText:", "A");
       "<" = ("insertText:", "A");
     };
-    "%" = ("insertText:", "Ḁ");
+    "%" = {
+      "0" = ("insertText:", "Ḁ");
+    };
     "\\~" = ("insertText:", "Ã");
     "L" = ("insertText:", "Ȃ");
     "u" = ("insertText:", "Ă");
@@ -1925,12 +1942,33 @@
     "," = ("insertText:", "„");
   };
   "%" = {
-    "s" = ("insertText:", "ᵴ");
-    "o" = ("insertText:", "ǿ");
-    "n" = ("insertText:", "ᵰ");
-    "a" = ("insertText:", "ḁ");
-    "O" = ("insertText:", "Ǿ");
-    "A" = ("insertText:", "Ḁ");
+    "\\~" = {
+      "s" = ("insertText:", "ᵴ");
+      "n" = ("insertText:", "ᵰ");
+    };
+    "0" = {
+      "a" = ("insertText:", "ḁ");
+      "A" = ("insertText:", "Ḁ");
+    };
+    "_" = {
+      "z" = ("insertText:", "ẕ");
+      "t" = ("insertText:", "ṯ");
+      "r" = ("insertText:", "ṟ");
+      "n" = ("insertText:", "ṉ");
+      "l" = ("insertText:", "ḻ");
+      "k" = ("insertText:", "ḵ");
+      "h" = ("insertText:", "ẖ");
+      "d" = ("insertText:", "ḏ");
+      "b" = ("insertText:", "ḇ");
+      "Z" = ("insertText:", "Ẕ");
+      "T" = ("insertText:", "Ṯ");
+      "R" = ("insertText:", "Ṟ");
+      "N" = ("insertText:", "Ṉ");
+      "L" = ("insertText:", "Ḻ");
+      "K" = ("insertText:", "Ḵ");
+      "D" = ("insertText:", "Ḏ");
+      "B" = ("insertText:", "Ḇ");
+    };
   };
   "\\~" = {
     "z" = ("insertText:", "ᵶ");
@@ -2071,16 +2109,20 @@
   "/" = {
     "u" = ("insertText:", "ꞹ");
     "t" = ("insertText:", "ⱦ");
+    "q" = ("insertText:", "ꝙ");
     "o" = ("insertText:", "ø");
     "l" = ("insertText:", "ł");
+    "g" = ("insertText:", "ǥ");
     "e" = ("insertText:", "ɇ");
     "d" = ("insertText:", "ð");
     "c" = ("insertText:", "ȼ");
     "a" = ("insertText:", "ⱥ");
     "U" = ("insertText:", "Ꞹ");
     "T" = ("insertText:", "Ⱦ");
+    "Q" = ("insertText:", "Ꝙ");
     "O" = ("insertText:", "Ø");
     "L" = ("insertText:", "Ł");
+    "G" = ("insertText:", "Ǥ");
     "E" = ("insertText:", "Ɇ");
     "D" = ("insertText:", "Ð");
     "C" = ("insertText:", "Ȼ");
@@ -2122,8 +2164,8 @@
     "N" = ("insertText:", "Ṅ");
     "M" = ("insertText:", "Ṁ");
     "L" = ("insertText:", "Ŀ");
-    "J" = ("insertText:", "ȷ");
-    "I" = ("insertText:", "I");
+    "J" = ("insertText:", "J̇");
+    "I" = ("insertText:", "İ");
     "H" = ("insertText:", "Ḣ");
     "G" = ("insertText:", "Ġ");
     "F" = ("insertText:", "Ḟ");
@@ -2148,12 +2190,13 @@
     "y" = ("insertText:", "ȳ");
     "u" = ("insertText:", "ū");
     "t" = ("insertText:", "ŧ");
+    "q" = ("insertText:", "ꝗ");
     "p" = ("insertText:", "ᵽ");
     "o" = ("insertText:", "ō");
     "l" = ("insertText:", "ƚ");
     "i" = ("insertText:", "ī");
     "h" = ("insertText:", "ħ");
-    "g" = ("insertText:", "ǥ");
+    "g" = ("insertText:", "ḡ");
     "f" = ("insertText:", "ꞙ");
     "e" = ("insertText:", "ē");
     "d" = ("insertText:", "đ");
@@ -2161,12 +2204,13 @@
     "Y" = ("insertText:", "Ȳ");
     "U" = ("insertText:", "Ū");
     "T" = ("insertText:", "Ŧ");
+    "Q" = ("insertText:", "Ꝗ");
     "P" = ("insertText:", "Ᵽ");
     "O" = ("insertText:", "Ō");
     "L" = ("insertText:", "Ƚ");
     "I" = ("insertText:", "Ī");
     "H" = ("insertText:", "Ħ");
-    "G" = ("insertText:", "Ǥ");
+    "G" = ("insertText:", "Ḡ");
     "F" = ("insertText:", "Ꞙ");
     "E" = ("insertText:", "Ē");
     "D" = ("insertText:", "Đ");
