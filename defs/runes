@@ -1,0 +1,256 @@
+# [vim] %{{{
+# vim:foldmarker=%{{{,%}}}
+# vim:foldmethod=marker
+# vim:foldcolumn=5
+# %}}}
+#
+# Runes
+
+## [run]ic unicode block %{{{
+
+#  ᚠ #  U+16A0 Runic Letter Fehu Feoh Fe F
+#  ᚡ #  U+16A1 Runic Letter V
+#  ᚢ #  U+16A2 Runic Letter Uruz Ur U
+#  ᚣ #  U+16A3 Runic Letter Yr
+#  ᚤ #  U+16A4 Runic Letter Y
+#  ᚥ #  U+16A5 Runic Letter W
+#  ᚦ #  U+16A6 Runic Letter Thurisaz Thurs Thorn
+#  ᚧ #  U+16A7 Runic Letter Eth
+#  ᚨ #  U+16A8 Runic Letter Ansuz A
+#  ᚩ #  U+16A9 Runic Letter Os O
+#  ᚪ #  U+16AA Runic Letter Ac A
+#  ᚫ #  U+16AB Runic Letter Aesc
+#  ᚬ #  U+16AC Runic Letter Long-Branch-Oss O
+#  ᚭ #  U+16AD Runic Letter Short-Twig-Oss O
+#  ᚮ #  U+16AE Runic Letter O
+#  ᚯ #  U+16AF Runic Letter Oe
+#  ᚰ #  U+16B0 Runic Letter On
+#  ᚱ #  U+16B1 Runic Letter Raido Rad Reid R
+#  ᚲ #  U+16B2 Runic Letter Kauna
+#  ᚳ #  U+16B3 Runic Letter Cen
+#  ᚴ #  U+16B4 Runic Letter Kaun K
+#  ᚵ #  U+16B5 Runic Letter G
+#  ᚶ #  U+16B6 Runic Letter Eng
+#  ᚷ #  U+16B7 Runic Letter Gebo Gyfu G
+#  ᚸ #  U+16B8 Runic Letter Gar
+#  ᚹ #  U+16B9 Runic Letter Wunjo Wynn W
+#  ᚺ #  U+16BA Runic Letter Haglaz H
+#  ᚻ #  U+16BB Runic Letter Haegl H
+#  ᚼ #  U+16BC Runic Letter Long-Branch-Hagall H
+#  ᚽ #  U+16BD Runic Letter Short-Twig-Hagall H
+#  ᚾ #  U+16BE Runic Letter Naudiz Nyd Naud N
+#  ᚿ #  U+16BF Runic Letter Short-Twig-Naud N
+#  ᛀ #  U+16C0 Runic Letter Dotted-N
+#  ᛁ #  U+16C1 Runic Letter Isaz Is Iss I
+#  ᛂ #  U+16C2 Runic Letter E
+#  ᛃ #  U+16C3 Runic Letter Jeran J
+#  ᛄ #  U+16C4 Runic Letter Ger
+#  ᛅ #  U+16C5 Runic Letter Long-Branch-Ar Ae
+#  ᛆ #  U+16C6 Runic Letter Short-Twig-Ar A
+#  ᛇ #  U+16C7 Runic Letter Iwaz Eoh
+#  ᛈ #  U+16C8 Runic Letter Pertho Peorth P
+#  ᛉ #  U+16C9 Runic Letter Algiz Eolhx
+#  ᛊ #  U+16CA Runic Letter Sowilo S
+#  ᛋ #  U+16CB Runic Letter Sigel Long-Branch-Sol S
+#  ᛌ #  U+16CC Runic Letter Short-Twig-Sol S
+#  ᛍ #  U+16CD Runic Letter C
+#  ᛎ #  U+16CE Runic Letter Z
+#  ᛏ #  U+16CF Runic Letter Tiwaz Tir Tyr T
+#  ᛐ #  U+16D0 Runic Letter Short-Twig-Tyr T
+#  ᛑ #  U+16D1 Runic Letter D
+#  ᛒ #  U+16D2 Runic Letter Berkanan Beorc Bjarkan B
+#  ᛓ #  U+16D3 Runic Letter Short-Twig-Bjarkan B
+#  ᛔ #  U+16D4 Runic Letter Dotted-P
+#  ᛕ #  U+16D5 Runic Letter Open-P
+#  ᛖ #  U+16D6 Runic Letter Ehwaz Eh E
+#  ᛗ #  U+16D7 Runic Letter Mannaz Man M
+#  ᛘ #  U+16D8 Runic Letter Long-Branch-Madr M
+#  ᛙ #  U+16D9 Runic Letter Short-Twig-Madr M
+#  ᛚ #  U+16DA Runic Letter Laukaz Lagu Logr L
+#  ᛛ #  U+16DB Runic Letter Dotted-L
+#  ᛜ #  U+16DC Runic Letter Ingwaz
+#  ᛝ #  U+16DD Runic Letter Ing
+#  ᛞ #  U+16DE Runic Letter Dagaz Daeg D
+#  ᛟ #  U+16DF Runic Letter Othalan Ethel O
+#  ᛠ #  U+16E0 Runic Letter Ear
+#  ᛡ #  U+16E1 Runic Letter Ior
+#  ᛢ #  U+16E2 Runic Letter Cweorth
+#  ᛣ #  U+16E3 Runic Letter Calc
+#  ᛤ #  U+16E4 Runic Letter Cealc
+#  ᛥ #  U+16E5 Runic Letter Stan
+#  ᛦ #  U+16E6 Runic Letter Long-Branch-Yr
+#  ᛧ #  U+16E7 Runic Letter Short-Twig-Yr
+#  ᛨ #  U+16E8 Runic Letter Icelandic-Yr
+#  ᛩ #  U+16E9 Runic Letter Q
+#  ᛪ #  U+16EA Runic Letter X
+
+run.           ᛫ #  U+16EB Runic Single Punctuation
+run:           ᛬ #  U+16EC Runic Multiple Punctuation
+run+           ᛭ #  U+16ED Runic Cross Punctuation
+
+runarlaug      ᛮ #  U+16EE Runic Arlaug Symbol
+runtvimadur    ᛯ #  U+16EF Runic Tvimadur Symbol
+runbelgthor    ᛰ #  U+16F0 Runic Belgthor Symbol
+
+runk           ᛱ #  U+16F1 Runic Letter K
+runsh          ᛲ #  U+16F2 Runic Letter Sh
+runoo          ᛳ #  U+16F3 Runic Letter Oo
+
+## Franks [Cask]et
+caskos        ᛴ #  U+16F4 Runic Letter Franks Casket Os
+caskis        ᛵ #  U+16F5 Runic Letter Franks Casket Is
+caskeh        ᛶ #  U+16F6 Runic Letter Franks Casket Eh
+caskac        ᛷ #  U+16F7 Runic Letter Franks Casket Ac
+caskaesc      ᛸ #  U+16F8 Runic Letter Franks Casket Aesc
+
+# %}}}
+
+## [a]nglo-saxon [fu]thorc %{{{
+
+afuf         ᚠ  # feh (feoh)    /f/
+afuu         ᚢ  # ur (ūr)       /u(:)/
+afuth        ᚦ  # ðorn (þorn)   /θ/
+afuo         ᚩ  # os (ōs)       /o(:)/
+afur         ᚱ  # rada (rād)    /r/
+afuc         ᚳ  # cen (cēn)     /k/, /kʲ/, /tʃ/
+afug         ᚷ  # geofu (gyfu)  /ɡ/, [ɣ], /j/
+afuw         ᚹ  # wyn (wynn)    /w/
+afuh         ᚻ  # hægil (hægl)  /h/, [x], [ç]
+afuh,        ᚺ  # hægil (hægl)  /h/, [x], [ç]
+afun         ᚾ  # næd (nēod)    /n/
+afui         ᛁ  # is (īs)       /i(:)/
+afuj         ᛡ  # gær (gēar)    /j/
+afuj,        ᛄ  # gær (gēar)    /j/
+afui:        ᛇ  # ih (īw)       /i(:)/ [x], [ç]
+afup         ᛈ  # peord (peorð) /p/
+afux         ᛉ  # ilcs (eolh?)  'x'
+afus         ᛋ  # sygil (sigel) /s/, [z]
+afus,        ᚴ  # sygil (sigel) /s/, [z]
+afut         ᛏ  # ti (Tīw)      /t/
+afub         ᛒ  # berc (beorc)  /b/
+afue         ᛖ  # eh (eh)       /e(:)/
+afum         ᛗ  # mon (mann)    /m/
+aful         ᛚ  # lagu (lagu)   /l/
+afung        ᛝ  # ing (ing)     /ŋɡ/, /ŋ/
+afuoe        ᛟ  # oedil (ēðel)  /ø(:)/
+afud         ᛞ  # dæg (dæg)     /d/
+afua         ᚪ  # ac (āc)       /ɑ(:)/
+afuae        ᚫ  # æsc (æsc)     /æ(:)/
+afuea        ᛠ  # ear (ēar)     /æ(:)ɑ/
+afuy         ᚣ  # yr (ȳr)       /y(:)/
+afuk         ᛣ  # calc          /k/
+afugh        ᚸ  # gar           /g/, [ɣ]
+afuq         ᛢ  # cweorð        /k/?
+afust        ᛥ  # stan          /st/
+afuio        ᛡ  # īor           /i(:)o/?
+afugk        ᛤ  # (unknown)     /k/
+afuk-        ᛤ  # (unknown)     /k/
+
+# %}}}
+
+## [e]lder [fu]thark %{{{
+
+efuf        ᚠ
+efuu        ᚢ
+efuth       ᚦ
+efua        ᚨ
+efur        ᚱ
+efuk        ᚲ
+efuc        ᚲ
+efug        ᚷ
+efuw        ᚹ
+efuh        ᚺ
+efuh,       ᚻ
+efun        ᚾ
+efui        ᛁ
+efuj        ᛃ
+efup        ᛈ
+efui:       ᛇ
+efuae       ᛇ
+efuz        ᛉ
+efus        ᛊ
+efus,       ᛋ
+efut        ᛏ
+efub        ᛒ
+efue        ᛖ
+efum        ᛗ
+eful        ᛚ
+efung       ᛜ
+efud        ᛞ
+efuo        ᛟ
+
+# %}}}
+
+## [y]ounger [fu]thark %{{{
+
+yfuf          ᚠ
+yfuu          ᚢ
+yfuv          ᚢ
+yfuw          ᚢ
+yfuy          ᚢ
+yfuo          ᚢ
+yfuth         ᚦ
+yfua          ᚬ
+yfur          ᚱ
+yfuk          ᚴ
+yfug          ᚴ
+yfung         ᚴ
+yfuh          ᚼ
+yfuh,         ᚽ
+yfun          ᚾ
+yfun,         ᚿ
+yfui          ᛁ
+yfue          ᛅ
+yfue,         ᛆ
+yfurr         ᛦ
+yfus          ᛋ
+yfus,         ᛌ
+yfut          ᛏ
+yfud          ᛐ
+yfub          ᛒ
+yfup          ᛒ
+yfum          ᛘ
+yful          ᛚ
+
+# %}}}
+
+## the [hob]bit %{{{
+
+hoba         ᚪ
+hoba,        ᚫ
+hobb         ᛒ
+hobc         ᚳ
+hobd         ᛞ
+hobe         ᛖ
+hobf         ᚠ
+hobph        ᚠ
+hobg         ᚷ
+hobh         ᚻ
+hobi         ᛁ
+hobj         ᛁ
+hobk         ᛱ
+hobl         ᛚ
+hobm         ᛗ
+hobn         ᚾ
+hobo         ᚩ
+hobp         ᛈ
+hobr         ᚱ
+hobs         ᛋ
+hobt         ᛏ
+hobu         ᚢ
+hobv         ᚢ
+hobw         ᚹ
+hobx         ᛉ
+hoby         ᚣ
+hobz         ᛣ
+hobth        ᚦ
+hobea        ᛠ
+hobst        ᛥ
+hobee        ᛟ
+hobng        ᛝ
+hobeo        ᛇ
+hoboo        ᛳ
+hobsh        ᛲ
+
+# %}}}
+
