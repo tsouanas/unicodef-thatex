@@ -3266,20 +3266,22 @@ glb,              ⊓
 lub,              ⊔
 Glb,              ⨅
 Lub,              ⨆
-cw                ᶜʷ # [c]omponent[w]ise
-pw                ᵖʷ # [p]oint[w]ise
+cw                ᶜʷ       # [c]omponent[w]ise
+pw                ᵖʷ       # [p]oint[w]ise
+lex               ˡᵉˣ      # [lex]icographic
+antilex           ᵃⁿᵗⁱˡᵉˣ  # [antilex]icographic
 covers            ⤚
-covs              ⤚  # [cov]er[s]
 coverd            ⤙  # [cover]e[d] by
-covd              ⤙  # [cov]ere[d] by
 covby             ⤙  # [cov]ered [by]
+covs              ⤚  # [cov]er[s]
+covd              ⤙  # [cov]ere[d] by
 covs,             ᚛  # ogham feather mark
 covd,             ᚜
 kovers            ⋗  # [k]nuth's c[overs]
-kovs              ⋗
 koverd            ⋖
-kovd              ⋖
 kovby             ⋖
+kovs              ⋗
+kovd              ⋖
 compar            ≶  # [compar]able
 compareq          ⋚
 ncompar           ≸
