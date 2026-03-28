@@ -386,16 +386,16 @@ Tet    ⹒
 
 # Action-extended latin %{{{
 # !: underdot
-# ': acute, apostrophe
+# ': acute
 # ,: cedilha, hypodiastole, ogonek, undercomma
 # ;: undercomma, cedilha, ...
 # -: macron, overbar, strike, crossbar
 # .: (over)dot, remove dot
-# /: sstrike, crossbar, slash
+# /: sstrike, strike, crossbar, slash
 # |: vstrike, strike, slash, straight tonos
 # :: diaeresis, trema, dot-above-and-below
 # ": double acute
-# =: double acute or double bar
+# =: double acute, double strike, double bar
 # +: double grave (shift =)
 # ^: circumflex
 # `: grave
@@ -404,9 +404,14 @@ Tet    ⹒
 # u: breve
 # L: inverted breve (which looks like [L]ambda (Λ))
 # ~: tilde, tildestrike
-# %: other: ring below, combo action, alt-version of some action above...
+# % (alt actions):
+# %_: underbar
+# %0: underring
+# %~: tildestrike
 
 ## action first %{{{
+
+# %{{{ ! underdot 
 
 !A     Ạ
 !B     Ḅ
@@ -447,6 +452,9 @@ Tet    ⹒
 !y     ỵ
 !z     ẓ
 
+# %}}}
+# %{{{ ' acute 
+
 'A     Á
 'C     Ć
 'E     É
@@ -482,6 +490,9 @@ Tet    ⹒
 'y     ý
 'z     ź
 
+# %}}}
+# %{{{ , cedilha, hypodiastole, ogonek, undercomma 
+
 ,A     Ą
 ,C     Ç
 ,D     Ḑ
@@ -509,6 +520,9 @@ Tet    ⹒
 ,t     ţ
 ,u     ų
 
+# %}}}
+# %{{{ ; undercomma 
+
 ;D     D̦  # WARN: decorated
 ;S     Ș
 ;T     Ț
@@ -516,16 +530,20 @@ Tet    ⹒
 ;s     ș
 ;t     ț
 
+# %}}}
+# %{{{ - 
+
 -A     Ā
 -D     Đ
 -E     Ē
 -F     Ꞙ
--G     Ǥ
+-G     Ḡ
 -H     Ħ
 -I     Ī
 -L     Ƚ
 -O     Ō
 -P     Ᵽ
+-Q     Ꝗ
 -T     Ŧ
 -U     Ū
 -Y     Ȳ
@@ -533,15 +551,19 @@ Tet    ⹒
 -d     đ
 -e     ē
 -f     ꞙ
--g     ǥ
+-g     ḡ
 -h     ħ
 -i     ī
 -l     ƚ
 -o     ō
 -p     ᵽ
+-q     ꝗ
 -t     ŧ
 -u     ū
 -y     ȳ
+
+# %}}}
+# %{{{ . (over)dot, remove dot 
 
 .A     Ȧ
 .B     Ḃ
@@ -551,8 +573,8 @@ Tet    ⹒
 .F     Ḟ
 .G     Ġ
 .H     Ḣ
-.I     I
-.J     ȷ
+.I     İ
+.J     J̇  # WARN: decorated
 .L     Ŀ
 .M     Ṁ
 .N     Ṅ
@@ -588,27 +610,39 @@ Tet    ⹒
 .y     ẏ
 .z     ż
 
+# %}}}
+# %{{{ / 
 /A     Ⱥ
 /C     Ȼ
 /D     Ð
 /E     Ɇ
+/G     Ǥ
 /L     Ł
 /O     Ø
+/Q     Ꝙ
 /T     Ⱦ
 /U     Ꞹ
 /a     ⱥ
 /c     ȼ
 /d     ð
 /e     ɇ
+/g     ǥ
 /l     ł
 /o     ø
+/q     ꝙ
 /t     ⱦ
 /u     ꞹ
+
+# %}}}
+# %{{{ | 
 
 |U     Ʉ
 |c     ¢
 |s     $
 |u     ʉ
+
+# %}}}
+# %{{{ : 
 
 :A     Ä
 :E     Ë
@@ -633,6 +667,9 @@ Tet    ⹒
 :x     ẍ
 :y     ÿ
 
+# %}}}
+# %{{{ = 
+
 =O     Ő
 =U     Ű
 =Y     Ӳ  # WARN: abuse: cyrillic
@@ -642,12 +679,18 @@ Tet    ⹒
 =y     ӳ  # WARN: abuse: cyrillic
 =l     ⱡ
 
+# %}}}
+# %{{{ " 
+
 "O     Ő
 "U     Ű
 "Y     Ӳ  # WARN: abuse: cyrillic
 "o     ő
 "u     ű
 "y     ӳ  # WARN: abuse: cyrillic
+
+# %}}}
+# %{{{ + 
 
 +A     Ȁ
 +E     Ȅ
@@ -663,6 +706,9 @@ Tet    ⹒
 +r     ȑ
 +u     ȕ
 +v     ѷ  # WARN: abuse: cyrillic
+
+# %}}}
+# %{{{ ^ 
 
 ^A     Â
 ^C     Ĉ
@@ -690,6 +736,8 @@ Tet    ⹒
 ^w     ŵ
 ^y     ŷ
 ^z     ẑ
+# %}}}
+# %{{{ ` 
 
 `A     À
 `E     È
@@ -708,12 +756,18 @@ Tet    ⹒
 `w     ẁ
 `y     ỳ
 
+# %}}}
+# %{{{ 0 
+
 0A     Å
 0U     Ů
 0a     å
 0u     ů
 0w     ẘ
 0y     ẙ
+
+# %}}}
+# %{{{ v 
 
 vA     Ǎ
 vC     Č
@@ -745,6 +799,8 @@ vs     š
 vt     ť
 vu     ǔ
 vz     ž
+# %}}}
+# %{{{ u 
 
 uA     Ă
 uE     Ĕ
@@ -761,6 +817,9 @@ ui     ĭ
 uo     ŏ
 uu     ŭ
 
+# %}}}
+# %{{{ L 
+
 LA     Ȃ
 LE     Ȇ
 LI     Ȋ
@@ -774,6 +833,9 @@ Lo     ȏ
 Lr     ȓ
 Lu     ȗ
 
+# %}}}
+# %{{{ ~ 
+
 ~A     Ã
 ~E     Ẽ
 ~I     Ĩ
@@ -783,7 +845,6 @@ Lu     ȗ
 ~U     Ũ
 ~V     Ṽ
 ~Y     Ỹ
-
 ~a     ã
 ~b     ᵬ
 ~d     ᵭ
@@ -802,204 +863,44 @@ Lu     ȗ
 ~y     ỹ
 ~z     ᵶ
 
-%A     Ḁ
-%O     Ǿ
-%a     ḁ
-%n     ᵰ
-%o     ǿ
-%s     ᵴ
+# %}}}
+# %{{{ %_ underbar 
+%_B    Ḇ
+%_D    Ḏ
+%_K    Ḵ
+%_L    Ḻ
+%_N    Ṉ
+%_R    Ṟ
+%_T    Ṯ
+%_Z    Ẕ
+%_b    ḇ
+%_d    ḏ
+%_h    ẖ
+%_k    ḵ
+%_l    ḻ
+%_n    ṉ
+%_r    ṟ
+%_t    ṯ
+%_z    ẕ
+# %}}}
+# %{{{ %0 underring 
+
+%0A    Ḁ
+%0a    ḁ
+
+# %}}}
+# %{{{ %~ tildestrike
+
+%~n    ᵰ
+%~s    ᵴ
+
+# %}}}
 
 # %}}}
 
 ## letter first %{{{
 
-a!     ạ
-a'     á
-a,     ą
-a-     ā
-a.     ȧ
-a/     ⱥ
-a:     ä
-a^     â
-a`     à
-a0     å
-av     ǎ
-au     ă
-aL     ȃ
-a~     ã
-a%     ḁ
-b!     ḅ
-b.     ḃ
-b~     ᵬ
-c'     ć
-c,     ç
-c.     ċ
-c/     ȼ
-c^     ĉ
-cv     č
-d!     ḍ
-d,     ḑ
-d;     d̦  # WARN: decorated
-d-     đ
-d.     ḋ
-d/     ð
-dv     ď
-d~     ᵭ
-e!     ẹ
-e'     é
-e,     ę
-e-     ē
-e.     ė
-e/     ɇ
-e:     ë
-e^     ê
-e`     è
-ev     ě
-eu     ĕ
-eL     ȇ
-e~     ẽ
-f-     ꞙ
-f.     ḟ
-f~     ᵮ
-g'     ǵ
-g,     ģ
-g-     ǥ
-g.     ġ
-g^     ĝ
-gv     ǧ
-gu     ğ
-h!     ḥ
-h,     ḩ
-h-     ħ
-h.     ḣ
-h:     ḧ
-h^     ĥ
-hv     ȟ
-hu     ḫ
-i!     ị
-i'     í
-i,     į
-i-     ī
-i.     ı
-i:     ï
-i^     î
-i`     ì
-iv     ǐ
-iu     ĭ
-iL     ȋ
-i~     ĩ
-j'     j́
-j.     ȷ
-j^     ĵ
-jv     ǰ
-k!     ḳ
-k'     ḱ
-k,     ķ
-kv     ǩ
-l!     ḷ
-l,     ļ
-l-     ƚ
-l.     ŀ
-l/     ł
-m!     ṃ
-m'     ḿ
-m.     ṁ
-m~     ᵯ
-n!     ṇ
-n'     ń
-n.     ṅ
-n`     ǹ
-nv     ň
-n~     ñ
-n%     ᵰ
-o!     ọ
-o'     ó
-o,     ǫ
-o-     ō
-o.     ȯ
-o/     ø
-o:     ö
-o=     ő
-o"     ő
-o^     ô
-o`     ò
-ov     ǒ
-ou     ŏ
-oL     ȏ
-o~     õ
-o%     ǿ
-p'     ṕ
-p-     ᵽ
-p.     ṗ
-p~     ᵱ
-r!     ṛ
-r'     ŕ
-r.     ṙ
-rL     ȓ
-r~     ᵲ
-s!     ṣ
-s'     ś
-s,     ş
-s;     ș
-s.     ṡ
-s:     ṩ
-s^     ŝ
-sv     š
-s~     s̃  # WARN: decorated
-s%     ᵴ
-t!     ṭ
-t,     ţ
-t;     ț
-t-     ŧ
-t.     ṫ
-t/     ⱦ
-t:     ẗ
-tv     ť
-t~     ᵵ
-u!     ụ
-u'     ú
-u,     ų
-u-     ū
-u/     ꞹ
-u|     ʉ
-u:     ü
-u=     ű
-u"     ű
-u^     û
-u`     ù
-u0     ů
-uv     ǔ
-#uu     ŭ  # INFO: same as action-first
-uL     ȗ
-u~     ũ
-v!     ṿ
-v~     ṽ
-w!     ẉ
-w'     ẃ
-w.     ẇ
-w:     ẅ
-w^     ŵ
-w`     ẁ
-w0     ẘ
-x.     ẋ
-x:     ẍ
-y!     ỵ
-y'     ý
-y-     ȳ
-y.     ẏ
-y:     ÿ
-y=     ӳ  # WARN: abuse: cyrillic
-y"     ӳ  # WARN: abuse: cyrillic
-y^     ŷ
-y`     ỳ
-y0     ẙ
-y~     ỹ
-z!     ẓ
-z'     ź
-z.     ż
-z^     ẑ
-zv     ž
-z~     ᵶ
+# %{{{ Aa 
 
 A!     Ạ
 A'     Á
@@ -1015,15 +916,54 @@ Av     Ǎ
 Au     Ă
 AL     Ȃ
 A~     Ã
-A%     Ḁ
+A%0    Ḁ
+
+a!     ạ
+a'     á
+a,     ą
+a-     ā
+a.     ȧ
+a/     ⱥ
+a:     ä
+a^     â
+a`     à
+a0     å
+av     ǎ
+au     ă
+aL     ȃ
+a~     ã
+a%0    ḁ
+
+# %}}}
+# %{{{ Bb 
+
 B!     Ḅ
 B.     Ḃ
+
+b!     ḅ
+b.     ḃ
+b~     ᵬ
+
+# %}}}
+# %{{{ Cc 
+
 C'     Ć
 C,     Ç
 C.     Ċ
 C/     Ȼ
 C^     Ĉ
 Cv     Č
+
+c'     ć
+c,     ç
+c.     ċ
+c/     ȼ
+c^     ĉ
+cv     č
+
+# %}}}
+# %{{{ Dd 
+
 D!     Ḍ
 D,     Ḑ
 D;     D̦  # WARN: decorated
@@ -1031,6 +971,19 @@ D-     Đ
 D.     Ḋ
 D/     Ð
 Dv     Ď
+
+d!     ḍ
+d,     ḑ
+d;     d̦  # WARN: decorated
+d-     đ
+d.     ḋ
+d/     ð
+dv     ď
+d~     ᵭ
+
+# %}}}
+# %{{{ Ee 
+
 E!     Ẹ
 E'     É
 E,     Ę
@@ -1044,15 +997,55 @@ Ev     Ě
 Eu     Ĕ
 EL     Ȇ
 E~     Ẽ
+
+e!     ẹ
+e'     é
+e,     ę
+e-     ē
+e.     ė
+e/     ɇ
+e:     ë
+e^     ê
+e`     è
+ev     ě
+eu     ĕ
+eL     ȇ
+e~     ẽ
+
+# %}}}
+# %{{{ Ff 
+
 F-     Ꞙ
 F.     Ḟ
+
+f-     ꞙ
+f.     ḟ
+f~     ᵮ
+
+# %}}}
+# %{{{ Gg 
+
 G'     Ǵ
 G,     Ģ
-G-     Ǥ
+G-     Ḡ
 G.     Ġ
+G/     Ǥ
 G^     Ĝ
 Gv     Ǧ
 Gu     Ğ
+
+g'     ǵ
+g,     ģ
+g-     ḡ
+g.     ġ
+g/     ǥ
+g^     ĝ
+gv     ǧ
+gu     ğ
+
+# %}}}
+# %{{{ Hh 
+
 H!     Ḥ
 H,     Ḩ
 H-     Ħ
@@ -1061,6 +1054,19 @@ H:     Ḧ
 H^     Ĥ
 Hv     Ȟ
 Hu     Ḫ
+
+h!     ḥ
+h,     ḩ
+h-     ħ
+h.     ḣ
+h:     ḧ
+h^     ĥ
+hv     ȟ
+hu     ḫ
+
+# %}}}
+# %{{{ Ii 
+
 I!     Ị
 I'     Í
 I,     Į
@@ -1073,28 +1079,94 @@ Iv     Ǐ
 Iu     Ĭ
 IL     Ȋ
 I~     Ĩ
+
+i!     ị
+i'     í
+i,     į
+i-     ī
+i.     ı
+i:     ï
+i^     î
+i`     ì
+iv     ǐ
+iu     ĭ
+iL     ȋ
+i~     ĩ
+
+# %}}}
+# %{{{ Jj 
+
 J'     J́
 J.     ȷ
 J^     Ĵ
 Jv     ǰ
+
+j'     j́
+j.     ȷ
+j^     ĵ
+jv     ǰ
+
+# %}}}
+# %{{{ Kk 
+
 K!     Ḳ
 K'     Ḱ
 K,     Ķ
 Kv     Ǩ
+
+k!     ḳ
+k'     ḱ
+k,     ķ
+kv     ǩ
+
+# %}}}
+# %{{{ Ll 
+
 L!     Ḷ
 L,     Ļ
 L-     Ƚ
 L.     Ŀ
 L/     Ł
+
+l!     ḷ
+l,     ļ
+l-     ƚ
+l.     ŀ
+l/     ł
+
+# %}}}
+# %{{{ Mm 
+
 M!     Ṃ
 M'     Ḿ
 M.     Ṁ
+
+m!     ṃ
+m'     ḿ
+m.     ṁ
+m~     ᵯ
+
+# %}}}
+# %{{{ Nn 
+
 N!     Ṇ
 N'     Ń
 N.     Ṅ
 N`     Ǹ
 Nv     Ň
 N~     Ñ
+
+n!     ṇ
+n'     ń
+n.     ṅ
+n`     ǹ
+nv     ň
+n~     ñ
+n%~    ᵰ
+
+# %}}}
+# %{{{ Oo 
+
 O!     Ọ
 O'     Ó
 O,     Ǫ
@@ -1110,14 +1182,63 @@ Ov     Ǒ
 Ou     Ŏ
 OL     Ȏ
 O~     Õ
-O%     Ǿ
+O%'    Ǿ
+
+o!     ọ
+o'     ó
+o,     ǫ
+o-     ō
+o.     ȯ
+o/     ø
+o:     ö
+o=     ő
+o"     ő
+o^     ô
+o`     ò
+ov     ǒ
+ou     ŏ
+oL     ȏ
+o~     õ
+o%'    ǿ
+
+# %}}}
+# %{{{ Pp 
+
 P'     Ṕ
 P-     Ᵽ
 P.     Ṗ
+
+p'     ṕ
+p-     ᵽ
+p.     ṗ
+p~     ᵱ
+
+# %}}}
+# %{{{ Qq 
+
+Q-     Ꝗ
+Q/     Ꝙ
+
+q-     ꝗ
+q/     ꝙ
+
+# %}}}
+# %{{{ Rr 
+
 R!     Ṛ
 R'     Ŕ
 R.     Ṙ
 RL     Ȓ
+
+r!     ṛ
+r'     ŕ
+r.     ṙ
+rL     ȓ
+r~     ᵲ
+
+# %}}}
+# %{{{ Ss 
+
 S!     Ṣ
 S'     Ś
 S,     Ş
@@ -1126,7 +1247,21 @@ S.     Ṡ
 S^     Ŝ
 Sv     Š
 S~     S̃  # WARN: decorated
-S%     Ṩ
+
+s!     ṣ
+s'     ś
+s,     ş
+s;     ș
+s.     ṡ
+s:     ṩ
+s^     ŝ
+sv     š
+s~     s̃  # WARN: decorated
+s%~    ᵴ
+
+# %}}}
+# %{{{ Tt 
+
 T!     Ṭ
 T,     Ţ
 T;     Ț
@@ -1134,6 +1269,20 @@ T-     Ŧ
 T.     Ṫ
 T/     Ⱦ
 Tv     Ť
+
+t!     ṭ
+t,     ţ
+t;     ț
+t-     ŧ
+t.     ṫ
+t/     ⱦ
+t:     ẗ
+tv     ť
+t~     ᵵ
+
+# %}}}
+# %{{{ Uu 
+
 U!     Ụ
 U'     Ú
 U,     Ų
@@ -1150,16 +1299,63 @@ Uv     Ǔ
 Uu     Ŭ
 UL     Ȗ
 U~     Ũ
+
+u!     ụ
+u'     ú
+u,     ų
+u-     ū
+u/     ꞹ
+u|     ʉ
+u:     ü
+u=     ű
+u"     ű
+u^     û
+u`     ù
+u0     ů
+uv     ǔ
+#uu     ŭ  # INFO: same as action-first
+uL     ȗ
+u~     ũ
+
+# %}}}
+# %{{{ Vv 
+
 V!     Ṿ
 V~     Ṽ
+
+v!     ṿ
+v~     ṽ
+
+# %}}}
+# %{{{ Ww 
+
 W!     Ẉ
 W'     Ẃ
 W.     Ẇ
 W:     Ẅ
 W^     Ŵ
 W`     Ẁ
+
+w!     ẉ
+w'     ẃ
+w.     ẇ
+w:     ẅ
+w^     ŵ
+w`     ẁ
+w0     ẘ
+
+# %}}}
+# %{{{ Xx 
+
 X.     Ẋ
 X:     Ẍ
+
+x.     ẋ
+x:     ẍ
+
+# %}}}
+# %{{{ Yy 
+
 Y!     Ỵ
 Y'     Ý
 Y-     Ȳ
@@ -1170,11 +1366,36 @@ Y"     Ӳ  # WARN: abuse: cyrillic
 Y^     Ŷ
 Y`     Ỳ
 Y~     Ỹ
+
+y!     ỵ
+y'     ý
+y-     ȳ
+y.     ẏ
+y:     ÿ
+y=     ӳ  # WARN: abuse: cyrillic
+y"     ӳ  # WARN: abuse: cyrillic
+y^     ŷ
+y`     ỳ
+y0     ẙ
+y~     ỹ
+
+# %}}}
+# %{{{ Zz 
+
 Z!     Ẓ
 Z'     Ź
 Z.     Ż
 Z^     Ẑ
 Zv     Ž
+
+z!     ẓ
+z'     ź
+z.     ż
+z^     ẑ
+zv     ž
+z~     ᵶ
+
+# %}}}
 
 # %}}}
 
