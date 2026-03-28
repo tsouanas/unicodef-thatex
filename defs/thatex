@@ -914,6 +914,12 @@ shapart           ♯  # [sh]arp [apart]ness
 vvapart           =⃦  # ([v]ert-[v]ert) / (another var)
 apart             ♯  # default: [sh]
 apart,            ⧣  # alt: [ss]
+simnneq           ⧤
+simssapart        ⧤
+simshapart        ♯̃  # WARN: decorated
+simvvapart        =⃦̃  # WARN: decorated
+simapart          ♯̃  # WARN: decorated
+simapart,         ⧤
 lt                <  # [l]ess [t]han
 gt                >  # [g]reater
 leq               ≤  # [l]ess than or [eq]ual to
