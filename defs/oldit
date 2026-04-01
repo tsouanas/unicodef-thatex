@@ -1,0 +1,51 @@
+# [vim] %{{{
+# vim:foldmarker=%{{{,%}}}
+# vim:foldmethod=marker
+# vim:foldcolumn=5
+# %}}}
+#
+# [o]ld [i]talic
+
+oiA        𐌀  # U+10300 Old Italic Letter A
+oibe       𐌁  # U+10301 Old Italic Letter Be
+oike       𐌂  # U+10302 Old Italic Letter Ke
+oide       𐌃  # U+10303 Old Italic Letter De
+oie        𐌄  # U+10304 Old Italic Letter E
+oive       𐌅  # U+10305 Old Italic Letter Ve
+oize       𐌆  # U+10306 Old Italic Letter Ze
+oihe       𐌇  # U+10307 Old Italic Letter He
+oithe      𐌈  # U+10308 Old Italic Letter The
+oii        𐌉  # U+10309 Old Italic Letter I
+oika       𐌊  # U+1030A Old Italic Letter Ka
+oiel       𐌋  # U+1030B Old Italic Letter El
+oiem       𐌌  # U+1030C Old Italic Letter Em
+oien       𐌍  # U+1030D Old Italic Letter En
+oiesh      𐌎  # U+1030E Old Italic Letter Esh
+oio        𐌏  # U+1030F Old Italic Letter O
+oipe       𐌐  # U+10310 Old Italic Letter Pe
+oishe      𐌑  # U+10311 Old Italic Letter She
+oiku       𐌒  # U+10312 Old Italic Letter Ku
+oier       𐌓  # U+10313 Old Italic Letter Er
+oies       𐌔  # U+10314 Old Italic Letter Es
+oite       𐌕  # U+10315 Old Italic Letter Te
+oiu        𐌖  # U+10316 Old Italic Letter U
+oieks      𐌗  # U+10317 Old Italic Letter Eks
+oiphe      𐌘  # U+10318 Old Italic Letter Phe
+oikhe      𐌙  # U+10319 Old Italic Letter Khe
+oief       𐌚  # U+1031A Old Italic Letter Ef
+oiers      𐌛  # U+1031B Old Italic Letter Ers
+oiche      𐌜  # U+1031C Old Italic Letter Che
+oiii       𐌝  # U+1031D Old Italic Letter Ii
+oiuu       𐌞  # U+1031E Old Italic Letter Uu
+oiess      𐌟  # U+1031F Old Italic Letter Ess
+oiye       𐌭  # U+1032D Old Italic Letter Ye
+ointse     𐌮  # U+1032E Old Italic Letter Northern Tse
+oistse     𐌯  # U+1032F Old Italic Letter Southern Tse
+oitse      𐌮  # U+1032E Old Italic Letter Northern Tse
+oitse,     𐌯  # U+1032F Old Italic Letter Southern Tse
+
+oi1        𐌠  # U+10320 Old Italic Numeral One
+oi5        𐌡  # U+10321 Old Italic Numeral Five
+oi10       𐌢  # U+10322 Old Italic Numeral Ten
+oi50       𐌣  # U+10323 Old Italic Numeral Fifty
+
