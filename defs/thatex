@@ -5313,7 +5313,10 @@ _top              ˕
 @onot              ̚
 
 ### accentlike
-@otonos           ΄
+@odiatonos         ̈́  # [dia]lytika [tonos]
+@odiaton           ̈́
+@okor              ̓
+@otonos            ̍  # XXX: actually a vertical line
 @ograve            ̀
 @oggrave           ̏
 @o2grave           ̏
@@ -5321,7 +5324,8 @@ _top              ˕
 @oaacute           ̋
 @o2acute           ̋
 @ohook             ̉
-@ocflex            ̂  # [c]ircum[flex]
+@ocircum           ̂  # [circum]flex
+@ocflex            ̂
 @oflex             ̂
 @ocaret            ̂
 @ocaron            ̌
@@ -5356,6 +5360,19 @@ _top              ˕
 @o3dot             ⃛
 @o4dot             ⃜
 @odots             ⃛
+@ocolon            ̇̇
+@ocol              ̇̇
+@osemicol          ̓̇
+@osemic            ̓̇
+@oscolon           ̓̇
+@otherefore        ̈̇
+@otfore            ̈̇
+@othere            ̈̇
+@ohence            ̈̇
+@othence           ̈̇
+@obecause          ̈̇
+@obec              ̈̇
+@ocause            ̈̇
 @ocomma            ̓
 @o9omma            ̓
 @o6omma            ̒
@@ -5369,6 +5386,8 @@ _top              ˕
 @obridge           ͆
 @ocirc             ̊
 @oring             ̊
+@ori               ͑  # [ri]ng (left half)
+@ong               ͗  # ri[ng] (right half)
 @osharp            ᫆
 
 ### binops / binrels
@@ -5386,9 +5405,9 @@ _top              ˕
 @owavyfrac         ͋
 @owavfrac          ͋
 
-### @oX, on the side
-@odot,             ͘
-@ocomma,           ̕
+### @oX> on the side
+@odot>             ͘
+@ocomma>           ̕
 
 ### misc
 @ozap              ͛
@@ -5426,6 +5445,7 @@ _top              ˕
 @unot              ͉
 
 ### accentlike
+@ucircum           ̭
 @ucflex            ̭
 @uflex             ̭
 @ucaret            ̭
@@ -5445,6 +5465,10 @@ _top              ˕
 @ubar              ̱
 @uline             ̲
 @ulline            ̳
+@u2line            ̳
+@uvert             ̩
+@uvvert            ͈
+@u2vert            ͈
 
 ### dots, hooks, commas, …
 @udot              ̣
@@ -5453,14 +5477,28 @@ _top              ˕
 @u2dot             ̤
 @u3dot             ⃨
 @udots             ⃨
+@ucolon            ̣̣
+@ucol              ̣̣
+@usemicol          ̣̦
+@usemic            ̣̦
+@uscolon           ̣̦
+@utherefore        ̤̣
+@utfore            ̤̣
+@uthere            ̤̣
+@uhence            ̤̣
+@uthence           ̤̣
+@ubecause          ̤̣
+@ubec              ̤̣
+@ucause            ̤̣
 @ucedil            ̧  # [cedil]la
 @uced              ̧
 @ucomma            ̦
-@uhypog            ͅ  # [hypog]egrammene
 @uogon             ̨  # [ogon]ek
 @uhook             ̨
 @uhookl            ̡
 @uhookr            ̢
+@upala             ̡  # [pala]talized hook
+@uretro            ̢  # [retro]flex hook
 
 ### mod / unops
 @ubot              ̝
@@ -5472,6 +5510,8 @@ _top              ˕
 @ubridge           ̺
 @ucirc             ̥
 @uring             ̥
+@uri               ̜  # [ri]ng (left half)
+@ung               ̹  # ri[ng] (right half)
 @usquare           ̻
 @usq               ̻
 
@@ -5526,6 +5566,7 @@ _top              ˕
 @couroneg          ⃙  # [outo]boros [neg]ative
 @cleft             ⃪
 @cfrom             ⃪
+@ctilde            ̴
 @ctil              ̴
 @csim              ̴
 @cwave             ̴
@@ -5593,8 +5634,23 @@ _top              ˕
 
 @diaer             ̈
 @trema             ̈
+@grave             ̀
+@ggrave            ̏
+@2grave            ̏
+@acute             ́
+@aacute            ̋
+@2acute            ̋
+@circum            ̂  # [circum]flex
+@cflex             ̂
+@flex              ̂
+@tilde             ̃
+@til               ̃
+@cedil             ̧  # [cedil]la
 @balls             ̫
 @lynch             ᪰  # the owls are not what they seem
+@shark             ̃̒
+@pala              ̡  # [pala]talized hook
+@retro             ̢  # [retro]flex hook
 
 # %}}}
 
