@@ -18,7 +18,7 @@
 #     ad/subscript (pros/ypogegrammeni): ι
 #     breathing (psili dasia): > <
 #     diaeresis (dialytika): "
-#     accent (tonos oxia varia perispomeni): | ' ` ^
+#     accent (tonos oxia varia varia perispomeni): ' / \ ` ^
 #   or:
 #     macron breve: _ -
 #   or:
@@ -180,26 +180,28 @@
 
 ## INFO: tonos, dialytika, dialytika tonos are also typeable via normal greek layout
 
-## |  tonos: ΄ %{{{
+## modern greek diacretics
 
-|Α     Ά
-|Ε     Έ
-|Η     Ή
-|Ι     Ί
-|Ο     Ό
-|Υ     Ύ
-|0Υ    ϓ
-|Ω     Ώ
-|α     ά
-|ε     έ
-|η     ή
-|ι     ί
-|ο     ό
-|υ     ύ
-|ω     ώ
+## '   tonos: ΄ %{{{
+
+'Α     Ά
+'Ε     Έ
+'Η     Ή
+'Ι     Ί
+'Ο     Ό
+'Υ     Ύ
+'0Υ    ϓ
+'Ω     Ώ
+'α     ά
+'ε     έ
+'η     ή
+'ι     ί
+'ο     ό
+'υ     ύ
+'ω     ώ
 
 # %}}}
-## "  dialytika: ¨ %{{{ 
+## "   dialytika: ¨ %{{{ 
 
 "Ι     Ϊ
 "Υ     Ϋ
@@ -208,12 +210,14 @@
 "υ     ϋ
 
 # %}}}
-## "| dialytika tonos: ΅ %{{{
+## "'  dialytika tonos: ΅ %{{{
 
-"|ι    ΐ
-"|υ    ΰ
+"'ι    ΐ
+"'υ    ΰ
 
 # %}}}
+
+## non-modern greek diacretics
 
 ## ι   ypogegrammeni: ͺ %{{{
 
@@ -357,7 +361,7 @@
 
 # %}}}
 
-## /  oxia ´ %{{{
+## /   oxia ´ %{{{
 
 /Α     Ά  # U+1F71 Greek Small Letter Alpha with Oxia
 /Ε     Έ  # U+1F73 Greek Small Letter Epsilon with Oxia
@@ -375,7 +379,7 @@
 /ω     ώ  # U+1F7D Greek Small Letter Omega with Oxia
 
 # %}}}
-## `  varia: ` %{{{
+## `   varia: ` %{{{
 
 `Α     Ὰ
 `Ε     Ὲ
@@ -393,7 +397,7 @@
 `ω     ὼ
 
 # %}}}
-## \  varia: \ %{{{
+## \   varia: \ %{{{
 
 \Α     Ὰ
 \Ε     Ὲ
@@ -411,7 +415,7 @@
 \ω     ὼ
 
 # %}}}
-## ^  perispomeni: ῀ %{{{
+## ^   perispomeni: ῀ %{{{
 
 ^α     ᾶ
 ^η     ῆ
@@ -420,7 +424,7 @@
 ^ω     ῶ
 
 # %}}}
-## >  psili: ᾿ %{{{
+## >   psili: ᾿ %{{{
 
 >Α     Ἀ
 >Ε     Ἐ
@@ -439,7 +443,7 @@
 >ρ     ῤ
 
 # %}}}
-## >/ psili oxia: ῎ %{{{
+## >/  psili oxia: ῎ %{{{
 
 >/Α    Ἄ
 >/Ε    Ἔ
@@ -457,7 +461,7 @@
 >/ω    ὤ
 
 # %}}}
-## >` psili varia: ῍ %{{{
+## >`  psili varia: ῍ %{{{
 
 >`Α    Ἂ
 >`Ε    Ἒ
@@ -475,7 +479,7 @@
 >`ω    ὢ
 
 # %}}}
-## >\ psili varia: ῍ %{{{
+## >\  psili varia: ῍ %{{{
 
 >\Α    Ἂ
 >\Ε    Ἒ
@@ -493,7 +497,7 @@
 >\ω    ὢ
 
 # %}}}
-## >^ psili perispomeni: ῏ %{{{
+## >^  psili perispomeni: ῏ %{{{
 
 >^Α    Ἆ
 >^Η    Ἦ
@@ -507,7 +511,7 @@
 >^ω    ὦ
 
 # %}}}
-## <  dasia: ῾ %{{{
+## <   dasia: ῾ %{{{
 
 <Α     Ἁ
 <Ε     Ἑ
@@ -527,7 +531,7 @@
 <ρ     ῥ
 
 # %}}}
-## </ dasia oxia: ῞ %{{{
+## </  dasia oxia: ῞ %{{{
 
 </Α    Ἅ
 </Ε    Ἕ
@@ -545,7 +549,7 @@
 </ω    ὥ
 
 # %}}}
-## <` dasia varia: ῝ %{{{
+## <`  dasia varia: ῝ %{{{
 
 <`Α    Ἃ
 <`Ε    Ἓ
@@ -563,7 +567,7 @@
 <`ω    ὣ
 
 # %}}}
-## <\ dasia varia: ῝ %{{{
+## <\  dasia varia: ῝ %{{{
 
 <\Α    Ἃ
 <\Ε    Ἓ
@@ -581,7 +585,7 @@
 <\ω    ὣ
 
 # %}}}
-## <^ dasia perispomeni: ῏ %{{{
+## <^  dasia perispomeni: ῏ %{{{
 
 <^Α    Ἇ
 <^Η    Ἧ
@@ -595,31 +599,31 @@
 <^ω    ὧ
 
 # %}}}
-## "/ dialytika oxia: ΅ %{{{
+## "/  dialytika oxia: ΅ %{{{
 
 "/ι    ΐ
 "/υ    ΰ
 
 # %}}}
-## "` dialytika varia: ῭ %{{{
+## "`  dialytika varia: ῭ %{{{
 
 "`ι    ῒ
 "`υ    ῢ
 
 # %}}}
-## "\ dialytika varia: ῭ %{{{
+## "\  dialytika varia: ῭ %{{{
 
 "\ι    ῒ
 "\υ    ῢ
 
 # %}}}
-## "^ dialytika perispomeni: ῁ %{{{
+## "^  dialytika perispomeni: ῁ %{{{
 
 "^ι    ῗ
 "^υ    ῧ
 
 # %}}}
-## _  macron: ˉ %{{{
+## _   macron: ˉ %{{{
 
 _Α     Ᾱ
 _Ι     Ῑ
@@ -629,7 +633,7 @@ _ι     ῑ
 _υ     ῡ
 
 # %}}}
-## -  breve: ˘ %{{{
+## -   breve: ˘ %{{{
 
 -Α     Ᾰ
 -Ι     Ῐ
@@ -639,7 +643,7 @@ _υ     ῡ
 -υ     ῠ
 
 # %}}}
-## ω  caron:  ̌ %{{{
+## ω   caron:  ̌ %{{{
 
 ωΣ     Σ̌
 ωΚ     Κ̌
