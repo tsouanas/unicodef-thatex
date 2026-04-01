@@ -4279,6 +4279,9 @@ rgstop,           ˤ  # (small)
 
 tdot              ˙  # [t]op [dot]
 bdot               ̣  # [b]ottom [dot] XXX: decorator abuse
+interp            ·  # [interp]unct
+ipunct            ·
+ipun              ·
 period            .
 semicol           ;
 semic             ;
