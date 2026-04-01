@@ -4218,7 +4218,17 @@ eqop              ꞊
 arc               ⌒
 bald              ⌒
 bowtie            ⨝
+bbowtie           ⧓  # [b]lack
+wwbowtie          ⨝  # [w]hite-[w]hite
+bwbowtie          ⧑
+wbbowtie          ⧒
+bbbowtie          ⧓
 hourglass         ⧖
+bhourglass        ⧗
+hglass            ⧖
+bhglass           ⧗
+hourg             ⧖
+bhourg            ⧗
 negloop           ↻  # [neg]ative
 posloop           ↺  # [pos]itive
 cwloop            ↻  # [c]lock[w]ise
