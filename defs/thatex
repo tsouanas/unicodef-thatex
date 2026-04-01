@@ -1708,14 +1708,16 @@ emul              ⟅⟆
 ## additional (no long forms) %{{{
 
 dotin             ⋵
-din               ⋵
-ndin              ⋵̸
-dni               ∋̇
-ndni              ∋⃥̇
+.in               ⋵
+n.in              ⋵̸
+.ni               ∋̇
+n.ni              ∋⃥̇
 dothsubs          ⪽
 dothsups          ⪾
 dhsubs            ⪽  # [d]ot
 dhsups            ⪾
+.hsubs            ⪽
+.hsups            ⪾
 chsubs            ⟃  # [c]irc hsubs
 chsups            ⟄
 ohsubs            ⟃  # [o]h/pen
@@ -1783,6 +1785,9 @@ eqparal           ⋕
 paraleq           ⋕
 sparal            ⫽  # [s]lash/lanted paral
 sparaleq          ⧣
+cprod             ⨯  # [c]ross [prod]uct
+dprod             ⋅  # [d]ot [prod]uct
+dotp              ⋅
 
 # %}}}
 
@@ -1873,9 +1878,13 @@ tder              𝛿
 codiff            𝛿    # [codiff]erential (delta)
 codiffs           ★𝑑★  # [codiff]erential with hodge star
 crossdot          ⨯̣
+cross.            ⨯̣
 dotcross          ⨯̇  # INFO: dottimes (⨰) for consistency⨯̣
+.cross            ⨯̇  # INFO: dottimes (⨰) for consistency⨯̣
 dotdot            ⁚
+..                ⁚
 crosscross         ͓̽
+timestimes         ͓̽
 
 # %}}}
 
@@ -2231,19 +2240,29 @@ dato              ⇢  # [d]ash
 dafrom            ⇠
 doto              ⤑  # [do]tted
 dofrom            ⬸
-dotto            →̇
-dotfrom          ←̇
-ddotto           →̈
-ddotfrom         ←̈
+dotto             →̇
+dotfrom           ←̇
+ddotto            →̈
+ddotfrom          ←̈
 dddotto           →⃛
 dddotfrom         ←⃛
-2dotto           →̈
-2dotfrom         ←̈
+2dotto            →̈
+2dotfrom          ←̈
 3dotto            →⃛
 3dotfrom          ←⃛
+.to               →̇
+.from             ←̇
+..to              →̈
+..from            ←̈
+...to             →⃛
+...from           ←⃛
+2.to              →̈
+2.from            ←̈
+3.to              →⃛
+3.from            ←⃛
 dotsto            →⃛
 dotsfrom          ←⃛
-dto               ⇢
+dto               ⇢  # [d]ash
 dfrom             ⇠
 astto             →⃰
 astfrom           ←⃰
@@ -2297,7 +2316,7 @@ iso               ≅  # [iso]morphic
 niso              ≇
 osi               ≌  # (iso backwards)
 dotiso            ⩭
-diso              ⩭
+.iso              ⩭
 sim               ∼  # [sim]ilar
 nsim              ≁
 ssim              ≈
