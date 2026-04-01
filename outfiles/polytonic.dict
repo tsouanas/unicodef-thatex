@@ -79,7 +79,7 @@
       "υ" = ("insertText:", "ΰ");
       "ι" = ("insertText:", "ΐ");
     };
-    "|" = {
+    "'" = {
       "υ" = ("insertText:", "ΰ");
       "ι" = ("insertText:", "ΐ");
     };
@@ -413,7 +413,7 @@
     "Α" = ("insertText:", "ᾼ");
     "ι" = ("insertText:", "ϳ");
   };
-  "|" = {
+  "'" = {
     "ω" = ("insertText:", "ώ");
     "υ" = ("insertText:", "ύ");
     "ο" = ("insertText:", "ό");
