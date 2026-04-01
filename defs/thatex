@@ -54,12 +54,32 @@ space,               # XXX: abuse: ogham space
 
 # %}}}
 
-# special %{{{
+# special greek diacretics and decorations %{{{
 
 hypod             ⸒  # [hypod]iastole
 hypog             ͺ  # [hypog]egrammene
+prosg             ι  # [prosg]egrammene
 anoteleia         ·  # ano teleia  WARN: many fonts have a wrong glyph
 anotel            ·
+tonos             ΄  # tonos
+perisp            ῀  # perispomene
+varia             `  # varia
+oxia              ´  # oxia
+diatonos          ΅  # dialytika tonos
+diaton            ΅  # dialytika tonos
+diaperisp         ῁  # dialytika perispomene
+diavaria          ῭  # dialytika varia
+diaoxia           ΅  # dialytika oxia
+psiperisp         ῏  # psili perispomene
+psivaria          ῍  # psili varia
+psioxia           ῎  # psili oxia
+dasperisp         ῟  # dasia perispomene
+dasvaria          ῝  # dasia varia
+dasoxia           ῞  # dasia oxia
+
+# %}}}
+
+# special misc %{{{
 
 swung             ⁓  # [swung] dash
 asabove           „
@@ -643,6 +663,8 @@ latom             ⲱ  # [om]ega
 latOm             Ⲱ
 latls             ꬷ  # [l] with lazy [s]
 lazys             ∾ 
+kra               ĸ  # [kra] (Kalaallisut, Inuttitut)
+Kra               Kʼ
 archm             ꟿ
 Gha               Ƣ
 gha               ƣ
@@ -650,7 +672,10 @@ ww                ʬ
 bilp              ʬ  # [bi][l]abial [p]ercussive
 bidp              ʭ  # [bi][d]ental
 
-# middle tilde
+# %}}}
+
+## middle tilde %{{{ 
+
 b~~               ᵬ
 d~~               ᵭ
 f~~               ᵮ

@@ -893,3 +893,65 @@ clophi          ϕ  # [clo]sed
 
 # %}}}
 
+# combining @decorators %{{{
+
+### accentlike [o]ver
+@okoronis        ̓
+@okoron            ̓
+@opsili          ̓
+@osmooth         ̓
+@odasia          ̔
+@orough          ̔
+@operisp         ͂
+@operi           ͂
+@operisp,        ̃
+@operi,          ̃
+@ooxia           ́
+@odial           ̈  # [dial]ytika
+@ovaria          ̀
+
+### accentlike [u]nder
+@uhypog          ͅ
+@uypog           ͅ
+
+### accentlike (default)
+@koronis         ̓
+@psili           ̓
+@smooth          ̓
+@dasia           ̔
+@rough           ̔
+@perisp          ͂
+@peri            ͂
+@perisp,         ̃
+@peri,           ̃
+@oxia            ́
+@varia           ̀
+@hypog           ͅ  # [hypog]egrammene
+@ypog            ͅ  # [ypo]gegrammeni
+@dial            ̈  # [dial]ytika
+
+# %}}}
+
+# combining @decorators (for greek layout) %{{{
+
+@κορ             ̓
+@ψιλ             ̓
+@δασ             ̔
+@περισπ          ͂
+@περι            ͂
+@περ             ͂
+@περισπ,         ̃
+@περι,           ̃
+@περ,            ̃
+@οξ              ́
+@βαρ             ̀
+@διαλ            ̈
+@διαλτον         ̈́
+@διατον          ̈́
+@δτ              ̈́
+@υπογ            ͅ
+@ι               ͅ
+@ω               ̌  # U+030C Combining Caron
+
+# %}}}
+

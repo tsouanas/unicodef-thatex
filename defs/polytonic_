@@ -5,24 +5,45 @@
 # %}}}
 #
 # Polytonic and other greek-related glyphs
-# INFO: These are to be used while having a (modern) greek layout activated.
-# INFO: Actions are used as prefixes only.
+# INFO: These are to be used while using a (modern) greek layout.
+# INFO: Actions are used only as prefixes.
 #
-# alt-form: X,
+# alt-form: 0X
 #
-# coptic: 0X
+# coptic: 9X
 #
 # actions (in order, prefixed to the letter):
 #
 #   either:
-#     breathing: > <
-#     diaeresis: "
-#     accent: ' ` ^
-#     ad/subscript: ,
+#     ad/subscript (pros/ypogegrammeni): ι
+#     breathing (psili dasia): > <
+#     diaeresis (dialytika): "
+#     accent (tonos oxia varia perispomeni): | ' ` ^
 #   or:
-#     macron/breve: _ -
+#     macron breve: _ -
 #   or:
 #     caron: ω (v key)
+#
+# standalone symbols of diacretics and decorations
+#   ⸒  # hypodiastole
+#   ͺ  # hypogegrammene
+#   ι  # prosgegrammene
+#   ·  # ano teleia
+#   ΄  # tonos
+#   ῀  # perispomene
+#   `  # varia
+#   ´  # oxia
+#   ¨  # dialytika (diaeresis)
+#   ΅  # dialytika tonos
+#   ῁  # dialytika perispomene
+#   ῭  # dialytika varia
+#   ΅  # dialytika oxia
+#   ῏  # psili perispomene
+#   ῍  # psili varia
+#   ῎  # psili oxia
+#   ῟  # dasia perispomene
+#   ῝  # dasia varia
+#   ῞  # dasia oxia
 
 # alt-form: X, %{{{
 
@@ -38,6 +59,64 @@
 ς,     ϲ
 Υ,     ϒ
 φ,     ϕ
+
+# %}}}
+
+# archaic and ligatures %{{{
+
+ΓΓ     Ϝ  # Digamma
+Γγ     Ϝ
+γγ     ϝ
+ΓΝ     Ͷ  # Pamphylian digamma  WARN: same unicode as Arcadian Tsan
+Γν     Ͷ
+γν     ͷ
+ΗΗ     Ͱ  # Heta
+Ηη     Ͱ
+ηη     ͱ
+ΙΙ     Ϳ  # Yot
+Ιι     Ϳ
+ιι     ϳ
+Και    Ϗ
+ΚΑΙ    Ϗ
+και    ϗ
+Κ'     Ϗ
+κ'     ϗ
+ΚΠ     Ϟ  # Koppa
+Κπ     Ϟ
+κπ     ϟ
+ΚΟ     Ϙ  # Archaic Koppa
+Κο     Ϙ
+κο     ϙ
+ΟΥ     Ȣ  # Ou
+Ου     Ȣ
+ου     ȣ
+ΣΝ     Ϻ  # San
+Σν     Ϻ
+σν     ϻ
+ΣΠ     Ϡ  # Sampi
+Σπ     Ϡ
+σπ     ϡ
+ΣΙ     Ͳ  # Ancient Sampi
+Σι     Ͳ
+σι     ͳ
+ΣΣ     Ϸ  # Bactrian Ϸ "sho"
+Σσ     Ϸ
+σσ     ϸ
+ΤΣ     Ͷ  # Arcadian "tsan"  WARN: same unicode as Pamphylian Digamma
+Τσ     Ͷ
+τσ     ͷ
+ΣΤ     Ϛ  # Stigma
+Στ     Ϛ
+στ     ϛ
+Σ.     Ͼ  # dotted lunate sigma
+σ.     ͼ
+ς.     ͼ
+ΤΡ     ⳨  # Coptic Tau-Ro
+Τρ     ⳨
+τρ     ⳨
+ΧΡ     ☧  # Chi-Rho
+Χρ     ☧
+χρ     ☧
 
 # %}}}
 
@@ -97,80 +176,207 @@
 
 # %}}}
 
-# archaic and ligatures %{{{
+# actioned letters %{{{
 
-ΓΓ     Ϝ  # Digamma
-Γγ     Ϝ
-γγ     ϝ
-ΓΝ     Ͷ  # Pamphylian digamma  WARN: same unicode as Arcadian Tsan
-Γν     Ͷ
-γν     ͷ
-ΗΗ     Ͱ  # Heta
-Ηη     Ͱ
-ηη     ͱ
-ΙΙ     Ϳ  # Yot
-Ιι     Ϳ
-ιι     ϳ
-Και    Ϗ
-ΚΑΙ    Ϗ
-και    ϗ
-Κ'     Ϗ
-κ'     ϗ
-ΚΠ     Ϟ  # Koppa
-Κπ     Ϟ
-κπ     ϟ
-ΚΟ     Ϙ  # Archaic Koppa
-Κο     Ϙ
-κο     ϙ
-ΟΥ     Ȣ  # Ou
-Ου     Ȣ
-ου     ȣ
-ΣΝ     Ϻ  # San
-Σν     Ϻ
-σν     ϻ
-ΣΠ     Ϡ  # Sampi
-Σπ     Ϡ
-σπ     ϡ
-ΣΙ     Ͳ  # Ancient Sampi
-Σι     Ͳ
-σι     ͳ
-σσ     Ϸ  # Bactrian Ϸ "sho"
-ΤΣ     Ͷ  # Arcadian "tsan"  WARN: same unicode as Pamphylian Digamma
-Τσ     Ͷ
-τσ     ͷ
-ΣΤ     Ϛ  # Stigma
-Στ     Ϛ
-στ     ϛ
-Σ.     Ͼ  # dotted lunate sigma
-σ.     ͼ
-ς.     ͼ
-ΤΡ     ⳨  # Coptic Tau-Ro
-Τρ     ⳨
-τρ     ⳨
-ΧΡ     ☧  # Chi-Rho
-Χρ     ☧
-χρ     ☧
+## INFO: tonos, dialytika, dialytika tonos are also typeable via normal greek layout
+
+## |  tonos: ΄ %{{{
+
+|Α     Ά
+|Ε     Έ
+|Η     Ή
+|Ι     Ί
+|Ο     Ό
+|Υ     Ύ
+|0Υ    ϓ
+|Ω     Ώ
+|α     ά
+|ε     έ
+|η     ή
+|ι     ί
+|ο     ό
+|υ     ύ
+|ω     ώ
+
+# %}}}
+## "  dialytika: ¨ %{{{ 
+
+"Ι     Ϊ
+"Υ     Ϋ
+"0Υ    ϔ
+"ι     ϊ
+"υ     ϋ
+
+# %}}}
+## "| dialytika tonos: ΅ %{{{
+
+"|ι    ΐ
+"|υ    ΰ
 
 # %}}}
 
-# upper case %{{{
+## ι   ypogegrammeni: ͺ %{{{
 
-## adscript: ͺ
-,Α     ᾼ
-,Η     ῌ
-,Ω     ῼ
+ιΑ     ᾼ
+ιΗ     ῌ
+ιΩ     ῼ
+ια     ᾳ
+ιη     ῃ
+ιω     ῳ
 
-## acute: ´
-'Α     Ά
-'Ε     Έ
-'Η     Ή
-'Ι     Ί
-'Ο     Ό
-'Υ     Ύ
-'0Υ    ϓ
-'Ω     Ώ
+# %}}}
+## ι/  ypogegrammeni oxia ´ %{{{
 
-## grave: `
+ι/Α    ᾼ
+ι/Η    ῌ
+ι/Ω    ῼ
+ι/α    ᾴ  # U+1FB4
+ι/η    ῄ  # U+1FC4
+ι/ω    ῴ  # U+1FF4
+
+# %}}}
+## ι`  ypogegrammeni varia: ` %{{{
+
+`,α    ᾲ
+`,η    ῂ
+`,ω    ῲ
+
+# %}}}
+## ι\  ypogegrammeni varia: ` %{{{
+
+ι\α    ᾲ
+ι\η    ῂ
+ι\ω    ῲ
+
+# %}}}
+## ι^  ypogegrammeni perispomeni: ῀ %{{{
+
+^,α    ᾷ
+^,η    ῇ
+^,ω    ῷ
+
+# %}}}
+## ι>  ypogegrammeni psili: ᾿ %{{{
+
+ι>Α    ᾈ
+ι>Η    ᾘ
+ι>Ω    ᾨ
+ι>α    ᾀ
+ι>η    ᾐ
+ι>ω    ᾠ
+
+# %}}}
+## ι>/ ypogegrammeni psili oxia: ῎ %{{{
+
+ι>/Α   ᾌ
+ι>/Η   ᾜ
+ι>/Ω   ᾬ
+ι>/α   ᾄ
+ι>/η   ᾔ
+ι>/ω   ᾤ
+
+# %}}}
+## ι>` ypogegrammeni psili varia: ῍ %{{{
+
+ι>`Α   ᾊ
+ι>`Η   ᾚ
+ι>`Ω   ᾪ
+ι>`α   ᾂ
+ι>`η   ᾒ
+ι>`ω   ᾢ
+
+# %}}}
+## ι>\ ypogegrammeni psili varia: ῍ %{{{
+
+ι>\Α   ᾊ
+ι>\Η   ᾚ
+ι>\Ω   ᾪ
+ι>\α   ᾂ
+ι>\η   ᾒ
+ι>\ω   ᾢ
+
+# %}}}
+## ι>^ ypogegrammeni psili perispomeni: ῏ %{{{
+
+ι>^Α   ᾎ
+ι>^Η   ᾞ
+ι>^Ω   ᾮ
+ι>^α   ᾆ
+ι>^η   ᾖ
+ι>^ω   ᾦ
+
+# %}}}
+## ι<  ypogegrammeni dasia: ῾ %{{{
+
+ι<Α    ᾉ
+ι<Η    ᾙ
+ι<Ω    ᾩ
+ι<α    ᾁ
+ι<η    ᾑ
+ι<ω    ᾡ
+
+# %}}}
+## ι</ ypogegrammeni dasia oxia: ῞ %{{{
+
+ι</Α   ᾍ
+ι</Η   ᾝ
+ι</Ω   ᾭ
+ι</α   ᾅ
+ι</η   ᾕ
+ι</ω   ᾥ
+
+# %}}}
+## ι<` ypogegrammeni dasia varia: ῝ %{{{
+
+ι<`Α   ᾋ
+ι<`Η   ᾛ
+ι<`Ω   ᾫ
+ι<`α   ᾃ
+ι<`η   ᾓ
+ι<`ω   ᾣ
+
+# %}}}
+## ι<\ ypogegrammeni dasia varia: ῝ %{{{
+
+ι<\Α   ᾋ
+ι<\Η   ᾛ
+ι<\Ω   ᾫ
+ι<\α   ᾃ
+ι<\η   ᾓ
+ι<\ω   ᾣ
+
+# %}}}
+## ι<^ ypogegrammeni dasia perispomeni: ῏ %{{{
+
+ι<^Α   ᾏ
+ι<^Η   ᾟ
+ι<^Ω   ᾯ
+ι<^α   ᾇ
+ι<^η   ᾗ
+ι<^ω   ᾧ
+
+# %}}}
+
+## /  oxia ´ %{{{
+
+/Α     Ά  # U+1F71 Greek Small Letter Alpha with Oxia
+/Ε     Έ  # U+1F73 Greek Small Letter Epsilon with Oxia
+/Η     Ή  # U+1F75 Greek Small Letter Eta with Oxia
+/Ι     Ί  # U+1F77 Greek Small Letter Iota with Oxia
+/Ο     Ό  # U+1F79 Greek Small Letter Omicron with Oxia
+/Υ     Ύ  # U+1F7B Greek Small Letter Upsilon with Oxia
+/Ω     Ώ  # U+1F7D Greek Small Letter Omega with Oxia
+/α     ά  # U+1F71 Greek Small Letter Alpha with Oxia
+/ε     έ  # U+1F73 Greek Small Letter Epsilon with Oxia
+/η     ή  # U+1F75 Greek Small Letter Eta with Oxia
+/ι     ί  # U+1F77 Greek Small Letter Iota with Oxia
+/ο     ό  # U+1F79 Greek Small Letter Omicron with Oxia
+/υ     ύ  # U+1F7B Greek Small Letter Upsilon with Oxia
+/ω     ώ  # U+1F7D Greek Small Letter Omega with Oxia
+
+# %}}}
+## `  varia: ` %{{{
+
 `Α     Ὰ
 `Ε     Ὲ
 `Η     Ὴ
@@ -178,141 +384,6 @@
 `Ο     Ὸ
 `Υ     Ὺ
 `Ω     Ὼ
-
-## smooth: ᾿
->Α     Ἀ
->Ε     Ἐ
->Η     Ἠ
->Ι     Ἰ
->Ο     Ὀ
->Ω     Ὠ
->,Α    ᾈ
->,Η    ᾘ
->,Ω    ᾨ
-
-## smooth acute: ῎
->'Α    Ἄ
->'Ε    Ἔ
->'Η    Ἤ
->'Ι    Ἴ
->'Ο    Ὄ
->'Ω    Ὤ
->',Α   ᾌ
->',Η   ᾜ
->',Ω   ᾬ
-
-## smooth grave: ῍
->`Α    Ἂ
->`Ε    Ἒ
->`Η    Ἢ
->`Ι    Ἲ
->`Ο    Ὂ
->`Ω    Ὢ
->`,Α   ᾊ
->`,Η   ᾚ
->`,Ω   ᾪ
-
-## smooth circumflex: ῏
->^Α    Ἆ
->^Η    Ἦ
->^Ι    Ἶ
->^Ω    Ὦ
->^,Α   ᾎ
->^,Η   ᾞ
->^,Ω   ᾮ
-
-## rough: ῾
-<Α     Ἁ
-<Ε     Ἑ
-<Η     Ἡ
-<Ι     Ἱ
-<Ο     Ὁ
-<Υ     Ὑ
-<Ω     Ὡ
-<Ρ     Ῥ
-<,Α    ᾉ
-<,Η    ᾙ
-<,Ω    ᾩ
-
-## rough acute: ῞
-<'Α    Ἅ
-<'Ε    Ἕ
-<'Η    Ἥ
-<'Ι    Ἵ
-<'Ο    Ὅ
-<'Υ    Ὕ
-<'0Y  ῞ϒ
-<'Ω    Ὥ
-<',Α   ᾍ
-<',Η   ᾝ
-<',Ω   ᾭ
-
-## rough grave: ῝
-<`Α    Ἃ
-<`Ε    Ἓ
-<`Η    Ἣ
-<`Ι    Ἳ
-<`Ο    Ὃ
-<`Υ    Ὓ
-<`Ω    Ὣ
-<`,Α   ᾋ
-<`,Η   ᾛ
-<`,Ω   ᾫ
-
-## rough circumflex: ῏
-<^Α    Ἇ
-<^Η    Ἧ
-<^Ι    Ἷ
-<^Υ    Ὗ
-<^Ω    Ὧ
-<^,Α   ᾏ
-<^,Η   ᾟ
-<^,Ω   ᾯ
-
-## diaeresis: ¨
-"Ι     Ϊ
-"Υ     Ϋ
-"0Υ    ϔ
-
-## macron: ˉ
-_Α     Ᾱ
-_Ι     Ῑ
-_Υ     Ῡ
-
-## breve: ˘
--Α     Ᾰ
--Ι     Ῐ
--Υ     Ῠ
-
-## caron:  ̌
-ωΣ     Σ̌
-ωΚ     Κ̌
-ωΠ     Π̌
-ωΤ     Τ̌
-ωΖ     Ζ̌
-
-# %}}}
-
-# lower case %{{{
-
-## subscript ͺ
-,α     ᾳ
-,η     ῃ
-,ω     ῳ
-
-## acute: ´
-'α     ά
-'ε     έ
-'η     ή
-'ι     ί
-'ο     ό
-'υ     ύ
-'ω     ώ
-',α    ᾴ
-',η    ῄ
-',ω    ῴ
-
-## grave: `
 `α     ὰ
 `ε     ὲ
 `η     ὴ
@@ -320,21 +391,44 @@ _Υ     Ῡ
 `ο     ὸ
 `υ     ὺ
 `ω     ὼ
-`,α    ᾲ
-`,η    ῂ
-`,ω    ῲ
 
-## circumflex: ῀
+# %}}}
+## \  varia: \ %{{{
+
+\Α     Ὰ
+\Ε     Ὲ
+\Η     Ὴ
+\Ι     Ὶ
+\Ο     Ὸ
+\Υ     Ὺ
+\Ω     Ὼ
+\α     ὰ
+\ε     ὲ
+\η     ὴ
+\ι     ὶ
+\ο     ὸ
+\υ     ὺ
+\ω     ὼ
+
+# %}}}
+## ^  perispomeni: ῀ %{{{
+
 ^α     ᾶ
 ^η     ῆ
 ^ι     ῖ
 ^υ     ῦ
 ^ω     ῶ
-^,α    ᾷ
-^,η    ῇ
-^,ω    ῷ
 
-## smooth: ᾿
+# %}}}
+## >  psili: ᾿ %{{{
+
+>Α     Ἀ
+>Ε     Ἐ
+>Η     Ἠ
+>Ι     Ἰ
+>Ο     Ὀ
+>Υ    ᾿Υ  # WARN: two chars
+>Ω     Ὠ
 >α     ἀ
 >ε     ἐ
 >η     ἠ
@@ -343,23 +437,35 @@ _Υ     Ῡ
 >υ     ὐ
 >ω     ὠ
 >ρ     ῤ
->,α    ᾀ
->,η    ᾐ
->,ω    ᾠ
 
-## smooth acute: ῎
->'α    ἄ
->'ε    ἔ
->'η    ἤ
->'ι    ἴ
->'ο    ὄ
->'υ    ὔ
->'ω    ὤ
->',α   ᾄ
->',η   ᾔ
->',ω   ᾤ
+# %}}}
+## >/ psili oxia: ῎ %{{{
 
-## smooth grave: ῍
+>/Α    Ἄ
+>/Ε    Ἔ
+>/Η    Ἤ
+>/Ι    Ἴ
+>/Ο    Ὄ
+>/Υ   ῎Υ  # WARN: two chars
+>/Ω    Ὤ
+>/α    ἄ
+>/ε    ἔ
+>/η    ἤ
+>/ι    ἴ
+>/ο    ὄ
+>/υ    ὔ
+>/ω    ὤ
+
+# %}}}
+## >` psili varia: ῍ %{{{
+
+>`Α    Ἂ
+>`Ε    Ἒ
+>`Η    Ἢ
+>`Ι    Ἲ
+>`Ο    Ὂ
+>`Υ   ῍Υ  # WARN: two chars
+>`Ω    Ὢ
 >`α    ἂ
 >`ε    ἒ
 >`η    ἢ
@@ -367,21 +473,50 @@ _Υ     Ῡ
 >`ο    ὂ
 >`υ    ὒ
 >`ω    ὢ
->`,α   ᾂ
->`,η   ᾒ
->`,ω   ᾢ
 
-## smooth circumflex: ῏
+# %}}}
+## >\ psili varia: ῍ %{{{
+
+>\Α    Ἂ
+>\Ε    Ἒ
+>\Η    Ἢ
+>\Ι    Ἲ
+>\Ο    Ὂ
+>\Υ   ῍Υ  # WARN: two chars
+>\Ω    Ὢ
+>\α    ἂ
+>\ε    ἒ
+>\η    ἢ
+>\ι    ἲ
+>\ο    ὂ
+>\υ    ὒ
+>\ω    ὢ
+
+# %}}}
+## >^ psili perispomeni: ῏ %{{{
+
+>^Α    Ἆ
+>^Η    Ἦ
+>^Ι    Ἶ
+>^Υ   ῏Υ  # WARN: two chars
+>^Ω    Ὦ
 >^α    ἆ
 >^η    ἦ
 >^ι    ἶ
 >^υ    ὖ
 >^ω    ὦ
->^,α   ᾆ
->^,η   ᾖ
->^,ω   ᾦ
 
-## rough: ῾
+# %}}}
+## <  dasia: ῾ %{{{
+
+<Α     Ἁ
+<Ε     Ἑ
+<Η     Ἡ
+<Ι     Ἱ
+<Ο     Ὁ
+<Υ     Ὑ
+<Ω     Ὡ
+<Ρ     Ῥ
 <α     ἁ
 <ε     ἑ
 <η     ἡ
@@ -390,23 +525,35 @@ _Υ     Ῡ
 <υ     ὑ
 <ω     ὡ
 <ρ     ῥ
-<,α    ᾁ
-<,η    ᾑ
-<,ω    ᾡ
 
-## rough acute: ῞
-<'α    ἅ
-<'ε    ἕ
-<'η    ἥ
-<'ι    ἵ
-<'ο    ὅ
-<'υ    ὕ
-<'ω    ὥ
-<',α   ᾅ
-<',η   ᾕ
-<',ω   ᾥ
+# %}}}
+## </ dasia oxia: ῞ %{{{
 
-## rough grave: ῝
+</Α    Ἅ
+</Ε    Ἕ
+</Η    Ἥ
+</Ι    Ἵ
+</Ο    Ὅ
+</Υ    Ὕ
+</Ω    Ὥ
+</α    ἅ
+</ε    ἕ
+</η    ἥ
+</ι    ἵ
+</ο    ὅ
+</υ    ὕ
+</ω    ὥ
+
+# %}}}
+## <` dasia varia: ῝ %{{{
+
+<`Α    Ἃ
+<`Ε    Ἓ
+<`Η    Ἣ
+<`Ι    Ἳ
+<`Ο    Ὃ
+<`Υ    Ὓ
+<`Ω    Ὣ
 <`α    ἃ
 <`ε    ἓ
 <`η    ἣ
@@ -414,52 +561,109 @@ _Υ     Ῡ
 <`ο    ὃ
 <`υ    ὓ
 <`ω    ὣ
-<`,α   ᾃ
-<`,η   ᾓ
-<`,ω   ᾣ
 
-## rough circumflex: ῏
+# %}}}
+## <\ dasia varia: ῝ %{{{
+
+<\Α    Ἃ
+<\Ε    Ἓ
+<\Η    Ἣ
+<\Ι    Ἳ
+<\Ο    Ὃ
+<\Υ    Ὓ
+<\Ω    Ὣ
+<\α    ἃ
+<\ε    ἓ
+<\η    ἣ
+<\ι    ἳ
+<\ο    ὃ
+<\υ    ὓ
+<\ω    ὣ
+
+# %}}}
+## <^ dasia perispomeni: ῏ %{{{
+
+<^Α    Ἇ
+<^Η    Ἧ
+<^Ι    Ἷ
+<^Υ    Ὗ
+<^Ω    Ὧ
 <^α    ἇ
 <^η    ἧ
 <^ι    ἷ
 <^υ    ὗ
 <^ω    ὧ
-<^,α   ᾇ
-<^,η   ᾗ
-<^,ω   ᾧ
 
-## diaeresis: ¨
-"ι     ϊ
-"υ     ϋ
+# %}}}
+## "/ dialytika oxia: ΅ %{{{
 
-## diaeresis acute: ΅
-"'ι    ΐ
-"'υ    ΰ
+"/ι    ΐ
+"/υ    ΰ
 
-## diaeresis grave: ῭
+# %}}}
+## "` dialytika varia: ῭ %{{{
+
 "`ι    ῒ
 "`υ    ῢ
 
-## diaeresis circumflex: ῁
+# %}}}
+## "\ dialytika varia: ῭ %{{{
+
+"\ι    ῒ
+"\υ    ῢ
+
+# %}}}
+## "^ dialytika perispomeni: ῁ %{{{
+
 "^ι    ῗ
 "^υ    ῧ
 
-## macron: ˉ
+# %}}}
+## _  macron: ˉ %{{{
+
+_Α     Ᾱ
+_Ι     Ῑ
+_Υ     Ῡ
 _α     ᾱ
 _ι     ῑ
 _υ     ῡ
 
-## breve: ˘
+# %}}}
+## -  breve: ˘ %{{{
+
+-Α     Ᾰ
+-Ι     Ῐ
+-Υ     Ῠ
 -α     ᾰ
 -ι     ῐ
 -υ     ῠ
 
-## caron:  ̌
+# %}}}
+## ω  caron:  ̌ %{{{
+
+ωΣ     Σ̌
+ωΚ     Κ̌
+ωΠ     Π̌
+ωΤ     Τ̌
+ωΖ     Ζ̌
 ωσ     σ̌
 ωκ     κ̌
 ωπ     π̌
 ωτ     τ̌
 ωζ     ζ̌
+
+# %}}}
+
+# %}}}
+
+# for convenience while in greek layout %{{{
+
+υποδ              ⸒
+υπογ              ͺ
+ανοτελ            ·
+ανωτελ            ·
+ατ                ·
+εθρ               €
 
 # %}}}
 
