@@ -3160,10 +3160,12 @@ andor             ⩙
 orand             ⩙
 dotand            ⩑
 dotor             ⩒
-dand              ⩑
-dor               ⩒
+.and              ⩑
+.or               ⩒
 anddot            ⟑
 ordot             ⟇
+and.              ⟑
+or.               ⟇
 dvand             ⩕  # [d]ouble [v]ision
 dvor              ⩖
 dvAnd             ⨇
@@ -3467,20 +3469,24 @@ cwb               ⪻
 cwa               ⪼
 dotleq            ⪁
 dotgeq            ⪂
-dleq              ⪁
-dgeq              ⪂
+.leq              ⪁
+.geq              ⪂
 dotmeet           ⩑
 dotjoin           ⩒
-dmeet             ⩑
-djoin             ⩒
+.meet             ⩑
+.join             ⩒
 leqdot            ⩿
 geqdot            ⪀
+leq.              ⩿
+geq.              ⪀
 ltdot             ⋖
 gtdot             ⋗
-ltd               ⋖
-gtd               ⋗
+lt.               ⋖
+gt.               ⋗
 meetdot           ⟑
 joindot           ⟇
+meet.             ⟑
+join.             ⟇
 mdot              ⟑  # [m]eet [dot]
 jdot              ⟇  # [j]oin [dot]
 ujoin             ⩅  # [u]nion
@@ -3943,6 +3949,11 @@ Circle            ◯  # big
 dcircle           ◌  # [d]otted
 koules            ⧂
 triangle          △  # see also: triangles
+trianglej         ⧋  # [ej]ect-looking
+ultri             ⧋  # [u]nder[l]ined
+.triangle         ⧊
+dottri            ⧊
+.tri              ⧊
 square            ◻
 box               ◻
 bpsquare          ▢  # [b]aby[p]roof
