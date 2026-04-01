@@ -97,15 +97,12 @@ sound       🔈
 soundon     🔊
 soundoff    🔇
 suitcase    🧳
-hglass      ⏳
-hglass,     ⌛
 hglasson    ⏳
 hglassoff   ⌛
 houron      ⏳
 houroff     ⌛
 timepass    ⏳
 timeover    ⌛
-timer       ⏲
 knot        🪢
 loudspeaker 📢
 loudspeak   📢
@@ -1273,6 +1270,8 @@ lovesign    💟
 Cloud         ☁️
 Coffin        ⚰️
 Comet         ☄️
+Hglass        ⏳
+Hglass,       ⌛
 Pick          ⛏️
 Sign          ✍️
 Shamrock      ☘️
