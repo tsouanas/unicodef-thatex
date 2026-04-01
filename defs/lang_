@@ -44,9 +44,10 @@ _]     ⸥
 
 ;.     ·  # ano teleia  WARN: wrong glyph common
 .^     ·  # middle dot
+;,     ·
+.,     ;
 2.     ‥
 3.     …
-.,     ;
 ..;    ‥
 ...    …
 ../    ⋰
@@ -105,7 +106,7 @@ __     ＿  # wide underscore
 # Stand-alone accents and marks %{{{
 
 ^.     ˙  # dot above
-^:     ¨  # diaeresis / trema
+^:     ¨  # diaeresis / trema / dialetica
 ^~     ˜  # til(de)
 ^^     ˆ  # circumflex
 ^`     `  # grave accent
@@ -153,6 +154,7 @@ _~     ˷  # low tilde
 *l     ❥  # [l]ove
 *<3    ❥
 *s     ★  # [s]tar
+*;     ·
 
 # %}}}
 
@@ -359,6 +361,9 @@ wy     ƿ  # wynn
 Wy     Ƿ
 tet    ⁊  # Tironian et
 Tet    ⹒
+kk     ĸ  # Kra (Kalaallisut, Inuttitut)
+Kk     Kʼ # Kra (uppercase)
+KK     Kʼ
 
 # %}}}
 
@@ -393,7 +398,7 @@ Tet    ⹒
 # .: (over)dot, remove dot
 # /: sstrike, strike, crossbar, slash
 # |: vstrike, strike, slash, straight tonos
-# :: diaeresis, trema, dot-above-and-below
+# :: diaeresis, trema, dialetica
 # ": double acute
 # =: double acute, double strike, double bar
 # +: double grave (shift =)
@@ -402,53 +407,69 @@ Tet    ⹒
 # 0: overring
 # v: caron
 # u: breve
-# L: inverted breve (which looks like [L]ambda (Λ))
+# L: inverted breve (looks like [L]ambda (Λ))
 # ~: tilde, tildestrike
 # % (alt actions):
 # %_: underbar
 # %0: underring
 # %~: tildestrike
+# %:: dot sandwich
 
 ## action first %{{{
 
-# %{{{ ! underdot 
+# %{{{ ! underdot [COMPLETE] 
 
 !A     Ạ
 !B     Ḅ
+!C     C̣  # WARN: decorated
 !D     Ḍ
 !E     Ẹ
+!F     F̣  # WARN: decorated
+!G     G̣  # WARN: decorated
 !H     Ḥ
 !I     Ị
+!J     J̣  # WARN: decorated
 !K     Ḳ
 !L     Ḷ
 !M     Ṃ
 !N     Ṇ
 !O     Ọ
+!P     P̣  # WARN: decorated
+!Q     Q̣  # WARN: decorated
 !R     Ṛ
 !S     Ṣ
 !T     Ṭ
 !U     Ụ
 !V     Ṿ
 !W     Ẉ
+!X     X̣  # WARN: decorated
 !Y     Ỵ
 !Z     Ẓ
+
 !a     ạ
 !b     ḅ
+!c     c̣  # WARN: decorated
 !d     ḍ
 !e     ẹ
+!f     f̣  # WARN: decorated
+!g     g̣  # WARN: decorated
 !h     ḥ
 !i     ị
+!j     j̣  # WARN: decorated
 !k     ḳ
 !l     ḷ
 !m     ṃ
 !n     ṇ
 !o     ọ
+!p     p̣  # WARN: decorated
+!q     q̣  # WARN: decorated
 !r     ṛ
 !s     ṣ
 !t     ṭ
 !u     ụ
 !v     ṿ
 !w     ẉ
+!x     x̣  # WARN: decorated
 !y     ỵ
 !z     ẓ
 
@@ -472,6 +493,7 @@ Tet    ⹒
 'W     Ẃ
 'Y     Ý
 'Z     Ź
+
 'a     á
 'c     ć
 'e     é
@@ -506,6 +528,7 @@ Tet    ⹒
 ,S     Ş
 ,T     Ţ
 ,U     Ų
+
 ,a     ą
 ,c     ç
 ,d     ḑ
@@ -547,6 +570,7 @@ Tet    ⹒
 -T     Ŧ
 -U     Ū
 -Y     Ȳ
+
 -a     ā
 -d     đ
 -e     ē
@@ -563,7 +587,7 @@ Tet    ⹒
 -y     ȳ
 
 # %}}}
-# %{{{ . (over)dot, remove dot 
+# %{{{ . (over)dot, remove dot [COMPLETE] 
 
 .A     Ȧ
 .B     Ḃ
@@ -575,18 +599,23 @@ Tet    ⹒
 .H     Ḣ
 .I     İ
 .J     J̇  # WARN: decorated
+.K     K̇  # WARN: decorated
 .L     Ŀ
 .M     Ṁ
 .N     Ṅ
 .O     Ȯ
 .P     Ṗ
+.Q     Q̇  # WARN: decorated
 .R     Ṙ
 .S     Ṡ
 .T     Ṫ
+.U     U̇  # WARN: decorated
+.V     V̇  # WARN: decorated
 .W     Ẇ
 .X     Ẋ
 .Y     Ẏ
 .Z     Ż
+
 .a     ȧ
 .b     ḃ
 .c     ċ
@@ -597,14 +626,18 @@ Tet    ⹒
 .h     ḣ
 .i     ı
 .j     ȷ
+.k     k̇  # WARN: decorated
 .l     ŀ
 .m     ṁ
 .n     ṅ
 .o     ȯ
 .p     ṗ
+.q     q̇  # WARN: decorated
 .r     ṙ
 .s     ṡ
 .t     ṫ
+.u     u̇  # WARN: decorated
+.v     v̇  # WARN: decorated
 .w     ẇ
 .x     ẋ
 .y     ẏ
@@ -612,6 +645,7 @@ Tet    ⹒
 
 # %}}}
 # %{{{ / 
+
 /A     Ⱥ
 /C     Ȼ
 /D     Ð
@@ -622,6 +656,7 @@ Tet    ⹒
 /Q     Ꝙ
 /T     Ⱦ
 /U     Ꞹ
+
 /a     ⱥ
 /c     ȼ
 /d     ð
@@ -637,30 +672,32 @@ Tet    ⹒
 # %{{{ | 
 
 |U     Ʉ
+
 |c     ¢
 |s     $
 |u     ʉ
 
 # %}}}
-# %{{{ : 
+# %{{{ : diaeresis, trema, dialetica 
 
 :A     Ä
 :E     Ë
 :H     Ḧ
 :I     Ï
 :O     Ö
-:S     Ṩ
-:T     ẗ
+:S     S̈  # WARN: decorated
+:T     T̈  # WARN: decorated
 :U     Ü
 :W     Ẅ
 :X     Ẍ
 :Y     Ÿ
+
 :a     ä
 :e     ë
 :h     ḧ
 :i     ï
 :o     ö
-:s     ṩ
+:s     s̈  # WARN: decorated
 :t     ẗ
 :u     ü
 :w     ẅ
@@ -668,29 +705,31 @@ Tet    ⹒
 :y     ÿ
 
 # %}}}
-# %{{{ = 
+# %{{{ = double acute 
 
 =O     Ő
 =U     Ű
 =Y     Ӳ  # WARN: abuse: cyrillic
 =L     Ⱡ
+
 =o     ő
 =u     ű
 =y     ӳ  # WARN: abuse: cyrillic
 =l     ⱡ
 
 # %}}}
-# %{{{ " 
+# %{{{ " double acute 
 
 "O     Ő
 "U     Ű
 "Y     Ӳ  # WARN: abuse: cyrillic
+
 "o     ő
 "u     ű
 "y     ӳ  # WARN: abuse: cyrillic
 
 # %}}}
-# %{{{ + 
+# %{{{ + double grave 
 
 +A     Ȁ
 +E     Ȅ
@@ -699,6 +738,7 @@ Tet    ⹒
 +R     Ȑ
 +U     Ȕ
 +V     Ѷ  # WARN: abuse: cyrillic
+
 +a     ȁ
 +e     ȅ
 +i     ȉ
@@ -708,7 +748,7 @@ Tet    ⹒
 +v     ѷ  # WARN: abuse: cyrillic
 
 # %}}}
-# %{{{ ^ 
+# %{{{ ^ circumflex 
 
 ^A     Â
 ^C     Ĉ
@@ -723,6 +763,7 @@ Tet    ⹒
 ^W     Ŵ
 ^Y     Ŷ
 ^Z     Ẑ
+
 ^a     â
 ^c     ĉ
 ^e     ê
@@ -736,8 +777,9 @@ Tet    ⹒
 ^w     ŵ
 ^y     ŷ
 ^z     ẑ
+
 # %}}}
-# %{{{ ` 
+# %{{{ ` grave 
 
 `A     À
 `E     È
@@ -747,6 +789,7 @@ Tet    ⹒
 `U     Ù
 `W     Ẁ
 `Y     Ỳ
+
 `a     à
 `e     è
 `i     ì
@@ -757,10 +800,11 @@ Tet    ⹒
 `y     ỳ
 
 # %}}}
-# %{{{ 0 
+# %{{{ 0 overring 
 
 0A     Å
 0U     Ů
+
 0a     å
 0u     ů
 0w     ẘ
@@ -784,6 +828,7 @@ vS     Š
 vT     Ť
 vU     Ǔ
 vZ     Ž
+
 va     ǎ
 vc     č
 vd     ď
@@ -799,8 +844,9 @@ vs     š
 vt     ť
 vu     ǔ
 vz     ž
+
 # %}}}
-# %{{{ u 
+# %{{{ u breve 
 
 uA     Ă
 uE     Ĕ
@@ -809,6 +855,7 @@ uH     Ḫ
 uI     Ĭ
 uO     Ŏ
 uU     Ŭ
+
 ua     ă
 ue     ĕ
 ug     ğ
@@ -818,7 +865,7 @@ uo     ŏ
 uu     ŭ
 
 # %}}}
-# %{{{ L 
+# %{{{ L inverted breve (looks like a [L]ambda (Λ)) 
 
 LA     Ȃ
 LE     Ȇ
@@ -826,6 +873,7 @@ LI     Ȋ
 LO     Ȏ
 LR     Ȓ
 LU     Ȗ
+
 La     ȃ
 Le     ȇ
 Li     ȋ
@@ -834,7 +882,7 @@ Lr     ȓ
 Lu     ȗ
 
 # %}}}
-# %{{{ ~ 
+# %{{{ ~ tilde, til
 
 ~A     Ã
 ~E     Ẽ
@@ -845,6 +893,7 @@ Lu     ȗ
 ~U     Ũ
 ~V     Ṽ
 ~Y     Ỹ
+
 ~a     ã
 ~b     ᵬ
 ~d     ᵭ
@@ -865,6 +914,7 @@ Lu     ȗ
 
 # %}}}
 # %{{{ %_ underbar 
+
 %_B    Ḇ
 %_D    Ḏ
 %_K    Ḵ
@@ -873,6 +923,7 @@ Lu     ȗ
 %_R    Ṟ
 %_T    Ṯ
 %_Z    Ẕ
+
 %_b    ḇ
 %_d    ḏ
 %_h    ẖ
@@ -882,10 +933,12 @@ Lu     ȗ
 %_r    ṟ
 %_t    ṯ
 %_z    ẕ
+
 # %}}}
 # %{{{ %0 underring 
 
 %0A    Ḁ
+
 %0a    ḁ
 
 # %}}}
@@ -893,6 +946,30 @@ Lu     ȗ
 
 %~n    ᵰ
 %~s    ᵴ
+
+# %}}}
+# %{{{ %^ inverted breve 
+
+%^A     Ȃ
+%^E     Ȇ
+%^I     Ȋ
+%^O     Ȏ
+%^R     Ȓ
+%^U     Ȗ
+
+%^a     ȃ
+%^e     ȇ
+%^i     ȋ
+%^o     ȏ
+%^r     ȓ
+%^u     ȗ
+
+# %}}}
+# %{{{ %: dot sandwich 
+
+%:S     Ṩ
+
+%:s     ṩ
 
 # %}}}
 
@@ -947,6 +1024,7 @@ b~     ᵬ
 # %}}}
 # %{{{ Cc 
 
+C!     C̣  # WARN: decorated
 C'     Ć
 C,     Ç
 C.     Ċ
@@ -954,6 +1032,7 @@ C/     Ȼ
 C^     Ĉ
 Cv     Č
 
+c!     c̣  # WARN: decorated
 c'     ć
 c,     ç
 c.     ċ
@@ -1015,9 +1094,11 @@ e~     ẽ
 # %}}}
 # %{{{ Ff 
 
+F!     F̣  # WARN: decorated
 F-     Ꞙ
 F.     Ḟ
 
+f!     f̣  # WARN: decorated
 f-     ꞙ
 f.     ḟ
 f~     ᵮ
@@ -1025,6 +1106,7 @@ f~     ᵮ
 # %}}}
 # %{{{ Gg 
 
+G!     G̣  # WARN: decorated
 G'     Ǵ
 G,     Ģ
 G-     Ḡ
@@ -1034,6 +1116,7 @@ G^     Ĝ
 Gv     Ǧ
 Gu     Ğ
 
+g!     g̣  # WARN: decorated
 g'     ǵ
 g,     ģ
 g-     ḡ
@@ -1096,11 +1179,13 @@ i~     ĩ
 # %}}}
 # %{{{ Jj 
 
+J!     J̣  # WARN: decorated
 J'     J́
-J.     ȷ
+J.     J̇  # WARN: decorated
 J^     Ĵ
 Jv     ǰ
 
+j!     j̣  # WARN: decorated
 j'     j́
 j.     ȷ
 j^     ĵ
@@ -1112,11 +1197,13 @@ jv     ǰ
 K!     Ḳ
 K'     Ḱ
 K,     Ķ
+K.     K̇  # WARN: decorated
 Kv     Ǩ
 
 k!     ḳ
 k'     ḱ
 k,     ķ
+k.     k̇  # WARN: decorated
 kv     ǩ
 
 # %}}}
@@ -1204,10 +1291,12 @@ o%'    ǿ
 # %}}}
 # %{{{ Pp 
 
+P!     P̣  # WARN: decorated
 P'     Ṕ
 P-     Ᵽ
 P.     Ṗ
 
+p!     p̣  # WARN: decorated
 p'     ṕ
 p-     ᵽ
 p.     ṗ
@@ -1216,11 +1305,15 @@ p~     ᵱ
 # %}}}
 # %{{{ Qq 
 
+Q!     Q̣  # WARN: decorated
 Q-     Ꝗ
 Q/     Ꝙ
+Q.     Q̇  # WARN: decorated
 
+q!     q̣  # WARN: decorated
 q-     ꝗ
 q/     ꝙ
+q.     q̇  # WARN: decorated
 
 # %}}}
 # %{{{ Rr 
@@ -1244,20 +1337,25 @@ S'     Ś
 S,     Ş
 S;     Ș
 S.     Ṡ
+S:     S̈  # WARN: decorated
 S^     Ŝ
 Sv     Š
 S~     S̃  # WARN: decorated
+S%~    S̴  # WARN: decorated
+S%:    Ṩ
 
 s!     ṣ
 s'     ś
 s,     ş
 s;     ș
 s.     ṡ
-s:     ṩ
+s:     s̈  # WARN: decorated
 s^     ŝ
 sv     š
 s~     s̃  # WARN: decorated
 s%~    ᵴ
+s%:    ṩ
+
 
 # %}}}
 # %{{{ Tt 
@@ -1268,6 +1366,7 @@ T;     Ț
 T-     Ŧ
 T.     Ṫ
 T/     Ⱦ
+T:     T̈  # WARN: decorated
 Tv     Ť
 
 t!     ṭ
@@ -1287,6 +1386,7 @@ U!     Ụ
 U'     Ú
 U,     Ų
 U-     Ū
+U.     U̇  # WARN: decorated
 U/     Ꞹ
 U|     Ʉ
 U:     Ü
@@ -1304,6 +1404,7 @@ u!     ụ
 u'     ú
 u,     ų
 u-     ū
+u.     u̇  # WARN: decorated
 u/     ꞹ
 u|     ʉ
 u:     ü
@@ -1321,9 +1422,11 @@ u~     ũ
 # %{{{ Vv 
 
 V!     Ṿ
+V.     V̇  # WARN: decorated
 V~     Ṽ
 
 v!     ṿ
+v.     v̇  # WARN: decorated
 v~     ṽ
 
 # %}}}
@@ -1347,9 +1450,11 @@ w0     ẘ
 # %}}}
 # %{{{ Xx 
 
+X!     X̣  # WARN: decorated
 X.     Ẋ
 X:     Ẍ
 
+x!     x̣  # WARN: decorated
 x.     ẋ
 x:     ẍ
 
@@ -1992,7 +2097,7 @@ z@p     z
 
 # %}}}
 
-# Combining decorators %{{{
+# Combining @decorators %{{{
 
 ## accents
 @^`      ̀  # grave
@@ -2011,8 +2116,8 @@ z@p     z
 @_;      ̦  # comma
 @^?      ̉  # hook
 @_?      ̨  # ogonek
-@_J      ̡
-@_L      ̢
+@_J      ̡  # palatalized hook below
+@_L      ̢  # retroflex hook below
 
 # %}}}
 
