@@ -156,7 +156,7 @@ EE     ∃
 =+     ⩱
 +=     ⩲
 *x     ×
-*.     ·
+*.     ⋅
 **     ∗
 *|     ⁑
 *:     ⁑
@@ -441,32 +441,34 @@ Z>     ⟿
 @^-2     ̿
 @^_      ̅
 @^=      ̿
-@^|      ̍
-@^2|     ̎
+@^|      ̍  # vertical line above
+@^2|     ̎  # double vertical line above
 
 @_~      ̰
-@_-0     ̱
-@_-1     ̲
-@_-2     ̳
-@__      ̲
-@_=      ̳
-@_|      ̩
-@_2|     ͈
+
+@_-0     ̱  # macron below
+@_-1     ̲  # low line
+@_-2     ̳  # double low line
+@_-_     ̠  # minus sign below
+@__      ̲  # low line
+@_=      ̳  # double low line
+@_|      ̩  # vertical line below
+@_2|     ͈  # double vertical line below
 
 ## misc
-@^*       ⃰
+@^*      ⃰
 @^0      ̊
 @^v      ̌
 @^^      ̂
 
-@_*       ͙
+@_*      ͙
 @_0      ̥
 @_^      ̭
 @_v      ̬
 
 ## individuals
-@^88      ᪲
-@_88      ͚
+@^88     ᪲
+@_88     ͚
 
 # %}}}
 
