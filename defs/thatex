@@ -5222,6 +5222,21 @@ _top              ˕
 
 # %}}}
 
+# segmented digits %{{{
+
+0s                🯰
+1s                🯱
+2s                🯲
+3s                🯳
+4s                🯴
+5s                🯵
+6s                🯶
+7s                🯷
+8s                🯸
+9s                🯹
+
+# %}}}
+
 # combining @decorators %{{{
 #
 # INFO: to be used **AFTER** a character.
