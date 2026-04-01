@@ -5252,6 +5252,7 @@ _top              ˕
 # sem-named %{{{
 
 @cantorc           ̿   # [cantor]'s [c]ardinality
+@ccard             ̿   # [cantor]'s [c]ardinality
 @oinv              ̅   # [o]ver [inv]erse
 @oiinv             ̿   # (double)
 @cconj             ̅   # [c]omplex [conj]ugate
