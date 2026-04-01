@@ -4393,9 +4393,9 @@ bbslash           ⑊
 2backslash        ⑊
 2bslash           ⑊
 dotpipe           ⍿
-dpipe             ⍿
+.pipe             ⍿
 dotvert           ⍿
-dvert             ⍿
+.vert             ⍿
 tilvert           ⍭
 stile             ⍭
 
@@ -4487,8 +4487,12 @@ wedgemid          ⩚
 veemid            ⩛
 dotwedge          ⩑
 dotvee            ⩒
+.wedge            ⩑
+.vee              ⩒
 wedgedot          ⟑
 veedot            ⟇
+wedge.            ⟑
+vee.              ⟇
 hvee              ⩜  # [h]orizontal bar [vee]
 hwedge            ⩝
 dvwedge           ⩕  # [d]ouble [v]ision
@@ -4500,23 +4504,27 @@ bbvee             ⩔
 vvee              ⩔
 wwedge            ⩓
 dotminus          ∸
-dminus            ∸
+.minus            ∸
 2dotminus         ⸚
-ddminus           ⸚
+2.minus           ⸚
+..minus           ⸚
 frog              ⸚
 minusdot          ⨪
+minus.            ⨪
 commaminus        ⨩
 cominus           ⨩  # [co]mma [minus]
 cminus            ⨩
 apominus          ⨩  # [apo]strophe
 aminus            ⨩
 dotplus           ∔
-dplus             ∔
+.plus             ∔
 plusdot           ⨥
+plus.             ⨥
 simplus           ⨤
 plussim           ⨦
 circplus          ⨢
 cplus             ⨢
+0plus             ⨢
 hatplus           ⨣
 hplus             ⨣
 4plus             ⁜  # [4]-fold dotted [plus]
@@ -4526,17 +4534,19 @@ plus4             ⁜  # [plus] with [4] dots
 times4            ※
 cross4            ※
 dottimes          ⨰
-dtimes            ⨰
+.times            ⨰
 timesbar          ⨱
 simdot            ⸟
+sim.              ⸟
 dotsim            ⩪
-dsim              ⩪
-dotsimdot         ⩫
-dsimd             ⩫
+.sim              ⩪
+dotsimdot         ∻
+.sim.             ∻
 yysim             ⩫  # [y]in-[y]ang
 yyrel             ⩫
 circsim           ⸛
 csim              ⸛
+0sim              ⸛
 ringsim           ⸛
 opensim           ⸛
 wavediv           ∻
@@ -4567,12 +4577,19 @@ ddoteq            =̈
 dddoteq           =⃛
 2doteq            =̈
 3doteq            =⃛
+.eq               ≐
+..eq              =̈
+...eq             =⃛
+2.eq              =̈
+3.eq              =⃛
 dotseq            =⃛
 leqr              ≒
 reql              ≓
 eqinfty           ⯹
 eqdot             ⩦
+eq.               ⩦
 doteqdot          ≑
+.eq.              ≑
 coleq             ≑  # [col]on
 scoleq            ≓  # [s]lash [col]on
 bcoleq            ≒  # [b]ackslash
@@ -4580,6 +4597,8 @@ eq4dot            ⩷
 frogs             ⩷  # ♡
 stareq            ≛
 circeq            ≗
+ceq               ≗
+0eq               ≗
 eqcirc            ≖
 ringeq            ≗
 eqring            ≖
@@ -4587,6 +4606,11 @@ meq               ≞
 pluseq            ⩲
 eqplus            ⩱
 dotinteq          ⩧
+dotieq            ⩧
+dotiq             ⩧
+.inteq            ⩧
+.ieq              ⩧
+.iq               ⩧
 bump              ≏
 bumps             ≎
 bumpeq            ⪮
@@ -4620,7 +4644,9 @@ sbtrid            ▾
 sbtril            ◂
 sbtrir            ▸
 dottrir           ᐉ
-dtrir             ᐉ
+.trir             ᐉ
+vtril             ⧏  # [v]ertical bar
+vtrir             ⧐
 
 # %}}}
 
