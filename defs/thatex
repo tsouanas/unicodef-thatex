@@ -2661,15 +2661,22 @@ slid              ɪ
 smash             ⨳
 timesl            ⋉
 timesr            ⋊
+timesl,           ⧔
+timesr,           ⧕
 timesd            ⨲
+ltimes            ⋉  # TeX compat
+rtimes            ⋊
+ltimes,           ⧔
+rtimes,           ⧕
+bltimes           ⧔  # [b]lack
+brtimes           ⧕
+dtimes            ⨲
 sdprodl           ⋉  # [s]emi[d]irect [prod]uct [l]eft
 sdprodr           ⋊
 sdprodd           ⨲
 semidirl          ⋉  # [semidir]ect product [l]eft
 semidirr          ⋊
 semidird          ⨲
-ltimes            ⋉  # TeX compat
-rtimes            ⋊
 lthree            ⋋
 rthree            ⋌
 transverse        ⫛
@@ -2743,7 +2750,9 @@ rnnorm            ⦀
 
 # cats %{{{
 
-prod              ⨯
+prod              ×
+lprod             ⋉
+rprod             ⋊
 biprod            ⊕
 coprod            ⨿
 Coprod            ∐
