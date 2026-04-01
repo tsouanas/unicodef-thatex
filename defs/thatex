@@ -894,6 +894,7 @@ permil            ‰
 permyr            ‱
 ntimes            ⋅  # [n]umeric [times]
 plus              +
+plus2             ⨧
 cross             ⨯  # WARN: different character from `times`
 times             ×
 frac              ÷
@@ -921,7 +922,7 @@ ndivides          ∤
 ndivs             ∤
 ndiv              ∤  # WARN: deprecated
 dotdivs           ⍿
-ddivs             ⍿
+.divs             ⍿
 simdivs           ⍭
 pipefrom          ⍅
 pipeto            ⍆
@@ -989,9 +990,12 @@ aiq               :≡
 iqa               ≡:
 peanost           ɜ  # [peano]'s [s]uch [t]hat
 therefore         ∴
+tfore             ∴
 there             ∴
 hence             ∴
+thence            ∴
 because           ∵
+bec               ∵
 cause             ∵
 noncons           ⛤     # [non]-[cons]tructive
 lem               LEM⛤  # [l]aw of [e]xcluded [m]iddle
