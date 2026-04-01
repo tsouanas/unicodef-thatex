@@ -4554,7 +4554,7 @@ opensim           ⸛
 wavediv           ∻
 wavefrac          ∻
 wavydiv           ∻
-wavyfrac          ∻
+wavfrac           ∻
 bbtri             ⟁  # [b]lackboard [b]old
 ttri              ⟁  # (no bb-)
 
@@ -5363,6 +5363,11 @@ _top              ˕
 @ossim             ͌
 @osmile            ̆
 @ofrown            ̑
+@odotsimdot        ͋
+@o.sim.            ͋
+@owavefrac         ͋
+@owavyfrac         ͋
+@owavfrac          ͋
 
 ### @oX, on the side
 @odot,             ͘
