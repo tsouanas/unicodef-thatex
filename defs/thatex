@@ -4444,6 +4444,8 @@ sqdiv             ◫
 sqcirc            ⧇
 sqcomp            ⧇
 sqof              ⧇
+sqslash           ⧄
+sqbslash          ⧅
 sqneq             ⍯
 sqask             ⍰
 sqto              ⍈
