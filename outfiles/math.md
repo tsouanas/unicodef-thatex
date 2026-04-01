@@ -135,7 +135,7 @@
 | <code>=+</code> | ⩱ |
 | <code>+=</code> | ⩲ |
 | <code>*x</code> | × |
-| <code>*.</code> | · |
+| <code>*.</code> | ⋅ |
 | <code>**</code> | ∗ |
 | <code>*&vert;</code> | ⁑ |
 | <code>*:</code> | ⁑ |
@@ -390,6 +390,7 @@
 | <code>@_-0</code> | ̱ |
 | <code>@_-1</code> | ̲ |
 | <code>@_-2</code> | ̳ |
+| <code>@_-_</code> | ̠ |
 | <code>@__</code> | ̲ |
 | <code>@_=</code> | ̳ |
 | <code>@_&vert;</code> | ̩ |

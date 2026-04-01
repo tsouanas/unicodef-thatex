@@ -18,6 +18,7 @@
       "=" = ("insertText:", "̳");
       "_" = ("insertText:", "̲");
       "-" = {
+        "_" = ("insertText:", "̠");
         "2" = ("insertText:", "̳");
         "1" = ("insertText:", "̲");
         "0" = ("insertText:", "̱");
@@ -500,7 +501,7 @@
     ":" = ("insertText:", "⁑");
     "|" = ("insertText:", "⁑");
     "*" = ("insertText:", "∗");
-    "." = ("insertText:", "·");
+    "." = ("insertText:", "⋅");
     "x" = ("insertText:", "×");
     "=" = ("insertText:", "≛");
   };

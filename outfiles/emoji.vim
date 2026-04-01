@@ -91,15 +91,12 @@ inoremap \\sound 🔈
 inoremap \\soundon 🔊
 inoremap \\soundoff 🔇
 inoremap \\suitcase 🧳
-inoremap \\hglass ⏳
-inoremap \\hglass, ⌛
 inoremap \\hglasson ⏳
 inoremap \\hglassoff ⌛
 inoremap \\houron ⏳
 inoremap \\houroff ⌛
 inoremap \\timepass ⏳
 inoremap \\timeover ⌛
-inoremap \\timer ⏲
 inoremap \\knot 🪢
 inoremap \\loudspeaker 📢
 inoremap \\loudspeak 📢
@@ -1171,6 +1168,8 @@ inoremap \\/Rep1 🔂
 inoremap \\Cloud ☁️
 inoremap \\Coffin ⚰️
 inoremap \\Comet ☄️
+inoremap \\Hglass ⏳
+inoremap \\Hglass, ⌛
 inoremap \\Pick ⛏️
 inoremap \\Sign ✍️
 inoremap \\Shamrock ☘️

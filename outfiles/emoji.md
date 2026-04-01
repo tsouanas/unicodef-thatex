@@ -92,15 +92,12 @@
 | <code>soundon</code> | 🔊 |
 | <code>soundoff</code> | 🔇 |
 | <code>suitcase</code> | 🧳 |
-| <code>hglass</code> | ⏳ |
-| <code>hglass,</code> | ⌛ |
 | <code>hglasson</code> | ⏳ |
 | <code>hglassoff</code> | ⌛ |
 | <code>houron</code> | ⏳ |
 | <code>houroff</code> | ⌛ |
 | <code>timepass</code> | ⏳ |
 | <code>timeover</code> | ⌛ |
-| <code>timer</code> | ⏲ |
 | <code>knot</code> | 🪢 |
 | <code>loudspeaker</code> | 📢 |
 | <code>loudspeak</code> | 📢 |
@@ -1172,6 +1169,8 @@
 | <code>Cloud</code> | ☁️ |
 | <code>Coffin</code> | ⚰️ |
 | <code>Comet</code> | ☄️ |
+| <code>Hglass</code> | ⏳ |
+| <code>Hglass,</code> | ⌛ |
 | <code>Pick</code> | ⛏️ |
 | <code>Sign</code> | ✍️ |
 | <code>Shamrock</code> | ☘️ |

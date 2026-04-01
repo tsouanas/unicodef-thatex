@@ -62,6 +62,7 @@ inoremap \\mail ✉
 inoremap \\write ✍
 inoremap \\sign ✍
 inoremap \\cuthere ✂
+inoremap \\timer ⏲
 inoremap \\gear ⚙
 inoremap \\swords ⚔
 inoremap \\justice ⚖

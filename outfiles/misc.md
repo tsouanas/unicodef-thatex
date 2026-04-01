@@ -63,6 +63,7 @@
 | <code>write</code> | ✍ |
 | <code>sign</code> | ✍ |
 | <code>cuthere</code> | ✂ |
+| <code>timer</code> | ⏲ |
 | <code>gear</code> | ⚙ |
 | <code>swords</code> | ⚔ |
 | <code>justice</code> | ⚖ |
