@@ -545,6 +545,7 @@
 | <code>bulb</code> | 💡 |
 | <code>buoy</code> | 🛟 |
 | <code>cart</code> | 🛒 |
+| <code>candle</code> | 🕯️ |
 | <code>chest</code> | 🪎 |
 | <code>clip</code> | 📎 |
 | <code>clips</code> | 🖇 |
@@ -573,6 +574,8 @@
 | <code>flipflop</code> | 🩴 |
 | <code>chinelo</code> | 🩴 |
 | <code>hava</code> | 🩴 |
+| <code>flashlight</code> | 🔦 |
+| <code>torch</code> | 🔦 |
 | <code>gem</code> | 💎 |
 | <code>glasses</code> | 👓 |
 | <code>gradhat</code> | 🎓 |

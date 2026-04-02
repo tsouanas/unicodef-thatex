@@ -27,6 +27,7 @@ inoremap \\bubbles 🫧
 inoremap \\bulb 💡
 inoremap \\buoy 🛟
 inoremap \\cart 🛒
+inoremap \\candle 🕯️
 inoremap \\chest 🪎
 inoremap \\clip 📎
 inoremap \\clips 🖇
@@ -55,6 +56,8 @@ inoremap \\firew, 🎇
 inoremap \\flipflop 🩴
 inoremap \\chinelo 🩴
 inoremap \\hava 🩴
+inoremap \\flashlight 🔦
+inoremap \\torch 🔦
 inoremap \\gem 💎
 inoremap \\glasses 👓
 inoremap \\gradhat 🎓
