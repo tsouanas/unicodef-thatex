@@ -157,6 +157,11 @@ dblock           ▓  # [d]ark   ( 75% ink)
 hblock           ▓  # [h]eavy  ( 75% ink)
 fblock           █  # [f]ull   (100% ink)
 bblock           █  # [b]lack  (100% ink)
+block0              # 0/4  WARN: actually an nbsp
+block1           ░  # 1/4
+block2           ▒  # 2/4
+block3           ▓  # 3/4
+block4           █  # 4/4
 
 # %}}}
 
