@@ -1670,6 +1670,10 @@ conjoint          ≬
 cjoint            ≬
 overlap           ≬
 olap              ≬
+overlap,          ⧉
+olap,             ⧉
+sqoverlap         ⧉
+sqolap            ⧉
 between           ≬
 bet               ≬
 meets             ≬
