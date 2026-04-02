@@ -1902,11 +1902,11 @@ beth0             ℶ₀
 beth1             ℶ₁
 beth2             ℶ₂
 continuum         𝔠
-eqc               =꜀  # in [c]ardinality
-leqc              ≤꜀
-ltc               <꜀
-geqc              ≥꜀
-gtc               >꜀
+eqc               =𞁞  # in [c]ardinality
+leqc              ≤𞁞
+ltc               <𞁞
+geqc              ≥𞁞
+gtc               >𞁞
 eqo               =ₒ  # [o]rder type
 leqo              ≤ₒ
 lto               <ₒ

@@ -1177,8 +1177,10 @@ scz            ᴢ
 
 ^A             ᴬ
 ^B             ᴮ
+^C             ꟲ
 ^D             ᴰ
 ^E             ᴱ
+^F             ꟳ
 ^G             ᴳ
 ^H             ᴴ
 ^I             ᴵ
@@ -1189,11 +1191,14 @@ scz            ᴢ
 ^N             ᴺ
 ^O             ᴼ
 ^P             ᴾ
+^Q             ꟴ
 ^R             ᴿ
+^S             ꟱
 ^T             ᵀ
 ^U             ᵁ
 ^V             ⱽ
 ^W             ᵂ
+^Y             𐞲  # XXX: actually a supercript small-caps y
 
 ^a             ᵃ
 ^b             ᵇ
@@ -1211,6 +1216,7 @@ scz            ᴢ
 ^n             ⁿ
 ^o             ᵒ
 ^p             ᵖ
+^q             𐞥
 ^r             ʳ
 ^s             ˢ
 ^t             ᵗ
@@ -1247,6 +1253,7 @@ _)             ₎
 _/             ⸝  # XXX: not really slash
 
 _a             ₐ
+_c             𞁞  # XXX: actually a cyrillic es subscript
 _e             ₑ
 _h             ₕ
 _i             ᵢ
@@ -1265,7 +1272,6 @@ _v             ᵥ
 _x             ₓ
 
 # XXX: abuse: not really subscripts
-_c             ꜀
 _-^            ￪
 _-v            ￬
 _-<            ￩
