@@ -3679,10 +3679,18 @@ lang              ⟨
 rang              ⟩
 la                ⟨
 ra                ⟩
-ldangle           ⦑  # [d]ot
-rdangle           ⦒
-ldang             ⦑
-rdang             ⦒
+langledot         ⦑
+rangledot         ⦒
+langdot           ⦑
+rangdot           ⦒
+ladot             ⦑
+radot             ⦒
+langle.           ⦑
+rangle.           ⦒
+lang.             ⦑
+rang.             ⦒
+la.               ⦑
+ra.               ⦒
 lcangle           ⧼  # [c]urly/vy
 rcangle           ⧽
 lcang             ⧼
@@ -4221,7 +4229,7 @@ pil               ¶
 sil               §
 pilcrow,          ❡
 pil,              ❡
-spot              ⦁
+spot              ⦁  # Z notation spot
 scarab            ¤
 pillow            ⌑  # zZzZzzz...
 bullseye          ◎
@@ -4594,7 +4602,7 @@ ringsim           ⸛
 opensim           ⸛
 wavediv           ∻
 wavefrac          ∻
-wavydiv           ∻
+wavyfrac          ∻
 wavfrac           ∻
 bbtri             ⟁  # [b]lackboard [b]old
 ttri              ⟁  # (no bb-)
