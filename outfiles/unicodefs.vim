@@ -3983,6 +3983,15 @@ inoremap \\divorce ⚮
 inoremap \\divorced ⚮
 inoremap \\partner ⚯
 inoremap \\partners ⚯
+inoremap \\stick 🯅
+inoremap \\stickf 🯅
+inoremap \\stickf, 🯉
+inoremap \\stickv 🯆
+inoremap \\sticks 🯇
+inoremap \\stickb 🯈
+inoremap \\stickl 🯇
+inoremap \\stickr 🯈
+inoremap \\stickd 🯉
 inoremap \\atom ⚛
 inoremap \\benzene ⌬
 inoremap \\medicine ⚕
@@ -4012,6 +4021,7 @@ inoremap \\swords ⚔
 inoremap \\justice ⚖
 inoremap \\wflag ⚐
 inoremap \\bflag ⚑
+inoremap \\chevron 🯊
 inoremap \\forbid 🛇
 inoremap \\prohib 🛇
 inoremap \\recycle ♻
@@ -4513,6 +4523,7 @@ inoremap \\ESC ␛
 inoremap \\BEL ␇
 inoremap \\DEL ␡
 inoremap \\return ⏎
+inoremap \\negreturn 🮴
 inoremap \\glob 🌐
 inoremap \\cmd ⌘
 inoremap \\opt ⌥
@@ -4561,6 +4572,7 @@ inoremap \\scrollu ↑
 inoremap \\scrolld ↓
 inoremap \\scrollt ⤒
 inoremap \\scrollb ⤓
+inoremap \\pointer 🮰
 inoremap \\printscr ⎙
 inoremap \\prints ⎙
 inoremap \\print ⎙
@@ -4654,6 +4666,10 @@ inoremap \\unknown ⯑
 inoremap \\wonder ⯑
 inoremap \\ponder ⯑
 inoremap \\ask ⯑
+inoremap \\ask, 🯄
+inoremap \\negask 🯄
+inoremap \\negcheck 🮱
+inoremap \\negtick 🮱
 inoremap \\warning ⚠
 inoremap \\warn ⚠
 inoremap \\stop ⯄
@@ -5029,6 +5045,9 @@ inoremap \\plus +
 inoremap \\plus2 ⨧
 inoremap \\cross ⨯
 inoremap \\times ×
+inoremap \\saltimes 🯀
+inoremap \\scotimes 🯀
+inoremap \\crux 🯀
 inoremap \\frac ÷
 inoremap \\monus ∸
 inoremap \\fractimes ⋇
@@ -8038,6 +8057,7 @@ inoremap \\ggrave ˵
 inoremap \\2grave ˵
 inoremap \\2acute ˶
 inoremap \\eqop ꞊
+inoremap \\vgcross 🮻
 inoremap \\arc ⌒
 inoremap \\bald ⌒
 inoremap \\bowtie ⨝

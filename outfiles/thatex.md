@@ -244,6 +244,7 @@
 | <code>BEL</code> | ␇ |
 | <code>DEL</code> | ␡ |
 | <code>return</code> | ⏎ |
+| <code>negreturn</code> | 🮴 |
 | <code>glob</code> | 🌐 |
 | <code>cmd</code> | ⌘ |
 | <code>opt</code> | ⌥ |
@@ -292,6 +293,7 @@
 | <code>scrolld</code> | ↓ |
 | <code>scrollt</code> | ⤒ |
 | <code>scrollb</code> | ⤓ |
+| <code>pointer</code> | 🮰 |
 | <code>printscr</code> | ⎙ |
 | <code>prints</code> | ⎙ |
 | <code>print</code> | ⎙ |
@@ -385,6 +387,10 @@
 | <code>wonder</code> | ⯑ |
 | <code>ponder</code> | ⯑ |
 | <code>ask</code> | ⯑ |
+| <code>ask,</code> | 🯄 |
+| <code>negask</code> | 🯄 |
+| <code>negcheck</code> | 🮱 |
+| <code>negtick</code> | 🮱 |
 | <code>warning</code> | ⚠ |
 | <code>warn</code> | ⚠ |
 | <code>stop</code> | ⯄ |
@@ -760,6 +766,9 @@
 | <code>plus2</code> | ⨧ |
 | <code>cross</code> | ⨯ |
 | <code>times</code> | × |
+| <code>saltimes</code> | 🯀 |
+| <code>scotimes</code> | 🯀 |
+| <code>crux</code> | 🯀 |
 | <code>frac</code> | ÷ |
 | <code>monus</code> | ∸ |
 | <code>fractimes</code> | ⋇ |
@@ -3769,6 +3778,7 @@
 | <code>2grave</code> | ˵ |
 | <code>2acute</code> | ˶ |
 | <code>eqop</code> | ꞊ |
+| <code>vgcross</code> | 🮻 |
 | <code>arc</code> | ⌒ |
 | <code>bald</code> | ⌒ |
 | <code>bowtie</code> | ⨝ |

@@ -39,6 +39,15 @@ inoremap \\divorce ⚮
 inoremap \\divorced ⚮
 inoremap \\partner ⚯
 inoremap \\partners ⚯
+inoremap \\stick 🯅
+inoremap \\stickf 🯅
+inoremap \\stickf, 🯉
+inoremap \\stickv 🯆
+inoremap \\sticks 🯇
+inoremap \\stickb 🯈
+inoremap \\stickl 🯇
+inoremap \\stickr 🯈
+inoremap \\stickd 🯉
 inoremap \\atom ⚛
 inoremap \\benzene ⌬
 inoremap \\medicine ⚕
@@ -68,6 +77,7 @@ inoremap \\swords ⚔
 inoremap \\justice ⚖
 inoremap \\wflag ⚐
 inoremap \\bflag ⚑
+inoremap \\chevron 🯊
 inoremap \\forbid 🛇
 inoremap \\prohib 🛇
 inoremap \\recycle ♻

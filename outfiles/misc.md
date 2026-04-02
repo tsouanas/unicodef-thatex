@@ -40,6 +40,15 @@
 | <code>divorced</code> | ⚮ |
 | <code>partner</code> | ⚯ |
 | <code>partners</code> | ⚯ |
+| <code>stick</code> | 🯅 |
+| <code>stickf</code> | 🯅 |
+| <code>stickf,</code> | 🯉 |
+| <code>stickv</code> | 🯆 |
+| <code>sticks</code> | 🯇 |
+| <code>stickb</code> | 🯈 |
+| <code>stickl</code> | 🯇 |
+| <code>stickr</code> | 🯈 |
+| <code>stickd</code> | 🯉 |
 | <code>atom</code> | ⚛ |
 | <code>benzene</code> | ⌬ |
 | <code>medicine</code> | ⚕ |
@@ -69,6 +78,7 @@
 | <code>justice</code> | ⚖ |
 | <code>wflag</code> | ⚐ |
 | <code>bflag</code> | ⚑ |
+| <code>chevron</code> | 🯊 |
 | <code>forbid</code> | 🛇 |
 | <code>prohib</code> | 🛇 |
 | <code>recycle</code> | ♻ |
