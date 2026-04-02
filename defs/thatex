@@ -318,6 +318,7 @@ ESC               ␛
 BEL               ␇
 DEL               ␡
 return            ⏎
+negreturn         🮴
 glob              🌐
 cmd               ⌘
 opt               ⌥
@@ -477,6 +478,10 @@ unknown           ⯑
 wonder            ⯑
 ponder            ⯑
 ask               ⯑
+ask,              🯄
+negask            🯄
+negcheck          🮱
+negtick           🮱
 warning           ⚠
 warn              ⚠
 stop              ⯄
