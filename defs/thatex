@@ -4260,6 +4260,11 @@ hglass            ⧖
 bhglass           ⧗
 hourg             ⧖
 bhourg            ⧗
+ladybirdop        ⦼
+ladybugop         ⦼
+ladybop           ⦼  # [b]ug or [b]ird
+ladyop            ⦼
+mouseop           ⦺
 negloop           ↻  # [neg]ative
 posloop           ↺  # [pos]itive
 cwloop            ↻  # [c]lock[w]ise
