@@ -436,4 +436,5 @@ inoremap \υπογ ͺ
 inoremap \ανοτελ ·
 inoremap \ανωτελ ·
 inoremap \ατ ·
+inoremap \αστ ∗
 inoremap \εθρ €

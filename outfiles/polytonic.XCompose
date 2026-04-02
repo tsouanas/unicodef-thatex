@@ -436,4 +436,5 @@
 <Multi_key><Greek_alpha><Greek_nu><Greek_omicron><Greek_tau><Greek_epsilon><Greek_lambda> : "·"
 <Multi_key><Greek_alpha><Greek_nu><Greek_omega><Greek_tau><Greek_epsilon><Greek_lambda> : "·"
 <Multi_key><Greek_alpha><Greek_tau> : "·"
+<Multi_key><Greek_alpha><Greek_sigma><Greek_tau> : "∗"
 <Multi_key><Greek_epsilon><Greek_theta><Greek_rho> : "€"

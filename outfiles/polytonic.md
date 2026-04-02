@@ -437,4 +437,5 @@
 | <code>ανοτελ</code> | · |
 | <code>ανωτελ</code> | · |
 | <code>ατ</code> | · |
+| <code>αστ</code> | ∗ |
 | <code>εθρ</code> | € |

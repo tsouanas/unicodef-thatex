@@ -7172,6 +7172,7 @@
 | <code>ανοτελ</code> | · |
 | <code>ανωτελ</code> | · |
 | <code>ατ</code> | · |
+| <code>αστ</code> | ∗ |
 | <code>εθρ</code> | € |
 ## runes (macro)
 | Sequence | Expansion |
@@ -7433,6 +7434,8 @@
 | <code>arabstar</code> | ٭ |
 | <code>arabdots</code> | ؞ |
 | <code>ethcol</code> | ፥ |
+| <code>pip</code> | ⧈ |
+| <code>layers</code> | ⧉ |
 | <code>blockl</code> | ░ |
 | <code>blockm</code> | ▒ |
 | <code>blockd</code> | ▓ |
@@ -7445,6 +7448,11 @@
 | <code>hblock</code> | ▓ |
 | <code>fblock</code> | █ |
 | <code>bblock</code> | █ |
+| <code>block0</code> |   |
+| <code>block1</code> | ░ |
+| <code>block2</code> | ▒ |
+| <code>block3</code> | ▓ |
+| <code>block4</code> | █ |
 | <code>endash</code> | – |
 | <code>emdash</code> | — |
 | <code>para</code> | ¶ |
@@ -8781,6 +8789,10 @@
 | <code>cjoint</code> | ≬ |
 | <code>overlap</code> | ≬ |
 | <code>olap</code> | ≬ |
+| <code>overlap,</code> | ⧉ |
+| <code>olap,</code> | ⧉ |
+| <code>sqoverlap</code> | ⧉ |
+| <code>sqolap</code> | ⧉ |
 | <code>between</code> | ≬ |
 | <code>bet</code> | ≬ |
 | <code>meets</code> | ≬ |
@@ -8877,6 +8889,7 @@
 | <code>slope</code> | ⌳ |
 | <code>rightang</code> | ∟ |
 | <code>righta</code> | ∟ |
+| <code>homothetic</code> | ∻ |
 | <code>triang</code> | △ |
 | <code>tria</code> | △ |
 | <code>perp</code> | ⟂ |
@@ -9591,6 +9604,7 @@
 | <code>yoneda</code> | ょ |
 | <code>yo</code> | ょ |
 | <code>lifting</code> | ⧄ |
+| <code>colifting</code> | ⧅ |
 | <code>diagonal</code> | ⧄ |
 | <code>eqs</code> | ▸ |
 | <code>gets</code> | ← |
@@ -10601,10 +10615,18 @@
 | <code>rang</code> | ⟩ |
 | <code>la</code> | ⟨ |
 | <code>ra</code> | ⟩ |
-| <code>ldangle</code> | ⦑ |
-| <code>rdangle</code> | ⦒ |
-| <code>ldang</code> | ⦑ |
-| <code>rdang</code> | ⦒ |
+| <code>langledot</code> | ⦑ |
+| <code>rangledot</code> | ⦒ |
+| <code>langdot</code> | ⦑ |
+| <code>rangdot</code> | ⦒ |
+| <code>ladot</code> | ⦑ |
+| <code>radot</code> | ⦒ |
+| <code>langle.</code> | ⦑ |
+| <code>rangle.</code> | ⦒ |
+| <code>lang.</code> | ⦑ |
+| <code>rang.</code> | ⦒ |
+| <code>la.</code> | ⦑ |
+| <code>ra.</code> | ⦒ |
 | <code>lcangle</code> | ⧼ |
 | <code>rcangle</code> | ⧽ |
 | <code>lcang</code> | ⧼ |
@@ -11114,6 +11136,11 @@
 | <code>bhglass</code> | ⧗ |
 | <code>hourg</code> | ⧖ |
 | <code>bhourg</code> | ⧗ |
+| <code>ladybirdop</code> | ⦼ |
+| <code>ladybugop</code> | ⦼ |
+| <code>ladybop</code> | ⦼ |
+| <code>ladyop</code> | ⦼ |
+| <code>mouseop</code> | ⦺ |
 | <code>negloop</code> | ↻ |
 | <code>posloop</code> | ↺ |
 | <code>cwloop</code> | ↻ |
@@ -11268,8 +11295,16 @@
 | <code>oplus</code> | ⊕ |
 | <code>ominus</code> | ⊖ |
 | <code>otimes</code> | ⊗ |
-| <code>ootimes</code> | ⨷ |
+| <code>oprod</code> | ⊗ |
 | <code>ocross</code> | ⊗ |
+| <code>ootimes</code> | ⨷ |
+| <code>ooprod</code> | ⨷ |
+| <code>oocross</code> | ⨷ |
+| <code>timeso</code> | ⦻ |
+| <code>prodo</code> | ⦻ |
+| <code>crosso</code> | ⦻ |
+| <code>dasho</code> | ⦵ |
+| <code>minuso</code> | ⦵ |
 | <code>odivby</code> | ⊘ |
 | <code>oslash</code> | ⊘ |
 | <code>odot</code> | ⊙ |
@@ -11314,10 +11349,18 @@
 | <code>sqfrom</code> | ⍇ |
 | <code>sqlt</code> | ⍃ |
 | <code>sqgt</code> | ⍄ |
+| <code>sqsq</code> | ⧈ |
+| <code>boxbox</code> | ⧈ |
+| <code>triplus</code> | ⨹ |
+| <code>triminus</code> | ⨺ |
+| <code>tritimes</code> | ⨻ |
+| <code>tridot</code> | ◬ |
+| <code>tris</code> | ⧌ |
 | <code>trplus</code> | ⨹ |
 | <code>trminus</code> | ⨺ |
 | <code>trtimes</code> | ⨻ |
 | <code>trdot</code> | ◬ |
+| <code>trs</code> | ⧌ |
 | <code>diadot</code> | ⟐ |
 | <code>lozminus</code> | ⟠ |
 | <code>cup</code> | ∪ |
@@ -11410,7 +11453,7 @@
 | <code>opensim</code> | ⸛ |
 | <code>wavediv</code> | ∻ |
 | <code>wavefrac</code> | ∻ |
-| <code>wavydiv</code> | ∻ |
+| <code>wavyfrac</code> | ∻ |
 | <code>wavfrac</code> | ∻ |
 | <code>bbtri</code> | ⟁ |
 | <code>ttri</code> | ⟁ |
