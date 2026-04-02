@@ -5560,7 +5560,6 @@ inoremap \\coempty, ⦰
 inoremap \\oempty ⦲
 inoremap \\emptyo ⦲
 inoremap \\0empty ⦲
-inoremap \\empty0 ⦲
 inoremap \\emptyring ⦲
 inoremap \\emptybar ⦱
 inoremap \\emptyto ⦳
@@ -8289,6 +8288,8 @@ inoremap \\operc ⦼
 inoremap \\Odot ⨀
 inoremap \\Oplus ⨁
 inoremap \\Otimes ⨂
+inoremap \\circcirc ◎
+inoremap \\circcirc, ⦾
 inoremap \\sqplus ⊞
 inoremap \\sqminus ⊟
 inoremap \\sqtimes ⊠

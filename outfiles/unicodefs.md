@@ -8603,7 +8603,6 @@
 | <code>oempty</code> | ⦲ |
 | <code>emptyo</code> | ⦲ |
 | <code>0empty</code> | ⦲ |
-| <code>empty0</code> | ⦲ |
 | <code>emptyring</code> | ⦲ |
 | <code>emptybar</code> | ⦱ |
 | <code>emptyto</code> | ⦳ |
@@ -11332,6 +11331,8 @@
 | <code>Odot</code> | ⨀ |
 | <code>Oplus</code> | ⨁ |
 | <code>Otimes</code> | ⨂ |
+| <code>circcirc</code> | ◎ |
+| <code>circcirc,</code> | ⦾ |
 | <code>sqplus</code> | ⊞ |
 | <code>sqminus</code> | ⊟ |
 | <code>sqtimes</code> | ⊠ |
