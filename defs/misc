@@ -47,6 +47,16 @@ divorced      ⚮
 partner       ⚯
 partners      ⚯
 
+stick         🯅  # [stick] figure
+stickf        🯅  # [stick] [f]igure
+stickf,       🯉  # [d]ress
+stickv        🯆  # [v]-shaped arms
+sticks        🯇  # [s]lash
+stickb        🯈  # [b]ackslash
+stickl        🯇  # [l]eft leaning
+stickr        🯈  # [r]ight leaning
+stickd        🯉  # [d]ress
+
 atom          ⚛
 benzene       ⌬
 medicine      ⚕
