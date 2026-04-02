@@ -1000,8 +1000,10 @@ inoremap \\^) ⁾
 inoremap \\^/ ⸍
 inoremap \\^A ᴬ
 inoremap \\^B ᴮ
+inoremap \\^C ꟲ
 inoremap \\^D ᴰ
 inoremap \\^E ᴱ
+inoremap \\^F ꟳ
 inoremap \\^G ᴳ
 inoremap \\^H ᴴ
 inoremap \\^I ᴵ
@@ -1012,11 +1014,14 @@ inoremap \\^M ᴹ
 inoremap \\^N ᴺ
 inoremap \\^O ᴼ
 inoremap \\^P ᴾ
+inoremap \\^Q ꟴ
 inoremap \\^R ᴿ
+inoremap \\^S ꟱
 inoremap \\^T ᵀ
 inoremap \\^U ᵁ
 inoremap \\^V ⱽ
 inoremap \\^W ᵂ
+inoremap \\^Y 𐞲
 inoremap \\^a ᵃ
 inoremap \\^b ᵇ
 inoremap \\^c ᶜ
@@ -1033,6 +1038,7 @@ inoremap \\^m ᵐ
 inoremap \\^n ⁿ
 inoremap \\^o ᵒ
 inoremap \\^p ᵖ
+inoremap \\^q 𐞥
 inoremap \\^r ʳ
 inoremap \\^s ˢ
 inoremap \\^t ᵗ
@@ -1060,6 +1066,7 @@ inoremap \\_( ₍
 inoremap \\_) ₎
 inoremap \\_/ ⸝
 inoremap \\_a ₐ
+inoremap \\_c 𞁞
 inoremap \\_e ₑ
 inoremap \\_h ₕ
 inoremap \\_i ᵢ
@@ -1076,7 +1083,6 @@ inoremap \\_t ₜ
 inoremap \\_u ᵤ
 inoremap \\_v ᵥ
 inoremap \\_x ₓ
-inoremap \\_c ꜀
 inoremap \\_-^ ￪
 inoremap \\_-v ￬
 inoremap \\_-< ￩

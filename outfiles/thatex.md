@@ -1672,11 +1672,11 @@
 | <code>beth1</code> | ℶ₁ |
 | <code>beth2</code> | ℶ₂ |
 | <code>continuum</code> | 𝔠 |
-| <code>eqc</code> | =꜀ |
-| <code>leqc</code> | ≤꜀ |
-| <code>ltc</code> | &lt;꜀ |
-| <code>geqc</code> | ≥꜀ |
-| <code>gtc</code> | &gt;꜀ |
+| <code>eqc</code> | =𞁞 |
+| <code>leqc</code> | ≤𞁞 |
+| <code>ltc</code> | &lt;𞁞 |
+| <code>geqc</code> | ≥𞁞 |
+| <code>gtc</code> | &gt;𞁞 |
 | <code>eqo</code> | =ₒ |
 | <code>leqo</code> | ≤ₒ |
 | <code>lto</code> | &lt;ₒ |
@@ -4637,6 +4637,7 @@
 | <code>^inter</code> | ᐢ |
 | <code>^hsubs</code> | ᒼ |
 | <code>^hsups</code> | ᐣ |
+| <code>_hsubs</code> | ꜀ |
 | <code>^lt</code> | ˂ |
 | <code>^lt,</code> | ᑉ |
 | <code>^gt</code> | ˃ |

@@ -62,9 +62,6 @@
         };
         " " = ("insertText:", "₋");
       };
-      "c" = {
-        " " = ("insertText:", "꜀");
-      };
       "x" = {
         " " = ("insertText:", "ₓ");
       };
@@ -112,6 +109,9 @@
       };
       "e" = {
         " " = ("insertText:", "ₑ");
+      };
+      "c" = {
+        " " = ("insertText:", "𞁞");
       };
       "a" = {
         " " = ("insertText:", "ₐ");
@@ -193,6 +193,9 @@
       "r" = {
         " " = ("insertText:", "ʳ");
       };
+      "q" = {
+        " " = ("insertText:", "𐞥");
+      };
       "p" = {
         " " = ("insertText:", "ᵖ");
       };
@@ -241,6 +244,9 @@
       "a" = {
         " " = ("insertText:", "ᵃ");
       };
+      "Y" = {
+        " " = ("insertText:", "𐞲");
+      };
       "W" = {
         " " = ("insertText:", "ᵂ");
       };
@@ -253,8 +259,14 @@
       "T" = {
         " " = ("insertText:", "ᵀ");
       };
+      "S" = {
+        " " = ("insertText:", "꟱");
+      };
       "R" = {
         " " = ("insertText:", "ᴿ");
+      };
+      "Q" = {
+        " " = ("insertText:", "ꟴ");
       };
       "P" = {
         " " = ("insertText:", "ᴾ");
@@ -286,11 +298,17 @@
       "G" = {
         " " = ("insertText:", "ᴳ");
       };
+      "F" = {
+        " " = ("insertText:", "ꟳ");
+      };
       "E" = {
         " " = ("insertText:", "ᴱ");
       };
       "D" = {
         " " = ("insertText:", "ᴰ");
+      };
+      "C" = {
+        " " = ("insertText:", "ꟲ");
       };
       "B" = {
         " " = ("insertText:", "ᴮ");

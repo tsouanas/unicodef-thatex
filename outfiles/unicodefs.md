@@ -3323,8 +3323,10 @@
 | <code>^/</code> | ⸍ |
 | <code>^A</code> | ᴬ |
 | <code>^B</code> | ᴮ |
+| <code>^C</code> | ꟲ |
 | <code>^D</code> | ᴰ |
 | <code>^E</code> | ᴱ |
+| <code>^F</code> | ꟳ |
 | <code>^G</code> | ᴳ |
 | <code>^H</code> | ᴴ |
 | <code>^I</code> | ᴵ |
@@ -3335,11 +3337,14 @@
 | <code>^N</code> | ᴺ |
 | <code>^O</code> | ᴼ |
 | <code>^P</code> | ᴾ |
+| <code>^Q</code> | ꟴ |
 | <code>^R</code> | ᴿ |
+| <code>^S</code> | ꟱ |
 | <code>^T</code> | ᵀ |
 | <code>^U</code> | ᵁ |
 | <code>^V</code> | ⱽ |
 | <code>^W</code> | ᵂ |
+| <code>^Y</code> | 𐞲 |
 | <code>^a</code> | ᵃ |
 | <code>^b</code> | ᵇ |
 | <code>^c</code> | ᶜ |
@@ -3356,6 +3361,7 @@
 | <code>^n</code> | ⁿ |
 | <code>^o</code> | ᵒ |
 | <code>^p</code> | ᵖ |
+| <code>^q</code> | 𐞥 |
 | <code>^r</code> | ʳ |
 | <code>^s</code> | ˢ |
 | <code>^t</code> | ᵗ |
@@ -3383,6 +3389,7 @@
 | <code>_)</code> | ₎ |
 | <code>_/</code> | ⸝ |
 | <code>_a</code> | ₐ |
+| <code>_c</code> | 𞁞 |
 | <code>_e</code> | ₑ |
 | <code>_h</code> | ₕ |
 | <code>_i</code> | ᵢ |
@@ -3399,7 +3406,6 @@
 | <code>_u</code> | ᵤ |
 | <code>_v</code> | ᵥ |
 | <code>_x</code> | ₓ |
-| <code>_c</code> | ꜀ |
 | <code>_-^</code> | ￪ |
 | <code>_-v</code> | ￬ |
 | <code>_-&lt;</code> | ￩ |
@@ -8977,11 +8983,11 @@
 | <code>beth1</code> | ℶ₁ |
 | <code>beth2</code> | ℶ₂ |
 | <code>continuum</code> | 𝔠 |
-| <code>eqc</code> | =꜀ |
-| <code>leqc</code> | ≤꜀ |
-| <code>ltc</code> | &lt;꜀ |
-| <code>geqc</code> | ≥꜀ |
-| <code>gtc</code> | &gt;꜀ |
+| <code>eqc</code> | =𞁞 |
+| <code>leqc</code> | ≤𞁞 |
+| <code>ltc</code> | &lt;𞁞 |
+| <code>geqc</code> | ≥𞁞 |
+| <code>gtc</code> | &gt;𞁞 |
 | <code>eqo</code> | =ₒ |
 | <code>leqo</code> | ≤ₒ |
 | <code>lto</code> | &lt;ₒ |
@@ -11942,6 +11948,7 @@
 | <code>^inter</code> | ᐢ |
 | <code>^hsubs</code> | ᒼ |
 | <code>^hsups</code> | ᐣ |
+| <code>_hsubs</code> | ꜀ |
 | <code>^lt</code> | ˂ |
 | <code>^lt,</code> | ᑉ |
 | <code>^gt</code> | ˃ |

@@ -1671,11 +1671,11 @@ inoremap \\beth0 ℶ₀
 inoremap \\beth1 ℶ₁
 inoremap \\beth2 ℶ₂
 inoremap \\continuum 𝔠
-inoremap \\eqc =꜀
-inoremap \\leqc ≤꜀
-inoremap \\ltc <꜀
-inoremap \\geqc ≥꜀
-inoremap \\gtc >꜀
+inoremap \\eqc =𞁞
+inoremap \\leqc ≤𞁞
+inoremap \\ltc <𞁞
+inoremap \\geqc ≥𞁞
+inoremap \\gtc >𞁞
 inoremap \\eqo =ₒ
 inoremap \\leqo ≤ₒ
 inoremap \\lto <ₒ
@@ -4636,6 +4636,7 @@ inoremap \\^union ᐡ
 inoremap \\^inter ᐢ
 inoremap \\^hsubs ᒼ
 inoremap \\^hsups ᐣ
+inoremap \\_hsubs ꜀
 inoremap \\^lt ˂
 inoremap \\^lt, ᑉ
 inoremap \\^gt ˃

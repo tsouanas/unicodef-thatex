@@ -1001,8 +1001,10 @@
 | <code>^/</code> | ⸍ |
 | <code>^A</code> | ᴬ |
 | <code>^B</code> | ᴮ |
+| <code>^C</code> | ꟲ |
 | <code>^D</code> | ᴰ |
 | <code>^E</code> | ᴱ |
+| <code>^F</code> | ꟳ |
 | <code>^G</code> | ᴳ |
 | <code>^H</code> | ᴴ |
 | <code>^I</code> | ᴵ |
@@ -1013,11 +1015,14 @@
 | <code>^N</code> | ᴺ |
 | <code>^O</code> | ᴼ |
 | <code>^P</code> | ᴾ |
+| <code>^Q</code> | ꟴ |
 | <code>^R</code> | ᴿ |
+| <code>^S</code> | ꟱ |
 | <code>^T</code> | ᵀ |
 | <code>^U</code> | ᵁ |
 | <code>^V</code> | ⱽ |
 | <code>^W</code> | ᵂ |
+| <code>^Y</code> | 𐞲 |
 | <code>^a</code> | ᵃ |
 | <code>^b</code> | ᵇ |
 | <code>^c</code> | ᶜ |
@@ -1034,6 +1039,7 @@
 | <code>^n</code> | ⁿ |
 | <code>^o</code> | ᵒ |
 | <code>^p</code> | ᵖ |
+| <code>^q</code> | 𐞥 |
 | <code>^r</code> | ʳ |
 | <code>^s</code> | ˢ |
 | <code>^t</code> | ᵗ |
@@ -1061,6 +1067,7 @@
 | <code>_)</code> | ₎ |
 | <code>_/</code> | ⸝ |
 | <code>_a</code> | ₐ |
+| <code>_c</code> | 𞁞 |
 | <code>_e</code> | ₑ |
 | <code>_h</code> | ₕ |
 | <code>_i</code> | ᵢ |
@@ -1077,7 +1084,6 @@
 | <code>_u</code> | ᵤ |
 | <code>_v</code> | ᵥ |
 | <code>_x</code> | ₓ |
-| <code>_c</code> | ꜀ |
 | <code>_-^</code> | ￪ |
 | <code>_-v</code> | ￬ |
 | <code>_-&lt;</code> | ￩ |
