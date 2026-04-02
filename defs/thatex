@@ -903,6 +903,9 @@ plus              +
 plus2             ⨧
 cross             ⨯  # WARN: different character from `times`
 times             ×
+saltimes          🯀  # [sal]tire
+scotimes          🯀  # [sco]ttish
+crux              🯀
 frac              ÷
 monus             ∸
 fractimes         ⋇
@@ -4216,6 +4219,7 @@ ggrave            ˵  # (double)
 2grave            ˵  # middle double grave accent
 2acute            ˶  # WARN: there is no single acute
 eqop              ꞊
+vgcross           🮻  # [v]oided [g]reek [cross]
 
 # %}}}
 
