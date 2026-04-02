@@ -4427,8 +4427,16 @@ stile             ⍭
 oplus             ⊕
 ominus            ⊖
 otimes            ⊗
-ootimes           ⨷
+oprod             ⊗
 ocross            ⊗
+ootimes           ⨷
+ooprod            ⨷
+oocross           ⨷
+timeso            ⦻
+prodo             ⦻
+crosso            ⦻
+dasho             ⦵
+minuso            ⦵
 odivby            ⊘
 oslash            ⊘
 odot              ⊙
@@ -4456,6 +4464,8 @@ operc             ⦼  # [perc]ent
 Odot              ⨀
 Oplus             ⨁
 Otimes            ⨂
+circcirc          ◎
+circcirc,         ⦾
 sqplus            ⊞
 sqminus           ⊟
 sqtimes           ⊠
@@ -4473,10 +4483,18 @@ sqto              ⍈
 sqfrom            ⍇
 sqlt              ⍃
 sqgt              ⍄
+sqsq              ⧈
+boxbox            ⧈
+triplus           ⨹
+triminus          ⨺
+tritimes          ⨻
+tridot            ◬
+tris              ⧌
 trplus            ⨹
 trminus           ⨺
 trtimes           ⨻
 trdot             ◬
+trs               ⧌
 diadot            ⟐
 lozminus          ⟠
 
