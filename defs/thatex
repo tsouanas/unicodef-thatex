@@ -5519,6 +5519,8 @@ _top              ˕
 @oacute            ́
 @oaacute           ̋
 @o2acute           ̋
+@odgrave           ᷀
+@odacute           ᷁
 @ohook             ̉
 @ocircum           ̂  # [circum]flex
 @ocflex            ̂
@@ -5538,6 +5540,19 @@ _top              ˕
 @odiaer            ̈  # [diaer]esis
 @otrema            ̈
 @ohorn             ̛
+@osusp             ᷃  #  [susp]ension mark
+@oma               ᷄  #  [m]acron-[a]cute
+@ogm               ᷅  #  [g]rave-[m]acron
+@omg               ᷆  #  [m]acron-[g]rave
+@oam               ᷇  #  [a]cute-[m]acron
+@ogag              ᷈  #  [g]rave-[a]cute-[g]rave
+@oaga              ᷉  #  [a]cute-[g]rave-[a]cute
+@ozig              ᷈  #  [g]rave-[a]cute-[g]rave
+@ozag              ᷉  #  [a]cute-[g]rave-[a]cute
+@ozigzag           ᷈  #  [g]rave-[a]cute-[g]rave
+@ozagzig           ᷉  #  [a]cute-[g]rave-[a]cute
+@obm               ᷋  #  [b]reve-[m]acron
+@omb               ᷌  #  [m]acron-[b]reve
 
 ### lines
 @obar              ̄
@@ -5605,6 +5620,9 @@ _top              ˕
 @odot>             ͘
 @ocomma>           ̕
 
+### @oX< on the side
+@odot<             ᷸
+
 ### misc
 @ozap              ͛
 @ozeus             ͛
@@ -5614,6 +5632,15 @@ _top              ˕
 @ohair             ̾
 @oballs            ᷓ
 @oshark            ̃̒
+@ogriml            ᷋
+@ogrimr            ᷌
+@oreaperl          ᷋
+@oreaperr          ᷌
+@oreapl            ᷋
+@oreapr            ᷌
+@ogrim             ᷌
+@oreaper           ᷌
+@oreap             ᷌
 
 # %}}}
 
@@ -5718,8 +5745,10 @@ _top              ˕
 @uminus            ̠
 @ueq               ͇
 @uttil             ᷽
+@u2til             ᷽
 @usim              ̰
 @ussim             ᷽
+@u2sim             ᷽
 @usmile            ̮
 @ufrown            ̯
 @uscup             ̺
@@ -5735,6 +5764,7 @@ _top              ˕
 @usnake            ᷂
 @useagull          ̼
 @uballs            ̫
+@ugtjoin           ᷿
 
 # %}}}
 
@@ -5845,6 +5875,15 @@ _top              ˕
 @balls             ̫
 @lynch             ᪰  # the owls are not what they seem
 @shark             ̃̒
+@griml             ᷋
+@grimr             ᷌
+@reaperl           ᷋
+@reaperr           ᷌
+@reapl             ᷋
+@reapr             ᷌
+@grim              ᷌
+@reaper            ᷌
+@reap              ᷌
 @pala              ̡  # [pala]talized hook
 @retro             ̢  # [retro]flex hook
 
