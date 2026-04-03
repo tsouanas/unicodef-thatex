@@ -1017,6 +1017,7 @@ dnl               DNL⛤  # [d]ouble [n]egation [l]aw
 raa               RAA⛤  # [r]eductio [a]d [a]bsurdum
 halmos            ∎
 qed               ∎
+qed,              ⎕
 QED               ꞯᴇᴅ   # [D]emonstrandum
 QEF               ꞯᴇꜰ   # [F]aciendum
 QEC               ꞯᴇᴄ   # [C]onstruendum
