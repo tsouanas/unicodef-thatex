@@ -31,6 +31,9 @@ inoremap \\candle 🕯️
 inoremap \\chest 🪎
 inoremap \\clip 📎
 inoremap \\clips 🖇
+inoremap \\coil ➰
+inoremap \\2coil ➿
+inoremap \\ccoil ➿
 inoremap \\compass 🧭
 inoremap \\crown 👑
 inoremap \\galois 🔪👑
@@ -1007,6 +1010,7 @@ inoremap \\nok 👎
 inoremap \\yea 👍
 inoremap \\nay 👎
 inoremap \\like 👍
+inoremap \\colike 👍
 inoremap \\dislike 👎
 inoremap \\dlike 👎
 inoremap \\upv 👍

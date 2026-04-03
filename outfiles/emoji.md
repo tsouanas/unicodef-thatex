@@ -32,6 +32,9 @@
 | <code>chest</code> | 🪎 |
 | <code>clip</code> | 📎 |
 | <code>clips</code> | 🖇 |
+| <code>coil</code> | ➰ |
+| <code>2coil</code> | ➿ |
+| <code>ccoil</code> | ➿ |
 | <code>compass</code> | 🧭 |
 | <code>crown</code> | 👑 |
 | <code>galois</code> | 🔪👑 |
@@ -1008,6 +1011,7 @@
 | <code>yea</code> | 👍 |
 | <code>nay</code> | 👎 |
 | <code>like</code> | 👍 |
+| <code>colike</code> | 👍 |
 | <code>dislike</code> | 👎 |
 | <code>dlike</code> | 👎 |
 | <code>upv</code> | 👍 |
