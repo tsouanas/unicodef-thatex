@@ -4364,6 +4364,7 @@ sqpoint           ⬝  # [sq]uare [point]
 sqpoint,          ⬞
 spark             ⟡
 circ              ∘  # [circ]le op
+jot               ∘  # [jot] op
 star              ⋆  # (small) star (bin op)
 Star              ★  # (large) star (nul op / individual)
 astcol            ⁑  # [ast]erisk [col]on
