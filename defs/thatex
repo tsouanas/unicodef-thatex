@@ -2917,7 +2917,9 @@ v3from            ⤊
 -2                𝟐
 CAT               𝐂𝐚𝐭
 SET               𝐒𝐞𝐭
+FUN               𝐅𝐮𝐧
 PSET              𝐏𝐒𝐞𝐭
+PTSET             𝐏𝐭𝐒𝐞𝐭
 PTDSET            𝐏𝐭𝐝𝐒𝐞𝐭
 SET*              𝐒𝐞𝐭 ͙
 FINSET            𝐅𝐢𝐧𝐒𝐞𝐭
@@ -2955,7 +2957,9 @@ SEMILATTICE       𝐒𝐞𝐦𝐢𝐥𝐚𝐭𝐭𝐢𝐜𝐞
 SLATTICE          𝐒𝐞𝐦𝐢𝐥𝐚𝐭𝐭𝐢𝐜𝐞
 SEMILAT           𝐒𝐞𝐦𝐢𝐋𝐚𝐭
 SLAT              𝐒𝐞𝐦𝐢𝐋𝐚𝐭
+BDLATTICE         𝐁𝐝𝐋𝐚𝐭𝐭𝐢𝐜𝐞
 LATTICE           𝐋𝐚𝐭𝐭𝐢𝐜𝐞
+BDLAT             𝐁𝐝𝐋𝐚𝐭
 LAT               𝐋𝐚𝐭
 LOCALE            𝐋𝐨𝐜𝐚𝐥𝐞
 LOC               𝐋𝐨𝐜
