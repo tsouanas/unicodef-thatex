@@ -5533,12 +5533,26 @@ _top              ˕
 @ontil             ͊
 @ottil             ͌
 @oarc              ̑
+@ocoarc            ̆
 @obreve            ̆
+@o.breve           ̐
+@odbreve           ̐  # [d]ot [breve]
+@ocobreve          ̑
+@oco.breve         ̐
+@ocodbreve         ͒
 @obre              ̆
+@o.bre             ̐
+@odbre             ̐  # [d]ot [breve]
+@ocobre            ̑
+@oco.bre           ̐
+@ocodbre           ͒
+@ofermata          ͒
+@ocofermata        ̐
 @omacron           ̄
 @omac              ̄
 @odiaer            ̈  # [diaer]esis
 @otrema            ̈
+@obridge           ͆
 @ohorn             ̛
 @osusp             ᷃  #  [susp]ension mark
 @oma               ᷄  #  [m]acron-[a]cute
@@ -5594,7 +5608,6 @@ _top              ˕
 @oast              ⃰
 @ostar             ⃰  # XXX: actually ast
 @ohat              ̂
-@obridge           ͆
 @ocirc             ̊
 @oring             ̊
 @ori               ͑  # [ri]ng (left half)
@@ -5629,6 +5642,7 @@ _top              ˕
 @olynch            ᪰  # the owls are not what they seem
 @othis             ᪳
 @ohere             ᪳
+@ofocus            ⃩
 @ohair             ̾
 @oballs            ᷓ
 @oshark            ̃̒
@@ -5641,6 +5655,7 @@ _top              ˕
 @ogrim             ᷌
 @oreaper           ᷌
 @oreap             ᷌
+@ocyclops          ̐
 
 # %}}}
 
@@ -5677,12 +5692,17 @@ _top              ˕
 @utilde            ̰
 @util              ̰  # [til]de
 @uarc              ̯
-@ubreve            ̯
-@ubre              ̯
+@ucoarc            ̮
+@ubreve            ̮
+@ucobreve          ̯
+@ubre              ̮
+@ucobre            ̯
 @umacron           ̱
 @umac              ̱
 @udiaer            ̤  # [diaer]esis
 @utrema            ̤
+@ubridge           ̪
+@ucobridge         ̺
 
 ### lines
 @ubar              ̱
@@ -5730,7 +5750,6 @@ _top              ˕
 @uast              ͙
 @ustar             ͙  # XXX: actually ast
 @uhat              ̬
-@ubridge           ̺
 @ucirc             ̥
 @uring             ̥
 @uri               ̜  # [ri]ng (left half)
@@ -5761,6 +5780,7 @@ _top              ˕
 @uzeus             ᷏
 @uthis             ͎
 @uhere             ͎
+@ufocus            ᷹
 @usnake            ᷂
 @useagull          ̼
 @uballs            ̫
@@ -5884,8 +5904,10 @@ _top              ˕
 @grim              ᷌
 @reaper            ᷌
 @reap              ᷌
+@cyclops           ̐
 @pala              ̡  # [pala]talized hook
 @retro             ̢  # [retro]flex hook
+@fermata           ͒
 
 # %}}}
 
