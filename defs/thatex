@@ -5139,51 +5139,61 @@ feedto            ⨠
 # ogham dashes %{{{
 
 sdash             ᚋ  # [s]lash
+1sdash            ᚋ  # [
 2sdash            ᚌ
 3sdash            ᚍ
 4sdash            ᚎ
 5sdash            ᚏ
 idash             ᚐ  # [I]/(dot)
+1idash            ᚐ
 2idash            ᚑ
 3idash            ᚒ
 4idash            ᚓ
 5idash            ᚔ
 tdash             ᚁ  # [t]op-like
+1tdash            ᚁ
 2tdash            ᚂ
 3tdash            ᚃ
 4tdash            ᚄ
 5tdash            ᚅ
 bdash             ᚆ  # [b]ottom-like
+1bdash            ᚆ
 2bdash            ᚇ
 3bdash            ᚈ
 4bdash            ᚉ
 5bdash            ᚊ
 /dash             ᚋ  # /
+1/dash            ᚋ
 2/dash            ᚌ
 3/dash            ᚍ
 4/dash            ᚎ
 5/dash            ᚏ
 +dash             ᚐ  # +
+1+dash            ᚐ
 2+dash            ᚑ
 3+dash            ᚒ
 4+dash            ᚓ
 5+dash            ᚔ
 |dash             ᚐ  # |
+1|dash            ᚐ
 2|dash            ᚑ
 3|dash            ᚒ
 4|dash            ᚓ
 5|dash            ᚔ
 .dash             ᚐ  # .
+1.dash            ᚐ
 2.dash            ᚑ
 3.dash            ᚒ
 4.dash            ᚓ
 5.dash            ᚔ
 ,dash             ᚁ  # ,
+1,dash            ᚁ
 2,dash            ᚂ
 3,dash            ᚃ
 4,dash            ᚄ
 5,dash            ᚅ
 'dash             ᚆ  # ’
+1'dash            ᚆ
 2'dash            ᚇ
 3'dash            ᚈ
 4'dash            ᚉ
