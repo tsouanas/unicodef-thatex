@@ -3297,24 +3297,28 @@ Dual,             ð
 top               ⊤
 bottom            ⊥
 bot               ⊥
+topo              ⍕
+boto              ⍎
 Top               ⟙
 Bottom            ⟘
 Bot               ⟘
 ttop              ⫪
 2top              ⫪
-bbtop             ⫪
 bbottom           ⫫
 2bottom           ⫫
-bbbottom          ⫫
 bbot              ⫫
 2bot              ⫫
+bbtop             ⫪
+bbbottom          ⫫
 bbbot             ⫫
 top,              ᚁ
+1top,             ᚁ
 2top,             ᚂ
 3top,             ᚃ
 4top,             ᚄ
 5top,             ᚅ
 bot,              ᚆ
+1bot,             ᚆ
 2bot,             ᚇ
 3bot,             ᚈ
 4bot,             ᚉ
@@ -3989,14 +3993,17 @@ dcircle           ◌  # [d]otted
 koules            ⧂
 triangle          △  # see also: triangles
 trianglej         ⧋  # [ej]ect-looking
-ultri             ⧋  # [u]nder[l]ined
 .triangle         ⧊
 dottri            ⧊
 .tri              ⧊
 square            ◻
 box               ◻
+thinbox           ⌷
 bpsquare          ▢  # [b]aby[p]roof
+bpsq              ▢  # [b]aby[p]roof
+rsquare           ▢  # [r]ounded [square]
 dsquare           ⬚  # [d]otted
+dottsq            ⬚
 diamond           ◇
 lozenge           ◊
 diamonddash       ᚖ
