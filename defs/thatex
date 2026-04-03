@@ -2777,6 +2777,12 @@ rnnorm            ⦀
 
 # cats %{{{
 
+terminal          ⊤
+initial           ⊥
+term              ⊤
+init              ⊥
+zero              ⧲
+biterm            ⧲  # [biterm]inator
 prod              ×
 lprod             ⋉
 rprod             ⋊
