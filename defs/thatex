@@ -1793,12 +1793,14 @@ triang            △  # [triang]le
 tria              △
 perp              ⟂  # [perp]endicular
 perp,             ᚆ
+1perp,            ᚆ
 2perp,            ᚇ
 3perp,            ᚈ
 4perp,            ᚉ
 5perp,            ᚊ
 ortho             ⟂  # [ortho]gonal
 ortho,            ᚆ
+1ortho,           ᚆ
 2ortho,           ᚇ
 3ortho,           ᚈ
 4ortho,           ᚉ
