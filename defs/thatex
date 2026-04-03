@@ -938,13 +938,10 @@ div               ∣  # WARN: deprecated
 ndivides          ∤
 ndivs             ∤
 ndiv              ∤  # WARN: deprecated
-dotdivs           ⍿
-.divs             ⍿
-simdivs           ⍭
-pipefrom          ⍅
-pipeto            ⍆
-slashminus        ⌿
-bslashminus       ⍀
+dashslash         ⌿
+dashbslash        ⍀
+dashs             ⌿
+dashb             ⍀
 coprime           ⟂
 eq                =
 Eq                ＝
@@ -4611,6 +4608,18 @@ wavyfrac          ∻
 wavfrac           ∻
 bbtri             ⟁  # [b]lackboard [b]old
 ttri              ⟁  # (no bb-)
+dotdivs           ⍿
+.divs             ⍿
+mido              ⌽
+divo              ⌽
+divso             ⌽
+simdivs           ⍭
+slashminus        ⌿
+bslashminus       ⍀
+minusslash        ⌿
+minusbslash       ⍀
+minuss            ⌿
+minusb            ⍀
 
 # %}}}
 
@@ -4773,6 +4782,34 @@ dashl             ⇠
 dashr             ⇢
 dottl             ⬸  # [dott]ed
 dottr             ⤑
+pipefrom          ⍅
+pipeto            ⍆
+pipevfrom         ⍏
+pipevto           ⍖
+vpipefrom         ⍏
+vpipeto           ⍖
+etherfrom         ⍅
+etherto           ⍆
+ethfrom           ⍅
+ethto             ⍆
+ethvfrom          ⍏
+ethvto            ⍖
+vethfrom          ⍏
+vethto            ⍖
+thrufrom          ⍅
+thruto            ⍆
+vthrufrom         ⍏
+vthruto           ⍖
+thruvfrom         ⍏
+thruvto           ⍖
+ethl              ⍅
+ethr              ⍆
+ethu              ⍏
+ethd              ⍖
+thrul             ⍅
+thrur             ⍆
+thruu             ⍏
+thrud             ⍖
 harplu            ↼  # [harp]oon [l]eft with barb [u]p
 harpld            ↽
 harpru            ⇀
