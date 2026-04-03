@@ -4523,6 +4523,44 @@ sqlt              ⍃
 sqgt              ⍄
 sqsq              ⧈
 boxbox            ⧈
+boxslash          ⍁  # [s]lash
+boxbslash         ⍂  # [b]ack[slash]
+boxs              ⍁
+boxb              ⍂
+boxeq             ⌸
+boxfrac           ⌹
+boxdiam           ⌺
+boxcirc           ⌻
+boxof             ⌻
+boxCirc           ⌼
+boxOf             ⌼
+boxlt             ⍃
+boxgt             ⍄
+boxfrom           ⍇
+boxto             ⍈
+boxvfrom          ⍐
+boxvto            ⍗
+vboxfrom          ⍐
+vboxto            ⍗
+boxleft           ⍇
+boxright          ⍈
+boxup             ⍐
+boxdown           ⍗
+boxl              ⍇
+boxr              ⍈
+boxu              ⍐
+boxd              ⍗
+boxjoin           ⍌
+boxmeet           ⍓
+boxtri            ⍍
+boxdelta          ⍍
+boxDelta          ⍍
+boxnabla          ⍔
+boxdel            ⍔
+boxgrad           ⍔
+boxquote          ⍞
+boxcolon          ⍠
+boxcol            ⍠
 triplus           ⨹
 triminus          ⨺
 tritimes          ⨻
@@ -4535,6 +4573,33 @@ trdot             ◬
 trs               ⧌
 diadot            ⟐
 lozminus          ⟠
+verttri           ⍋
+verttri,          ⍒
+verttriu          ⍋
+verttrid          ⍒
+pipetri           ⍋
+pipetri,          ⍒
+pipetriu          ⍋
+pipetrid          ⍒
+
+# %}}}
+
+# [o]ver[l]ined and [u]nder[l]ined %{{{
+
+oltop             ⍑
+ulbottom          ⍊
+ulbot             ⍊
+ulquote           ⍘
+uldiam            ⍚
+uljot             ⍛
+ulof              ⍛
+ulcirc            ⍚
+ulCirc            ⍛
+ulcomp            ⍜
+ultri             ⍙
+ultri,            ⧋
+ulDelta           ⍙
+uldelta           ⍙  # WARN: not really a δ̲
 
 # %}}}
 
