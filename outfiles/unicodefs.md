@@ -1059,11 +1059,13 @@
 | <code>cat</code> | 🐈 |
 | <code>catface</code> | 🐱 |
 | <code>cathappy</code> | 😸 |
-| <code>catgrin</code> | 😸 |
+| <code>catgrin</code> | 😺 |
+| <code>catgrin,</code> | 😸 |
+| <code>cat:D</code> | 😺 |
 | <code>catsmile</code> | 😸 |
+| <code>catlaugh</code> | 😸 |
 | <code>catlol</code> | 😹 |
 | <code>catrofl</code> | 😹 |
-| <code>cat:D</code> | 😺 |
 | <code>catinlove</code> | 😻 |
 | <code>catmuah</code> | 😼 |
 | <code>catsmirk</code> | 😼 |

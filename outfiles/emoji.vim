@@ -541,11 +541,13 @@ inoremap \\wolf 🐺
 inoremap \\cat 🐈
 inoremap \\catface 🐱
 inoremap \\cathappy 😸
-inoremap \\catgrin 😸
+inoremap \\catgrin 😺
+inoremap \\catgrin, 😸
+inoremap \\cat:D 😺
 inoremap \\catsmile 😸
+inoremap \\catlaugh 😸
 inoremap \\catlol 😹
 inoremap \\catrofl 😹
-inoremap \\cat:D 😺
 inoremap \\catinlove 😻
 inoremap \\catmuah 😼
 inoremap \\catsmirk 😼
