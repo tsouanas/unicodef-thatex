@@ -2587,6 +2587,8 @@ heq               ≍   # [h]eterogenous [eq]uality
 =0                𝟘
 =1                𝟙
 =2                𝟚
+=3                𝟛
+=n                𝕟
 Empty             𝟘
 Unit              𝟙
 Two               𝟚
@@ -2918,9 +2920,10 @@ v3from            ⤊
 
 ## names of cats %{{{
 
--0                𝟎
--1                𝟏
--2                𝟐
+ZERO              𝟎
+ONE               𝟏
+TWO               𝟐
+THREE             𝟑
 CAT               𝐂𝐚𝐭
 SET               𝐒𝐞𝐭
 FUN               𝐅𝐮𝐧
@@ -2928,6 +2931,15 @@ PSET              𝐏𝐒𝐞𝐭
 PTSET             𝐏𝐭𝐒𝐞𝐭
 PTDSET            𝐏𝐭𝐝𝐒𝐞𝐭
 SET*              𝐒𝐞𝐭 ͙
+INJ               𝐈𝐧𝐣
+SURJ              𝐒𝐮𝐫𝐣
+BIJ               𝐁𝐢𝐣
+PARTIAL           𝐏𝐚𝐫𝐭𝐢𝐚𝐥
+SETINJ            𝐒𝐞𝐭𝐈𝐧𝐣
+SETSURJ           𝐒𝐞𝐭𝐒𝐮𝐫𝐣
+SETBIJ            𝐒𝐞𝐭𝐁𝐢𝐣
+SETPARTIAL        𝐒𝐞𝐭𝐏𝐚𝐫𝐭𝐢𝐚𝐥
+SETPART           𝐒𝐞𝐭𝐏𝐚𝐫𝐭
 FINSET            𝐅𝐢𝐧𝐒𝐞𝐭
 FINORD            𝐅𝐢𝐧𝐎𝐫𝐝
 ORD               𝐎𝐫𝐝
