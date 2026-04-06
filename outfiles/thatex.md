@@ -2296,6 +2296,8 @@
 | <code>=0</code> | 𝟘 |
 | <code>=1</code> | 𝟙 |
 | <code>=2</code> | 𝟚 |
+| <code>=3</code> | 𝟛 |
+| <code>=n</code> | 𝕟 |
 | <code>Empty</code> | 𝟘 |
 | <code>Unit</code> | 𝟙 |
 | <code>Two</code> | 𝟚 |
@@ -2598,9 +2600,10 @@
 | <code>v2from</code> | ⇑ |
 | <code>v3to</code> | ⤋ |
 | <code>v3from</code> | ⤊ |
-| <code>-0</code> | 𝟎 |
-| <code>-1</code> | 𝟏 |
-| <code>-2</code> | 𝟐 |
+| <code>ZERO</code> | 𝟎 |
+| <code>ONE</code> | 𝟏 |
+| <code>TWO</code> | 𝟐 |
+| <code>THREE</code> | 𝟑 |
 | <code>CAT</code> | 𝐂𝐚𝐭 |
 | <code>SET</code> | 𝐒𝐞𝐭 |
 | <code>FUN</code> | 𝐅𝐮𝐧 |
@@ -2608,6 +2611,15 @@
 | <code>PTSET</code> | 𝐏𝐭𝐒𝐞𝐭 |
 | <code>PTDSET</code> | 𝐏𝐭𝐝𝐒𝐞𝐭 |
 | <code>SET*</code> | 𝐒𝐞𝐭 ͙ |
+| <code>INJ</code> | 𝐈𝐧𝐣 |
+| <code>SURJ</code> | 𝐒𝐮𝐫𝐣 |
+| <code>BIJ</code> | 𝐁𝐢𝐣 |
+| <code>PARTIAL</code> | 𝐏𝐚𝐫𝐭𝐢𝐚𝐥 |
+| <code>SETINJ</code> | 𝐒𝐞𝐭𝐈𝐧𝐣 |
+| <code>SETSURJ</code> | 𝐒𝐞𝐭𝐒𝐮𝐫𝐣 |
+| <code>SETBIJ</code> | 𝐒𝐞𝐭𝐁𝐢𝐣 |
+| <code>SETPARTIAL</code> | 𝐒𝐞𝐭𝐏𝐚𝐫𝐭𝐢𝐚𝐥 |
+| <code>SETPART</code> | 𝐒𝐞𝐭𝐏𝐚𝐫𝐭 |
 | <code>FINSET</code> | 𝐅𝐢𝐧𝐒𝐞𝐭 |
 | <code>FINORD</code> | 𝐅𝐢𝐧𝐎𝐫𝐝 |
 | <code>ORD</code> | 𝐎𝐫𝐝 |

@@ -2295,6 +2295,8 @@ inoremap \\heq ≍
 inoremap \\=0 𝟘
 inoremap \\=1 𝟙
 inoremap \\=2 𝟚
+inoremap \\=3 𝟛
+inoremap \\=n 𝕟
 inoremap \\Empty 𝟘
 inoremap \\Unit 𝟙
 inoremap \\Two 𝟚
@@ -2597,9 +2599,10 @@ inoremap \\v2to ⇓
 inoremap \\v2from ⇑
 inoremap \\v3to ⤋
 inoremap \\v3from ⤊
-inoremap \\-0 𝟎
-inoremap \\-1 𝟏
-inoremap \\-2 𝟐
+inoremap \\ZERO 𝟎
+inoremap \\ONE 𝟏
+inoremap \\TWO 𝟐
+inoremap \\THREE 𝟑
 inoremap \\CAT 𝐂𝐚𝐭
 inoremap \\SET 𝐒𝐞𝐭
 inoremap \\FUN 𝐅𝐮𝐧
@@ -2607,6 +2610,15 @@ inoremap \\PSET 𝐏𝐒𝐞𝐭
 inoremap \\PTSET 𝐏𝐭𝐒𝐞𝐭
 inoremap \\PTDSET 𝐏𝐭𝐝𝐒𝐞𝐭
 inoremap \\SET* 𝐒𝐞𝐭 ͙
+inoremap \\INJ 𝐈𝐧𝐣
+inoremap \\SURJ 𝐒𝐮𝐫𝐣
+inoremap \\BIJ 𝐁𝐢𝐣
+inoremap \\PARTIAL 𝐏𝐚𝐫𝐭𝐢𝐚𝐥
+inoremap \\SETINJ 𝐒𝐞𝐭𝐈𝐧𝐣
+inoremap \\SETSURJ 𝐒𝐞𝐭𝐒𝐮𝐫𝐣
+inoremap \\SETBIJ 𝐒𝐞𝐭𝐁𝐢𝐣
+inoremap \\SETPARTIAL 𝐒𝐞𝐭𝐏𝐚𝐫𝐭𝐢𝐚𝐥
+inoremap \\SETPART 𝐒𝐞𝐭𝐏𝐚𝐫𝐭
 inoremap \\FINSET 𝐅𝐢𝐧𝐒𝐞𝐭
 inoremap \\FINORD 𝐅𝐢𝐧𝐎𝐫𝐝
 inoremap \\ORD 𝐎𝐫𝐝
