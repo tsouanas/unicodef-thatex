@@ -2751,8 +2751,8 @@ ctsfrom           ←cts‒
 hequiv            ≃ͪ  # [h]omotopy [equiv]alent
 hoeq              ≃ͪ  # [ho]motopy [eq]uivalent
 eqho              ≃ͪ
-opens             𝓞
-compacts          𝓚
+opens             𝒪
+compacts          𝒦
 
 # %}}}
 
@@ -3434,10 +3434,10 @@ belows            ↓
 aboves            ↑
 bels              ↓
 abos              ↑
-downsets          𝓞
-downs             𝓞
-dsets             𝓞
-dset              𝓞
+downsets          𝒪
+downs             𝒪
+dsets             𝒪
+dset              𝒪
 upclos            ꜛ  # [up]wards [clos]ure
 downclos          ꜜ  # [down]wards
 upcl              ꜛ
