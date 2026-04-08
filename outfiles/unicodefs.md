@@ -9795,8 +9795,8 @@
 | <code>hequiv</code> | ≃ͪ |
 | <code>hoeq</code> | ≃ͪ |
 | <code>eqho</code> | ≃ͪ |
-| <code>opens</code> | 𝓞 |
-| <code>compacts</code> | 𝓚 |
+| <code>opens</code> | 𝒪 |
+| <code>compacts</code> | 𝒦 |
 | <code>lgen</code> | ⟨ |
 | <code>rgen</code> | ⟩ |
 | <code>egen</code> | ⟨⟩ |
@@ -10438,10 +10438,10 @@
 | <code>aboves</code> | ↑ |
 | <code>bels</code> | ↓ |
 | <code>abos</code> | ↑ |
-| <code>downsets</code> | 𝓞 |
-| <code>downs</code> | 𝓞 |
-| <code>dsets</code> | 𝓞 |
-| <code>dset</code> | 𝓞 |
+| <code>downsets</code> | 𝒪 |
+| <code>downs</code> | 𝒪 |
+| <code>dsets</code> | 𝒪 |
+| <code>dset</code> | 𝒪 |
 | <code>upclos</code> | ꜛ |
 | <code>downclos</code> | ꜜ |
 | <code>upcl</code> | ꜛ |

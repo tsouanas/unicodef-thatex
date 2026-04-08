@@ -6752,8 +6752,8 @@ inoremap \\ctsfrom ←cts‒
 inoremap \\hequiv ≃ͪ
 inoremap \\hoeq ≃ͪ
 inoremap \\eqho ≃ͪ
-inoremap \\opens 𝓞
-inoremap \\compacts 𝓚
+inoremap \\opens 𝒪
+inoremap \\compacts 𝒦
 inoremap \\lgen ⟨
 inoremap \\rgen ⟩
 inoremap \\egen ⟨⟩
@@ -7395,10 +7395,10 @@ inoremap \\belows ↓
 inoremap \\aboves ↑
 inoremap \\bels ↓
 inoremap \\abos ↑
-inoremap \\downsets 𝓞
-inoremap \\downs 𝓞
-inoremap \\dsets 𝓞
-inoremap \\dset 𝓞
+inoremap \\downsets 𝒪
+inoremap \\downs 𝒪
+inoremap \\dsets 𝒪
+inoremap \\dset 𝒪
 inoremap \\upclos ꜛ
 inoremap \\downclos ꜜ
 inoremap \\upcl ꜛ
