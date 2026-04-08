@@ -3395,11 +3395,13 @@ kovby             ⋖
 kovs              ⋗
 kovd              ⋖
 compar            ≶  # [compar]able
-compareq          ⋚
 ncompar           ≸
 incompar          ≸  # [incompar]able
 incompardp        ‖  # [d]avey [p]riestley
 incompar,         ‖
+compareq          ⋚
+ncompareq         ⋚⃒  #  WARN: decorated
+incompareq        ⋚⃒  #  WARN: decorated
 lteq              ≦
 gteq              ≧
 ltneq             ≨
