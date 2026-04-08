@@ -5487,7 +5487,14 @@ _top              ˕
 @check             ̌
 @lift              ̃
 @forbid           ⃠
-@not               ̸  # [s]lash  INFO: see also: syn-named @c* below for more cancelling
+@nots              ̸  # [s]lash
+@notb              ⃥  # [b]ackslash
+@noth              ̵  # [h]orizontally
+@notH              ̶  # (long)
+@notv              ⃓  # [v]ertically
+@notV              ⃒  # (long)
+@notx              ⃥̸  # [x]
+@not               ̸  #  INFO: see also: syn-named @c* below for more cancelling
 @key               ⃣  # [key]cap
 
 # %}}}
