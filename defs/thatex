@@ -3855,15 +3855,20 @@ necrop            ⌎
 swcrop            ⌍
 secrop            ⌌
 
-### %}}}
+## %}}}
 
 ## box and bubble-drawing %{{{ 
 # [b]ox: light line
-# [B]ox: heavy line
+# [B]ox: heavy line (at least partially)
+# [+]: crossroads drawing (ruld order)
 # [bub]: arc corners for forming bubbles
 # numeral in h/v indicates number of dashes
-# uppercase in position indicates double line
-# e.g.: nE means single north-side, double east-side
+# uppercase in box indicates double line
+# uppercase in Box indicates heavy line
+# e.g.: boxnE means single north-side, double east-side
+# e.g.: BoxnE means light north-side, heavy east-side
+
+### box: normal box drawing (specify wall position) %{{{ 
 
 boxnw             ┌  # [box] [n]orth [w]est
 boxne             ┐
@@ -3890,32 +3895,6 @@ boxc              ┼  # [c]enter or [c]ross or [c]ompass
 box-              ─
 box|              │
 box+              ┼
-
-Boxnw             ┏  # (bold)
-Boxne             ┓
-Boxsw             ┗
-Boxse             ┛
-Boxh              ━
-Boxh2             ╍
-Boxh3             ┅
-Boxh4             ┉
-Boxv              ┃
-Boxv2             ╏
-Boxv3             ┇
-Boxv4             ┋
-Boxnh             ┳
-Boxwh             ┣
-Boxeh             ┫
-Boxsh             ┻
-Boxhv             ╋
-Boxtd             ┳
-Boxtr             ┣
-Boxtl             ┫
-Boxtu             ┻
-Boxc              ╋
-Box-              ━
-Box|              ┃
-Box+              ╋
 
 boxH              ═
 boxV              ║
@@ -3962,12 +3941,198 @@ boxvH             ╫
 boxHV             ╬
 boxC              ╬
 
+### %}}}
+
+### Box: heavy lines present %{{{ 
+
+Boxnw             ┏  # (bold)
+Boxne             ┓
+Boxsw             ┗
+Boxse             ┛
+Boxh              ━
+Boxh2             ╍
+Boxh3             ┅
+Boxh4             ┉
+Boxv              ┃
+Boxv2             ╏
+Boxv3             ┇
+Boxv4             ┋
+Boxnh             ┳
+Boxwh             ┣
+Boxeh             ┫
+Boxsh             ┻
+Boxhv             ╋
+Boxtd             ┳
+Boxtr             ┣
+Boxtl             ┫
+Boxtu             ┻
+Boxc              ╋
+Box-              ━
+Box|              ┃
+Box+              ╋
+
+BoxNw             ┍
+BoxnW             ┎
+BoxNe             ┑
+BoxnE             ┒
+BoxSw             ┕
+BoxsW             ┖
+BoxSe             ┙
+BoxsE             ┚
+BoxwH             ┝
+BoxWwh            ┞
+BoxwWh            ┟
+BoxWh             ┠
+BoxWwH            ┡
+BoxwWH            ┢
+BoxeH             ┥
+BoxEeh            ┦
+BoxeEh            ┧
+BoxEh             ┨
+BoxEeH            ┩
+BoxeEH            ┪
+BoxNnv            ┭
+BoxnNv            ┮
+BoxNv             ┯
+BoxnV             ┰
+BoxNnV            ┱
+BoxnNV            ┲
+BoxSsv            ┵
+BoxsSv            ┶
+BoxSv             ┷
+BoxsV             ┸
+BoxSsV            ┹
+BoxsSV            ┺
+BoxHhv            ┽
+BoxhHv            ┾
+BoxHv             ┿
+BoxhVv            ╀
+BoxhvV            ╁
+BoxhV             ╂
+BoxHhVv           ╃
+BoxhHVv           ╄
+BoxHhvV           ╅
+BoxhHvV           ╆
+BoxHVv            ╇
+BoxHvV            ╈
+BoxHhV            ╉
+BoxhHV            ╊
+BoxHV             ╋
+BoxvHh            ┽
+BoxvhH            ┾
+BoxvH             ┿
+BoxVvh            ╀
+BoxvVh            ╁
+BoxVh             ╂
+BoxVvHh           ╃
+BoxVvhH           ╄
+BoxvVHh           ╅
+BoxvVhH           ╆
+BoxVvH            ╇
+BoxvVH            ╈
+BoxVHh            ╉
+BoxVhH            ╊
+BoxVH             ╋
+BoxhH             ╼
+BoxvV             ╽
+BoxHh             ╾
+BoxVv             ╿
+
+
+
+### %}}}
+
+### + crossroads: order: r,u,l,d (math axis/angle); uppercase means heavy %{{{ 
+
++rd               ┌
++Rd               ┍
++rD               ┎
++RD               ┏
++ld               ┐
++Ld               ┑
++lD               ┒
++LD               ┓
++ru               └
++Ru               ┕
++rU               ┖
++RU               ┗
++ul               ┘
++uL               ┙
++Ul               ┚
++UL               ┛
++rud              ├
++Rud              ┝
++rUd              ┞
++ruD              ┟
++rUD              ┠
++RUd              ┡
++RuD              ┢
++RUD              ┣
++uld              ┤
++uLd              ┥
++Uld              ┦
++ulD              ┧
++UlD              ┨
++ULd              ┩
++uLD              ┪
++ULD              ┫
++rld              ┬
++rLd              ┭
++Rld              ┮
++RLd              ┯
++rlD              ┰
++rLD              ┱
++RlD              ┲
++RLD              ┳
++rul              ┴
++ruL              ┵
++Rul              ┶
++RuL              ┷
++rUl              ┸
++rUL              ┹
++RUl              ┺
++RUL              ┻
++ruld             ┼
++ruLd             ┽
++Ruld             ┾
++RuLd             ┿
++rUld             ╀
++rulD             ╁
++rUlD             ╂
++rULd             ╃
++RUld             ╄
++ruLD             ╅
++RulD             ╆
++RULd             ╇
++RuLD             ╈
++rULD             ╉
++RUlD             ╊
++RULD             ╋
++l                ╴
++u                ╵
++r                ╶
++d                ╷
++L                ╸
++U                ╹
++R                ╺
++D                ╻
++Rl               ╼
++uD               ╽
++rL               ╾
++Ud               ╿
+
+# %}}}
+
+### bub: arc corners %{{{ 
+
 bubnw             ╭  # [bub]ble [n]orth [w]est
 bubne             ╮
 bubsw             ╰
 bubse             ╯
 
 ### %}}}
+
+## %}}}
 
 ## vbrackets ([o]ver, [u]nder, [v]oid (empty for [v]ertical) %{{{
 
