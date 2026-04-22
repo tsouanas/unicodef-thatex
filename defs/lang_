@@ -46,10 +46,11 @@ _]     ⸥
 
 # Punctuation %{{{
 
-;.     ·  # ano teleia  WARN: wrong glyph common
 .^     ·  # middle dot
-;,     ·
-.,     ;
+;,     ·  # middle dot
+;.     ·  # ano teleia  WARN: wrong glyph common
+,.     ·  # ano teleia
+.,     ;  # semicolon
 2.     ‥
 3.     …
 ..;    ‥
