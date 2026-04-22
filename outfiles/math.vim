@@ -160,9 +160,8 @@ inoremap \2\\ ⑊
 inoremap \%2 %
 inoremap \%3 ‰
 inoremap \%4 ‱
-inoremap \2% %
-inoremap \3% ‰
-inoremap \4% ‱
+inoremap \%.3 ؉
+inoremap \%.4 ؊
 inoremap \1' ′
 inoremap \2' ″
 inoremap \3' ‴

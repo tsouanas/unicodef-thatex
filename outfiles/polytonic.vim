@@ -431,10 +431,3 @@ inoremap \ωκ κ̌
 inoremap \ωπ π̌
 inoremap \ωτ τ̌
 inoremap \ωζ ζ̌
-inoremap \υποδ ⸒
-inoremap \υπογ ͺ
-inoremap \ανοτελ ·
-inoremap \ανωτελ ·
-inoremap \ατ ·
-inoremap \αστ ∗
-inoremap \εθρ €

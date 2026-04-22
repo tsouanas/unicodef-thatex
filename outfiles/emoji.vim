@@ -22,6 +22,7 @@ inoremap \\blow 🌬
 inoremap \\boat ⛵
 inoremap \\brick 🧱
 inoremap \\tijolo 🧱
+inoremap \\bridge 🌉
 inoremap \\broom 🧹
 inoremap \\bubbles 🫧
 inoremap \\bulb 💡

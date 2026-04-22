@@ -23,6 +23,7 @@
 | <code>boat</code> | ⛵ |
 | <code>brick</code> | 🧱 |
 | <code>tijolo</code> | 🧱 |
+| <code>bridge</code> | 🌉 |
 | <code>broom</code> | 🧹 |
 | <code>bubbles</code> | 🫧 |
 | <code>bulb</code> | 💡 |

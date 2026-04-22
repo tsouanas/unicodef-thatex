@@ -432,10 +432,3 @@
 | <code>ωπ</code> | π̌ |
 | <code>ωτ</code> | τ̌ |
 | <code>ωζ</code> | ζ̌ |
-| <code>υποδ</code> | ⸒ |
-| <code>υπογ</code> | ͺ |
-| <code>ανοτελ</code> | · |
-| <code>ανωτελ</code> | · |
-| <code>ατ</code> | · |
-| <code>αστ</code> | ∗ |
-| <code>εθρ</code> | € |
