@@ -1834,6 +1834,10 @@ sparaleq          ⧣
 cprod             ⨯  # [c]ross [prod]uct
 dprod             ⋅  # [d]ot [prod]uct
 dotp              ⋅
+inteprodl         ⨼  # [i]nterior [prod]uct [l]eft
+inteprodr         ⨽
+intepl            ⨼
+intepr            ⨽
 
 # %}}}
 
