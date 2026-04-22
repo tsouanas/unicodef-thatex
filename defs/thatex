@@ -1684,6 +1684,9 @@ overlap,          ⧉
 olap,             ⧉
 sqoverlap         ⧉
 sqolap            ⧉
+sqolapww          ⮺
+sqolapbw          ⮻
+sqolapbb          ⮼
 between           ≬
 bet               ≬
 meets             ≬
