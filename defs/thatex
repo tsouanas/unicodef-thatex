@@ -1864,6 +1864,15 @@ oiint             ∯
 oiiint            ∰
 o2int             ∯
 o3int             ∰
+hint              ⨍  # [h]orizontal bar
+hhint             ⨎
+sint              ⨏
+cpvint            ⨍  # [c]auchy [p]rincipal [v]alue
+hsint             ⨎  # [h]yper[s]ingular
+interint          ⨙
+unionint          ⨚
+timesint          ⨘
+crossint          ⨘
 uint              ⨛  # [u]pper
 lint              ⨜  # [l]ower
 preint            ⎰  # [pre]fix
