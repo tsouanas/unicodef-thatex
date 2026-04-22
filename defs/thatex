@@ -1499,6 +1499,7 @@ emptyo            ⦲
 0empty            ⦲
 emptyring         ⦲
 emptybar          ⦱
+barempty          ⦱
 emptyto           ⦳
 emptyfrom         ⦴
 vempty            ᴓ  # [v]ertical
@@ -1785,6 +1786,8 @@ iin               ⋹  # (bonus: [i]ntensionally [in]))
 2inter            ⋒
 2union            ⋓
 2in               ⋹
+barunion          ⩂
+barinter          ⩃
 
 # %}}}
 
@@ -3046,6 +3049,14 @@ conj              ∧  # [conj]unction
 disj              ∨  # [disj]unction
 Conj              ⋀
 Disj              ⋁
+conjbar           ⩟
+disjbar           ⩡
+barconj           ∧̄  # WARN: decorated
+bardisj           ∨̄  # WARN: decorated
+conjbbar          ⩠
+disjbbar          ⩣
+bbarconj          ⩞
+bbardisj          ⩢
 nand              ⩚
 nor               ⩛
 forall            ∀
@@ -3234,6 +3245,14 @@ anddot            ⟑
 ordot             ⟇
 and.              ⟑
 or.               ⟇
+andbar            ⩟
+orbar             ⩡
+barand            ∧̄  # WARN: decorated
+baror             ∨̄  # WARN: decorated
+andbbar           ⩠
+orbbar            ⩣
+bbarand           ⩞
+bbaror            ⩢
 dvand             ⩕  # [d]ouble [v]ision
 dvor              ⩖
 dvAnd             ⨇
@@ -3549,6 +3568,14 @@ dotmeet           ⩑
 dotjoin           ⩒
 .meet             ⩑
 .join             ⩒
+meetbar           ⩟
+joinbar           ⩡
+barmeet           ∧̄  # WARN: decorated
+barjoin           ∨̄  # WARN: decorated
+meetbbar          ⩠
+joinbbar          ⩣
+bbarmeet          ⩞
+bbarjoin          ⩢
 leqdot            ⩿
 geqdot            ⪀
 leq.              ⩿
@@ -4884,6 +4911,7 @@ cross4            ※
 dottimes          ⨰
 .times            ⨰
 timesbar          ⨱
+crossbar          ⨱
 simdot            ⸟
 sim.              ⸟
 dotsim            ⩪
