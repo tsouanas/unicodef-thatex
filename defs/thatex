@@ -5132,6 +5132,36 @@ arr2l             ⇇
 arr2r             ⇉
 arr3l             ⬱
 arr3r             ⇶
+arrnenw           ⤧  # [n]orth[e]ast [n]orth[w]est
+arrnwne           ⤧
+arrsene           ⤨
+arrnese           ⤨
+arrswse           ⤩
+arrsesw           ⤩
+arrnwsw           ⤪
+arrswnw           ⤪
+arrne;nw          ⤱  # ([;] for "over")
+arrnw;ne          ⤲
+arrse;ne          ⤭
+arrb;ne           ⤯
+arrs;se           ⤰
+arrs;b            ⤫  # WARN: not really arrows
+arrb;s            ⤬
+xnenw             ⤧  # [x] (cross)
+xnwne             ⤧
+xsene             ⤨
+xnese             ⤨
+xswse             ⤩
+xsesw             ⤩
+xnwsw             ⤪
+xswnw             ⤪
+xne;nw            ⤱  # ([;] for "over")
+xnw;ne            ⤲
+xse;ne            ⤭
+xs;se             ⤮
+xb;ne             ⤯
+xs;b              ⤫
+xb;s              ⤬
 squigl            ⇜
 squigr            ⇝
 squigb            ↭
