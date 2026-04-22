@@ -5201,7 +5201,15 @@ sharpld           ⬐
 sharprd           ⬎
 sharplu           ⬑
 sharpru           ⬏
-smoothru          ⤴  # [smooth] turn [r]
+sharpdL           ⮠  # [d]own [L]eft (uppercase for long)
+sharpdR           ⮡
+sharpuL           ⮢
+sharpuR           ⮣
+sharplU           ⮤
+sharprU           ⮥
+sharplD           ⮦
+sharprD           ⮧
+smoothru          ⤴  # [smooth] turn [r]ight-[u]p
 smoothrd          ⤵
 smoothdl          ⤶
 smoothdr          ⤷
@@ -5213,6 +5221,14 @@ turnld            ⬐
 turnrd            ⬎
 turnlu            ⬑
 turnru            ⬏
+turndL            ⮠
+turndR            ⮡
+turnuL            ⮢
+turnuR            ⮣
+turnlU            ⮤
+turnrU            ⮥
+turnlD            ⮦
+turnrD            ⮧
 cturnru           ⤴  # [c]urvy
 cturnrd           ⤵
 cturndl           ⤶
