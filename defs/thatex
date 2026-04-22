@@ -2854,6 +2854,10 @@ uniqueto          ‒∃!→
 uniquefrom        ←∃!‒
 unto              ‒∃!→
 unfrom            ←∃!‒
+askto             ‒?→
+askfrom           ←?‒
+bangto            ‒!→
+bangfrom          ←!‒
 isoto             ⥲  # [iso]morphism
 isofrom           ⭉
 monto             ↣  # [mon]omorphism
@@ -5283,10 +5287,6 @@ arcdr             ⤸
 arcl              ⤺  # default: [u]
 arcr              ⤻  # default: [d]
 arcd              ⤹  # default: [l]
-askto             ‒?→
-askfrom           ←?‒
-bangto            ‒!→
-bangfrom          ←!‒
 halfu             ￪  # half-width arrows
 halfd             ￬
 halfl             ￩
