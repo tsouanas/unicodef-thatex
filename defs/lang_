@@ -89,7 +89,7 @@ _]     ⸥
 --n    –  # endash
 --.    –  # WARN: possibly soon-to-be-deprecated
 --;    –  # INFO: transition from . to ;
---m    –  # emdash
+--m    —  # emdash
 ---    —
 --:    ―  # quotation (dialogue) bar
 --~.   〜 # WARN: possibly soon-to-be-deprecated
