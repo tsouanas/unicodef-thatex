@@ -121,7 +121,7 @@ __     ＿  # wide underscore
 # Stand-alone accents and marks %{{{
 
 ^.     ˙  # dot above
-^:     ¨  # diaeresis / trema / dialetica
+^:     ¨  # diaeresis / trema / dialytika / umlaut
 ^~     ˜  # til(de)
 ^^     ˆ  # circumflex
 ^`     `  # grave accent
@@ -415,7 +415,7 @@ KK     Kʼ
 # .: (over)dot, remove dot
 # /: sstrike, strike, crossbar, slash
 # |: vstrike, strike, slash, straight tonos
-# :: diaeresis, trema, dialetica
+# :: diaeresis, trema, dialytika, umlaut
 # ": double acute
 # =: double acute, double strike, double bar
 # +: double grave (shift =)
@@ -695,7 +695,7 @@ KK     Kʼ
 |u     ʉ
 
 # %}}}
-# %{{{ : diaeresis, trema, dialetica 
+# %{{{ : diaeresis, trema, dialytika, umlaut 
 
 :A     Ä
 :E     Ë

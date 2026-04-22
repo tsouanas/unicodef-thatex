@@ -5515,7 +5515,9 @@ wudot             ᐧ  # [u]pper
 ^dot              ˙
 ^ddot             ¨  # (double)
 ^diaer            ¨  # [diaer]esis
+^dier             ¨
 ^trema            ¨
+^umlaut           ¨
 ^grave            `
 ^ggrave            ̏
 ^2grave            ̏
@@ -5782,7 +5784,9 @@ _top              ˕
 @omacron           ̄
 @omac              ̄
 @odiaer            ̈  # [diaer]esis
+@odier             ̈
 @otrema            ̈
+@oumlaut           ̈
 @obridge           ͆
 @ohorn             ̛
 @osusp             ᷃  #  [susp]ension mark
@@ -5931,7 +5935,9 @@ _top              ˕
 @umacron           ̱
 @umac              ̱
 @udiaer            ̤  # [diaer]esis
+@udier             ̤
 @utrema            ̤
+@uumlaut           ̤
 @ubridge           ̪
 @ucobridge         ̺
 
@@ -6109,8 +6115,10 @@ _top              ˕
 
 ## default (o/u/c/a/s) %{{{
 
-@diaer             ̈
+@diaer             ̈  # [diaer]esis
+@dier              ̈
 @trema             ̈
+@umlaut            ̈
 @grave             ̀
 @ggrave            ̏
 @2grave            ̏
