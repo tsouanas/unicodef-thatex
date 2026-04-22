@@ -3053,6 +3053,9 @@ contra            ⊥
 absurdum          ⊥
 absurd            ⊥
 not               ¬
+conot             ⌐
+conot,            ⨼
+conot,,           ⨽
 Not               ˥
 and               ∧
 or                ∨
@@ -4530,6 +4533,14 @@ ladybugop         ⦼
 ladybop           ⦼  # [b]ug or [b]ird
 ladyop            ⦼
 mouseop           ⦺
+tennisop          ᳂
+bridges           ♓︎
+bridgeop          ♓︎
+bridgerel         ♓︎
+birdr             ⨼
+birdl             ⨽
+flipr             ⨼
+flipl             ⨽
 negloop           ↻  # [neg]ative
 posloop           ↺  # [pos]itive
 cwloop            ↻  # [c]lock[w]ise
@@ -4587,6 +4598,17 @@ period            .
 semicol           ;
 semic             ;
 scolon            ;
+cosemicol         ⁏
+cosemic           ⁏
+coscolon          ⁏
+cosemicol,        ؛
+cosemic,          ؛
+coscolon,         ؛
+sepcol            ᰿
+sepcol,           ꖼ
+disjcol           ᰿
+disjcol,          ꖼ
+
 bang              !
 gnab              ¡  # (bang backwards)
 bbang             ‼
@@ -4919,14 +4941,18 @@ cplus             ⨢
 0plus             ⨢
 hatplus           ⨣
 hplus             ⨣
-4plus             ⁜  # [4]-fold dotted [plus]
-4times            ※
-4cross            ※
+dottimes          ⨰
+.times            ⨰
 plus4             ⁜  # [plus] with [4] dots
 times4            ※
 cross4            ※
-dottimes          ⨰
-.times            ⨰
+4.plus            ⁜  # [4]-fold [.] dotted [plus]
+4.times           ※
+4.cross           ※
+2.times           ᰾  # WARN: actually lepcha punctuation
+2.cross           ᰾  # WARN: actually lepcha punctuation
+0.times           ᰽  # WARN: actually lepcha punctuation
+0.cross           ᰽  # WARN: actually lepcha punctuation
 timesbar          ⨱
 crossbar          ⨱
 simdot            ⸟
@@ -5699,6 +5725,24 @@ _top              ˕
 
 # %}}}
 
+# transformed characters %{{{
+# X@< or X@H or X@h: h-flip
+# X@^ or X@V or X@v: v-flip
+# X@@ or X@P or X@p: π-rotate
+# INFO: we do not seek completeness here
+
+not@<             ⌐
+not@H             ⌐
+not@h             ⌐
+not@^             ⨼
+not@V             ⨼
+not@v             ⨼
+not@@             ⨽
+not@P             ⨽
+not@p             ⨽
+
+# %}}}
+
 # combining @decorators %{{{
 #
 # INFO: to be used **AFTER** a character.
@@ -6275,7 +6319,7 @@ _top              ˕
 
 # %}}}
 
-# mostly for convenience while in greek layout %{{{
+# for convenience while in greek layout %{{{
 
 ηυποδ             ⸒
 ηυπογ             ͺ
