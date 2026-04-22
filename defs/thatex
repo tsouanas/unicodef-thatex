@@ -101,14 +101,26 @@ diplepp           ⸖  # dipla (doubly) [pp]eriestigmene
 obelos            –
 obelosp           ⸓  # [d]otted
 obelospp          ⸓  # [d]otted
-punc2             ⁚  # [punc]tuation with [2] dots
-punc3             ⁖
-punc4             ⁘
+punc2             ⁚
+punc3d            ⸪
+punc3l            ⁖
+punc3u            ⸫
+punc3r            ჻  # WARN: actually Georgian paragraph separator
+punc3             ⁖  # default: [l]
+punc4d            ⁘
+punc4s            ⸬
+punc4             ⁘  # default: [d]
 punc5             ⁙
-2punc             ⁚  # [2]-dots [punc]tuation
-3punc             ⁖
-4punc             ⁘
-5punc             ⁙
+pun2              ⁚
+pun3d             ⸪
+pun3l             ⁖
+pun3u             ⸫
+pun3r             ჻  # WARN: actually Georgian paragraph separator
+pun3              ⁖  # default: [l]
+pun4d             ⁘
+pun4s             ⸬
+pun4              ⁘  # default: [d]
+pun5              ⁙
 tricolon          ⁝
 3colon            ⁝
 fcolon            ： # [f]ull-width [colon]
