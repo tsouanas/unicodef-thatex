@@ -2300,7 +2300,7 @@
       };
       ":" = ("insertText:", "―");
       "-" = ("insertText:", "—");
-      "m" = ("insertText:", "–");
+      "m" = ("insertText:", "—");
       ";" = ("insertText:", "–");
       "." = ("insertText:", "–");
       "n" = ("insertText:", "–");

@@ -10388,7 +10388,7 @@ inoremap \--0 ‒
 inoremap \--n –
 inoremap \--. –
 inoremap \--; –
-inoremap \--m –
+inoremap \--m —
 inoremap \--- —
 inoremap \--: ―
 inoremap \--~. 〜

@@ -4577,7 +4577,7 @@
 | <code>--n</code> | – |
 | <code>--.</code> | – |
 | <code>--;</code> | – |
-| <code>--m</code> | – |
+| <code>--m</code> | — |
 | <code>---</code> | — |
 | <code>--:</code> | ― |
 | <code>--~.</code> | 〜 |
