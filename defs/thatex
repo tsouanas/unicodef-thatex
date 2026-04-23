@@ -2455,6 +2455,7 @@ toapprox          ⥵
 fromapprox        ⭊
 approxto          →͌
 approxfrom        ←͌
+oplusto           ⟴
 ndetto            ⇝  # [n]on-[det]erministic
 ndetfrom          ⇜
 leadsto           ↝
