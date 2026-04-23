@@ -344,6 +344,7 @@ lepsi@P         ϶
 # %}}}
 
 # [cop]tic greek %{{{
+# INFO: see also combining @0X section below
 
 copAlpha          Ⲁ
 copalpha          ⲁ
@@ -403,6 +404,24 @@ copOmega          Ⲱ
 copomega          ⲱ
 copOme            Ⲱ
 copome            ⲱ
+copOou            Ⲱ
+copoou            ⲱ
+copShai,          Ⳃ  # WARN: crossed version
+copshai,          ⳃ  # WARN: crossed version
+copShei           Ϣ
+copshei           ϣ
+copFei            Ϥ
+copfei            ϥ
+copKhei           Ϧ
+copkhei           ϧ
+copHori           Ϩ
+cophori           ϩ
+copGangia         Ϫ
+copgangia         ϫ
+copShima          Ϭ
+copshima          ϭ
+copDei            Ϯ
+copdei            ϯ
 
 # %}}}
 
@@ -951,7 +970,13 @@ clophi          ϕ  # [clo]sed
 @δτ              ̈́
 @υπογ            ͅ
 @ι               ͅ
-@ω               ̌  # U+030C Combining Caron
+@ω               ̌  # Combining Caron
+
+# Coptic
+@0<              ⳰  # coptic dasia (spiritus asper)
+@0>              ⳱  # coptic psili (spiritus lenis)
+@0ν              ⳯  # coptic ni above
+@ν               ⳯  # coptic ni above
 
 # %}}}
 

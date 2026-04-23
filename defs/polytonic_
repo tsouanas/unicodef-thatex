@@ -8,10 +8,6 @@
 # INFO: These are to be used while using a (modern) greek layout.
 # INFO: Actions are used only as prefixes.
 #
-# alt-form: 0X
-#
-# coptic: 9X
-#
 # actions (in order, prefixed to the letter):
 #
 #   either:
@@ -111,68 +107,18 @@
 Σ.     Ͼ  # dotted lunate sigma
 σ.     ͼ
 ς.     ͼ
+ΜΡ     ⳥  # Coptic Mu-Rho
+Μρ     ⳥
+μρ     ⳥
+ΠΡ     ⳦  # Coptic Pi-Rho
+Πρ     ⳦
+πρ     ⳦
 ΤΡ     ⳨  # Coptic Tau-Ro
 Τρ     ⳨
 τρ     ⳨
-ΧΡ     ☧  # Chi-Rho
+ΧΡ     ☧  # Coptic Chi-Rho
 Χρ     ☧
 χρ     ☧
-
-# %}}}
-
-# coptic greek: 0X %{{{
-
-0Α        Ⲁ
-0α        ⲁ
-0Β        Ⲃ
-0β        ⲃ
-0Γ        Ⲅ
-0γ        ⲅ
-0Δ        Ⲇ
-0δ        ⲇ
-0Ε        Ⲉ
-0ε        ⲉ
-0^        Ⲋ  # (^ is shift-6 on greek layout)
-06        ⲋ
-0Ζ        Ⲍ
-0ζ        ⲍ
-0Η        Ⲏ
-0η        ⲏ
-0Θ        Ⲑ
-0θ        ⲑ
-0Ι        Ⲓ
-0ι        ⲓ
-0Κ        Ⲕ
-0κ        ⲕ
-0Λ        Ⲗ
-0λ        ⲗ
-0Μ        Ⲙ
-0μ        ⲙ
-0Ν        Ⲛ
-0ν        ⲛ
-0Ξ        Ⲝ
-0ξ        ⲝ
-0Ο        Ⲟ
-0ο        ⲟ
-0Π        Ⲡ
-0π        ⲡ
-0Ρ        Ⲣ
-0ρ        ⲣ
-0Σ        Ⲥ
-0σ        ⲥ
-0ς        ⲥ
-0Τ        Ⲧ
-0τ        ⲧ
-0Υ        Ⲩ
-0υ        ⲩ
-0Φ        Ⲫ
-0φ        ⲫ
-0Χ        Ⲭ
-0χ        ⲭ
-0Ψ        Ⲯ
-0ψ        ⲯ
-0Ω        Ⲱ
-0ω        ⲱ
 
 # %}}}
 
