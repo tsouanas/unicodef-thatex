@@ -2022,6 +2022,10 @@ inteprodl         ⨼  # [i]nterior [prod]uct [l]eft
 inteprodr         ⨽
 intepl            ⨼
 intepr            ⨽
+posrot            ⤽  # [pos]itive [rot]ation
+negrot            ⤼  # [neg]ative
+rotpos            ⤽
+rotneg            ⤼
 
 # %}}}
 
@@ -2485,6 +2489,10 @@ tollit            ⭈
 fromllit          ⭂
 toplus            ⥅
 fromplus          ⥆
+arctominus        ⤼
+arcfromplus       ⤽
+arcto             ⤻
+arcfrom           ⤺
 dashto            ⇢  # [dash]ed
 dashfrom          ⇠
 dato              ⇢  # [d]ash
@@ -3020,6 +3028,14 @@ op                ᵒᵖ # [op]posite
 ab                ᵃᵇ # [ab]elianization
 diag              Δ  # [diag]onal   : A → A × A
 codiag            ∇  # [codiag]onal : A ← A + A
+loop              ⟲
+coloop            ⟳
+pool              ⟳  # (loop backwards)
+loop,             ↺
+coloop,           ↻
+pool,             ↻
+retfrom           ⤾  # [ret]raction [from]
+secfrom           ⤺  # [sec]tion [from]
 thento            ⇢
 thenfrom          ⇠
 thenl             ⇠
@@ -3630,7 +3646,8 @@ glb,              ⊓
 lub,              ⊔
 Glb,              ⨅
 Lub,              ⨆
-cw                ᶜʷ       # [c]omponent[w]ise
+cw                ᶜʷ       # [c]omponent[w]ise (also [c]lock)
+ccw               ᶜᶜʷ      # [c]ounter[c]lock[w]ise
 pw                ᵖʷ       # [p]oint[w]ise
 lex               ˡᵉˣ      # [lex]icographic
 antilex           ᵃⁿᵗⁱˡᵉˣ  # [antilex]icographic
@@ -4739,19 +4756,9 @@ birdr             ⨼
 birdl             ⨽
 flipr             ⨼
 flipl             ⨽
-
-negloop           ↻  # [neg]ative
-posloop           ↺  # [pos]itive
-cwloop            ↻  # [c]lock[w]ise
-ccwloop           ↺  # [c]ounter[c]lock[w]ise
-floopl            ⟲  # [f]ull [loop] ccw [l]eft
-floopr            ⟳  # cw [r]ight
-ouror             ⟳  # [ouro]boros [r]ight
-ourol             ⟲  # [l]eft
-loop              ↺
-coloop            ↻
-pool              ↻  # (loop backwards)
 twixt             ≬
+ourol             ⟲  # [ouro]boros [l]eft
+ouror             ⟳
 zap               ↯
 zeus              ↯
 
@@ -5537,17 +5544,14 @@ cturnru           ⤴  # [c]urvy
 cturnrd           ⤵
 cturndl           ⤶
 cturndr           ⤷
-arclu             ⤺  # arc [l]eft curving [u]p
-arcrd             ⤻
-arcdl             ⤹
-arcdr             ⤸
-arcl              ⤺  # default: [u]
-arcr              ⤻  # default: [d]
-arcd              ⤹  # default: [l]
 wakerise          ⭜
 wakedrop          ⭝
+wakefall          ⭝
+wakeu             ⭜
+waked             ⭝
 stallrise         ⭜
 stalldrop         ⭝
+stallfall         ⭝
 stallu            ⭜
 stalld            ⭝
 halfu             ￪  # half-width arrows
@@ -5600,6 +5604,68 @@ rrr               ⇶
 2rs               ⇉
 3ls               ⬱
 3rs               ⇶
+
+# %}}}
+
+### arcs and loops %{{{
+
+arclu             ⤺  # arc [l]eft curving [u]p
+arcrd             ⤻
+arcdl             ⤹
+arcdr             ⤸
+arcl              ⤺  # default: [u]
+arcr              ⤻  # default: [d]
+arcd              ⤹  # default: [l]
+arcd,             ⤸
+arcposl           ⤺  # arc [pos]itively [l]eft
+arcposr           ⤻
+arcposd           ⤹
+arcnegd           ⤸
+arcruminus        ⤼
+arcluplus         ⤽
+arcrminus         ⤼
+arclplus          ⤽
+
+enw               ↶  # [e]ast then [n]orth then [w]est
+wne               ↷
+wse               ⤿
+esw               ⤾
+wsen              ↺
+eswn              ↻
+wsenw             ⟲
+eswne             ⟳
+
+olooppos          ↺  # [o]pen [loop] moving [pos]itively
+oloopneg          ↻
+oloopl            ↺  # closing [l]eft
+oloopr            ↻  # [r]ight
+
+floopposl         ⟲  # [f]ull
+floopnegr         ⟳ 
+flooppos          ⟲
+floopneg          ⟳
+floopl            ⟲
+floopr            ⟳
+
+negloop           ⟳  # [neg]ative
+posloop           ⟲
+negloop,          ↻
+posloop,          ↺
+
+cwloop            ⟳  # [c]lock[w]ise
+ccwloop           ⟲  # [c]ounter[c]lock[w]ise
+cwloop,           ↻
+ccwloop,          ↺
+
+scircposl         ↶
+scircposr         ⤿
+scircnegr         ↷
+scircnegl         ⤾
+
+circcw            ⥁
+circccw           ⥀
+circpos           ⥀
+circneg           ⥁
 
 # %}}}
 
@@ -6237,12 +6303,18 @@ not@p             ⨽
 @oliff             ⃡
 @oarcl             ⃔
 @oarcr             ⃕
+@oposrot           ⃔
+@onegrot           ⃕
 @orotpos           ⃔
 @orotneg           ⃕
 @orotp             ⃔
 @orotn             ⃕
 @orotl             ⃔
 @orotr             ⃕
+@orotcw            ⃕
+@orotccw           ⃔
+@ocw               ⃕
+@occw              ⃔
 @otacku            ᷵
 
 ### logic-looking
@@ -6666,6 +6738,14 @@ not@p             ⨽
 @pala              ̡  # [pala]talized hook
 @retro             ̢  # [retro]flex hook
 @fermata           ͒
+@posrot            ⃔
+@negrot            ⃕
+@rotpos            ⃔
+@rotneg            ⃕
+@rotcw             ⃕
+@rotccw            ⃔
+@cw                ⃕
+@ccw               ⃔
 
 # %}}}
 
