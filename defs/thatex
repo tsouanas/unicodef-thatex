@@ -157,6 +157,22 @@ qvtc              ᳂
 
 # %}}}
 
+## punctuation for linguistics %{{{
+
+lparaph           ⸜  # [paraph]rase
+rparaph           ⸝
+lomi              ⸌  # [omi]ssion
+romi              ⸍
+lsubs             ⸂  # [subs]titution
+rsubs             ⸃
+l.subs            ⸄  # (dotted)
+r.subs            ⸅
+ltrans            ⸉  # [trans]position
+l.trans           ⸈
+rtrans            ⸊
+
+# %}}}
+
 # retro asciiart blocks %{{{
 
 blockl           ░  # [l]ight  ( 25% ink)
