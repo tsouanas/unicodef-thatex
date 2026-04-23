@@ -99,8 +99,8 @@ diple             >  # [diple]
 diplep            >̇  # [p]eriestigmene
 diplepp           ⸖  # dipla (doubly) [pp]eriestigmene
 obelos            –
-obelosp           ⸓  # [d]otted
-obelospp          ⸓  # [d]otted
+obelosp           ⸓  # [p]oint
+obelospp          ⸓  # (double)
 punc2             ⁚
 punc3d            ⸪
 punc3l            ⁖
@@ -1810,6 +1810,10 @@ dsubset           ⫃  # [d]ot
 dsupset           ⫄
 dsubs             ⫃
 dsups             ⫄
+.subset           ⫃
+.supset           ⫄
+.subs             ⫃
+.sups             ⫄
 isubset           ⫃  # [i]nhabited
 isupset           ⫄
 isubs             ⫃  # XXX: · should be inside (like in ⪽)
@@ -2010,7 +2014,9 @@ paraleq           ⋕
 sparal            ⫽  # [s]lash/lanted paral
 sparaleq          ⧣
 cprod             ⨯  # [c]ross [prod]uct
-dprod             ⋅  # [d]ot [prod]uct
+crossp            ⨯
+dotprod           ⋅  # [dot] [prod]uct
+dprod             ⋅
 dotp              ⋅
 inteprodl         ⨼  # [i]nterior [prod]uct [l]eft
 inteprodr         ⨽
