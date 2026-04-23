@@ -1866,6 +1866,7 @@ isects            ≬  # [i]nter[sects] (with)
 compl             ᶜ  # [compl]ement
 Compl             ∁  # (large)
 mpl               ᵓ  # cocomplement
+genby             ⥺  # [gen]erated [from]
 genfrom           ⥺  # [gen]erated [from]
 gento             ⭄  # [gen]erates [to]
 gend              ⥺  # [gen]erate[d]
@@ -1874,8 +1875,14 @@ fromgen           ⥺  # [from] [gen]erator
 togen             ⭄  # [gen]erate to
 ingen             ⥺  # [in] [gen]erator
 nigen             ⭄  # [ni] [gen]erator
-infrom            ⥺
-nito              ⭄
+fromin            ⥺
+toni              ⭄
+into              ∈⃯  # WARN: decorated
+infrom            ∈⃮  # WARN: decorated
+nito              ∋⃮  # WARN: decorated
+nifrom            ∋⃯  # WARN: decorated
+infrom,           ⥺
+nito,             ⭄
 elemr             ⭄
 eleml             ⥺
 
@@ -2273,6 +2280,11 @@ diverge           ↑
 divers            ↑
 pardivs           ↑  # [par]tial function [div]erge[s]
 parconvs          ↓  # [conv]erge[s]
+diverges,         ⭎
+diverge,          ⭎
+divers,           ⭎
+pardivs,          ⭎
+parconvs,         ⭏
 xto               ⥇
 xfrom             ⬾
 mapsto            ↦
@@ -2422,11 +2434,13 @@ misto             ⭇
 tosim             ⥴
 tomis             ⭌
 frommis           ⭋
+misfrom           ⭁
 ssimto            →͌
 ssimfrom          ←͌
 tossim            ⥵
 fromssim          ⭊
 tommis            ⭈
+frommmis          ⭂
 toapprox          ⥵
 fromapprox        ⭊
 approxto          →͌
@@ -2462,6 +2476,7 @@ ttilfrom          ←͌
 tottil            ⥵
 fromttil          ⭊
 tollit            ⭈
+fromllit          ⭂
 toplus            ⥅
 fromplus          ⥆
 dashto            ⇢  # [dash]ed
@@ -3685,8 +3700,8 @@ upd,              ￪
 downd,            ￬
 gtto              ⥸
 ltfrom            ⥶
-geqto             ⥸
-leqfrom           ⥶
+geqto             ⥸  # WARN: same as gtto
+leqfrom           ⥶  # WARN: same as ltfrom
 fromlt            ⥷
 togt              ⭃
 frombig           ⥷
@@ -3700,6 +3715,10 @@ allrel            ∇
 orthoc            ᗮ  # [orthoc]omplement
 orthoc,           ┴  # WARN: actually a box-drawing char
 Orthoc            ┴  # WARN: actually a box-drawing char
+incing            ⭎  # [inc]reas[ing]
+incs              ⭎  # [inc]rease[s]
+decing            ⭏  # [dec]reas[ing]
+decs              ⭏  # [dec]rease[s]
 
 # %}}}
 
@@ -5336,6 +5355,8 @@ xs;se             ⤮
 xb;ne             ⤯
 xs;b              ⤫
 xb;s              ⤬
+neuturn           ⭚  # [n]orth[e]ast then [U]-[turn]
+uturnse           ⭛  # [U]-[turn] then [s]outh[e]ast
 squigl            ⇜
 squigr            ⇝
 squigb            ↭
@@ -5517,6 +5538,12 @@ arcdr             ⤸
 arcl              ⤺  # default: [u]
 arcr              ⤻  # default: [d]
 arcd              ⤹  # default: [l]
+wakerise          ⭜
+wakedrop          ⭝
+stallrise         ⭜
+stalldrop         ⭝
+stallu            ⭜
+stalld            ⭝
 halfu             ￪  # half-width arrows
 halfd             ￬
 halfl             ￩
