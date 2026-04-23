@@ -6292,6 +6292,10 @@ not@p             ⨽
 @ocofermata        ̐
 @omacron           ̄
 @omac              ̄
+@omacronl          ︤
+@omacronr          ︥
+@omacl             ︤
+@omacr             ︥
 @odiaer            ̈  # [diaer]esis
 @odier             ̈
 @otrema            ̈
@@ -6626,6 +6630,12 @@ not@p             ⨽
 
 @diaer             ̈  # [diaer]esis
 @dier              ̈
+@macron            ̄
+@mac               ̄
+@macronl           ︤
+@macronr           ︥
+@macl              ︤
+@macr              ︥
 @trema             ̈
 @umlaut            ̈
 @grave             ̀
