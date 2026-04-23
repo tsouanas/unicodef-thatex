@@ -1710,6 +1710,10 @@ nvin              ⫙̶
 nvni              ⟒̶
 notin             ∉  # INFO: TeX compat
 notni             ∌  # INFO: TeX compat
+hin               ⋲
+vhin              ⫛
+barin             ⋶
+inbar             ⋸
 in,               ε
 ni,               ɜ
 nin,              ε̸
@@ -1748,6 +1752,11 @@ cvin              ო
 cvni              ω
 cvnin             ო̶
 cvnni             ω̶
+inho              ∊  # small in
+ohni              ∍
+inhov             ⋴  # [v]ertical bar
+inhob             ⋴  # vertical [b]ar
+barinho           ⋷
 powerset          ℘
 power             ℘
 pset              ℘
@@ -3447,6 +3456,10 @@ bbor              ⩔
 bband             ⩓
 bbdisj            ⩔
 bbconj            ⩓
+bbturns           ⫦
+bbtturns          ⊫
+nbbtturns         ⊯
+bbntturns         ⊯
 nnot              ⫬
 tton              ⫭
 oor               ⩔
@@ -4701,6 +4714,7 @@ birdr             ⨼
 birdl             ⨽
 flipr             ⨼
 flipl             ⨽
+
 negloop           ↻  # [neg]ative
 posloop           ↺  # [pos]itive
 cwloop            ↻  # [c]lock[w]ise
@@ -5585,6 +5599,7 @@ turns             ⊢  # default: [r]
 turns,            ͱ  # heta
 Turns,            Ͱ  # Heta
 nturns            ⊬
+2turns            ⫦
 tackl             ⊣
 tackr             ⊢
 tacku             ⊥
