@@ -406,10 +406,14 @@ copOme            Ⲱ
 copome            ⲱ
 copOou            Ⲱ
 copoou            ⲱ
+copShai           Ϣ
+copshai           ϣ
 copShai,          Ⳃ  # WARN: crossed version
 copshai,          ⳃ  # WARN: crossed version
 copShei           Ϣ
 copshei           ϣ
+copShei,          Ⳃ
+copshei,          ⳃ
 copFei            Ϥ
 copfei            ϥ
 copKhei           Ϧ
@@ -422,6 +426,15 @@ copShima          Ϭ
 copshima          ϭ
 copDei            Ϯ
 copdei            ϯ
+
+copMuRho          ⳥
+copmurho          ⳥
+copPiRho          ⳦
+coppirho          ⳦
+copTauRho         ⳨
+coptaurho         ⳨
+copChiRho         ☧
+copchirho         ☧
 
 # %}}}
 
