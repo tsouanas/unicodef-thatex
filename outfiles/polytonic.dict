@@ -399,59 +399,6 @@
     "Ε" = ("insertText:", "Έ");
     "Α" = ("insertText:", "Ά");
   };
-  "0" = {
-    "ω" = ("insertText:", "ⲱ");
-    "Ω" = ("insertText:", "Ⲱ");
-    "ψ" = ("insertText:", "ⲯ");
-    "Ψ" = ("insertText:", "Ⲯ");
-    "χ" = ("insertText:", "ⲭ");
-    "Χ" = ("insertText:", "Ⲭ");
-    "φ" = ("insertText:", "ⲫ");
-    "Φ" = ("insertText:", "Ⲫ");
-    "υ" = ("insertText:", "ⲩ");
-    "Υ" = ("insertText:", "Ⲩ");
-    "τ" = ("insertText:", "ⲧ");
-    "Τ" = ("insertText:", "Ⲧ");
-    "ς" = ("insertText:", "ⲥ");
-    "σ" = ("insertText:", "ⲥ");
-    "Σ" = ("insertText:", "Ⲥ");
-    "ρ" = ("insertText:", "ⲣ");
-    "Ρ" = ("insertText:", "Ⲣ");
-    "π" = ("insertText:", "ⲡ");
-    "Π" = ("insertText:", "Ⲡ");
-    "ο" = ("insertText:", "ⲟ");
-    "Ο" = ("insertText:", "Ⲟ");
-    "ξ" = ("insertText:", "ⲝ");
-    "Ξ" = ("insertText:", "Ⲝ");
-    "ν" = ("insertText:", "ⲛ");
-    "Ν" = ("insertText:", "Ⲛ");
-    "μ" = ("insertText:", "ⲙ");
-    "Μ" = ("insertText:", "Ⲙ");
-    "λ" = ("insertText:", "ⲗ");
-    "Λ" = ("insertText:", "Ⲗ");
-    "κ" = ("insertText:", "ⲕ");
-    "Κ" = ("insertText:", "Ⲕ");
-    "ι" = ("insertText:", "ⲓ");
-    "Ι" = ("insertText:", "Ⲓ");
-    "θ" = ("insertText:", "ⲑ");
-    "Θ" = ("insertText:", "Ⲑ");
-    "η" = ("insertText:", "ⲏ");
-    "Η" = ("insertText:", "Ⲏ");
-    "ζ" = ("insertText:", "ⲍ");
-    "Ζ" = ("insertText:", "Ⲍ");
-    "6" = ("insertText:", "ⲋ");
-    "\\^" = ("insertText:", "Ⲋ");
-    "ε" = ("insertText:", "ⲉ");
-    "Ε" = ("insertText:", "Ⲉ");
-    "δ" = ("insertText:", "ⲇ");
-    "Δ" = ("insertText:", "Ⲇ");
-    "γ" = ("insertText:", "ⲅ");
-    "Γ" = ("insertText:", "Ⲅ");
-    "β" = ("insertText:", "ⲃ");
-    "Β" = ("insertText:", "Ⲃ");
-    "α" = ("insertText:", "ⲁ");
-    "Α" = ("insertText:", "Ⲁ");
-  };
   "χ" = {
     "ρ" = ("insertText:", "☧");
   };
@@ -468,6 +415,21 @@
     "Ρ" = ("insertText:", "⳨");
     "σ" = ("insertText:", "Ͷ");
     "Σ" = ("insertText:", "Ͷ");
+  };
+  "π" = {
+    "ρ" = ("insertText:", "⳦");
+    "," = ("insertText:", "ϖ");
+  };
+  "Π" = {
+    "ρ" = ("insertText:", "⳦");
+    "Ρ" = ("insertText:", "⳦");
+  };
+  "μ" = {
+    "ρ" = ("insertText:", "⳥");
+  };
+  "Μ" = {
+    "ρ" = ("insertText:", "⳥");
+    "Ρ" = ("insertText:", "⳥");
   };
   "ς" = {
     "." = ("insertText:", "ͼ");
@@ -554,9 +516,6 @@
   };
   "ρ" = {
     "," = ("insertText:", "ϱ");
-  };
-  "π" = {
-    "," = ("insertText:", "ϖ");
   };
   "θ" = {
     "," = ("insertText:", "ϑ");
