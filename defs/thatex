@@ -4677,6 +4677,10 @@ qcrowbar          ꝙ
 Qcrowbar          Ꝙ
 qgolf             ꝙ
 Qgolf             Ꝙ
+Ocrossed          Ꚛ
+ocrossed          ꚛ
+Oxed              Ꚛ
+oxed              ꚛ
 
 # %}}}
 
@@ -4695,8 +4699,8 @@ b,                ɓ
 B,                Ɓ
 b,,               ƀ
 B,,               Ƀ
-b,,,              ƃ
-B,,,              Ƃ
+b,3               ƃ
+B,3               Ƃ
 b,4               ᵬ
 c,                ɕ
 C,                𝒞  # WARN: abuse: not its uppercase
@@ -4704,8 +4708,8 @@ d,                ɗ
 D,                Ɗ
 d,,               ꝺ
 D,,               Ꝺ
-D,,,              Ƌ
-d,,,              ƌ
+D,3               Ƌ
+d,3               ƌ
 d,4               ᵭ
 E,                Ɛ
 e,                ɛ
@@ -4714,19 +4718,20 @@ f,                ƒ
 F,                Ƒ
 f,,               ꞙ
 F,,               Ꞙ
-f,,,              ᵮ
+f,3               ᵮ
 g,                ɠ
 G,                Ɠ
 g,,               ɡ
 G,,               Ɡ
-g,,,              ǥ
-G,,,              Ǥ
+g,3               ǥ
+G,3               Ǥ
+g,4               ꬶ
 h,                ꜧ
 H,                Ꜧ
 h,,               ɦ
 H,,               Ɦ
-h,,,              ɧ
-H,,,              ℋ  # WARN: abuse: not its uppercase
+h,3               ɧ
+H,3               ℋ  # WARN: abuse: not its uppercase
 i,                ɩ
 I,                Ɩ
 i,,               𝑖
@@ -4736,8 +4741,8 @@ k,                ƙ
 K,                Ƙ
 k,,               ꝁ
 K,,               Ꝁ
-k,,,              ꝃ
-K,,,              Ꝃ
+k,3               ꝃ
+K,3               Ꝃ
 k,4               ꝅ
 K,4               Ꝅ
 l,                ℓ
@@ -4746,35 +4751,38 @@ l,,               ȴ
 m,                ɱ
 M,                Ɱ
 m,,               ᵯ
+m,3               ꬺ
 n,                ŋ
 N,                Ŋ
 n,,               ɲ
 N,,               Ɲ
-n,,,              ɳ
+n,3               ɳ
 n,4               ȵ
-n,5               ᵰ
+n,5               ꬻ
+n,6               ᵰ
 p,                ƥ
 P,                Ƥ
 p,,               ꝓ
 P,,               Ꝓ
-p,,,              ꝕ
-P,,,              Ꝕ
+p,3               ꝕ
+P,3               Ꝕ
 p,4               ᵱ
 q,                ꝗ
 Q,                Ꝗ
 q,,               ɋ
 Q,,               Ɋ
-q,,,              ꝙ
-Q,,,              Ꝙ
+q,3               ꝙ
+Q,3               Ꝙ
 r,                ɽ
 cor,              ⱹ
 R,                Ɽ
 r,,               ɍ
 R,,               Ɍ
-r,,,              ꞃ
-R,,,              Ꞃ
+r,3               ꞃ
+R,3               Ꞃ
 r,4               ᵲ
 r,5               ᵳ
+r,6               ꭉ
 s,                ȿ
 S,                Ȿ
 s,,               ᵴ
@@ -4782,8 +4790,8 @@ t,                ƭ
 T,                Ƭ
 t,,               ꞇ
 T,,               Ꞇ
-t,,,              ȶ
-T,,,              ᤒ  # WARN: abuse: not its uppercase
+t,3               ȶ
+T,3               ᤒ  # WARN: abuse: not its uppercase
 t,4               ⲧ
 T,4               Ⲧ
 t,6               ʈ
@@ -4795,8 +4803,8 @@ v,                ⱴ
 V,                𝒱  # WARN: abuse: not its uppercase
 v,,               ʋ
 V,,               Ʋ
-v,,,              ỽ
-V,,,              Ỽ
+v,3               ỽ
+V,3               Ỽ
 v,4               ꝟ
 V,4               Ꝟ
 w,                ⱳ
@@ -4809,7 +4817,7 @@ z,                ƶ
 Z,                Ƶ
 z,,               ɀ
 Z,,               Ɀ
-z,,,              ʑ
+z,3               ʑ
 z,4               ᤃ
 Z,4               𝒵  # WARN: abuse: not its uppercase
 z,5               ᵶ
@@ -4818,8 +4826,9 @@ Sh                Ʃ
 sh,               ʆ
 zh                ʒ
 Zh                Ʒ
-zh,               ʓ
-zh,,              ᤕ
+zh,               ƺ
+zh,,              ʓ
+zh,3              ᤕ
 
 # %}}}
 
