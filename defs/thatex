@@ -3139,6 +3139,7 @@ coprod            ⨿
 Coprod            ∐
 op                ᵒᵖ # [op]posite
 ab                ᵃᵇ # [ab]elianization
+arrcat            ⠀⃗  # [arr]ow [cat]egory
 diag              Δ  # [diag]onal   : A → A × A
 codiag            ∇  # [codiag]onal : A ← A + A
 loop              ⟲
