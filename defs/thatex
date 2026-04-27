@@ -140,6 +140,8 @@ pun4              ⁘  # default: [d]
 pun5              ⁙
 tricolon          ⁝
 3colon            ⁝
+4colon            ⦙
+6colon            ⸽
 fcolon            ： # [f]ull-width [colon]
 wcolon            ： # [w]ide
 fscolon           ； # [s]emi[colon]
@@ -155,6 +157,7 @@ wordsep           ⸱  # [word] [sep]arator
 wsep              ⸱
 worddiv           ⁞  # [word] [div]ider
 wdiv              ⁞
+wigsep            ⸾  # [wig]gly [sep]arator
 
 arabdec           ٫  # [arab]ic [dec]imal separator
 arabth            ٬  # [th]ousands separator
@@ -2030,10 +2033,17 @@ clhsups           ⫐
 mid               |
 Mid               ⫿
 Mid,              ⌷
+wigmid            ⸾
 st                |  # [s]uch [t]hat
 st,               ❚
 St                ⫿
 St,               ⌷
+wigst             ⸾  # [wig]gly
+wst               ⸾
+zigzagst          ⦚  # [z]ig[z]ag
+zzst              ⦚
+zapst             ⦚
+
 bbsubs            ⋐  # [b]lackboard [b]old
 bbsups            ⋑
 bbinter           ⋒
@@ -4176,6 +4186,10 @@ lsmash            ⸡
 rsmash            ⸠
 lburg             ⸡  # [burg]er
 rburg             ⸠
+lwig              ⧘  # [wig]gly fence
+rwig              ⧙
+Rwig              ⧛
+Lwig              ⧚
 lfence            ⧘
 rfence            ⧙
 lfen              ⧘
@@ -4186,8 +4200,7 @@ Rfen              ⧛
 Lfen              ⧚
 mfence            ⦚  # [m]id
 mfen              ⦚
-fence             ⦚
-fen               ⦚
+mwig              ⸾
 dfence            ⦙  # [d]otted
 dfen              ⦙
 lmous             ⎰  # [mous]tache
