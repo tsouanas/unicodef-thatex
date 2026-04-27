@@ -60,8 +60,10 @@ _]     ⸥
 ..-    ⋯
 .._    …
 ..|    ⋮
+|3     ⸾
 3:     ⁝
 4:     ⦙
+6:     ⸽
 .2     ⁚
 .3v    ⸪
 .3<    ⁖
@@ -207,6 +209,7 @@ pp     ¶
 so     §  # (compat)
 c|     ¢
 s|     $
+S|     $
 CO     ©
 co     ©
 RO     ®
@@ -755,6 +758,7 @@ KK     Kʼ
 # %{{{ |   vstrike, strike, hstrike, slash 
 
 |U     Ʉ
+|S     $
 
 |c     ¢
 |s     $
