@@ -3906,6 +3906,10 @@ dotmeet           ⩑
 dotjoin           ⩒
 .meet             ⩑
 .join             ⩒
+simjoin           ⍱
+simmeet           ⍲
+tiljoin           ⍱
+tilmeet           ⍲
 meetbar           ⩟
 joinbar           ⩡
 barmeet           ∧̄  # WARN: decorated
