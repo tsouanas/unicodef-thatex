@@ -253,6 +253,22 @@ ucons          🚧
 top^           🔝  # TODO: rename to TOP or top (if/when we prefix emojis)
 topsign        🔝
 backsign       🔙
+Back           🔙
+endsign        🔚
+soonsign       🔜
+
+Up             ⬆️
+Down           ⬇️
+SE             ↘️
+NW             ↖️
+Uturnl         ↩️
+Uturnr         ↪️
+Undo           ↩️
+Redo           ↪️
+Turnru         ⤴️
+Turnrd         ⤵️
+Reload         🔃
+Loop           🔄
 
 Forbid         🚫
 Prohib         🚫
@@ -385,7 +401,6 @@ tomb          🪦
 rip           🪦
 RIP           🪦
 gravedig      🪦🪏
-phantom       👻
 trap          🪤
 policeo       👮
 policem       👮‍♂️
@@ -468,6 +483,13 @@ dancer      💃
 dancerf     💃
 dancerw     💃
 dancerm     🕺
+running     🏃
+run         🏃
+Run         🏃💨
+runner      🏃
+runnerf     🏃‍♀️
+runnerw     🏃‍♀️
+runnerm     🏃‍♂️
 
 # %}}}
 
@@ -595,6 +617,7 @@ cri         🦗
 cricri      🦗🦗
 dino        🦕
 dino,       🦖
+dragon      🐉
 duck        🦆
 elephant    🐘
 flamingo    🦩
@@ -604,6 +627,7 @@ grl         🦍
 monkey      🐒
 goose       🪿
 ganso       🪿
+glenda      🐇
 hippo       🦛
 ladybug     🐞
 joan        🐞
@@ -614,6 +638,9 @@ owl         🦉
 parrot      🦜
 phoenix     🐦‍🔥
 puffy       🐡
+rabbit      🐇
+rabbitface  🐰
+rat         🐀
 sauropod    🦕
 sauro       🦕
 sloth       🦥
@@ -1386,6 +1413,13 @@ Write         ✍️
 @ddskin     🏿
 @bskin      🏿
 
+@f          ‍♀️
+@m          ‍♂️
+@r          ‍➡️
+@l          ‍⬅️
+@>          ‍➡️
+@<          ‍⬅️
+
 # %}}}
 
 # non-regional flags (\-prefixed) %{{{
@@ -1396,9 +1430,6 @@ Write         ✍️
 \bflag       🏴
 \wflag       🏳️
 \rflag       🚩
-\b           🏴
-\w           🏳️
-\r           🚩
 \pirate      🏴‍☠️
 \jolly       🏴‍☠️
 \jr          🏴‍☠️
