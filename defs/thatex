@@ -5698,6 +5698,14 @@ cturnru           ⤴  # [c]urvy
 cturnrd           ⤵
 cturndl           ⤶
 cturndr           ⤷
+downhill          ⭏
+uphill            ⭎
+falling           ⭏
+rising            ⭎
+falls             ⭏
+rises             ⭎
+fall              ⭏
+rise              ⭎
 wakerise          ⭜
 wakedrop          ⭝
 wakefall          ⭝
