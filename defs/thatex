@@ -2121,6 +2121,7 @@ eulern            𝑒  # [euler]'s number e
 eulerc            𝛾  # [euler]'s constant γ
 iunit             𝑖  # [i]maginary [unit]
 i1                𝑖
+
 int               ∫
 iint              ∬
 iiint             ∭
@@ -2133,10 +2134,24 @@ cwint             ∱  # [c]lock[w]ise
 ccwint            ⨑  # [c]ounter[c]lock[w]ise
 cwoint            ∲
 ccwoint           ∳
+negrotint         ∲
+posrotint         ∳
+spinint           ⨗
+twistint          ⨗
+embfromint        ⨗
+rectint           ⨒  # Rectangular Path Around Pole
+scircint          ⨓  # Semicircular Path Around Pole
+ocircint          ⨔  # ncluding the Pole
+pointint          ⨕
+poleint           ⨕
+sqint             ⨖  # [sq]uare
+quatint           ⨖  # [quat]ernion
 oiint             ∯
 oiiint            ∰
 o2int             ∯
 o3int             ∰
+surfint           ∯  # [surf]ace
+volint            ∰  # [vol]ume
 hint              ⨍  # [h]orizontal bar
 hhint             ⨎
 sint              ⨏
@@ -2150,9 +2165,11 @@ uint              ⨛  # [u]pper
 lint              ⨜  # [l]ower
 preint            ⎰  # [pre]fix
 postint           ⎱  # [post]fix
+coint             ⎱
 osum              ⨊
 sumint            ⨋
 intsum            ⨋
+
 diff              𝑑  # [diff]erential
 df                𝑑  # [d]i[f]ferential
 diff,             𝖽
