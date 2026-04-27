@@ -1323,6 +1323,19 @@ lovesign    💟
 
 # %}}}
 
+# software %{{{
+
+openbsd     🐡
+freebsd     😈
+netbsd      🚩
+dragonfly   🐉🪰
+plan9       🐇
+linux       🐧
+macos       🍎
+windows     🪟
+
+# %}}}
+
 # music player (/-prefixed) %{{{
 
 /Play       ▶️
@@ -1361,6 +1374,7 @@ Coffin        ⚰️
 Comet         ☄️
 Hglass        ⏳
 Hglass,       ⌛
+Phantom       👻
 Pick          ⛏️
 Sign          ✍️
 Shamrock      ☘️
