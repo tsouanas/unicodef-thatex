@@ -116,8 +116,9 @@
 | <code>=&vert;</code> | ⫤ |
 | <code>-&vert;</code> | ⊣ |
 | <code>-:</code> | ∹ |
-| <code>:/</code> | ÷ |
 | <code>/:</code> | ÷ |
+| <code>./.</code> | ÷ |
+| <code>:-</code> | ÷ |
 | <code>:~</code> | ∻ |
 | <code>~:</code> | ∻ |
 | <code>::</code> | ∷ |
@@ -136,10 +137,15 @@
 | <code>+=</code> | ⩲ |
 | <code>*x</code> | × |
 | <code>*.</code> | ⋅ |
+| <code>*9</code> | ⸴ |
+| <code>*6</code> | ⸲ |
+| <code>*,</code> | ⸴ |
 | <code>**</code> | ∗ |
 | <code>*&vert;</code> | ⁑ |
 | <code>*:</code> | ⁑ |
 | <code>:*</code> | ⁑ |
+| <code>:'</code> | ⹄ |
+| <code>:/</code> | ⹄ |
 | <code>0+</code> | ⨢ |
 | <code>+0</code> | ⨢ |
 | <code>0=</code> | ≗ |

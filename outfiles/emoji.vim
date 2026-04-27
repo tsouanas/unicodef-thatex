@@ -233,6 +233,21 @@ inoremap \\ucons 🚧
 inoremap \\top^ 🔝
 inoremap \\topsign 🔝
 inoremap \\backsign 🔙
+inoremap \\Back 🔙
+inoremap \\endsign 🔚
+inoremap \\soonsign 🔜
+inoremap \\Up ⬆️
+inoremap \\Down ⬇️
+inoremap \\SE ↘️
+inoremap \\NW ↖️
+inoremap \\Uturnl ↩️
+inoremap \\Uturnr ↪️
+inoremap \\Undo ↩️
+inoremap \\Redo ↪️
+inoremap \\Turnru ⤴️
+inoremap \\Turnrd ⤵️
+inoremap \\Reload 🔃
+inoremap \\Loop 🔄
 inoremap \\Forbid 🚫
 inoremap \\Prohib 🚫
 inoremap \\donot 🚫
@@ -351,7 +366,6 @@ inoremap \\tomb 🪦
 inoremap \\rip 🪦
 inoremap \\RIP 🪦
 inoremap \\gravedig 🪦🪏
-inoremap \\phantom 👻
 inoremap \\trap 🪤
 inoremap \\policeo 👮
 inoremap \\policem 👮‍♂️
@@ -424,6 +438,13 @@ inoremap \\dancer 💃
 inoremap \\dancerf 💃
 inoremap \\dancerw 💃
 inoremap \\dancerm 🕺
+inoremap \\running 🏃
+inoremap \\run 🏃
+inoremap \\Run 🏃💨
+inoremap \\runner 🏃
+inoremap \\runnerf 🏃‍♀️
+inoremap \\runnerw 🏃‍♀️
+inoremap \\runnerm 🏃‍♂️
 inoremap \\laptop 💻
 inoremap \\desktop 🖥
 inoremap \\computer 🖥
@@ -530,6 +551,7 @@ inoremap \\cri 🦗
 inoremap \\cricri 🦗🦗
 inoremap \\dino 🦕
 inoremap \\dino, 🦖
+inoremap \\dragon 🐉
 inoremap \\duck 🦆
 inoremap \\elephant 🐘
 inoremap \\flamingo 🦩
@@ -539,6 +561,7 @@ inoremap \\grl 🦍
 inoremap \\monkey 🐒
 inoremap \\goose 🪿
 inoremap \\ganso 🪿
+inoremap \\glenda 🐇
 inoremap \\hippo 🦛
 inoremap \\ladybug 🐞
 inoremap \\joan 🐞
@@ -549,6 +572,9 @@ inoremap \\owl 🦉
 inoremap \\parrot 🦜
 inoremap \\phoenix 🐦‍🔥
 inoremap \\puffy 🐡
+inoremap \\rabbit 🐇
+inoremap \\rabbitface 🐰
+inoremap \\rat 🐀
 inoremap \\sauropod 🦕
 inoremap \\sauro 🦕
 inoremap \\sloth 🦥
@@ -1193,6 +1219,14 @@ inoremap \\Hbang ❣️
 inoremap \\Lovebang ❣️
 inoremap \\Bangh ❣️
 inoremap \\lovesign 💟
+inoremap \\openbsd 🐡
+inoremap \\freebsd 😈
+inoremap \\netbsd 🚩
+inoremap \\dragonfly 🐉🪰
+inoremap \\plan9 🐇
+inoremap \\linux 🐧
+inoremap \\macos 🍎
+inoremap \\windows 🪟
 inoremap \\/Play ▶️
 inoremap \\/Pause ⏸️
 inoremap \\/Playpause ⏯️
@@ -1222,6 +1256,7 @@ inoremap \\Coffin ⚰️
 inoremap \\Comet ☄️
 inoremap \\Hglass ⏳
 inoremap \\Hglass, ⌛
+inoremap \\Phantom 👻
 inoremap \\Pick ⛏️
 inoremap \\Sign ✍️
 inoremap \\Shamrock ☘️
@@ -1264,15 +1299,18 @@ inoremap \\@mskin 🏽
 inoremap \\@dskin 🏾
 inoremap \\@ddskin 🏿
 inoremap \\@bskin 🏿
+inoremap \\@f ‍♀️
+inoremap \\@m ‍♂️
+inoremap \\@r ‍➡️
+inoremap \\@l ‍⬅️
+inoremap \\@> ‍➡️
+inoremap \\@< ‍⬅️
 inoremap \\\black 🏴
 inoremap \\\white 🏳️
 inoremap \\\red 🚩
 inoremap \\\bflag 🏴
 inoremap \\\wflag 🏳️
 inoremap \\\rflag 🚩
-inoremap \\\b 🏴
-inoremap \\\w 🏳️
-inoremap \\\r 🚩
 inoremap \\\pirate 🏴‍☠️
 inoremap \\\jolly 🏴‍☠️
 inoremap \\\jr 🏴‍☠️

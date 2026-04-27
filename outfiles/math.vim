@@ -115,8 +115,9 @@ inoremap \<Bar>- ⊢
 inoremap \=<Bar> ⫤
 inoremap \-<Bar> ⊣
 inoremap \-: ∹
-inoremap \:/ ÷
 inoremap \/: ÷
+inoremap \./. ÷
+inoremap \:- ÷
 inoremap \:~ ∻
 inoremap \~: ∻
 inoremap \:: ∷
@@ -135,10 +136,15 @@ inoremap \=+ ⩱
 inoremap \+= ⩲
 inoremap \*x ×
 inoremap \*. ⋅
+inoremap \*9 ⸴
+inoremap \*6 ⸲
+inoremap \*, ⸴
 inoremap \** ∗
 inoremap \*<Bar> ⁑
 inoremap \*: ⁑
 inoremap \:* ⁑
+inoremap \:' ⹄
+inoremap \:/ ⹄
 inoremap \0+ ⨢
 inoremap \+0 ⨢
 inoremap \0= ≗

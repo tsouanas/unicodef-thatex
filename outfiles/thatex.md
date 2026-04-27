@@ -10,19 +10,34 @@
 | <code>nnbsp</code> |   |
 | <code>nbh</code> | ‑ |
 | <code>nb-</code> | ‑ |
+| <code>enspc</code> |   |
+| <code>emspc</code> |   |
+| <code>quad</code> |   |
+| <code>enquad</code> |   |
+| <code>emquad</code> |   |
+| <code>nobr</code> | ⁠ |
+| <code>wj</code> | ‍⁠ |
+| <code>zspc</code> | ​ |
+| <code>0spc</code> | ​ |
+| <code>zwnj</code> | ‌ |
+| <code>zwj</code> | ‍ |
+| <code>cjkspc</code> | 　 |
+| <code>numspc</code> |   |
+| <code>figspc</code> |   |
+| <code>phantom0</code> |   |
+| <code>dspc</code> |   |
+| <code>puncspc</code> |   |
+| <code>eol</code> |   |
+| <code>eop</code> |   |
 | <code>thinspc</code> |   |
 | <code>thin</code> |   |
 | <code>hairspc</code> |   |
-| <code>enspc</code> |   |
-| <code>emspc</code> |   |
-| <code>enquad</code> |   |
-| <code>emquad</code> |   |
-| <code>quad</code> |   |
-| <code>zspc</code> | ​ |
-| <code>0spc</code> | ​ |
 | <code>mspc</code> |   |
 | <code>fapp</code> |   |
 | <code>fspc</code> |   |
+| <code>1/3em</code> |   |
+| <code>1/4em</code> |   |
+| <code>1/6em</code> |   |
 | <code>fjux</code> | ⁡ |
 | <code>jux</code> | ⁢ |
 | <code>jspc</code> | ⁢ |
@@ -30,15 +45,16 @@
 | <code>ispc</code> | 　 |
 | <code>brspc</code> | ⠀ |
 | <code>ogspc</code> |   |
-| <code>phantom0</code> |   |
-| <code>phdig</code> |   |
-| <code>dspc</code> |   |
-| <code>phantom,</code> | ⁣ |
+| <code>phantom</code> | ⁣ |
 | <code>,</code> | ⁣ |
+| <code>space</code> | ␣ |
+| <code>space,</code> | ⠀ |
+| <code>space,,</code> |   |
 | <code>blank</code> | ⠀ |
 | <code>blank,</code> |   |
-| <code>space</code> | ⠀ |
-| <code>space,</code> |   |
+| <code>\n</code> |  |
+| <code>\t</code> | 	 |
+| <code>\f</code> |  |
 | <code>hypod</code> | ⸒ |
 | <code>hypog</code> | ͺ |
 | <code>prosg</code> | ι |
@@ -100,6 +116,8 @@
 | <code>pun5</code> | ⁙ |
 | <code>tricolon</code> | ⁝ |
 | <code>3colon</code> | ⁝ |
+| <code>4colon</code> | ⦙ |
+| <code>6colon</code> | ⸽ |
 | <code>fcolon</code> | ： |
 | <code>wcolon</code> | ： |
 | <code>fscolon</code> | ； |
@@ -114,6 +132,7 @@
 | <code>wsep</code> | ⸱ |
 | <code>worddiv</code> | ⁞ |
 | <code>wdiv</code> | ⁞ |
+| <code>wigsep</code> | ⸾ |
 | <code>arabdec</code> | ٫ |
 | <code>arabth</code> | ٬ |
 | <code>arabdate</code> | ؍ |
@@ -158,6 +177,7 @@
 | <code>block4</code> | █ |
 | <code>endash</code> | – |
 | <code>emdash</code> | — |
+| <code>ldash</code> | ⹃ |
 | <code>para</code> | ¶ |
 | <code>paras</code> | ¶¶ |
 | <code>par</code> | ¶ |
@@ -178,6 +198,9 @@
 | <code>2dag</code> | ‡ |
 | <code>3dag</code> | ⹋ |
 | <code>codag</code> | ⸸ |
+| <code>bmdag</code> | ⸸ |
+| <code>ldag</code> | ⸶ |
+| <code>rdag</code> | ⸷ |
 | <code>bullet</code> | • |
 | <code>wbullet</code> | ◦ |
 | <code>bbul</code> | • |
@@ -197,7 +220,58 @@
 | <code>hedera</code> | ❦ |
 | <code>heder</code> | ❧ |
 | <code>hedel</code> | ☙ |
+| <code>ramulus</code> | ⸙ |
+| <code>palmula</code> | ⸙ |
+| <code>nwleaf</code> | 🙐 |
+| <code>swleaf</code> | 🙑 |
+| <code>neleaf</code> | 🙒 |
+| <code>seleaf</code> | 🙓 |
+| <code>nwleaf,</code> | 🙔 |
+| <code>swleaf,</code> | 🙕 |
+| <code>neleaf,</code> | 🙖 |
+| <code>seleaf,</code> | 🙗 |
+| <code>nwvine</code> | 🙘 |
+| <code>swvine</code> | 🙙 |
+| <code>nevine</code> | 🙚 |
+| <code>sevine</code> | 🙛 |
+| <code>nwvine,</code> | 🙜 |
+| <code>swvine,</code> | 🙝 |
+| <code>nevine,</code> | 🙞 |
+| <code>sevine,</code> | 🙟 |
+| <code>nwhvine</code> | 🙜 |
+| <code>swhvine</code> | 🙝 |
+| <code>nehvine</code> | 🙞 |
+| <code>sehvine</code> | 🙟 |
 | <code>caretins</code> | ⁁ |
+| <code>cornishverse</code> | ⹏ |
+| <code>cornish</code> | ⹏ |
+| <code>cverse</code> | ⹏ |
+| <code>suspension</code> | ⹄ |
+| <code>susp</code> | ⹄ |
+| <code>punctuse</code> | ⹎ |
+| <code>pelevatus</code> | ⹎ |
+| <code>pelev</code> | ⹎ |
+| <code>medievalc</code> | ⹌ |
+| <code>medcomma</code> | ⹌ |
+| <code>percont</code> | ⸮ |
+| <code>rheto</code> | ⸮ |
+| <code>sarcask</code> | ᥄ |
+| <code>sarcbang</code> | ᥅ |
+| <code>lovebang</code> | ❣ |
+| <code>hbang</code> | ❣ |
+| <code>bangh</code> | ❣ |
+| <code>versicle</code> | ℣ |
+| <code>ver</code> | ℣ |
+| <code>response</code> | ℟ |
+| <code>res</code> | ℟ |
+| <code>paragraphus</code> | ⹍ |
+| <code>capitulum</code> | ⸿ |
+| <code>prescr</code> | ℞ |
+| <code>propline</code> | ⅊ |
+| <code>centerline</code> | ℄ |
+| <code>cbore</code> | ⌴ |
+| <code>csink</code> | ⌵ |
+| <code>teu</code> | ℆ |
 | <code>cursor</code> | █ |
 | <code>fcursor</code> | █ |
 | <code>lcursor</code> | ▏ |
@@ -210,27 +284,13 @@
 | <code>bcursor</code> | ▁ |
 | <code>ucursor</code> | ▁ |
 | <code>copyr</code> | © |
+| <code>notcopyr</code> | 🅮 |
+| <code>ncopyr</code> | 🅮 |
+| <code>ccopyr</code> | 🅮 |
 | <code>copyl</code> | 🄯 |
 | <code>phono</code> | ℗ |
 | <code>reg</code> | ® |
 | <code>tm</code> | ™ |
-| <code>percont</code> | ⸮ |
-| <code>rheto</code> | ⸮ |
-| <code>sarcask</code> | ᥄ |
-| <code>sarcbang</code> | ᥅ |
-| <code>lovebang</code> | ❣ |
-| <code>hbang</code> | ❣ |
-| <code>bangh</code> | ❣ |
-| <code>versicle</code> | ℣ |
-| <code>ver</code> | ℣ |
-| <code>response</code> | ℟ |
-| <code>res</code> | ℟ |
-| <code>prescr</code> | ℞ |
-| <code>propline</code> | ⅊ |
-| <code>centerline</code> | ℄ |
-| <code>cbore</code> | ⌴ |
-| <code>csink</code> | ⌵ |
-| <code>teu</code> | ℆ |
 | <code>degree</code> | ° |
 | <code>deg</code> | ° |
 | <code>degc</code> | °C |
@@ -288,6 +348,9 @@
 | <code>compose</code> | ⎄ |
 | <code>cmp</code> | ⎄ |
 | <code>tab</code> | ↹ |
+| <code>formfeed</code> | ↡ |
+| <code>formf</code> | ↡ |
+| <code>ffeed</code> | ↡ |
 | <code>pause</code> | ⎊ |
 | <code>break</code> | ⎊ |
 | <code>brk</code> | ⎊ |
@@ -549,6 +612,7 @@
 | <code>emg</code> | ɱ |
 | <code>Eng</code> | Ŋ |
 | <code>eng</code> | ŋ |
+| <code>eng,</code> | ꬼ |
 | <code>Agma</code> | Ŋ |
 | <code>agma</code> | ŋ |
 | <code>peith</code> | ᚚ |
@@ -558,6 +622,8 @@
 | <code>turnh</code> | ɥ |
 | <code>Turnh</code> | Ɥ |
 | <code>turnH</code> | Ɥ |
+| <code>doubler</code> | ꭈ |
+| <code>doubler,</code> | ꭊ |
 | <code>Rotunda</code> | Ꝛ |
 | <code>rotunda</code> | ꝛ |
 | <code>Rotunda,</code> | Ꝝ |
@@ -593,7 +659,11 @@
 | <code>latep</code> | ɛ |
 | <code>Latrep</code> | Ɜ |
 | <code>latrep</code> | ɜ |
+| <code>latcrep</code> | ɞ |
+| <code>latrcep</code> | ɞ |
 | <code>Latio</code> | Ɩ |
+| <code>lbelt</code> | ɬ |
+| <code>Lbelt</code> | Ɬ |
 | <code>latio</code> | ɩ |
 | <code>latom</code> | ⲱ |
 | <code>latOm</code> | Ⲱ |
@@ -607,6 +677,14 @@
 | <code>ww</code> | ʬ |
 | <code>bilp</code> | ʬ |
 | <code>bidp</code> | ʭ |
+| <code>schwa;</code> | ɚ |
+| <code>heng;</code> | ɧ |
+| <code>scg;</code> | ʛ |
+| <code>turnr,</code> | ⱹ |
+| <code>turnr;</code> | ɻ |
+| <code>ropene;</code> | ɝ |
+| <code>ropeneL</code> | ᶔ |
+| <code>lbeltL</code> | ꞎ |
 | <code>b~~</code> | ᵬ |
 | <code>d~~</code> | ᵭ |
 | <code>f~~</code> | ᵮ |
@@ -1529,6 +1607,8 @@
 | <code>inhov</code> | ⋴ |
 | <code>inhob</code> | ⋴ |
 | <code>barinho</code> | ⋷ |
+| <code>hookin</code> | ⱕ |
+| <code>Hookin</code> | Ⱕ |
 | <code>powerset</code> | ℘ |
 | <code>power</code> | ℘ |
 | <code>pset</code> | ℘ |
@@ -1707,10 +1787,16 @@
 | <code>mid</code> | &vert; |
 | <code>Mid</code> | ⫿ |
 | <code>Mid,</code> | ⌷ |
+| <code>wigmid</code> | ⸾ |
 | <code>st</code> | &vert; |
 | <code>st,</code> | ❚ |
 | <code>St</code> | ⫿ |
 | <code>St,</code> | ⌷ |
+| <code>wigst</code> | ⸾ |
+| <code>wst</code> | ⸾ |
+| <code>zigzagst</code> | ⦚ |
+| <code>zzst</code> | ⦚ |
+| <code>zapst</code> | ⦚ |
 | <code>bbsubs</code> | ⋐ |
 | <code>bbsups</code> | ⋑ |
 | <code>bbinter</code> | ⋒ |
@@ -1800,10 +1886,24 @@
 | <code>ccwint</code> | ⨑ |
 | <code>cwoint</code> | ∲ |
 | <code>ccwoint</code> | ∳ |
+| <code>negrotint</code> | ∲ |
+| <code>posrotint</code> | ∳ |
+| <code>spinint</code> | ⨗ |
+| <code>twistint</code> | ⨗ |
+| <code>embfromint</code> | ⨗ |
+| <code>rectint</code> | ⨒ |
+| <code>scircint</code> | ⨓ |
+| <code>ocircint</code> | ⨔ |
+| <code>pointint</code> | ⨕ |
+| <code>poleint</code> | ⨕ |
+| <code>sqint</code> | ⨖ |
+| <code>quatint</code> | ⨖ |
 | <code>oiint</code> | ∯ |
 | <code>oiiint</code> | ∰ |
 | <code>o2int</code> | ∯ |
 | <code>o3int</code> | ∰ |
+| <code>surfint</code> | ∯ |
+| <code>volint</code> | ∰ |
 | <code>hint</code> | ⨍ |
 | <code>hhint</code> | ⨎ |
 | <code>sint</code> | ⨏ |
@@ -1817,6 +1917,7 @@
 | <code>lint</code> | ⨜ |
 | <code>preint</code> | ⎰ |
 | <code>postint</code> | ⎱ |
+| <code>coint</code> | ⎱ |
 | <code>osum</code> | ⨊ |
 | <code>sumint</code> | ⨋ |
 | <code>intsum</code> | ⨋ |
@@ -3430,6 +3531,10 @@
 | <code>dotjoin</code> | ⩒ |
 | <code>.meet</code> | ⩑ |
 | <code>.join</code> | ⩒ |
+| <code>simjoin</code> | ⍱ |
+| <code>simmeet</code> | ⍲ |
+| <code>tiljoin</code> | ⍱ |
+| <code>tilmeet</code> | ⍲ |
 | <code>meetbar</code> | ⩟ |
 | <code>joinbar</code> | ⩡ |
 | <code>barmeet</code> | ∧̄ |
@@ -3659,6 +3764,10 @@
 | <code>rsmash</code> | ⸠ |
 | <code>lburg</code> | ⸡ |
 | <code>rburg</code> | ⸠ |
+| <code>lwig</code> | ⧘ |
+| <code>rwig</code> | ⧙ |
+| <code>Rwig</code> | ⧛ |
+| <code>Lwig</code> | ⧚ |
 | <code>lfence</code> | ⧘ |
 | <code>rfence</code> | ⧙ |
 | <code>lfen</code> | ⧘ |
@@ -3669,8 +3778,7 @@
 | <code>Lfen</code> | ⧚ |
 | <code>mfence</code> | ⦚ |
 | <code>mfen</code> | ⦚ |
-| <code>fence</code> | ⦚ |
-| <code>fen</code> | ⦚ |
+| <code>mwig</code> | ⸾ |
 | <code>dfence</code> | ⦙ |
 | <code>dfen</code> | ⦙ |
 | <code>lmous</code> | ⎰ |
@@ -4079,6 +4187,10 @@
 | <code>Qcrowbar</code> | Ꝙ |
 | <code>qgolf</code> | ꝙ |
 | <code>Qgolf</code> | Ꝙ |
+| <code>Ocrossed</code> | Ꚛ |
+| <code>ocrossed</code> | ꚛ |
+| <code>Oxed</code> | Ꚛ |
+| <code>oxed</code> | ꚛ |
 | <code>1,</code> | 1̵ |
 | <code>2,</code> | Ꝝ |
 | <code>3,</code> | Ӡ |
@@ -4092,8 +4204,8 @@
 | <code>B,</code> | Ɓ |
 | <code>b,,</code> | ƀ |
 | <code>B,,</code> | Ƀ |
-| <code>b,,,</code> | ƃ |
-| <code>B,,,</code> | Ƃ |
+| <code>b,3</code> | ƃ |
+| <code>B,3</code> | Ƃ |
 | <code>b,4</code> | ᵬ |
 | <code>c,</code> | ɕ |
 | <code>C,</code> | 𝒞 |
@@ -4101,8 +4213,8 @@
 | <code>D,</code> | Ɗ |
 | <code>d,,</code> | ꝺ |
 | <code>D,,</code> | Ꝺ |
-| <code>D,,,</code> | Ƌ |
-| <code>d,,,</code> | ƌ |
+| <code>D,3</code> | Ƌ |
+| <code>d,3</code> | ƌ |
 | <code>d,4</code> | ᵭ |
 | <code>E,</code> | Ɛ |
 | <code>e,</code> | ɛ |
@@ -4111,19 +4223,20 @@
 | <code>F,</code> | Ƒ |
 | <code>f,,</code> | ꞙ |
 | <code>F,,</code> | Ꞙ |
-| <code>f,,,</code> | ᵮ |
+| <code>f,3</code> | ᵮ |
 | <code>g,</code> | ɠ |
 | <code>G,</code> | Ɠ |
 | <code>g,,</code> | ɡ |
 | <code>G,,</code> | Ɡ |
-| <code>g,,,</code> | ǥ |
-| <code>G,,,</code> | Ǥ |
+| <code>g,3</code> | ǥ |
+| <code>G,3</code> | Ǥ |
+| <code>g,4</code> | ꬶ |
 | <code>h,</code> | ꜧ |
 | <code>H,</code> | Ꜧ |
 | <code>h,,</code> | ɦ |
 | <code>H,,</code> | Ɦ |
-| <code>h,,,</code> | ɧ |
-| <code>H,,,</code> | ℋ |
+| <code>h,3</code> | ɧ |
+| <code>H,3</code> | ℋ |
 | <code>i,</code> | ɩ |
 | <code>I,</code> | Ɩ |
 | <code>i,,</code> | 𝑖 |
@@ -4133,8 +4246,8 @@
 | <code>K,</code> | Ƙ |
 | <code>k,,</code> | ꝁ |
 | <code>K,,</code> | Ꝁ |
-| <code>k,,,</code> | ꝃ |
-| <code>K,,,</code> | Ꝃ |
+| <code>k,3</code> | ꝃ |
+| <code>K,3</code> | Ꝃ |
 | <code>k,4</code> | ꝅ |
 | <code>K,4</code> | Ꝅ |
 | <code>l,</code> | ℓ |
@@ -4143,35 +4256,38 @@
 | <code>m,</code> | ɱ |
 | <code>M,</code> | Ɱ |
 | <code>m,,</code> | ᵯ |
+| <code>m,3</code> | ꬺ |
 | <code>n,</code> | ŋ |
 | <code>N,</code> | Ŋ |
 | <code>n,,</code> | ɲ |
 | <code>N,,</code> | Ɲ |
-| <code>n,,,</code> | ɳ |
+| <code>n,3</code> | ɳ |
 | <code>n,4</code> | ȵ |
-| <code>n,5</code> | ᵰ |
+| <code>n,5</code> | ꬻ |
+| <code>n,6</code> | ᵰ |
 | <code>p,</code> | ƥ |
 | <code>P,</code> | Ƥ |
 | <code>p,,</code> | ꝓ |
 | <code>P,,</code> | Ꝓ |
-| <code>p,,,</code> | ꝕ |
-| <code>P,,,</code> | Ꝕ |
+| <code>p,3</code> | ꝕ |
+| <code>P,3</code> | Ꝕ |
 | <code>p,4</code> | ᵱ |
 | <code>q,</code> | ꝗ |
 | <code>Q,</code> | Ꝗ |
 | <code>q,,</code> | ɋ |
 | <code>Q,,</code> | Ɋ |
-| <code>q,,,</code> | ꝙ |
-| <code>Q,,,</code> | Ꝙ |
+| <code>q,3</code> | ꝙ |
+| <code>Q,3</code> | Ꝙ |
 | <code>r,</code> | ɽ |
 | <code>cor,</code> | ⱹ |
 | <code>R,</code> | Ɽ |
 | <code>r,,</code> | ɍ |
 | <code>R,,</code> | Ɍ |
-| <code>r,,,</code> | ꞃ |
-| <code>R,,,</code> | Ꞃ |
+| <code>r,3</code> | ꞃ |
+| <code>R,3</code> | Ꞃ |
 | <code>r,4</code> | ᵲ |
 | <code>r,5</code> | ᵳ |
+| <code>r,6</code> | ꭉ |
 | <code>s,</code> | ȿ |
 | <code>S,</code> | Ȿ |
 | <code>s,,</code> | ᵴ |
@@ -4179,8 +4295,8 @@
 | <code>T,</code> | Ƭ |
 | <code>t,,</code> | ꞇ |
 | <code>T,,</code> | Ꞇ |
-| <code>t,,,</code> | ȶ |
-| <code>T,,,</code> | ᤒ |
+| <code>t,3</code> | ȶ |
+| <code>T,3</code> | ᤒ |
 | <code>t,4</code> | ⲧ |
 | <code>T,4</code> | Ⲧ |
 | <code>t,6</code> | ʈ |
@@ -4192,8 +4308,8 @@
 | <code>V,</code> | 𝒱 |
 | <code>v,,</code> | ʋ |
 | <code>V,,</code> | Ʋ |
-| <code>v,,,</code> | ỽ |
-| <code>V,,,</code> | Ỽ |
+| <code>v,3</code> | ỽ |
+| <code>V,3</code> | Ỽ |
 | <code>v,4</code> | ꝟ |
 | <code>V,4</code> | Ꝟ |
 | <code>w,</code> | ⱳ |
@@ -4206,7 +4322,7 @@
 | <code>Z,</code> | Ƶ |
 | <code>z,,</code> | ɀ |
 | <code>Z,,</code> | Ɀ |
-| <code>z,,,</code> | ʑ |
+| <code>z,3</code> | ʑ |
 | <code>z,4</code> | ᤃ |
 | <code>Z,4</code> | 𝒵 |
 | <code>z,5</code> | ᵶ |
@@ -4215,8 +4331,9 @@
 | <code>sh,</code> | ʆ |
 | <code>zh</code> | ʒ |
 | <code>Zh</code> | Ʒ |
-| <code>zh,</code> | ʓ |
-| <code>zh,,</code> | ᤕ |
+| <code>zh,</code> | ƺ |
+| <code>zh,,</code> | ʓ |
+| <code>zh,3</code> | ᤕ |
 | <code>pilcrow</code> | ¶ |
 | <code>silcrow</code> | § |
 | <code>pil</code> | ¶ |
@@ -4256,6 +4373,17 @@
 | <code>ladyop</code> | ⦼ |
 | <code>mouseop</code> | ⦺ |
 | <code>tennisop</code> | ᳂ |
+| <code>comma</code> | , |
+| <code>cocomma</code> | ⹁ |
+| <code>mma</code> | ⹁ |
+| <code>commal</code> | , |
+| <code>commar</code> | ⹁ |
+| <code>commaop</code> | ⸴ |
+| <code>cocommaop</code> | ⸲ |
+| <code>mmaop</code> | ⸲ |
+| <code>commarel</code> | ⸴ |
+| <code>cocommarel</code> | ⸲ |
+| <code>mmarel</code> | ⸲ |
 | <code>smilefrown</code> | ≍ |
 | <code>sfrown</code> | ≍ |
 | <code>bridges</code> | ♓︎ |
@@ -4302,15 +4430,18 @@
 | <code>ipunct</code> | · |
 | <code>ipun</code> | · |
 | <code>period</code> | . |
+| <code>xperiod</code> | ⸼ |
 | <code>semicol</code> | ; |
 | <code>semic</code> | ; |
 | <code>scolon</code> | ; |
 | <code>cosemicol</code> | ⁏ |
 | <code>cosemic</code> | ⁏ |
 | <code>coscolon</code> | ⁏ |
-| <code>cosemicol,</code> | ؛ |
-| <code>cosemic,</code> | ؛ |
-| <code>coscolon,</code> | ؛ |
+| <code>cosemicol,</code> | ⸵ |
+| <code>cosemic,</code> | ⸵ |
+| <code>coscolon,</code> | ⸵ |
+| <code>drunksemic</code> | ⹎ |
+| <code>drunkscolon</code> | ⹎ |
 | <code>sepcol</code> | ᰿ |
 | <code>sepcol,</code> | ꖼ |
 | <code>disjcol</code> | ᰿ |
@@ -4330,6 +4461,8 @@
 | <code>ldot</code> | . |
 | <code>dot</code> | · |
 | <code>point</code> | · |
+| <code>xpoint</code> | ⸼ |
+| <code>xdot</code> | ⸼ |
 | <code>bul</code> | ∙ |
 | <code>sqpoint</code> | ⬝ |
 | <code>sqpoint,</code> | ⬞ |
@@ -4598,6 +4731,8 @@
 | <code>bbvee</code> | ⩔ |
 | <code>vvee</code> | ⩔ |
 | <code>wwedge</code> | ⩓ |
+| <code>dotsmile</code> | ⹈ |
+| <code>.smile</code> | ⹈ |
 | <code>dotminus</code> | ∸ |
 | <code>.minus</code> | ∸ |
 | <code>2dotminus</code> | ⸚ |
@@ -5722,6 +5857,8 @@
 | <code>@ozagzig</code> | ᷉ |
 | <code>@obm</code> | ᷋ |
 | <code>@omb</code> | ᷌ |
+| <code>@orevia</code> | ֗ |
+| <code>@odia</code> | ֗ |
 | <code>@obar</code> | ̄ |
 | <code>@oline</code> | ̅ |
 | <code>@olline</code> | ̿ |
@@ -5906,6 +6043,8 @@
 | <code>@ufocus</code> | ᷹ |
 | <code>@usnake</code> | ᷂ |
 | <code>@useagull</code> | ̼ |
+| <code>@usea</code> | ᪶ |
+| <code>@uwiggle</code> | ᪶ |
 | <code>@uballs</code> | ̫ |
 | <code>@ugtjoin</code> | ᷿ |
 | <code>@ch</code> | ̵ |
@@ -6000,9 +6139,15 @@
 | <code>@circum</code> | ̂ |
 | <code>@cflex</code> | ̂ |
 | <code>@flex</code> | ̂ |
+| <code>@hat</code> | ̂ |
 | <code>@tilde</code> | ̃ |
 | <code>@til</code> | ̃ |
+| <code>@revia</code> | ֗ |
+| <code>@dia</code> | ֗ |
 | <code>@cedil</code> | ̧ |
+| <code>@beeman</code> | ֟ |
+| <code>@wiggle</code> | ᪶ |
+| <code>@sea</code> | ᪶ |
 | <code>@balls</code> | ̫ |
 | <code>@lynch</code> | ᪰ |
 | <code>@shark</code> | ̃̒ |

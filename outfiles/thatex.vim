@@ -9,19 +9,34 @@ inoremap \\nnbspc  
 inoremap \\nnbsp  
 inoremap \\nbh ‑
 inoremap \\nb- ‑
+inoremap \\enspc  
+inoremap \\emspc  
+inoremap \\quad  
+inoremap \\enquad  
+inoremap \\emquad  
+inoremap \\nobr ⁠
+inoremap \\wj ‍⁠
+inoremap \\zspc ​
+inoremap \\0spc ​
+inoremap \\zwnj ‌
+inoremap \\zwj ‍
+inoremap \\cjkspc 　
+inoremap \\numspc  
+inoremap \\figspc  
+inoremap \\phantom0  
+inoremap \\dspc  
+inoremap \\puncspc  
+inoremap \\eol  
+inoremap \\eop  
 inoremap \\thinspc  
 inoremap \\thin  
 inoremap \\hairspc  
-inoremap \\enspc  
-inoremap \\emspc  
-inoremap \\enquad  
-inoremap \\emquad  
-inoremap \\quad  
-inoremap \\zspc ​
-inoremap \\0spc ​
 inoremap \\mspc  
 inoremap \\fapp  
 inoremap \\fspc  
+inoremap \\1/3em  
+inoremap \\1/4em  
+inoremap \\1/6em  
 inoremap \\fjux ⁡
 inoremap \\jux ⁢
 inoremap \\jspc ⁢
@@ -29,15 +44,16 @@ inoremap \\ideospc 　
 inoremap \\ispc 　
 inoremap \\brspc ⠀
 inoremap \\ogspc  
-inoremap \\phantom0  
-inoremap \\phdig  
-inoremap \\dspc  
-inoremap \\phantom, ⁣
+inoremap \\phantom ⁣
 inoremap \\, ⁣
+inoremap \\space ␣
+inoremap \\space, ⠀
+inoremap \\space,,  
 inoremap \\blank ⠀
 inoremap \\blank,  
-inoremap \\space ⠀
-inoremap \\space,  
+inoremap \\\n 
+inoremap \\\t 	
+inoremap \\\f 
 inoremap \\hypod ⸒
 inoremap \\hypog ͺ
 inoremap \\prosg ι
@@ -99,6 +115,8 @@ inoremap \\pun4 ⁘
 inoremap \\pun5 ⁙
 inoremap \\tricolon ⁝
 inoremap \\3colon ⁝
+inoremap \\4colon ⦙
+inoremap \\6colon ⸽
 inoremap \\fcolon ：
 inoremap \\wcolon ：
 inoremap \\fscolon ；
@@ -113,6 +131,7 @@ inoremap \\wordsep ⸱
 inoremap \\wsep ⸱
 inoremap \\worddiv ⁞
 inoremap \\wdiv ⁞
+inoremap \\wigsep ⸾
 inoremap \\arabdec ٫
 inoremap \\arabth ٬
 inoremap \\arabdate ؍
@@ -157,6 +176,7 @@ inoremap \\block3 ▓
 inoremap \\block4 █
 inoremap \\endash –
 inoremap \\emdash —
+inoremap \\ldash ⹃
 inoremap \\para ¶
 inoremap \\paras ¶¶
 inoremap \\par ¶
@@ -177,6 +197,9 @@ inoremap \\dddag ‡
 inoremap \\2dag ‡
 inoremap \\3dag ⹋
 inoremap \\codag ⸸
+inoremap \\bmdag ⸸
+inoremap \\ldag ⸶
+inoremap \\rdag ⸷
 inoremap \\bullet •
 inoremap \\wbullet ◦
 inoremap \\bbul •
@@ -196,7 +219,58 @@ inoremap \\aleaf ❦
 inoremap \\hedera ❦
 inoremap \\heder ❧
 inoremap \\hedel ☙
+inoremap \\ramulus ⸙
+inoremap \\palmula ⸙
+inoremap \\nwleaf 🙐
+inoremap \\swleaf 🙑
+inoremap \\neleaf 🙒
+inoremap \\seleaf 🙓
+inoremap \\nwleaf, 🙔
+inoremap \\swleaf, 🙕
+inoremap \\neleaf, 🙖
+inoremap \\seleaf, 🙗
+inoremap \\nwvine 🙘
+inoremap \\swvine 🙙
+inoremap \\nevine 🙚
+inoremap \\sevine 🙛
+inoremap \\nwvine, 🙜
+inoremap \\swvine, 🙝
+inoremap \\nevine, 🙞
+inoremap \\sevine, 🙟
+inoremap \\nwhvine 🙜
+inoremap \\swhvine 🙝
+inoremap \\nehvine 🙞
+inoremap \\sehvine 🙟
 inoremap \\caretins ⁁
+inoremap \\cornishverse ⹏
+inoremap \\cornish ⹏
+inoremap \\cverse ⹏
+inoremap \\suspension ⹄
+inoremap \\susp ⹄
+inoremap \\punctuse ⹎
+inoremap \\pelevatus ⹎
+inoremap \\pelev ⹎
+inoremap \\medievalc ⹌
+inoremap \\medcomma ⹌
+inoremap \\percont ⸮
+inoremap \\rheto ⸮
+inoremap \\sarcask ᥄
+inoremap \\sarcbang ᥅
+inoremap \\lovebang ❣
+inoremap \\hbang ❣
+inoremap \\bangh ❣
+inoremap \\versicle ℣
+inoremap \\ver ℣
+inoremap \\response ℟
+inoremap \\res ℟
+inoremap \\paragraphus ⹍
+inoremap \\capitulum ⸿
+inoremap \\prescr ℞
+inoremap \\propline ⅊
+inoremap \\centerline ℄
+inoremap \\cbore ⌴
+inoremap \\csink ⌵
+inoremap \\teu ℆
 inoremap \\cursor █
 inoremap \\fcursor █
 inoremap \\lcursor ▏
@@ -209,27 +283,13 @@ inoremap \\rcursor ▕
 inoremap \\bcursor ▁
 inoremap \\ucursor ▁
 inoremap \\copyr ©
+inoremap \\notcopyr 🅮
+inoremap \\ncopyr 🅮
+inoremap \\ccopyr 🅮
 inoremap \\copyl 🄯
 inoremap \\phono ℗
 inoremap \\reg ®
 inoremap \\tm ™
-inoremap \\percont ⸮
-inoremap \\rheto ⸮
-inoremap \\sarcask ᥄
-inoremap \\sarcbang ᥅
-inoremap \\lovebang ❣
-inoremap \\hbang ❣
-inoremap \\bangh ❣
-inoremap \\versicle ℣
-inoremap \\ver ℣
-inoremap \\response ℟
-inoremap \\res ℟
-inoremap \\prescr ℞
-inoremap \\propline ⅊
-inoremap \\centerline ℄
-inoremap \\cbore ⌴
-inoremap \\csink ⌵
-inoremap \\teu ℆
 inoremap \\degree °
 inoremap \\deg °
 inoremap \\degc °C
@@ -287,6 +347,9 @@ inoremap \\bel ⍾
 inoremap \\compose ⎄
 inoremap \\cmp ⎄
 inoremap \\tab ↹
+inoremap \\formfeed ↡
+inoremap \\formf ↡
+inoremap \\ffeed ↡
 inoremap \\pause ⎊
 inoremap \\break ⎊
 inoremap \\brk ⎊
@@ -548,6 +611,7 @@ inoremap \\Emg Ɱ
 inoremap \\emg ɱ
 inoremap \\Eng Ŋ
 inoremap \\eng ŋ
+inoremap \\eng, ꬼ
 inoremap \\Agma Ŋ
 inoremap \\agma ŋ
 inoremap \\peith ᚚ
@@ -557,6 +621,8 @@ inoremap \\halfH Ⱶ
 inoremap \\turnh ɥ
 inoremap \\Turnh Ɥ
 inoremap \\turnH Ɥ
+inoremap \\doubler ꭈ
+inoremap \\doubler, ꭊ
 inoremap \\Rotunda Ꝛ
 inoremap \\rotunda ꝛ
 inoremap \\Rotunda, Ꝝ
@@ -592,7 +658,11 @@ inoremap \\Latep Ɛ
 inoremap \\latep ɛ
 inoremap \\Latrep Ɜ
 inoremap \\latrep ɜ
+inoremap \\latcrep ɞ
+inoremap \\latrcep ɞ
 inoremap \\Latio Ɩ
+inoremap \\lbelt ɬ
+inoremap \\Lbelt Ɬ
 inoremap \\latio ɩ
 inoremap \\latom ⲱ
 inoremap \\latOm Ⲱ
@@ -606,6 +676,14 @@ inoremap \\gha ƣ
 inoremap \\ww ʬ
 inoremap \\bilp ʬ
 inoremap \\bidp ʭ
+inoremap \\schwa; ɚ
+inoremap \\heng; ɧ
+inoremap \\scg; ʛ
+inoremap \\turnr, ⱹ
+inoremap \\turnr; ɻ
+inoremap \\ropene; ɝ
+inoremap \\ropeneL ᶔ
+inoremap \\lbeltL ꞎ
 inoremap \\b~~ ᵬ
 inoremap \\d~~ ᵭ
 inoremap \\f~~ ᵮ
@@ -1528,6 +1606,8 @@ inoremap \\ohni ∍
 inoremap \\inhov ⋴
 inoremap \\inhob ⋴
 inoremap \\barinho ⋷
+inoremap \\hookin ⱕ
+inoremap \\Hookin Ⱕ
 inoremap \\powerset ℘
 inoremap \\power ℘
 inoremap \\pset ℘
@@ -1706,10 +1786,16 @@ inoremap \\clhsups ⫐
 inoremap \\mid <Bar>
 inoremap \\Mid ⫿
 inoremap \\Mid, ⌷
+inoremap \\wigmid ⸾
 inoremap \\st <Bar>
 inoremap \\st, ❚
 inoremap \\St ⫿
 inoremap \\St, ⌷
+inoremap \\wigst ⸾
+inoremap \\wst ⸾
+inoremap \\zigzagst ⦚
+inoremap \\zzst ⦚
+inoremap \\zapst ⦚
 inoremap \\bbsubs ⋐
 inoremap \\bbsups ⋑
 inoremap \\bbinter ⋒
@@ -1799,10 +1885,24 @@ inoremap \\cwint ∱
 inoremap \\ccwint ⨑
 inoremap \\cwoint ∲
 inoremap \\ccwoint ∳
+inoremap \\negrotint ∲
+inoremap \\posrotint ∳
+inoremap \\spinint ⨗
+inoremap \\twistint ⨗
+inoremap \\embfromint ⨗
+inoremap \\rectint ⨒
+inoremap \\scircint ⨓
+inoremap \\ocircint ⨔
+inoremap \\pointint ⨕
+inoremap \\poleint ⨕
+inoremap \\sqint ⨖
+inoremap \\quatint ⨖
 inoremap \\oiint ∯
 inoremap \\oiiint ∰
 inoremap \\o2int ∯
 inoremap \\o3int ∰
+inoremap \\surfint ∯
+inoremap \\volint ∰
 inoremap \\hint ⨍
 inoremap \\hhint ⨎
 inoremap \\sint ⨏
@@ -1816,6 +1916,7 @@ inoremap \\uint ⨛
 inoremap \\lint ⨜
 inoremap \\preint ⎰
 inoremap \\postint ⎱
+inoremap \\coint ⎱
 inoremap \\osum ⨊
 inoremap \\sumint ⨋
 inoremap \\intsum ⨋
@@ -3429,6 +3530,10 @@ inoremap \\dotmeet ⩑
 inoremap \\dotjoin ⩒
 inoremap \\.meet ⩑
 inoremap \\.join ⩒
+inoremap \\simjoin ⍱
+inoremap \\simmeet ⍲
+inoremap \\tiljoin ⍱
+inoremap \\tilmeet ⍲
 inoremap \\meetbar ⩟
 inoremap \\joinbar ⩡
 inoremap \\barmeet ∧̄
@@ -3658,6 +3763,10 @@ inoremap \\lsmash ⸡
 inoremap \\rsmash ⸠
 inoremap \\lburg ⸡
 inoremap \\rburg ⸠
+inoremap \\lwig ⧘
+inoremap \\rwig ⧙
+inoremap \\Rwig ⧛
+inoremap \\Lwig ⧚
 inoremap \\lfence ⧘
 inoremap \\rfence ⧙
 inoremap \\lfen ⧘
@@ -3668,8 +3777,7 @@ inoremap \\Rfen ⧛
 inoremap \\Lfen ⧚
 inoremap \\mfence ⦚
 inoremap \\mfen ⦚
-inoremap \\fence ⦚
-inoremap \\fen ⦚
+inoremap \\mwig ⸾
 inoremap \\dfence ⦙
 inoremap \\dfen ⦙
 inoremap \\lmous ⎰
@@ -4078,6 +4186,10 @@ inoremap \\qcrowbar ꝙ
 inoremap \\Qcrowbar Ꝙ
 inoremap \\qgolf ꝙ
 inoremap \\Qgolf Ꝙ
+inoremap \\Ocrossed Ꚛ
+inoremap \\ocrossed ꚛ
+inoremap \\Oxed Ꚛ
+inoremap \\oxed ꚛ
 inoremap \\1, 1̵
 inoremap \\2, Ꝝ
 inoremap \\3, Ӡ
@@ -4091,8 +4203,8 @@ inoremap \\b, ɓ
 inoremap \\B, Ɓ
 inoremap \\b,, ƀ
 inoremap \\B,, Ƀ
-inoremap \\b,,, ƃ
-inoremap \\B,,, Ƃ
+inoremap \\b,3 ƃ
+inoremap \\B,3 Ƃ
 inoremap \\b,4 ᵬ
 inoremap \\c, ɕ
 inoremap \\C, 𝒞
@@ -4100,8 +4212,8 @@ inoremap \\d, ɗ
 inoremap \\D, Ɗ
 inoremap \\d,, ꝺ
 inoremap \\D,, Ꝺ
-inoremap \\D,,, Ƌ
-inoremap \\d,,, ƌ
+inoremap \\D,3 Ƌ
+inoremap \\d,3 ƌ
 inoremap \\d,4 ᵭ
 inoremap \\E, Ɛ
 inoremap \\e, ɛ
@@ -4110,19 +4222,20 @@ inoremap \\f, ƒ
 inoremap \\F, Ƒ
 inoremap \\f,, ꞙ
 inoremap \\F,, Ꞙ
-inoremap \\f,,, ᵮ
+inoremap \\f,3 ᵮ
 inoremap \\g, ɠ
 inoremap \\G, Ɠ
 inoremap \\g,, ɡ
 inoremap \\G,, Ɡ
-inoremap \\g,,, ǥ
-inoremap \\G,,, Ǥ
+inoremap \\g,3 ǥ
+inoremap \\G,3 Ǥ
+inoremap \\g,4 ꬶ
 inoremap \\h, ꜧ
 inoremap \\H, Ꜧ
 inoremap \\h,, ɦ
 inoremap \\H,, Ɦ
-inoremap \\h,,, ɧ
-inoremap \\H,,, ℋ
+inoremap \\h,3 ɧ
+inoremap \\H,3 ℋ
 inoremap \\i, ɩ
 inoremap \\I, Ɩ
 inoremap \\i,, 𝑖
@@ -4132,8 +4245,8 @@ inoremap \\k, ƙ
 inoremap \\K, Ƙ
 inoremap \\k,, ꝁ
 inoremap \\K,, Ꝁ
-inoremap \\k,,, ꝃ
-inoremap \\K,,, Ꝃ
+inoremap \\k,3 ꝃ
+inoremap \\K,3 Ꝃ
 inoremap \\k,4 ꝅ
 inoremap \\K,4 Ꝅ
 inoremap \\l, ℓ
@@ -4142,35 +4255,38 @@ inoremap \\l,, ȴ
 inoremap \\m, ɱ
 inoremap \\M, Ɱ
 inoremap \\m,, ᵯ
+inoremap \\m,3 ꬺ
 inoremap \\n, ŋ
 inoremap \\N, Ŋ
 inoremap \\n,, ɲ
 inoremap \\N,, Ɲ
-inoremap \\n,,, ɳ
+inoremap \\n,3 ɳ
 inoremap \\n,4 ȵ
-inoremap \\n,5 ᵰ
+inoremap \\n,5 ꬻ
+inoremap \\n,6 ᵰ
 inoremap \\p, ƥ
 inoremap \\P, Ƥ
 inoremap \\p,, ꝓ
 inoremap \\P,, Ꝓ
-inoremap \\p,,, ꝕ
-inoremap \\P,,, Ꝕ
+inoremap \\p,3 ꝕ
+inoremap \\P,3 Ꝕ
 inoremap \\p,4 ᵱ
 inoremap \\q, ꝗ
 inoremap \\Q, Ꝗ
 inoremap \\q,, ɋ
 inoremap \\Q,, Ɋ
-inoremap \\q,,, ꝙ
-inoremap \\Q,,, Ꝙ
+inoremap \\q,3 ꝙ
+inoremap \\Q,3 Ꝙ
 inoremap \\r, ɽ
 inoremap \\cor, ⱹ
 inoremap \\R, Ɽ
 inoremap \\r,, ɍ
 inoremap \\R,, Ɍ
-inoremap \\r,,, ꞃ
-inoremap \\R,,, Ꞃ
+inoremap \\r,3 ꞃ
+inoremap \\R,3 Ꞃ
 inoremap \\r,4 ᵲ
 inoremap \\r,5 ᵳ
+inoremap \\r,6 ꭉ
 inoremap \\s, ȿ
 inoremap \\S, Ȿ
 inoremap \\s,, ᵴ
@@ -4178,8 +4294,8 @@ inoremap \\t, ƭ
 inoremap \\T, Ƭ
 inoremap \\t,, ꞇ
 inoremap \\T,, Ꞇ
-inoremap \\t,,, ȶ
-inoremap \\T,,, ᤒ
+inoremap \\t,3 ȶ
+inoremap \\T,3 ᤒ
 inoremap \\t,4 ⲧ
 inoremap \\T,4 Ⲧ
 inoremap \\t,6 ʈ
@@ -4191,8 +4307,8 @@ inoremap \\v, ⱴ
 inoremap \\V, 𝒱
 inoremap \\v,, ʋ
 inoremap \\V,, Ʋ
-inoremap \\v,,, ỽ
-inoremap \\V,,, Ỽ
+inoremap \\v,3 ỽ
+inoremap \\V,3 Ỽ
 inoremap \\v,4 ꝟ
 inoremap \\V,4 Ꝟ
 inoremap \\w, ⱳ
@@ -4205,7 +4321,7 @@ inoremap \\z, ƶ
 inoremap \\Z, Ƶ
 inoremap \\z,, ɀ
 inoremap \\Z,, Ɀ
-inoremap \\z,,, ʑ
+inoremap \\z,3 ʑ
 inoremap \\z,4 ᤃ
 inoremap \\Z,4 𝒵
 inoremap \\z,5 ᵶ
@@ -4214,8 +4330,9 @@ inoremap \\Sh Ʃ
 inoremap \\sh, ʆ
 inoremap \\zh ʒ
 inoremap \\Zh Ʒ
-inoremap \\zh, ʓ
-inoremap \\zh,, ᤕ
+inoremap \\zh, ƺ
+inoremap \\zh,, ʓ
+inoremap \\zh,3 ᤕ
 inoremap \\pilcrow ¶
 inoremap \\silcrow §
 inoremap \\pil ¶
@@ -4255,6 +4372,17 @@ inoremap \\ladybop ⦼
 inoremap \\ladyop ⦼
 inoremap \\mouseop ⦺
 inoremap \\tennisop ᳂
+inoremap \\comma ,
+inoremap \\cocomma ⹁
+inoremap \\mma ⹁
+inoremap \\commal ,
+inoremap \\commar ⹁
+inoremap \\commaop ⸴
+inoremap \\cocommaop ⸲
+inoremap \\mmaop ⸲
+inoremap \\commarel ⸴
+inoremap \\cocommarel ⸲
+inoremap \\mmarel ⸲
 inoremap \\smilefrown ≍
 inoremap \\sfrown ≍
 inoremap \\bridges ♓︎
@@ -4301,15 +4429,18 @@ inoremap \\interp ·
 inoremap \\ipunct ·
 inoremap \\ipun ·
 inoremap \\period .
+inoremap \\xperiod ⸼
 inoremap \\semicol ;
 inoremap \\semic ;
 inoremap \\scolon ;
 inoremap \\cosemicol ⁏
 inoremap \\cosemic ⁏
 inoremap \\coscolon ⁏
-inoremap \\cosemicol, ؛
-inoremap \\cosemic, ؛
-inoremap \\coscolon, ؛
+inoremap \\cosemicol, ⸵
+inoremap \\cosemic, ⸵
+inoremap \\coscolon, ⸵
+inoremap \\drunksemic ⹎
+inoremap \\drunkscolon ⹎
 inoremap \\sepcol ᰿
 inoremap \\sepcol, ꖼ
 inoremap \\disjcol ᰿
@@ -4329,6 +4460,8 @@ inoremap \\cdot ·
 inoremap \\ldot .
 inoremap \\dot ·
 inoremap \\point ·
+inoremap \\xpoint ⸼
+inoremap \\xdot ⸼
 inoremap \\bul ∙
 inoremap \\sqpoint ⬝
 inoremap \\sqpoint, ⬞
@@ -4597,6 +4730,8 @@ inoremap \\bbwedge ⩓
 inoremap \\bbvee ⩔
 inoremap \\vvee ⩔
 inoremap \\wwedge ⩓
+inoremap \\dotsmile ⹈
+inoremap \\.smile ⹈
 inoremap \\dotminus ∸
 inoremap \\.minus ∸
 inoremap \\2dotminus ⸚
@@ -5721,6 +5856,8 @@ inoremap \\@ozigzag ᷈
 inoremap \\@ozagzig ᷉
 inoremap \\@obm ᷋
 inoremap \\@omb ᷌
+inoremap \\@orevia ֗
+inoremap \\@odia ֗
 inoremap \\@obar ̄
 inoremap \\@oline ̅
 inoremap \\@olline ̿
@@ -5905,6 +6042,8 @@ inoremap \\@uhere ͎
 inoremap \\@ufocus ᷹
 inoremap \\@usnake ᷂
 inoremap \\@useagull ̼
+inoremap \\@usea ᪶
+inoremap \\@uwiggle ᪶
 inoremap \\@uballs ̫
 inoremap \\@ugtjoin ᷿
 inoremap \\@ch ̵
@@ -5999,9 +6138,15 @@ inoremap \\@2acute ̋
 inoremap \\@circum ̂
 inoremap \\@cflex ̂
 inoremap \\@flex ̂
+inoremap \\@hat ̂
 inoremap \\@tilde ̃
 inoremap \\@til ̃
+inoremap \\@revia ֗
+inoremap \\@dia ֗
 inoremap \\@cedil ̧
+inoremap \\@beeman ֟
+inoremap \\@wiggle ᪶
+inoremap \\@sea ᪶
 inoremap \\@balls ̫
 inoremap \\@lynch ᪰
 inoremap \\@shark ̃̒

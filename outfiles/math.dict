@@ -88,11 +88,13 @@
   ":" = {
     "<" = ("insertText:", "⬸");
     ">" = ("insertText:", "⤑");
+    "/" = ("insertText:", "⹄");
+    "'" = ("insertText:", "⹄");
     "*" = ("insertText:", "⁑");
     "." = ("insertText:", "∵");
     ":" = ("insertText:", "∷");
     "\\~" = ("insertText:", "∻");
-    "/" = ("insertText:", "÷");
+    "-" = ("insertText:", "÷");
     "=" = ("insertText:", "≔");
   };
   "." = {
@@ -108,6 +110,9 @@
     "+" = ("insertText:", "∔");
     "-" = ("insertText:", "∸");
     ":" = ("insertText:", "∴");
+    "/" = {
+      "." = ("insertText:", "÷");
+    };
     "=" = ("insertText:", "≐");
   };
   "Z" = {
@@ -502,6 +507,9 @@
     ":" = ("insertText:", "⁑");
     "|" = ("insertText:", "⁑");
     "*" = ("insertText:", "∗");
+    "," = ("insertText:", "⸴");
+    "6" = ("insertText:", "⸲");
+    "9" = ("insertText:", "⸴");
     "." = ("insertText:", "⋅");
     "x" = ("insertText:", "×");
     "=" = ("insertText:", "≛");
