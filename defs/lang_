@@ -1207,10 +1207,12 @@ a%L    ᶏ
 
 B.     Ḃ
 B!     Ḅ
+B;     Ɓ
 B%-    Ƃ
 
 b.     ḃ
 b!     ḅ
+b;     ɓ
 b~     ᵬ
 b%-    ƃ
 b%J    ᶀ
@@ -1243,6 +1245,7 @@ c%6    ɕ
 D.     Ḋ
 D!     Ḍ
 D,     Ḑ
+D;     Ɗ
 D-     Đ
 D/     Ð
 Dv     Ď
@@ -1253,6 +1256,7 @@ D%L    Ɖ  # WARN: not really retrohook but uppercased %Ld
 d.     ḋ
 d!     ḍ
 d,     ḑ
+d;     ɗ
 d-     đ
 d/     ð
 dv     ď
@@ -1304,10 +1308,12 @@ e%L    ᶒ
 
 F.     Ḟ
 F!     F̣  # WARN: decorated
+F;     Ƒ
 F-     Ꞙ
 
 f.     ḟ
 f!     f̣  # WARN: decorated
+f;     ƒ
 f-     ꞙ
 f~     ᵮ
 f%J    ᶂ
@@ -1319,6 +1325,7 @@ G.     Ġ
 G!     G̣  # WARN: decorated
 G'     Ǵ
 G,     Ģ
+G;     Ɠ
 G-     Ḡ
 G/     Ǥ
 G^     Ĝ
@@ -1329,6 +1336,7 @@ g.     ġ
 g!     g̣  # WARN: decorated
 g'     ǵ
 g,     ģ
+g;     ɠ
 g-     ḡ
 g/     ǥ
 g^     ĝ
@@ -1344,6 +1352,7 @@ g%+    ꬶ
 H.     Ḣ
 H!     Ḥ
 H,     Ḩ
+H;     Ɦ
 H-     Ħ
 H:     Ḧ
 H^     Ĥ
@@ -1353,6 +1362,7 @@ H%)    Ḫ
 h.     ḣ
 h!     ḥ
 h,     ḩ
+h;     ɦ
 h-     ħ
 h:     ḧ
 h^     ĥ
@@ -1418,12 +1428,14 @@ K.     K̇  # WARN: decorated
 K!     Ḳ
 K'     Ḱ
 K,     Ķ
+K;     Ƙ
 Kv     Ǩ
 
 k.     k̇  # WARN: decorated
 k!     ḳ
 k'     ḱ
 k,     ķ
+k;     ƙ
 kv     ǩ
 k%J    ᶄ
 
@@ -1456,11 +1468,13 @@ M.     Ṁ
 M!     Ṃ
 M'     Ḿ
 M,     Ɱ
+M;     Ɱ
 
 m.     ṁ
 m!     ṃ
 m'     ḿ
 m,     ɱ
+m;     ɱ
 m~     ᵯ
 m%J    ᶆ
 m%6    ꬺ
@@ -1543,11 +1557,13 @@ o%%/'  ǿ
 P.     Ṗ
 P!     P̣  # WARN: decorated
 P'     Ṕ
+P;     Ƥ
 P-     Ᵽ
 
 p.     ṗ
 p!     p̣  # WARN: decorated
 p'     ṕ
+p;     ƥ
 p-     ᵽ
 p~     ᵱ
 p%J    ᶈ
@@ -1573,11 +1589,13 @@ q/     ꝙ
 R.     Ṙ
 R!     Ṛ
 R'     Ŕ
+R;     Ɽ
 R%(    Ȓ
 
 r.     ṙ
 r!     ṛ
 r'     ŕ
+r;     ɽ
 r~     ᵲ
 r%(    ȓ
 r%J    ᶉ
@@ -1591,6 +1609,7 @@ S.     Ṡ
 S!     Ṣ
 S'     Ś
 S,     Ş
+S;     Ʂ
 S:     S̈  # WARN: decorated
 S^     Ŝ
 Sv     Š
@@ -1603,6 +1622,7 @@ s.     ṡ
 s!     ṣ
 s'     ś
 s,     ş
+s;     ʂ
 s:     s̈  # WARN: decorated
 s^     ŝ
 sv     š
@@ -1618,6 +1638,7 @@ s%J    ᶊ
 T.     Ṫ
 T!     Ṭ
 T,     Ţ
+T;     Ƭ
 T-     Ŧ
 T/     Ⱦ
 T:     T̈  # WARN: decorated
@@ -1627,6 +1648,7 @@ T%,    Ț
 
 t.     ṫ
 t,     ţ
+t;     ƭ
 t!     ṭ
 t-     ŧ
 t/     ⱦ
@@ -1690,11 +1712,13 @@ u%L    ᶙ
 
 V.     V̇  # WARN: decorated
 V!     Ṿ
+V;     Ʋ
 Y?     Ỷ
 V~     Ṽ
 
 v.     v̇  # WARN: decorated
 v!     ṿ
+v;     ʋ
 y?     ỷ
 v~     ṽ
 v%J    ᶌ
@@ -1706,6 +1730,7 @@ v%6    ⱴ
 W.     Ẇ
 W!     Ẉ
 W'     Ẃ
+W;     Ⱳ
 W:     Ẅ
 W^     Ŵ
 W`     Ẁ
@@ -1713,6 +1738,7 @@ W`     Ẁ
 w.     ẇ
 w!     ẉ
 w'     ẃ
+w;     ⱳ
 w:     ẅ
 w^     ŵ
 w`     ẁ
@@ -1723,10 +1749,12 @@ w0     ẘ
 
 X.     Ẋ
 X!     X̣  # WARN: decorated
+X;     Ӽ
 X:     Ẍ
 
 x.     ẋ
 x!     x̣  # WARN: decorated
+x;     ӽ
 x:     ẍ
 x%J    ᶍ
 
@@ -1736,6 +1764,7 @@ x%J    ᶍ
 Y.     Ẏ
 Y!     Ỵ
 Y'     Ý
+Y;     Ƴ
 Y-     Ȳ
 Y:     Ÿ
 Y=     Ӳ  # WARN: abuse: cyrillic
@@ -1748,6 +1777,7 @@ Y%6    Ỿ
 y.     ẏ
 y!     ỵ
 y'     ý
+y;     ƴ
 y-     ȳ
 y:     ÿ
 y=     ӳ  # WARN: abuse: cyrillic
@@ -1764,12 +1794,14 @@ y%6    ỿ
 Z.     Ż
 Z!     Ẓ
 Z'     Ź
+Z;     Ȥ
 Z^     Ẑ
 Zv     Ž
 
 z.     ż
 z!     ẓ
 z'     ź
+z;     ȥ
 z^     ẑ
 zv     ž
 z~     ᵶ
