@@ -4878,6 +4878,17 @@ ladybop           ⦼  # [b]ug or [b]ird
 ladyop            ⦼
 mouseop           ⦺
 tennisop          ᳂
+comma             ,
+cocomma           ⹁
+mma               ⹁
+commal            ,
+commar            ⹁
+commaop           ⸴
+cocommaop         ⸲
+mmaop             ⸲
+commarel          ⸴
+cocommarel        ⸲
+mmarel            ⸲
 smilefrown        ≍
 sfrown            ≍
 bridges           ♓︎
@@ -4932,15 +4943,18 @@ interp            ·  # [interp]unct
 ipunct            ·
 ipun              ·
 period            .
+xperiod           ⸼
 semicol           ;
 semic             ;
 scolon            ;
 cosemicol         ⁏
 cosemic           ⁏
 coscolon          ⁏
-cosemicol,        ؛
-cosemic,          ؛
-coscolon,         ؛
+cosemicol,        ⸵
+cosemic,          ⸵
+coscolon,         ⸵
+drunksemic        ⹎
+drunkscolon       ⹎
 sepcol            ᰿
 sepcol,           ꖼ
 disjcol           ᰿
@@ -4966,6 +4980,8 @@ cdot              ·  # [c]enter [dot] WARN: actually interpunct
 ldot              .  # [l]ower
 dot               ·  # default: [c]
 point             ·
+xpoint            ⸼
+xdot              ⸼  # WARN: actually xldot
 bul               ∙  # WARN: bul is not short for bullet but for bullet op
 sqpoint           ⬝  # [sq]uare [point]
 sqpoint,          ⬞
