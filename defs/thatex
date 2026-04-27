@@ -428,6 +428,9 @@ bel               ⍾
 compose           ⎄
 cmp               ⎄
 tab               ↹
+formfeed          ↡
+formf             ↡
+ffeed             ↡
 pause             ⎊
 break             ⎊
 brk               ⎊
