@@ -259,25 +259,41 @@ aleaf             ❦  # [a]ldus [leaf]
 hedera            ❦
 heder             ❧  # [hede]ra [r]ight
 hedel             ☙
+ramulus           ⸙
+palmula           ⸙
+
+nwleaf            🙐  # [n]orth [w]est pointing [leaf]
+swleaf            🙑
+neleaf            🙒
+seleaf            🙓
+nwleaf,           🙔
+swleaf,           🙕
+neleaf,           🙖
+seleaf,           🙗
+nwvine            🙘  # [vine] leaf
+swvine            🙙
+nevine            🙚
+sevine            🙛
+nwvine,           🙜
+swvine,           🙝
+nevine,           🙞
+sevine,           🙟
+nwhvine           🙜  # [h]eavy
+swhvine           🙝
+nehvine           🙞
+sehvine           🙟
+
 caretins          ⁁  # [caret] [ins]ertion point
-
-cursor           █   # default: [f]
-fcursor          █   # [f]ull, [f]ocused
-lcursor          ▏   # [l]eft
-lcursor,         ▎
-vcursor          ▏   # [v]ertical
-vcursor,         ▎
-pcursor          ▏   # [p]ipe
-pcursor,         ▎
-rcursor          ▕   # [r]ight
-bcursor          ▁   # [b]ottom
-ucursor          ▁   # [u]nderscore
-
-copyr             ©  # [copyr]ight
-copyl             🄯 # [copyl]eft
-phono             ℗  # [phono]gram
-reg               ®  # [reg]istered
-tm                ™  # [t]rade[m]ark
+cornishverse      ⹏  # [cornish] verse [div]ider
+cornish           ⹏
+cverse            ⹏  # [cornish] verse [div]ider
+suspension        ⹄  # double [suspension] mark
+susp              ⹄
+punctuse          ⹎  # [punctus] [e]levatus
+pelevatus         ⹎
+pelev             ⹎
+medievalc         ⹌  # [medieval] [c]omma
+medcomma          ⹌
 
 percont           ⸮  # [percont]ation point
 rheto             ⸮  # [rheto]rical question
@@ -291,6 +307,8 @@ versicle          ℣
 ver               ℣
 response          ℟
 res               ℟
+paragraphus       ⹍  # [paragraphus] mark
+capitulum         ⸿
 
 prescr            ℞
 propline          ⅊  # [prop]erty [line]
@@ -298,6 +316,27 @@ centerline        ℄
 cbore             ⌴  # [c]ounter[bore]
 csink             ⌵  # [c]ounter[sink]
 teu               ℆
+
+cursor            █   # default: [f]
+fcursor           █   # [f]ull, [f]ocused
+lcursor           ▏   # [l]eft
+lcursor,          ▎
+vcursor           ▏   # [v]ertical
+vcursor,          ▎
+pcursor           ▏   # [p]ipe
+pcursor,          ▎
+rcursor           ▕   # [r]ight
+bcursor           ▁   # [b]ottom
+ucursor           ▁   # [u]nderscore
+
+copyr             ©  # [copyr]ight
+notcopyr          🅮
+ncopyr            🅮
+ccopyr            🅮  # [c]ancelled
+copyl             🄯  # [copyl]eft
+phono             ℗  # [phono]gram
+reg               ®  # [reg]istered
+tm                ™  # [t]rade[m]ark
 
 # %}}}
 
