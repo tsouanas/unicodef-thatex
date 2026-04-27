@@ -216,6 +216,7 @@ block4           █  # 4/4
 
 endash            –
 emdash            —
+ldash             ⹃
 para              ¶  # [para]graph
 paras             ¶¶ # [para]graph[s]
 par               ¶
