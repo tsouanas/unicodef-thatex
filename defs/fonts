@@ -1227,6 +1227,22 @@ scz            ᴢ
 ^y             ʸ
 ^z             ᶻ
 
+^c,            ᶝ
+^h,            ʱ
+^j,            ᶨ
+^l,            ᶩ
+^l,J           ᶪ
+^l,L           ᶩ
+^m,            ᶬ
+^n,            ᶯ
+^r,            ʵ
+^s,            ᶳ
+^t,            ᶵ
+^v,            ᶹ
+^z,            ᶽ
+^z,6           ᶽ
+^z,L           ᶼ
+
 # XXX: abuse: not really superscripts
 ^!       ꜝ
 
