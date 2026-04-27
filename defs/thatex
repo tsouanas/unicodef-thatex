@@ -720,6 +720,7 @@ Emg               Ɱ
 emg               ɱ
 Eng               Ŋ
 eng               ŋ
+eng,              ꬼ
 Agma              Ŋ
 agma              ŋ
 peith             ᚚ
@@ -729,6 +730,8 @@ halfH             Ⱶ
 turnh             ɥ
 Turnh             Ɥ
 turnH             Ɥ
+doubler           ꭈ
+doubler,          ꭊ
 Rotunda           Ꝛ
 rotunda           ꝛ
 Rotunda,          Ꝝ
@@ -764,7 +767,11 @@ Latep             Ɛ  # [ep]silon
 latep             ɛ
 Latrep            Ɜ  # [ep]silon
 latrep            ɜ
+latcrep           ɞ  # [c]losed [r]eversed [ep]silon
+latrcep           ɞ  # [r]eversed [c]losed [ep]silon
 Latio             Ɩ  # [io]ta
+lbelt             ɬ
+Lbelt             Ɬ
 latio             ɩ
 latom             ⲱ  # [om]ega
 latOm             Ⲱ
@@ -778,6 +785,19 @@ gha               ƣ
 ww                ʬ
 bilp              ʬ  # [bi][l]abial [p]ercussive
 bidp              ʭ  # [bi][d]ental
+
+# %}}}
+
+## with actions %{{{
+
+schwa;            ɚ  # hook
+heng;             ɧ  # hook
+scg;              ʛ  # hook
+turnr,            ⱹ  # tail
+turnr;            ɻ  # hook
+ropene;           ɝ  # hook
+ropeneL           ᶔ  # retrohook
+lbeltL            ꞎ  # L retrohook+belt
 
 # %}}}
 
