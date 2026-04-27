@@ -6031,7 +6031,7 @@ timpb             ⟺
 wdot              ᐧ  # [w]ith [dot]
 wudot             ᐧ  # [u]pper
 
-^ast               ⃰
+^ast              ⠀⃰
 ^plus             ⁺
 ^times             ̽
 ^bul              ᣟ
@@ -6067,9 +6067,10 @@ wudot             ᐧ  # [u]pper
 ^tri              ᐞ
 ^slash            ᐟ
 ^bslash           ᐠ
-^eth              ᶞ
-^feng             𐞐
-
+^to               ⠀⃗
+^from             ⠀⃖
+^right            ⠀⃗
+^left             ⠀⃖
 ^up               ꜛ
 ^down             ꜜ
 ^updown           ꜛꜜ
@@ -6082,10 +6083,11 @@ wudot             ᐧ  # [u]pper
 ^rang             ˃
 ^uang             ˄
 ^dang             ˅
+^divby            ᐟ
+^eth              ᶞ
+^feng             𐞐
 
-_ast               ͙
-_from             ˿
-_back             ˿
+_ast              ⠀͙
 _bul               ٜ
 _bang             ﹗
 _bowtie           ⑅
@@ -6103,16 +6105,20 @@ _lang             ˱
 _rang             ˲
 _uang             ˰
 _dang             ˯
+
+_to               ⠀⃯
+_right            ⠀⃯
+_from             ⠀⃮  # WARN: decorated for consistency
+_left             ⠀⃮  # WARN: decorated for consistency
+_left,            ˿  # INFO: atomic (non-decorated)
+_back             ˿  # INFO: atomic (non-decorated)
+_arrl             ⠀⃮  # WARN: decorated for consistency
+_arrr             ⠀⃯
 _arru             ￪  # XXX: abuse: half-width for subscript
 _arrd             ￬  # XXX: abuse: half-width for subscript
-_arrl             ￩  # XXX: abuse: half-width for subscript
-_arrr             ￫  # XXX: abuse: half-width for subscript
 _up               ￪  # XXX: abuse: half-width for subscript
 _down             ￬  # XXX: abuse: half-width for subscript
-_left             ￩  # XXX: abuse: half-width for subscript
-_right            ￫  # XXX: abuse: half-width for subscript
 
-^divby            ᐟ
 _plus             ˖
 _minus            ˗
 _lambda           ⲗ
