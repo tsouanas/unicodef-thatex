@@ -22,19 +22,34 @@ nnbspc               # [n]arrow
 nnbsp                # [n]arrow
 nbh               ‑  # [n]o-[b]reak [h]yphen
 nb-               ‑  #
+enspc              
+emspc              
+quad                 # WARN: actually an em space
+enquad               # WARN: use enspc instead
+emquad               # WARN: use emspc instead
+nobr              ⁠  # [no] [br]eak (word joiner)
+wj                ‍⁠  # [w]ord [j]oiner
+zspc              ​  # [z]ero-width space
+0spc              ​
+zwnj              ‌   # [z]ero-[w]idth [n]on-[j]oiner
+zwj               ‍   # [z]ero-[w]idth [j]oiner
+cjkspc            　  # CJK width space
+numspc               # [num]erical digit width
+figspc               # (numerical) [fig]ure width
+phantom0           
+dspc                 # [d]igit [spc] (synonym for above)
+puncspc              # [punc]tuation
+eol                  # [e]nd [o]f [l]ine
+eop                  # [e]nd [o]f [p]aragraph
 thinspc            
 thin               
 hairspc            
-enspc              
-emspc              
-enquad             
-emquad             
-quad               
-zspc              ​  # [z]ero
-0spc              ​
-mspc                 # [m]athematical
+mspc                 # [m]athematical (also [m]edium)
 fapp                 # [f]unction [app]lication
 fspc                 # (synonym for above)
+1/3em                # [1/3] of [em] space (three-per-em)
+1/4em              
+1/6em              
 fjux              ⁡  # WARN: considered "fapp" by Unicode
 jux               ⁢  # [juxt]aposition
 jspc              ⁢
@@ -42,15 +57,17 @@ ideospc           　
 ispc              　
 brspc             ⠀  # braille blank pattern
 ogspc                # ogham space
-phantom0           
-phdig                # [ph]antom [dig]it
-dspc                 # [d]igit [spc] (synonym for above)
-phantom,          ⁣  # [phantom] [,]  (invisible separator)
-,                 ⁣
+phantom           ⁣  # [phantom] (invisible separator)
+,                 ⁣  # invisible separator
+space             ␣
+space,            ⠀  # XXX: abuse: braille blank pattern
+space,,              # XXX: abuse: ogham space
 blank             ⠀  # XXX: abuse: braille blank pattern
 blank,               # XXX: abuse: ogham space
-space             ⠀  # XXX: abuse: braille blank pattern
-space,               # XXX: abuse: ogham space
+
+\n                 # NEL (new line)
+\t                	   # (horizontal) tab
+\f                 # form feed (Ctrl-L)
 
 # %}}}
 
