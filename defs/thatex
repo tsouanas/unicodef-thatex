@@ -237,6 +237,9 @@ dddag             ‡  # (triple)
 2dag              ‡
 3dag              ⹋
 codag             ⸸
+bmdag             ⸸
+ldag              ⸶
+rdag              ⸷
 bullet            •  # WARN: bul is not short for bullet
 wbullet           ◦  # [w]hite
 bbul              •
