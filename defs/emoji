@@ -57,8 +57,6 @@ package     📦
 parcel      📦
 cargo       📦
 envelope    ✉️
-fart        ⸩💨
-prrt        ⸩💨
 fireworks   🎆
 firew       🎆
 fireworks,  🎇
@@ -156,6 +154,8 @@ scuba       🤿
 soap        🧼
 sponge      🧽
 splatter    🫟
+yuck        🫟
+goo         🫟
 sunglasses  🕶
 sglasses    🕶
 shades      🕶
@@ -200,7 +200,6 @@ magl        🔍
 magr        🔎
 
 # %}}}
-
 # transport %{{{ 
 
 car           🚙
@@ -243,7 +242,6 @@ highway       🛣
 motorway      🛣
 
 # %}}}
-
 # signs %{{{
 
 WIP            🚧
@@ -327,7 +325,6 @@ nokids         🔞
 adultsonly     🔞
 
 # %}}}
-
 # text %{{{
 
 NO          ❌
@@ -347,7 +344,6 @@ VS          🆚
 vs          🆚
 
 # %}}}
-
 # violence-promoting %{{{
 
 blood         🩸
@@ -434,7 +430,6 @@ creature      🫈
 bigfoot       🫈
 
 # %}}}
-
 # music %{{{
 
 accordion   🪗
@@ -467,7 +462,6 @@ trumpet     🎺
 violin      🎻
 
 # %}}}
-
 # sports and games %{{{
 
 basket      🏀
@@ -492,7 +486,6 @@ runnerw     🏃‍♀️
 runnerm     🏃‍♂️
 
 # %}}}
-
 # tech %{{{
 
 laptop      💻
@@ -520,7 +513,6 @@ vhs         📼
 cellphone   📱
 
 # %}}}
-
 # weather / space %{{{
 
 suncloud      🌤️
@@ -575,7 +567,6 @@ galaxy        🌌
 milky         🌌
 
 # %}}}
-
 # clock %{{{
 
 C01h00        🕐
@@ -604,7 +595,6 @@ C11h30        🕦
 C12h30        🕧
 
 # %}}}
-
 # animals %{{{
 
 bat         🦇
@@ -630,6 +620,7 @@ ganso       🪿
 glenda      🐇
 hippo       🦛
 ladybug     🐞
+lion        🦁
 joan        🐞
 lobster     🦞
 moo         🐮
@@ -657,7 +648,6 @@ tsouf       🐳
 wolf        🐺
 
 # %}}}
-
 # cats %{{{
 
 cat         🐈
@@ -676,13 +666,14 @@ catsmirk    😼
 catwry      😼
 catkiss     😽
 catgrr      😾
+catgrmf     😾
+catangry    😾
 catcry      😿
 cattear     😿
 catsad      😿
 catscream   🙀
 
 # %}}}
-
 # plants & fungi %{{{
 
 rose        🌹
@@ -716,7 +707,6 @@ mushroom    🍄
 shroom      🍄
 
 # %}}}
-
 # food & drinks %{{{
 
 apple       🍎
@@ -798,7 +788,6 @@ plate       🍽
 spoon       🥄
 
 # %}}}
-
 # faces / emotions %{{{
 
 noprofile   👤
@@ -822,9 +811,7 @@ witness     👁️‍🗨️
 yell,       🗣📢
 shout,      🗣📢
 zzz         💤
-snor        💤
 zzz,        😴
-snor,       😴
 inbed       🛌
 bed         🛏
 footp       👣
@@ -835,7 +822,9 @@ fingerp     🫆
 fprint      🫆
 thugl       🚬😎
 thugr       😎🚬
+whistle     😗🎶
 inno        😗🎶
+inno,       😇
 laugh       😆
 lol         😂
 lmao        😂
@@ -854,13 +843,17 @@ cloudlook   😶‍🌫️
 cloudface   😶‍🌫️
 fogface     😶‍🌫️
 mistface    😶‍🌫️
+fart        ⸩💨
+prrt        ⸩💨
+fartface    😶‍🌫️
+farted      😶‍🌫️
+farter      ⸩💨
+fartee      😶‍🌫️
 hidemouth   🫢
 holdmouth   🫢
 hmouth      🫢
 smiley      🙂
 happy       🙂
-happy,      😀
-happy,,     😃
 Happy       😀
 HAPPY       😃
 yppah       🙃
@@ -872,55 +865,94 @@ dunno       😐
 frowny      🙁
 sad         🙁
 Sad         ☹️
+SAD         ☹️
 lying       🤥
 bignose     🤥
+pinocchio   🤥
+pino        🤥
 shaken      🫨
 quake       🫨
 cowboy      🤠
 yeeha       🤠
 psycho      😀🔪
 psycho,     🔨😀
+Psycho      🔨😀
 eyesonly    😶
 stare       😶
-poker       😶
+Stare       👀
+poker       😑
+poker,      😶
 looks       😶
 looking     😶
+mouthless   😶
+nomouth     😶
 invis       🫥
-kiss        😘
+shy         ☺️
+shykiss     😚
+blushkiss   😚
+kiss        😗
+Kiss        😘
+blowkiss    😘
+kissblow    😘
 kiss,       💋
 kissmark    💋
+kisslips    💋
+firstkiss   😙
+blindkiss   😙
+smack       😘
+kisswink    😘
+kissw       😘
+kisslove    😘
+kissh       😘
 loved       🥰
 inlove      😍
 instar      🤩
 stareyes    🤩
 'sup        😏
 smirk       😏
-ouch        😕
-confused    😕
 yessir      🫡
 salute      🫡
 salut       🫡
+ouch        😕
+confused    😕
+sorry       😕
 notcool     🫤
 ncool       🫤
 meh         🫤
-meh,        😒
+Meh         😒
+MEH         😮‍💨
+gasp        😮
+Gasp        😯
+GASP        😲
+whaa        😮
+wow         😮
 woah        😯
 Woah        😲
-gasp        😮
 blush       😳
 embar       😳
-shy         ☺️
+gulp        😳
+gloup       😳
 flattered   😊
 flatter     😊
 woohoo      😀
-woohoo,     😀
 Woohoo      😃
 teeth       😁
 grin        😁
+grin,       😄
 ogrin       😄
+giggle      😁
+Giggle      😄
+ohno        😦
+Ohno        😧
+OHNO        😨
+OHNOO       😰
 fear        😦
-Fear        😨
+Fear        😧
+FEAR        😨
 terror      😨
+Terror      😰
+horror      😨
+Horror      😰
 tripping    🫪
 distorted   🫪
 distort     🫪
@@ -928,21 +960,46 @@ worry       😟
 worried     😟
 Worry       😰
 Worried     😰
+pleaseno    😟
+grief       😥
+helpless    😥
+accept      😞
+accept,     😓
+coldsweat   😓
+hotsweat    🥵
+fearsweat   😰
+laughsweat  😅
+lolsweat    😅
+sweatc      😓
+sweath      🥵
+sweatf      😰
+sweatlol    😅
+csweat      😓
+hsweat      🥵
+fsweat      😰
 sweat       😅
 nervous     😅
 phew        😅
+hahano      😅
 snot        😪
 tired       😪
+happytear   🥲
+htear       🥲
+sadin       🥲  # [sad] [in]side
+thmm        🥲  # θ. μ. μ.
 sadtear     😢
 stear       😢
 lygm        😢
 cry         😢
-cry,        😭
 Cry         😭
-CRY         😭
+CRY         😭😭
 angry       😠
 angry,      😡
 Angry       😡
+ANGRY       🤬
+pissed      😠
+Pissed      😡
+PISSED      🤬
 grr         😠
 grrr        😡
 Grr         😡
@@ -954,17 +1011,27 @@ evil        😈
 good        😇
 halo        😇
 angel       👼
-happytear   🥲
-htear       🥲
-sadin       🥲  # [sad] [in]side
-thmm        🥲  # θ. μ. μ.
 weary       😩
 wah         😩
 wah,        😫
 Wah         😫
 WAH         😫
-aarg        😫
+arg         😣
+Arg         😫
+ARG         😫😫
+argh        😣
+Argh        😫
+ARGH        😫😫
+notears     😣
+notear      😣
+notcry      😣
+precry      😣
+unbear      😣
+laststraw   😣
+ffs         😣
+brr         😖
 yawn        🥱
+bored       🥱
 zany        🤪
 gagadi      🤪
 gaga        🤪
@@ -973,6 +1040,8 @@ slurp       😋
 yum         😋
 wink        😉
 wink,       😜
+Wink        😜
+winkkiss    😘
 duh         😜
 silly       😛
 tongout     😛
@@ -985,13 +1054,17 @@ zipface     🤐
 zip         🤐
 melt        🫠
 peek        🫣
+sleeping    😴
 sleep       😴
+snore       😴🗯💤
+snor        😴🗯💤
 hmm         🤔
 huh         😒
 huh?        🤨
 huh,        🤨
 eyebrow     🤨
 unamused    😒
+annoyed     😒
 lame        😒
 pff         😒
 notfunny    😒
@@ -999,8 +1072,10 @@ nfunny      😒
 mrld        🤨
 eek         😬
 tweek       😬
+eyeroll     🙄
 roll        🙄
 lookatme    😌
+metido      😌
 woe         😔
 dead        😵
 xeyes       😵
@@ -1033,15 +1108,20 @@ naus        🤢
 yikes       🤢
 vomit       🤮
 puke        🤮
+mask        😷
+covid       😷
 sniff       🤧
 sneeze      🤧
+flu         🤧
+rnose       🤧
+myxa        🤧
 injured     🤕
 injur       🤕
 hurt        🤕
+headache    🤕
 dodoi       🤕
 fever       🤒
 sick        🤒
-mask        😷
 mind        🤯
 blown       🤯
 party       🥳
@@ -1051,6 +1131,7 @@ cool        😎
 nerd        🤓
 geek        🤓
 monocle     🧐
+monoc       🧐
 wally       🧐
 mistys      🥺  # [misty]-eyed [s]ad
 mistyh      🥹  # [h]appy
@@ -1120,6 +1201,7 @@ lalala,     🫸😄🫷
 killme      😩🔫
 raise       🙋
 moutza      🖐
+Moutza      🖐🖐
 2moutza     🖐🖐
 shrug       🤷
 noway       🙅
@@ -1129,6 +1211,7 @@ fpalm       🤦
 selfie      🤳
 nails       💅
 lips        👄
+mouth       👄
 bitelip     🫦
 lipbite     🫦
 flex        💪
@@ -1200,7 +1283,8 @@ callh       🤙
 callme      🤙
 callyou     🤙
 callu       🤙
-callw       🤙🙄  # [callw]aiting
+callwait    🤙🙄
+callw       🤙🙄
 callw,      🤙😖
 Callw       🤙😖
 howmuch     🫰
@@ -1210,7 +1294,6 @@ noface      🟡
 faceless    🟡
 
 # %}}}
-
 # colors %{{{ 
 
 reds       🟥  # [red] [s]hade (also plural; also 3rd conj; also [s]quare)
@@ -1259,7 +1342,6 @@ wlight     ⚪
 nolight    ⚫
 
 # %}}}
-
 # hearts %{{{ 
 
 Heart       ❤️
@@ -1322,9 +1404,9 @@ Bangh       ❣️
 lovesign    💟
 
 # %}}}
-
 # software %{{{
 
+tex         🦁
 openbsd     🐡
 freebsd     😈
 netbsd      🚩
@@ -1333,9 +1415,14 @@ plan9       🐇
 linux       🐧
 macos       🍎
 windows     🪟
+agda        🐔
+coq         🐓
+rocq        🐓
+rust        🦀
+python      🐍
+postgres    🐘
 
 # %}}}
-
 # music player (/-prefixed) %{{{
 
 /Play       ▶️
@@ -1364,6 +1451,24 @@ windows     🪟
 /Rep1       🔂
 
 # %}}}
+# non-regional flags (\-prefixed) %{{{
+
+\black       🏴
+\white       🏳️
+\red         🚩
+\bflag       🏴
+\wflag       🏳️
+\rflag       🚩
+\pirate      🏴‍☠️
+\jolly       🏴‍☠️
+\jr          🏴‍☠️
+\gay         🏳️‍🌈
+\trans       🏳️‍⚧️
+\ska         🏁
+\race        🏁
+\golf        🚩
+
+# %}}}
 
 # %{{{ forced-emoji versions 
 
@@ -1379,7 +1484,9 @@ Pick          ⛏️
 Sign          ✍️
 Shamrock      ☘️
 Sham          ☘️
+Smooch        😘
 Snowman       ☃️
+Splat         🫟
 Sun           ☀️
 Swords        ⚔️
 Timer         ⏲️
@@ -1433,25 +1540,6 @@ Write         ✍️
 @l          ‍⬅️
 @>          ‍➡️
 @<          ‍⬅️
-
-# %}}}
-
-# non-regional flags (\-prefixed) %{{{
-
-\black       🏴
-\white       🏳️
-\red         🚩
-\bflag       🏴
-\wflag       🏳️
-\rflag       🚩
-\pirate      🏴‍☠️
-\jolly       🏴‍☠️
-\jr          🏴‍☠️
-\gay         🏳️‍🌈
-\trans       🏳️‍⚧️
-\ska         🏁
-\race        🏁
-\golf        🚩
 
 # %}}}
 
