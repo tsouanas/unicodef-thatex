@@ -140,9 +140,8 @@ inoremap \*9 ⸴
 inoremap \*6 ⸲
 inoremap \*, ⸴
 inoremap \** ∗
-inoremap \*<Bar> ⁑
 inoremap \*: ⁑
-inoremap \:* ⁑
+inoremap \:* ⍣
 inoremap \:' ⹄
 inoremap \:/ ⹄
 inoremap \0+ ⨢

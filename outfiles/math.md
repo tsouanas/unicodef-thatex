@@ -141,9 +141,8 @@
 | <code>*6</code> | ⸲ |
 | <code>*,</code> | ⸴ |
 | <code>**</code> | ∗ |
-| <code>*&vert;</code> | ⁑ |
 | <code>*:</code> | ⁑ |
-| <code>:*</code> | ⁑ |
+| <code>:*</code> | ⍣ |
 | <code>:'</code> | ⹄ |
 | <code>:/</code> | ⹄ |
 | <code>0+</code> | ⨢ |

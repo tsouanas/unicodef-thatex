@@ -90,7 +90,7 @@
     ">" = ("insertText:", "⤑");
     "/" = ("insertText:", "⹄");
     "'" = ("insertText:", "⹄");
-    "*" = ("insertText:", "⁑");
+    "*" = ("insertText:", "⍣");
     "." = ("insertText:", "∵");
     ":" = ("insertText:", "∷");
     "\\~" = ("insertText:", "∻");
@@ -505,7 +505,6 @@
   };
   "*" = {
     ":" = ("insertText:", "⁑");
-    "|" = ("insertText:", "⁑");
     "*" = ("insertText:", "∗");
     "," = ("insertText:", "⸴");
     "6" = ("insertText:", "⸲");
