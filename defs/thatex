@@ -13,8 +13,11 @@
 
 # spaces and (no)linebreaks %{{{
 
+space             ␣
 vspc              ␣  # [v]isible [sp]a[c]e
 spc               ␣  # (synonym)
+blank             ⠀  # XXX: abuse: braille blank pattern
+blank,               # XXX: abuse: ogham space
 nbsyl             ⁞  # [n]o-[b]reak [syl]lable
 nbspc                # [n]o-[b]reak [sp]a[c]e
 nbsp                 # [n]o-[b]reak [sp]ace
@@ -38,7 +41,7 @@ numspc               # [num]erical digit width
 figspc               # (numerical) [fig]ure width
 phantom0           
 dspc                 # [d]igit [spc] (synonym for above)
-puncspc              # [punc]tuation
+puncspc              # [punc]tuation [spc]
 eol                  # [e]nd [o]f [l]ine
 eop                  # [e]nd [o]f [p]aragraph
 thinspc            
@@ -47,23 +50,21 @@ hairspc            
 mspc                 # [m]athematical (also [m]edium)
 fapp                 # [f]unction [app]lication
 fspc                 # (synonym for above)
-1/3em                # [1/3] of [em] space (three-per-em)
-1/4em              
-1/6em              
 fjux              ⁡  # WARN: considered "fapp" by Unicode
 jux               ⁢  # [juxt]aposition
 jspc              ⁢
+phantom           ⁣  # [phantom] (invisible separator)
+,                 ⁣  # invisible separator
+invtimes          ⁢  # [inv]isible [times]
+invsep            ⁣  # [sep]arator
+invplus           ⁤  # [plus]
+1/3em                # [1/3] of [em] space (three-per-em)
+1/4em              
+1/6em              
 ideospc           　
 ispc              　
 brspc             ⠀  # braille blank pattern
 ogspc                # ogham space
-phantom           ⁣  # [phantom] (invisible separator)
-,                 ⁣  # invisible separator
-space             ␣
-space,            ⠀  # XXX: abuse: braille blank pattern
-space,,              # XXX: abuse: ogham space
-blank             ⠀  # XXX: abuse: braille blank pattern
-blank,               # XXX: abuse: ogham space
 
 \n                 # NEL (new line)
 \t                	   # (horizontal) tab
@@ -6103,10 +6104,10 @@ wudot             ᐧ  # [u]pper
 ^tri              ᐞ
 ^slash            ᐟ
 ^bslash           ᐠ
-^to               ⁣⃗
-^from             ⁣⃖
-^right            ⁣⃗
-^left             ⁣⃖
+^to                ⃗
+^right             ⃗
+^from              ⃖
+^left              ⃖
 ^up               ꜛ
 ^down             ꜜ
 ^updown           ꜛꜜ
@@ -6142,14 +6143,15 @@ _rang             ˲
 _uang             ˰
 _dang             ˯
 
-_to               ⁣⃯
-_right            ⁣⃯
-_from             ⁣⃮  # WARN: decorated for consistency
-_left             ⁣⃮  # WARN: decorated for consistency
+_to                ⃯
+_right             ⃯
+_from              ⃮  # WARN: decorated for consistency
+_from,            ˿  # INFO: atomic (non-decorated)
+_left              ⃮  # WARN: decorated for consistency
 _left,            ˿  # INFO: atomic (non-decorated)
 _back             ˿  # INFO: atomic (non-decorated)
-_arrl             ⁣⃮  # WARN: decorated for consistency
-_arrr             ⁣⃯  # WARN: decorated for consistency
+_arrr              ⃯
+_arrl              ⃮  # WARN: decorated for consistency
 _arru             ￪  # XXX: abuse: half-width for subscript
 _arrd             ￬  # XXX: abuse: half-width for subscript
 _up               ￪  # XXX: abuse: half-width for subscript
@@ -6500,6 +6502,7 @@ not@p             ⨽
 @oright            ⃗
 @ofrom             ⃖
 @oto               ⃗
+@odown             ᪳
 @oparfrom          ⃐
 @oparto            ⃑
 @olt               ᷾
@@ -6695,6 +6698,7 @@ not@p             ⨽
 @uright            ⃯
 @ufrom             ⃮  # (arrow)
 @uto               ⃯
+@uup               ͎
 @uparfrom          ⃭
 @uparto            ⃬
 @ult               ͔  # WARN: abuse: arrowheads
