@@ -16,6 +16,7 @@ comet         ☄
 cloud         ☁
 umbrella      ☂
 snowman       ☃
+snowflake     ❄
 shamrock      ☘
 sham          ☘
 celt          🕈
@@ -97,7 +98,7 @@ prohib        🛇
 recycle       ♻
 recycle,      ♺
 recycle,,     ♽
-recycle,,,    ♼
+recycle,3     ♼
 biohaz        ☣
 toxic         ☣
 poison        ☠
@@ -135,6 +136,7 @@ tsiour        ⍩
 tsiou         ⍩  # default: [r]
 bichinho      ⍾
 lucas         ⌖
+diax          ❖  # [dia]mond - [x]
 
 gandalf       ᚠ
 provatinaa    𐘐  # Linear A
@@ -150,8 +152,10 @@ flip          ╭∩╮
 
 # sports %{{{
 
-3x3           𝓔𝓧𝟑
-trinca        𝓔𝓧𝟑
+3x3           Ɛ×Ɜ
+3x3,          Ɛ𝒳3
+trinca        Ɛ×Ɜ
+trinca,       Ɛ𝒳3
 
 # %}}}
 
