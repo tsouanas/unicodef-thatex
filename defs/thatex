@@ -6142,14 +6142,14 @@ _rang             ˲
 _uang             ˰
 _dang             ˯
 
-_to               ⠀⃯
-_right            ⠀⃯
-_from             ⠀⃮  # WARN: decorated for consistency
-_left             ⠀⃮  # WARN: decorated for consistency
+_to               ⁣⃯
+_right            ⁣⃯
+_from             ⁣⃮  # WARN: decorated for consistency
+_left             ⁣⃮  # WARN: decorated for consistency
 _left,            ˿  # INFO: atomic (non-decorated)
 _back             ˿  # INFO: atomic (non-decorated)
-_arrl             ⠀⃮  # WARN: decorated for consistency
-_arrr             ⠀⃯
+_arrl             ⁣⃮  # WARN: decorated for consistency
+_arrr             ⁣⃯  # WARN: decorated for consistency
 _arru             ￪  # XXX: abuse: half-width for subscript
 _arrd             ￬  # XXX: abuse: half-width for subscript
 _up               ￪  # XXX: abuse: half-width for subscript
