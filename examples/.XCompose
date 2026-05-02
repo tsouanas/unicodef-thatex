@@ -1,10 +1,16 @@
 # example ~/.XCompose file for use with unicodef
 
-# locale-specific default Compose file
-include "%L"
+# Uncomment the following include line only if you need to load
+# all of the locale-specific, built-in sequences of XCompose.
+# (Not recommended.)
 
-# unicodef
+#include "%L"
+
+# unicodef-compiled sequences
+# NOTE: %H denotes the homedir of your user
+
 include "%H/.unicodef/unicodefs.XCompose"
 
-# place your manual XCompose definitions below this line
-
+# Place your manual XCompose definitions below these lines
+# or, even better, on a separate file and have it included
+# from this one.
