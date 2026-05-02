@@ -264,7 +264,6 @@ heder             ❧  # [hede]ra [r]ight
 hedel             ☙
 ramulus           ⸙
 palmula           ⸙
-
 nwleaf            🙐  # [n]orth [w]est pointing [leaf]
 swleaf            🙑
 neleaf            🙒
@@ -426,7 +425,6 @@ opt               ⌥
 alt               ⎇
 at                @
 esc               ⎋
-bell              ⍾
 bel               ⍾
 compose           ⎄
 cmp               ⎄
@@ -607,6 +605,10 @@ woi               ⚒  # [w]orking [o]n [i]t
 luck              ☘
 fight             ⚔
 nuclear           ☢
+turnpagel         ⮨
+turnpager         ⮩
+turnprev          ⮨
+turnnext          ⮩
 
 # %}}}
 
@@ -2352,6 +2354,13 @@ bi                ↔
 to,               ⇾
 from,             ⇽
 bi,               ⇿
+wto               ⇾  # [w]hite
+wfrom             ⇽
+wbi               ⇿
+bbto              ➾
+invisfrom         🢐
+invisto           🢒
+invisbi           🢐🢒  # WARN: actually 2 chars
 tofrom            ⇄
 fromto            ⇆
 toto              ⇉
@@ -2819,6 +2828,11 @@ expsto            ⤳  # [exp]and[s] [to]
 expsfrom          ⬿
 expto             ⤳  # [exp]and[s] [to]
 expfrom           ⬿
+rsumbox           ◧  # in[r] value of a [sum]type as [box]
+lsumbox           ◨
+sumboxr           ◧
+sumboxl           ◨
+pairbox           ◫
 
 splat             ⊛
 pbind             ≫=  # [p]retty [bind]
@@ -2930,14 +2944,9 @@ heq               ≍   # [h]eterogenous [eq]uality
 
 ## names of types / elements %{{{
 
-=0                𝟘
-=1                𝟙
-=2                𝟚
-=3                𝟛
-=n                𝕟
-Empty             𝟘
-Unit              𝟙
-Two               𝟚
+Empty             𝟬
+Unit              𝟭
+Two               𝟮
 false             𝚏𝚊𝚕𝚜𝚎
 true              𝚝𝚛𝚞𝚎
 tt                𝘵𝘵
@@ -3279,10 +3288,18 @@ v3from            ⤊
 
 ## names of cats %{{{
 
-ZERO              𝟎
-ONE               𝟏
-TWO               𝟐
-THREE             𝟑
+=0                𝟘
+=1                𝟙
+=2                𝟚
+=3                𝟛
+=n                𝕟
+=m                𝕞
+ZERO              𝟘
+ONE               𝟙
+TWO               𝟚
+THREE             𝟛
+EN                𝕟
+EM                𝕞
 CAT               𝐂𝐚𝐭
 SET               𝐒𝐞𝐭
 FUN               𝐅𝐮𝐧
@@ -3325,6 +3342,7 @@ RNG               𝐑𝐧𝐠
 RIG               𝐑𝐢𝐠
 MODULE            𝐌𝐨𝐝𝐮𝐥𝐞
 MOD               𝐌𝐨𝐝
+FIELD             𝐅𝐢𝐞𝐥𝐝
 VECT              𝐕𝐞𝐜𝐭
 VCT               𝐕𝐜𝐭
 FINVECT           𝐅𝐢𝐧𝐕𝐞𝐜𝐭
@@ -3348,6 +3366,9 @@ HEYTALG           𝐇𝐞𝐲𝐭𝐀𝐥𝐠
 BOOLALG           𝐁𝐨𝐨𝐥𝐀𝐥𝐠
 HALG              𝐇𝐞𝐲𝐭𝐀𝐥𝐠
 BALG              𝐁𝐨𝐨𝐥𝐀𝐥𝐠
+HEY               𝐇𝐞𝐲
+BOOL              𝐁𝐨𝐨𝐥
+CHEY              𝐂𝐇𝐞𝐲
 HA                𝐇𝐀
 BA                𝐁𝐀
 MODEL             𝐌𝐨𝐝𝐞𝐥
@@ -4638,6 +4659,8 @@ nwtriangle        ◸
 swtriangle        ◺
 setriangle        ◿
 netriangle        ◹
+bwtriangle        ◭
+wbtriangle        ◮
 nwsq              ◰
 swsq              ◱
 sesq              ◲
@@ -4650,6 +4673,8 @@ nwtri             ◸
 swtri             ◺
 setri             ◿
 netri             ◹
+bwtri             ◭
+wbtri             ◮
 
 # %}}}
 
@@ -5001,6 +5026,7 @@ dia               ◇  # [dia]mond
 sdia              ⋄  # [s]mall
 bdia              ⬩  # [b]lack
 loz               ⬫  # [loz]enge
+wloz              ⬪  # [w]hite
 bloz              ⬪  # [b]lack
 Loz               ◊  # (big)
 sq                ▫  # [sq]uare
@@ -5036,6 +5062,11 @@ sqh               ▤  # [h]orizontal lines in [sq]uare
 sqv               ▥  # [v]ertical
 sqb               ▧  # [b]ackslash lines in [sq]uare
 sqs               ▨  # [s]lash
+bwsqh             ◧  # [b]lack-[w]hite [sq]uare
+wbsqh             ◨
+wwsqh             ◫
+bwsqs             ◩
+wbsqs             ◪
 rows              ▤
 cols              ▥
 grid              ▦
@@ -5190,11 +5221,11 @@ triminus          ⨺
 tritimes          ⨻
 tridot            ◬
 tris              ⧌
-trplus            ⨹
-trminus           ⨺
-trtimes           ⨻
-trdot             ◬
-trs               ⧌
+trplus            ⨹  # WARN: pre-deprecated
+trminus           ⨺  # WARN: pre-deprecated
+trtimes           ⨻  # WARN: pre-deprecated
+trdot             ◬  # WARN: pre-deprecated
+trs               ⧌  # WARN: pre-deprecated
 diadot            ⟐
 lozminus          ⟠
 verttri           ⍋
@@ -5357,6 +5388,7 @@ eqr               =⃗
 eql               =⃖
 baldeq            ≘
 triangleq         ≜
+trieq             ≜
 treq              ≜
 deltaeq           ≜
 Deq               ≜  # [D]elta/efinition
@@ -5716,6 +5748,10 @@ stalldrop         ⭝
 stallfall         ⭝
 stallu            ⭜
 stalld            ⭝
+invisd            🢓
+invisl            🢐
+invisr            🢒
+invisu            🢑
 halfu             ￪  # half-width arrows
 halfd             ￬
 halfl             ￩
