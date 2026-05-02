@@ -150,6 +150,39 @@ flip          ╭∩╮
 
 # %}}}
 
+## dingbat arrows %{{{
+
+thisp          ➤  # [p]ointy arrowhead
+thisp,         ➢
+thisp,,        ➣
+thisp,2        ➣
+thisa          ➙  # [a]rrow
+thisa,         ➙
+thisa,,        ➛
+thisa,1        ➙
+thisa,2        ➛
+thisa,3        ➡
+thisa,4        ➔
+thisa,5        ➞
+thisa,6        ➜
+thisa,7        ➟
+thisa,8        ➠
+thisa,9        ➨
+thisa,a        ➧
+thisa,b        ➭
+thisa,c        ➯
+thist          ➺  # [t]eardrop
+thisf          ➳  # [f]eathered
+thisf,         ➵
+thisf,,        ➸
+thisf,3        ➼
+thisfse        ➴
+thisfne        ➶
+thisfse,       ➷
+thisfne,       ➹
+
+# %}}}
+
 # sports %{{{
 
 3x3           Ɛ×Ɜ
