@@ -8029,7 +8029,7 @@ inoremap \\coprod ⨿
 inoremap \\Coprod ∐
 inoremap \\op ᵒᵖ
 inoremap \\ab ᵃᵇ
-inoremap \\arrcat ⠀⃗
+inoremap \\arrcat ⁣⃗
 inoremap \\diag Δ
 inoremap \\codiag ∇
 inoremap \\loop ⟲
@@ -10722,10 +10722,10 @@ inoremap \\^triangle ᐞ
 inoremap \\^tri ᐞ
 inoremap \\^slash ᐟ
 inoremap \\^bslash ᐠ
-inoremap \\^to ⠀⃗
-inoremap \\^from ⠀⃖
-inoremap \\^right ⠀⃗
-inoremap \\^left ⠀⃖
+inoremap \\^to ⁣⃗
+inoremap \\^from ⁣⃖
+inoremap \\^right ⁣⃗
+inoremap \\^left ⁣⃖
 inoremap \\^up ꜛ
 inoremap \\^down ꜜ
 inoremap \\^updown ꜛꜜ

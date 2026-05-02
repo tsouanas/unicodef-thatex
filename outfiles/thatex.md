@@ -2799,7 +2799,7 @@
 | <code>Coprod</code> | ∐ |
 | <code>op</code> | ᵒᵖ |
 | <code>ab</code> | ᵃᵇ |
-| <code>arrcat</code> | ⠀⃗ |
+| <code>arrcat</code> | ⁣⃗ |
 | <code>diag</code> | Δ |
 | <code>codiag</code> | ∇ |
 | <code>loop</code> | ⟲ |
@@ -5492,10 +5492,10 @@
 | <code>^tri</code> | ᐞ |
 | <code>^slash</code> | ᐟ |
 | <code>^bslash</code> | ᐠ |
-| <code>^to</code> | ⠀⃗ |
-| <code>^from</code> | ⠀⃖ |
-| <code>^right</code> | ⠀⃗ |
-| <code>^left</code> | ⠀⃖ |
+| <code>^to</code> | ⁣⃗ |
+| <code>^from</code> | ⁣⃖ |
+| <code>^right</code> | ⁣⃗ |
+| <code>^left</code> | ⁣⃖ |
 | <code>^up</code> | ꜛ |
 | <code>^down</code> | ꜜ |
 | <code>^updown</code> | ꜛꜜ |
