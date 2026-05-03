@@ -5231,8 +5231,11 @@ inoremap \\hobng ᛝ
 inoremap \\hobeo ᛇ
 inoremap \\hoboo ᛳ
 inoremap \\hobsh ᛲ
+inoremap \\space ␣
 inoremap \\vspc ␣
 inoremap \\spc ␣
+inoremap \\blank ⠀
+inoremap \\blank,  
 inoremap \\nbsyl ⁞
 inoremap \\nbspc  
 inoremap \\nbsp  
@@ -5265,23 +5268,21 @@ inoremap \\hairspc  
 inoremap \\mspc  
 inoremap \\fapp  
 inoremap \\fspc  
-inoremap \\1/3em  
-inoremap \\1/4em  
-inoremap \\1/6em  
 inoremap \\fjux ⁡
 inoremap \\jux ⁢
 inoremap \\jspc ⁢
+inoremap \\phantom ⁣
+inoremap \\, ⁣
+inoremap \\invtimes ⁢
+inoremap \\invsep ⁣
+inoremap \\invplus ⁤
+inoremap \\1/3em  
+inoremap \\1/4em  
+inoremap \\1/6em  
 inoremap \\ideospc 　
 inoremap \\ispc 　
 inoremap \\brspc ⠀
 inoremap \\ogspc  
-inoremap \\phantom ⁣
-inoremap \\, ⁣
-inoremap \\space ␣
-inoremap \\space, ⠀
-inoremap \\space,,  
-inoremap \\blank ⠀
-inoremap \\blank,  
 inoremap \\\n 
 inoremap \\\t 	
 inoremap \\\f 
@@ -10722,10 +10723,10 @@ inoremap \\^triangle ᐞ
 inoremap \\^tri ᐞ
 inoremap \\^slash ᐟ
 inoremap \\^bslash ᐠ
-inoremap \\^to ⁣⃗
-inoremap \\^from ⁣⃖
-inoremap \\^right ⁣⃗
-inoremap \\^left ⁣⃖
+inoremap \\^to  ⃗
+inoremap \\^right  ⃗
+inoremap \\^from  ⃖
+inoremap \\^left  ⃖
 inoremap \\^up ꜛ
 inoremap \\^down ꜜ
 inoremap \\^updown ꜛꜜ
@@ -10759,14 +10760,15 @@ inoremap \\_lang ˱
 inoremap \\_rang ˲
 inoremap \\_uang ˰
 inoremap \\_dang ˯
-inoremap \\_to ⁣⃯
-inoremap \\_right ⁣⃯
-inoremap \\_from ⁣⃮
-inoremap \\_left ⁣⃮
+inoremap \\_to  ⃯
+inoremap \\_right  ⃯
+inoremap \\_from  ⃮
+inoremap \\_from, ˿
+inoremap \\_left  ⃮
 inoremap \\_left, ˿
 inoremap \\_back ˿
-inoremap \\_arrl ⁣⃮
-inoremap \\_arrr ⁣⃯
+inoremap \\_arrr  ⃯
+inoremap \\_arrl  ⃮
 inoremap \\_arru ￪
 inoremap \\_arrd ￬
 inoremap \\_up ￪
@@ -11055,6 +11057,7 @@ inoremap \\@oleft ⃖
 inoremap \\@oright ⃗
 inoremap \\@ofrom ⃖
 inoremap \\@oto ⃗
+inoremap \\@odown ᪳
 inoremap \\@oparfrom ⃐
 inoremap \\@oparto ⃑
 inoremap \\@olt ᷾
@@ -11226,6 +11229,7 @@ inoremap \\@uleft ⃮
 inoremap \\@uright ⃯
 inoremap \\@ufrom ⃮
 inoremap \\@uto ⃯
+inoremap \\@uup ͎
 inoremap \\@uparfrom ⃭
 inoremap \\@uparto ⃬
 inoremap \\@ult ͔

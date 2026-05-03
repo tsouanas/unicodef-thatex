@@ -1,8 +1,11 @@
 # thatex (macro)
 | Sequence | Expansion |
 | :------- | :-------: |
+| <code>space</code> | ␣ |
 | <code>vspc</code> | ␣ |
 | <code>spc</code> | ␣ |
+| <code>blank</code> | ⠀ |
+| <code>blank,</code> |   |
 | <code>nbsyl</code> | ⁞ |
 | <code>nbspc</code> |   |
 | <code>nbsp</code> |   |
@@ -35,23 +38,21 @@
 | <code>mspc</code> |   |
 | <code>fapp</code> |   |
 | <code>fspc</code> |   |
-| <code>1/3em</code> |   |
-| <code>1/4em</code> |   |
-| <code>1/6em</code> |   |
 | <code>fjux</code> | ⁡ |
 | <code>jux</code> | ⁢ |
 | <code>jspc</code> | ⁢ |
+| <code>phantom</code> | ⁣ |
+| <code>,</code> | ⁣ |
+| <code>invtimes</code> | ⁢ |
+| <code>invsep</code> | ⁣ |
+| <code>invplus</code> | ⁤ |
+| <code>1/3em</code> |   |
+| <code>1/4em</code> |   |
+| <code>1/6em</code> |   |
 | <code>ideospc</code> | 　 |
 | <code>ispc</code> | 　 |
 | <code>brspc</code> | ⠀ |
 | <code>ogspc</code> |   |
-| <code>phantom</code> | ⁣ |
-| <code>,</code> | ⁣ |
-| <code>space</code> | ␣ |
-| <code>space,</code> | ⠀ |
-| <code>space,,</code> |   |
-| <code>blank</code> | ⠀ |
-| <code>blank,</code> |   |
 | <code>\n</code> |  |
 | <code>\t</code> | 	 |
 | <code>\f</code> |  |
@@ -5492,10 +5493,10 @@
 | <code>^tri</code> | ᐞ |
 | <code>^slash</code> | ᐟ |
 | <code>^bslash</code> | ᐠ |
-| <code>^to</code> | ⁣⃗ |
-| <code>^from</code> | ⁣⃖ |
-| <code>^right</code> | ⁣⃗ |
-| <code>^left</code> | ⁣⃖ |
+| <code>^to</code> |  ⃗ |
+| <code>^right</code> |  ⃗ |
+| <code>^from</code> |  ⃖ |
+| <code>^left</code> |  ⃖ |
 | <code>^up</code> | ꜛ |
 | <code>^down</code> | ꜜ |
 | <code>^updown</code> | ꜛꜜ |
@@ -5529,14 +5530,15 @@
 | <code>_rang</code> | ˲ |
 | <code>_uang</code> | ˰ |
 | <code>_dang</code> | ˯ |
-| <code>_to</code> | ⁣⃯ |
-| <code>_right</code> | ⁣⃯ |
-| <code>_from</code> | ⁣⃮ |
-| <code>_left</code> | ⁣⃮ |
+| <code>_to</code> |  ⃯ |
+| <code>_right</code> |  ⃯ |
+| <code>_from</code> |  ⃮ |
+| <code>_from,</code> | ˿ |
+| <code>_left</code> |  ⃮ |
 | <code>_left,</code> | ˿ |
 | <code>_back</code> | ˿ |
-| <code>_arrl</code> | ⁣⃮ |
-| <code>_arrr</code> | ⁣⃯ |
+| <code>_arrr</code> |  ⃯ |
+| <code>_arrl</code> |  ⃮ |
 | <code>_arru</code> | ￪ |
 | <code>_arrd</code> | ￬ |
 | <code>_up</code> | ￪ |
@@ -5825,6 +5827,7 @@
 | <code>@oright</code> | ⃗ |
 | <code>@ofrom</code> | ⃖ |
 | <code>@oto</code> | ⃗ |
+| <code>@odown</code> | ᪳ |
 | <code>@oparfrom</code> | ⃐ |
 | <code>@oparto</code> | ⃑ |
 | <code>@olt</code> | ᷾ |
@@ -5996,6 +5999,7 @@
 | <code>@uright</code> | ⃯ |
 | <code>@ufrom</code> | ⃮ |
 | <code>@uto</code> | ⃯ |
+| <code>@uup</code> | ͎ |
 | <code>@uparfrom</code> | ⃭ |
 | <code>@uparto</code> | ⃬ |
 | <code>@ult</code> | ͔ |
