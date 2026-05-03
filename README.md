@@ -390,3 +390,4 @@ Please report any bugs you may find.  Examples of bugs:
 [unicodef]:     https://github.com/tsouanas/unicodef
 [ThaTeX]:       https://github.com/tsouanas/thatex
 [WinCompose]:   https://github.com/samhocevar/wincompose
+[Karabiner-Elements]: https://karabiner-elements.pqrs.org/
