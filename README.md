@@ -292,9 +292,9 @@ To use a *micro* sequence _σ_, single-hit the <kbd>⎄ Compose</kbd>
 key and type the sequence _σ_.  In what follows, the <kbd>⎄ Compose</kbd> key is
 
 E.g.: Typing
-<kbd>f</kbd><kbd>u</kbd><kbd>n</kbd><kbd>⎄ Compose</kbd><kbd>c</kbd><kbd>,</kbd><kbd>⎄ Compose</kbd><kbd>a</kbd><kbd>~</kbd><kbd>o</kbd>
+<kbd>f</kbd><kbd>u</kbd><kbd>n</kbd><kbd>⎄ Compose</kbd><kbd>c</kbd><kbd>,</kbd><kbd>⎄ Compose</kbd><kbd>a</kbd><kbd>˜</kbd><kbd>o</kbd>
 or
-<kbd>f</kbd><kbd>u</kbd><kbd>n</kbd><kbd>⎄ Compose</kbd><kbd>,</kbd><kbd>c</kbd><kbd>⎄ Compose</kbd><kbd>~</kbd><kbd>a</kbd><kbd>o</kbd>
+<kbd>f</kbd><kbd>u</kbd><kbd>n</kbd><kbd>⎄ Compose</kbd><kbd>,</kbd><kbd>c</kbd><kbd>⎄ Compose</kbd><kbd>\~</kbd><kbd>a</kbd><kbd>o</kbd>
 writes `função`.
 
 To use a *macro* sequence _σ_, *double-hit* the <kbd>⎄ Compose</kbd> key, type the sequence _σ_, then hit the space key:
