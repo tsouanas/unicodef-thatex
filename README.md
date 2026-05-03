@@ -289,7 +289,15 @@ and then run `make install` or `make macosinstall` accordingly.
 There are two kinds of sequences: **micro** and **macro**.
 
 To use a *micro* sequence _σ_, single-hit the <kbd>⎄ Compose</kbd>
-key and type the sequence _σ_.  In what follows, the <kbd>⎄ Compose</kbd> key is
+key and then type the sequence _σ_.
+
+To use a *macro* sequence _σ_, *double-hit* the <kbd>⎄ Compose</kbd> key,
+type the sequence _σ_, then hit the spacebar <kbd>␣ Space</kbd>.
+
+Schematically:
+
+* using a micro _σ_: <kbd>⎄</kbd>_σ_
+* using a macro _σ_: <kbd>⎄</kbd><kbd>⎄</kbd>_σ_<kbd>␣</kbd>
 
 E.g.: Typing
 <kbd>f</kbd><kbd>u</kbd><kbd>n</kbd><kbd>⎄ Compose</kbd><kbd>c</kbd><kbd>,</kbd><kbd>⎄ Compose</kbd><kbd>a</kbd><kbd>\~</kbd><kbd>o</kbd>
@@ -298,12 +306,11 @@ or
 writes `função`.
 In these examples I have used the micros `c,` and `,c` (either one produces `ç`), and also `a~` and `~a` (either of which produces `ã`).
 
-To use a *macro* sequence _σ_, *double-hit* the <kbd>⎄ Compose</kbd> key, type the sequence _σ_, then hit the space key:
-
-E.g.: Typing <kbd>⎄ Compose</kbd><kbd>⎄ Compose</kbd><kbd>r</kbd><kbd>e</kbd><kbd>a</kbd><kbd>l</kbd><kbd>s</kbd><kbd>␣ Space</kbd> simply writes `ℝ`.
+E.g.: Typing <kbd>⎄</kbd><kbd>⎄</kbd><kbd>r</kbd><kbd>e</kbd><kbd>a</kbd><kbd>l</kbd><kbd>s</kbd><kbd>␣</kbd> simply writes `ℝ`.
 In this example I have used the macro `reals` which produces `ℝ`.
 Notice that, since it is a macro, I am starting with a double-struck ⎄ (<kbd>⎄</kbd><kbd>⎄</kbd>) and I also
-need to strike the spacebar once I am done typing the sequence.  This results in 8 keystrokes in total:
+need to strike the spacebar (<kbd>␣</kbd>) once I am done typing the sequence.
+Thus to use the `reals` macro for obtaining `ℝ` we need 8 keystrokes in total:
 <kbd>⎄</kbd><kbd>⎄</kbd><kbd>r</kbd><kbd>e</kbd><kbd>a</kbd><kbd>l</kbd><kbd>s</kbd><kbd>␣</kbd>
 
 What is <kbd>⎄ Compose</kbd>?  A: You skipped the installation section, I guess, so:
