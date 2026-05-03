@@ -153,8 +153,11 @@ flip          ╭∩╮
 ## dingbat arrows %{{{
 
 thisp          ➤  # [p]ointy arrowhead
+thispu         ➢
+thispd         ➣
 thisp,         ➢
 thisp,,        ➣
+thisp,1        ➢
 thisp,2        ➣
 thisa          ➙  # [a]rrow
 thisa,         ➙
@@ -175,6 +178,8 @@ thist          ➺  # [t]eardrop
 thisf          ➳  # [f]eathered
 thisf,         ➵
 thisf,,        ➸
+thisf,1        ➵
+thisf,2        ➸
 thisf,3        ➼
 thisfse        ➴
 thisfne        ➶
