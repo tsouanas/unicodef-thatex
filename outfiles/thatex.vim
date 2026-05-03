@@ -3028,6 +3028,12 @@ inoremap \\TOP* 𝐓𝐨𝐩 ͙
 inoremap \\TOPH* 𝐓𝐨𝐩𝐡 ͙
 inoremap \\MET 𝐌𝐞𝐭
 inoremap \\METRIC 𝐌𝐞𝐭𝐫𝐢𝐜
+inoremap \\TYPE 𝐓𝐲𝐩𝐞
+inoremap \\PROOF 𝐏𝐫𝐨𝐨𝐟
+inoremap \\PROP 𝐏𝐫𝐨𝐩
+inoremap \\PROPIMPS 𝐏𝐫𝐨𝐩𝐈𝐦𝐩𝐥𝐢𝐞𝐬
+inoremap \\PROPPROOF 𝐏𝐫𝐨𝐩𝐏𝐫𝐨𝐨𝐟
+inoremap \\TYPEFUN 𝐓𝐲𝐩𝐞𝐅𝐮𝐧
 inoremap \\HASK 𝐇𝐚𝐬𝐤
 inoremap \\truth ⊤
 inoremap \\verum ⊤

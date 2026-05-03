@@ -11332,6 +11332,12 @@
 | <code>TOPH*</code> | 𝐓𝐨𝐩𝐡 ͙ |
 | <code>MET</code> | 𝐌𝐞𝐭 |
 | <code>METRIC</code> | 𝐌𝐞𝐭𝐫𝐢𝐜 |
+| <code>TYPE</code> | 𝐓𝐲𝐩𝐞 |
+| <code>PROOF</code> | 𝐏𝐫𝐨𝐨𝐟 |
+| <code>PROP</code> | 𝐏𝐫𝐨𝐩 |
+| <code>PROPIMPS</code> | 𝐏𝐫𝐨𝐩𝐈𝐦𝐩𝐥𝐢𝐞𝐬 |
+| <code>PROPPROOF</code> | 𝐏𝐫𝐨𝐩𝐏𝐫𝐨𝐨𝐟 |
+| <code>TYPEFUN</code> | 𝐓𝐲𝐩𝐞𝐅𝐮𝐧 |
 | <code>HASK</code> | 𝐇𝐚𝐬𝐤 |
 | <code>truth</code> | ⊤ |
 | <code>verum</code> | ⊤ |
