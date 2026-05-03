@@ -299,25 +299,33 @@ Schematically:
 * using a micro _σ_: <kbd>⎄</kbd>_σ_
 * using a macro _σ_: <kbd>⎄</kbd><kbd>⎄</kbd>_σ_<kbd>␣</kbd>
 
-E.g.: Typing
-<kbd>f</kbd><kbd>u</kbd><kbd>n</kbd><kbd>⎄ Compose</kbd><kbd>c</kbd><kbd>,</kbd><kbd>⎄ Compose</kbd><kbd>a</kbd><kbd>\~</kbd><kbd>o</kbd>
-or
-<kbd>f</kbd><kbd>u</kbd><kbd>n</kbd><kbd>⎄ Compose</kbd><kbd>,</kbd><kbd>c</kbd><kbd>⎄ Compose</kbd><kbd>\~</kbd><kbd>a</kbd><kbd>o</kbd>
-writes `função`.
-In these examples I have used the micros `c,` and `,c` (either one produces `ç`), and also `a~` and `~a` (either of which produces `ã`).
-
-E.g.: Typing <kbd>⎄</kbd><kbd>⎄</kbd><kbd>r</kbd><kbd>e</kbd><kbd>a</kbd><kbd>l</kbd><kbd>s</kbd><kbd>␣</kbd> simply writes `ℝ`.
-In this example I have used the macro `reals` which produces `ℝ`.
-Notice that, since it is a macro, I am starting with a double-struck ⎄ (<kbd>⎄</kbd><kbd>⎄</kbd>) and I also
-need to strike the spacebar (<kbd>␣</kbd>) once I am done typing the sequence.
-Thus to use the `reals` macro for obtaining `ℝ` we need 8 keystrokes in total:
-<kbd>⎄</kbd><kbd>⎄</kbd><kbd>r</kbd><kbd>e</kbd><kbd>a</kbd><kbd>l</kbd><kbd>s</kbd><kbd>␣</kbd>
-
-What is <kbd>⎄ Compose</kbd>?  A: You skipped the installation section, I guess, so:
+Q: What is <kbd>⎄ Compose</kbd>?  A: You skipped the installation section, I guess, so:
 
 * **In BSD / Unix / Windows** it is common to use <kbd>Alt Gr</kbd> for <kbd>⎄ Compose</kbd>.
 * **In macOS** <kbd>⌘ Right Cmd</kbd>.
 * **In Vim** (in INSERT MODE) we use <kbd> \ </kbd>: e.g., typing `f : \\nats  \\to  \\reals ` you get `f : ℕ → ℝ`.
+
+### Examples
+
+Typing
+<kbd>f</kbd><kbd>u</kbd><kbd>n</kbd><kbd>⎄ Compose</kbd><kbd>c</kbd><kbd>,</kbd><kbd>⎄ Compose</kbd><kbd>a</kbd><kbd>\~</kbd><kbd>o</kbd>
+or
+<kbd>f</kbd><kbd>u</kbd><kbd>n</kbd><kbd>⎄ Compose</kbd><kbd>,</kbd><kbd>c</kbd><kbd>⎄ Compose</kbd><kbd>\~</kbd><kbd>a</kbd><kbd>o</kbd>
+writes `função`.
+In these examples I have used the **micros** `c,` and `,c` (either one produces `ç`), and also `a~` and `~a` (either of which produces `ã`).
+As you can probably guess, you can output `Gödel` and `Erdős` by:
+<kbd>G</kbd><kbd>⎄</kbd><kbd>:</kbd><kbd>o</kbd><kbd>d</kbd><kbd>e</kbd><kbd>l</kbd>
+and
+<kbd>E</kbd><kbd>r</kbd><kbd>d</kbd><kbd>⎄</kbd><kbd>"</kbd><kbd>o</kbd><kbd>s</kbd>
+respectively.
+(Here I am using the **micros** `:o` and `"o`.)
+
+Typing <kbd>⎄</kbd><kbd>⎄</kbd><kbd>r</kbd><kbd>e</kbd><kbd>a</kbd><kbd>l</kbd><kbd>s</kbd><kbd>␣</kbd> simply writes `ℝ`.
+In this example I have used the **macro** `reals` which produces `ℝ`.
+Notice that, since it is a macro, I am starting with a double-struck ⎄ (<kbd>⎄</kbd><kbd>⎄</kbd>) and I also
+need to strike the spacebar (<kbd>␣</kbd>) once I am done typing the sequence.
+Thus to use the `reals` macro we need 8 keystrokes in total:
+<kbd>⎄</kbd><kbd>⎄</kbd><kbd>r</kbd><kbd>e</kbd><kbd>a</kbd><kbd>l</kbd><kbd>s</kbd><kbd>␣</kbd>
 
 ### Some more examples of micros and macros defined
 
