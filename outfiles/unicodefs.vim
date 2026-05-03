@@ -7205,8 +7205,9 @@ inoremap \\partial ∂
 inoremap \\parder ∂
 inoremap \\pderiv ∂
 inoremap \\pder ∂
-inoremap \\del ∇
 inoremap \\anadelta ∇
+inoremap \\anadel ∇
+inoremap \\del ∇
 inoremap \\grad ∇
 inoremap \\diver ∇·
 inoremap \\curl ∇×
@@ -8035,7 +8036,8 @@ inoremap \\coprod ⨿
 inoremap \\Coprod ∐
 inoremap \\op ᵒᵖ
 inoremap \\ab ᵃᵇ
-inoremap \\arrcat ⁣⃗
+inoremap \\arrcat  ⃗
+inoremap \\acat  ⃗
 inoremap \\diag Δ
 inoremap \\codiag ∇
 inoremap \\loop ⟲

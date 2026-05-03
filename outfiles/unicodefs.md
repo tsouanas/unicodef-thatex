@@ -10273,8 +10273,9 @@
 | <code>parder</code> | ∂ |
 | <code>pderiv</code> | ∂ |
 | <code>pder</code> | ∂ |
-| <code>del</code> | ∇ |
 | <code>anadelta</code> | ∇ |
+| <code>anadel</code> | ∇ |
+| <code>del</code> | ∇ |
 | <code>grad</code> | ∇ |
 | <code>diver</code> | ∇· |
 | <code>curl</code> | ∇× |
@@ -11103,7 +11104,8 @@
 | <code>Coprod</code> | ∐ |
 | <code>op</code> | ᵒᵖ |
 | <code>ab</code> | ᵃᵇ |
-| <code>arrcat</code> | ⁣⃗ |
+| <code>arrcat</code> |  ⃗ |
+| <code>acat</code> |  ⃗ |
 | <code>diag</code> | Δ |
 | <code>codiag</code> | ∇ |
 | <code>loop</code> | ⟲ |
