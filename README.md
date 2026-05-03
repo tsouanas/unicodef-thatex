@@ -296,10 +296,15 @@ E.g.: Typing
 or
 <kbd>f</kbd><kbd>u</kbd><kbd>n</kbd><kbd>⎄ Compose</kbd><kbd>,</kbd><kbd>c</kbd><kbd>⎄ Compose</kbd><kbd>\~</kbd><kbd>a</kbd><kbd>o</kbd>
 writes `função`.
+In these examples I have used the micros `c,` and `,c` (either one produces `ç`), and also `a~` and `~a` (either of which produces `ã`).
 
 To use a *macro* sequence _σ_, *double-hit* the <kbd>⎄ Compose</kbd> key, type the sequence _σ_, then hit the space key:
 
-E.g.: Typing <kbd>⎄ Compose</kbd><kbd>⎄ Compose</kbd><kbd>r</kbd><kbd>e</kbd><kbd>a</kbd><kbd>l</kbd><kbd>s</kbd><kbd>space</kbd> simply writes `ℝ`.
+E.g.: Typing <kbd>⎄ Compose</kbd><kbd>⎄ Compose</kbd><kbd>r</kbd><kbd>e</kbd><kbd>a</kbd><kbd>l</kbd><kbd>s</kbd><kbd>␣ Space</kbd> simply writes `ℝ`.
+In this example I have used the macro `reals` which produces `ℝ`.
+Notice that, since it is a macro, I am starting with a double-struck ⎄ (<kbd>⎄</kbd><kbd>⎄</kbd>) and I also
+need to strike the spacebar once I am done typing the sequence.  This results in 8 keystrokes in total:
+<kbd>⎄</kbd><kbd>⎄</kbd><kbd>r</kbd><kbd>e</kbd><kbd>a</kbd><kbd>l</kbd><kbd>s</kbd><kbd>␣</kbd>
 
 What is <kbd>⎄ Compose</kbd>?  A: You skipped the installation section, I guess, so:
 
@@ -313,7 +318,7 @@ What is <kbd>⎄ Compose</kbd>?  A: You skipped the installation section, I gues
 A lot of sequences have shorter versions.
 
 For example, typing
-<kbd>⎄</kbd><kbd>⎄</kbd><kbd>f</kbd><kbd>o</kbd><kbd>r</kbd><kbd>a</kbd><kbd>l</kbd><kbd>l</kbd><kbd>space</kbd>
+<kbd>⎄</kbd><kbd>⎄</kbd><kbd>f</kbd><kbd>o</kbd><kbd>r</kbd><kbd>a</kbd><kbd>l</kbd><kbd>l</kbd><kbd>␣ Space</kbd>
 produces `∀`, but so does typing
 <kbd>⎄</kbd><kbd>⎄</kbd><kbd>f</kbd><kbd>a</kbd>.
 Even more, some micros also produce exactly the same character, now seen as a π-roted `A`
@@ -328,8 +333,8 @@ You may have guessed it:
 that has been π-rotated.
 
 Similarly, typing
-<kbd>⎄</kbd><kbd>⎄</kbd><kbd>u</kbd><kbd>n</kbd><kbd>i</kbd><kbd>q</kbd><kbd>u</kbd><kbd>e</kbd><kbd>space</kbd>
-produces `∃!`, but you get the same by <kbd>⎄</kbd><kbd>⎄</kbd><kbd>u</kbd><kbd>n</kbd><kbd>space</kbd>.
+<kbd>⎄</kbd><kbd>⎄</kbd><kbd>u</kbd><kbd>n</kbd><kbd>i</kbd><kbd>q</kbd><kbd>u</kbd><kbd>e</kbd><kbd>␣ Space</kbd>
+produces `∃!`, but you get the same by <kbd>⎄</kbd><kbd>⎄</kbd><kbd>u</kbd><kbd>n</kbd><kbd>␣ Space</kbd>.
 
 For the time being the best user guide of the various micros and macros
 defined are the actual files with their defs.
