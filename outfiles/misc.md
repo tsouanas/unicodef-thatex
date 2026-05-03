@@ -131,8 +131,11 @@
 | <code>Poutsa</code> | 𓂺 |
 | <code>flip</code> | ╭∩╮ |
 | <code>thisp</code> | ➤ |
+| <code>thispu</code> | ➢ |
+| <code>thispd</code> | ➣ |
 | <code>thisp,</code> | ➢ |
 | <code>thisp,,</code> | ➣ |
+| <code>thisp,1</code> | ➢ |
 | <code>thisp,2</code> | ➣ |
 | <code>thisa</code> | ➙ |
 | <code>thisa,</code> | ➙ |
@@ -153,6 +156,8 @@
 | <code>thisf</code> | ➳ |
 | <code>thisf,</code> | ➵ |
 | <code>thisf,,</code> | ➸ |
+| <code>thisf,1</code> | ➵ |
+| <code>thisf,2</code> | ➸ |
 | <code>thisf,3</code> | ➼ |
 | <code>thisfse</code> | ➴ |
 | <code>thisfne</code> | ➶ |

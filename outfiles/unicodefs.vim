@@ -4968,8 +4968,11 @@ inoremap \\poutsa 𓂸
 inoremap \\Poutsa 𓂺
 inoremap \\flip ╭∩╮
 inoremap \\thisp ➤
+inoremap \\thispu ➢
+inoremap \\thispd ➣
 inoremap \\thisp, ➢
 inoremap \\thisp,, ➣
+inoremap \\thisp,1 ➢
 inoremap \\thisp,2 ➣
 inoremap \\thisa ➙
 inoremap \\thisa, ➙
@@ -4990,6 +4993,8 @@ inoremap \\thist ➺
 inoremap \\thisf ➳
 inoremap \\thisf, ➵
 inoremap \\thisf,, ➸
+inoremap \\thisf,1 ➵
+inoremap \\thisf,2 ➸
 inoremap \\thisf,3 ➼
 inoremap \\thisfse ➴
 inoremap \\thisfne ➶

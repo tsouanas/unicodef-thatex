@@ -503,6 +503,12 @@
                 "3" = {
                   " " = ("insertText:", "➼");
                 };
+                "2" = {
+                  " " = ("insertText:", "➸");
+                };
+                "1" = {
+                  " " = ("insertText:", "➵");
+                };
                 "," = {
                   " " = ("insertText:", "➸");
                 };
@@ -563,9 +569,18 @@
                 "2" = {
                   " " = ("insertText:", "➣");
                 };
+                "1" = {
+                  " " = ("insertText:", "➢");
+                };
                 "," = {
                   " " = ("insertText:", "➣");
                 };
+                " " = ("insertText:", "➢");
+              };
+              "d" = {
+                " " = ("insertText:", "➣");
+              };
+              "u" = {
                 " " = ("insertText:", "➢");
               };
               " " = ("insertText:", "➤");
