@@ -2406,6 +2406,8 @@
 <Multi_key><Multi_key><r><e><l><b><i><space> : "⇿"
 <Multi_key><Multi_key><e><q><u><i><v><space> : "≃"
 <Multi_key><Multi_key><n><e><q><u><i><v><space> : "≄"
+<Multi_key><Multi_key><e><q><u><i><v><comma><space> : "≈"
+<Multi_key><Multi_key><n><e><q><u><i><v><comma><space> : "≉"
 <Multi_key><Multi_key><i><s><o><space> : "≅"
 <Multi_key><Multi_key><n><i><s><o><space> : "≇"
 <Multi_key><Multi_key><o><s><i><space> : "≌"

@@ -2406,6 +2406,8 @@ inoremap \\relfrom ⇽
 inoremap \\relbi ⇿
 inoremap \\equiv ≃
 inoremap \\nequiv ≄
+inoremap \\equiv, ≈
+inoremap \\nequiv, ≉
 inoremap \\iso ≅
 inoremap \\niso ≇
 inoremap \\osi ≌

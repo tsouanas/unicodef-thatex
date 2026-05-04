@@ -2407,6 +2407,8 @@
 | <code>relbi</code> | ⇿ |
 | <code>equiv</code> | ≃ |
 | <code>nequiv</code> | ≄ |
+| <code>equiv,</code> | ≈ |
+| <code>nequiv,</code> | ≉ |
 | <code>iso</code> | ≅ |
 | <code>niso</code> | ≇ |
 | <code>osi</code> | ≌ |
