@@ -2695,6 +2695,8 @@ relfrom           ⇽
 relbi             ⇿
 equiv             ≃  # [equiv]alent
 nequiv            ≄
+equiv,            ≈
+nequiv,           ≉
 iso               ≅  # [iso]morphic
 niso              ≇
 osi               ≌  # (iso backwards)
