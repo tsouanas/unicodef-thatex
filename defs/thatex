@@ -2717,8 +2717,8 @@ relfrom           ⇽
 relbi             ⇿
 equiv             ≃  # [equiv]alent
 nequiv            ≄
-equiv,            ≈
-nequiv,           ≉
+equiv,            ≊
+nequiv,           ≊̸  # WARN: decorated
 iso               ≅  # [iso]morphic
 niso              ≇
 osi               ≌  # (iso backwards)
@@ -5418,6 +5418,8 @@ pizzalt           ⪦
 pizzagt           ⪧
 pizzaleq          ⪨
 pizzageq          ⪩
+ltlt              ᓬ
+gtgt              ᕒ
 
 # %}}}
 
@@ -5482,7 +5484,10 @@ poemeq            ⌯
 poems             ⌯
 poem              ⌯
 eqtil             ⩳
+tileq             ≅
 simeqsim          ⩬
+seqsim            ⩬
+simeqs            ⩬
 
 # %}}}
 
@@ -6156,6 +6161,7 @@ wudot             ᐧ  # [u]pper
 ^downdown         ꜜꜜ
 ^uup              ꜛꜛ
 ^ddown            ꜜꜜ
+^himps            ᐣ
 ^lang             ˂
 ^rang             ˃
 ^uang             ˄
@@ -6222,6 +6228,8 @@ _hsubs            ꜀
 ^lt               ˂
 ^lt,              ᑉ
 ^gt               ˃
+^gtgt             ᕑ
+^ltlt             ᓫ
 ^meet             ˄
 ^join             ˅
 ^dual              ᷙ
