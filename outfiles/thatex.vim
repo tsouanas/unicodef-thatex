@@ -2423,8 +2423,8 @@ inoremap \\relfrom ⇽
 inoremap \\relbi ⇿
 inoremap \\equiv ≃
 inoremap \\nequiv ≄
-inoremap \\equiv, ≈
-inoremap \\nequiv, ≉
+inoremap \\equiv, ≊
+inoremap \\nequiv, ≊̸
 inoremap \\iso ≅
 inoremap \\niso ≇
 inoremap \\osi ≌
@@ -4874,6 +4874,8 @@ inoremap \\pizzalt ⪦
 inoremap \\pizzagt ⪧
 inoremap \\pizzaleq ⪨
 inoremap \\pizzageq ⪩
+inoremap \\ltlt ᓬ
+inoremap \\gtgt ᕒ
 inoremap \\toeq =⃗
 inoremap \\fromeq =⃖
 inoremap \\eqr =⃗
@@ -4933,7 +4935,10 @@ inoremap \\poemeq ⌯
 inoremap \\poems ⌯
 inoremap \\poem ⌯
 inoremap \\eqtil ⩳
+inoremap \\tileq ≅
 inoremap \\simeqsim ⩬
+inoremap \\seqsim ⩬
+inoremap \\simeqs ⩬
 inoremap \\triu △
 inoremap \\trid ▽
 inoremap \\tril ◁
@@ -5539,6 +5544,7 @@ inoremap \\^upup ꜛꜛ
 inoremap \\^downdown ꜜꜜ
 inoremap \\^uup ꜛꜛ
 inoremap \\^ddown ꜜꜜ
+inoremap \\^himps ᐣ
 inoremap \\^lang ˂
 inoremap \\^rang ˃
 inoremap \\^uang ˄
@@ -5596,6 +5602,8 @@ inoremap \\_hsubs ꜀
 inoremap \\^lt ˂
 inoremap \\^lt, ᑉ
 inoremap \\^gt ˃
+inoremap \\^gtgt ᕑ
+inoremap \\^ltlt ᓫ
 inoremap \\^meet ˄
 inoremap \\^join ˅
 inoremap \\^dual  ᷙ

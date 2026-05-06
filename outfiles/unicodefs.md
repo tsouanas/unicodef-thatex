@@ -10723,8 +10723,8 @@
 | <code>relbi</code> | ⇿ |
 | <code>equiv</code> | ≃ |
 | <code>nequiv</code> | ≄ |
-| <code>equiv,</code> | ≈ |
-| <code>nequiv,</code> | ≉ |
+| <code>equiv,</code> | ≊ |
+| <code>nequiv,</code> | ≊̸ |
 | <code>iso</code> | ≅ |
 | <code>niso</code> | ≇ |
 | <code>osi</code> | ≌ |
@@ -13174,6 +13174,8 @@
 | <code>pizzagt</code> | ⪧ |
 | <code>pizzaleq</code> | ⪨ |
 | <code>pizzageq</code> | ⪩ |
+| <code>ltlt</code> | ᓬ |
+| <code>gtgt</code> | ᕒ |
 | <code>toeq</code> | =⃗ |
 | <code>fromeq</code> | =⃖ |
 | <code>eqr</code> | =⃗ |
@@ -13233,7 +13235,10 @@
 | <code>poems</code> | ⌯ |
 | <code>poem</code> | ⌯ |
 | <code>eqtil</code> | ⩳ |
+| <code>tileq</code> | ≅ |
 | <code>simeqsim</code> | ⩬ |
+| <code>seqsim</code> | ⩬ |
+| <code>simeqs</code> | ⩬ |
 | <code>triu</code> | △ |
 | <code>trid</code> | ▽ |
 | <code>tril</code> | ◁ |
@@ -13839,6 +13844,7 @@
 | <code>^downdown</code> | ꜜꜜ |
 | <code>^uup</code> | ꜛꜛ |
 | <code>^ddown</code> | ꜜꜜ |
+| <code>^himps</code> | ᐣ |
 | <code>^lang</code> | ˂ |
 | <code>^rang</code> | ˃ |
 | <code>^uang</code> | ˄ |
@@ -13896,6 +13902,8 @@
 | <code>^lt</code> | ˂ |
 | <code>^lt,</code> | ᑉ |
 | <code>^gt</code> | ˃ |
+| <code>^gtgt</code> | ᕑ |
+| <code>^ltlt</code> | ᓫ |
 | <code>^meet</code> | ˄ |
 | <code>^join</code> | ˅ |
 | <code>^dual</code> |  ᷙ |
