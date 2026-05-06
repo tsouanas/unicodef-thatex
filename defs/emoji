@@ -1649,23 +1649,19 @@ Write          ✍️
 
 # controls (including @decorators) %{{{ 
 
-@zwj        ‍
-@+          ‍  # abbrev for ZWJ (zero width joiner)
-+           ‍  # abbrev for ZWJ (zero width joiner)
+@zwj        ‍  # INFO: also in thatex as zwj
+@+          ‍  # ZWJ (zero width joiner)
++           ‍  # ZWJ (zero width joiner)
 
 @emoji      ️  # (U+FE0F emoji-version selector)
 @emo        ️
 @e          ️
-@:          ️
-:           ️
 
 @coemo      ︎  # (U+FE0E text-version selector)
 @unemo      ︎
 @deemo      ︎
 @text       ︎
 @t          ︎
-@;          ︎
-;           ︎
 
 @ekey        ️⃣  # [e]mojify + [key]cap
 
