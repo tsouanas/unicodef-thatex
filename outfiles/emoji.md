@@ -1533,15 +1533,11 @@
 | <code>@emoji</code> | ️ |
 | <code>@emo</code> | ️ |
 | <code>@e</code> | ️ |
-| <code>@:</code> | ️ |
-| <code>:</code> | ️ |
 | <code>@coemo</code> | ︎ |
 | <code>@unemo</code> | ︎ |
 | <code>@deemo</code> | ︎ |
 | <code>@text</code> | ︎ |
 | <code>@t</code> | ︎ |
-| <code>@;</code> | ︎ |
-| <code>;</code> | ︎ |
 | <code>@ekey</code> | ️⃣ |
 | <code>@skin1</code> | 🏻 |
 | <code>@skin2</code> | 🏻 |

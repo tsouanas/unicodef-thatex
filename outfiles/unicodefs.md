@@ -2133,15 +2133,11 @@
 | <code>@emoji</code> | ️ |
 | <code>@emo</code> | ️ |
 | <code>@e</code> | ️ |
-| <code>@:</code> | ️ |
-| <code>:</code> | ️ |
 | <code>@coemo</code> | ︎ |
 | <code>@unemo</code> | ︎ |
 | <code>@deemo</code> | ︎ |
 | <code>@text</code> | ︎ |
 | <code>@t</code> | ︎ |
-| <code>@;</code> | ︎ |
-| <code>;</code> | ︎ |
 | <code>@ekey</code> | ️⃣ |
 | <code>@skin1</code> | 🏻 |
 | <code>@skin2</code> | 🏻 |
@@ -8304,6 +8300,10 @@
 ## thatex (macro)
 | Sequence | Expansion |
 | :------- | :-------: |
+| <code>-</code> |   |
+| <code>,</code> | ⁣ |
+| <code>;</code> | ‍ |
+| <code>.</code> | · |
 | <code>space</code> | ␣ |
 | <code>vspc</code> | ␣ |
 | <code>spc</code> | ␣ |
@@ -8322,7 +8322,7 @@
 | <code>enquad</code> |   |
 | <code>emquad</code> |   |
 | <code>nobr</code> | ⁠ |
-| <code>wj</code> | ‍⁠ |
+| <code>wj</code> | ⁠ |
 | <code>zspc</code> | ​ |
 | <code>0spc</code> | ​ |
 | <code>zwnj</code> | ‌ |
@@ -8345,7 +8345,6 @@
 | <code>jux</code> | ⁢ |
 | <code>jspc</code> | ⁢ |
 | <code>phantom</code> | ⁣ |
-| <code>,</code> | ⁣ |
 | <code>invtimes</code> | ⁢ |
 | <code>invsep</code> | ⁣ |
 | <code>invplus</code> | ⁤ |
@@ -9820,6 +9819,20 @@
 | <code>emptyto</code> | ⦳ |
 | <code>emptyfrom</code> | ⦴ |
 | <code>vempty</code> | ᴓ |
+| <code>emp</code> | Ø |
+| <code>emp,</code> | ∅ |
+| <code>emp,,</code> | ꬾ |
+| <code>semp</code> | ∅ |
+| <code>bemp</code> | ⦰ |
+| <code>coemp</code> | O⃥ |
+| <code>coemp,</code> | ⦰ |
+| <code>oemp</code> | ⦲ |
+| <code>0emp</code> | ⦲ |
+| <code>empring</code> | ⦲ |
+| <code>empbar</code> | ⦱ |
+| <code>empto</code> | ⦳ |
+| <code>empfrom</code> | ⦴ |
+| <code>vemp</code> | ᴓ |
 | <code>pos</code> | ₊ |
 | <code>neg</code> | ₋ |
 | <code>pos,</code> | ˲₀ |
@@ -11696,6 +11709,14 @@
 | <code>join,</code> | ⊔ |
 | <code>Meet,</code> | ⨅ |
 | <code>Join,</code> | ⨆ |
+| <code>mt</code> | ∧ |
+| <code>jn</code> | ∨ |
+| <code>Mt</code> | ⋀ |
+| <code>Jn</code> | ⋁ |
+| <code>mt,</code> | ⊓ |
+| <code>jn,</code> | ⊔ |
+| <code>Mt,</code> | ⨅ |
+| <code>Jn,</code> | ⨆ |
 | <code>dirJoin</code> | ⋁ꜛ |
 | <code>upJoin</code> | ⋁ꜛ |
 | <code>downMeet</code> | ⋀￬ |
