@@ -1760,6 +1760,20 @@ barempty          ⦱
 emptyto           ⦳
 emptyfrom         ⦴
 vempty            ᴓ  # [v]ertical
+emp               Ø
+emp,              ∅
+emp,,             ꬾ
+semp              ∅  # [s]lash
+bemp              ⦰  # [b]ackslash
+coemp             O⃥
+coemp,            ⦰
+oemp              ⦲
+0emp              ⦲
+empring           ⦲
+empbar            ⦱
+empto             ⦳
+empfrom           ⦴
+vemp              ᴓ
 pos               ₊
 neg               ₋
 pos,              ˲₀
@@ -3780,6 +3794,14 @@ meet,             ⊓
 join,             ⊔
 Meet,             ⨅
 Join,             ⨆
+mt                ∧
+jn                ∨
+Mt                ⋀
+Jn                ⋁
+mt,               ⊓
+jn,               ⊔
+Mt,               ⨅
+Jn,               ⨆
 dirJoin           ⋁ꜛ
 upJoin            ⋁ꜛ
 downMeet          ⋀￬
