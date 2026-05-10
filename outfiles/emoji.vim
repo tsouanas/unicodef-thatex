@@ -763,6 +763,8 @@ inoremap \\cupcake 🧁
 inoremap \\cupstraw 🥤
 inoremap \\donut 🍩
 inoremap \\doh 🍩
+inoremap \\fortune 🥠
+inoremap \\fcookie 🥠
 inoremap \\fry 🍳
 inoremap \\fegg 🍳
 inoremap \\egg 🥚

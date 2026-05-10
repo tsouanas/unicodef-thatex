@@ -1364,6 +1364,8 @@
 | <code>cupstraw</code> | 🥤 |
 | <code>donut</code> | 🍩 |
 | <code>doh</code> | 🍩 |
+| <code>fortune</code> | 🥠 |
+| <code>fcookie</code> | 🥠 |
 | <code>fry</code> | 🍳 |
 | <code>fegg</code> | 🍳 |
 | <code>egg</code> | 🥚 |
