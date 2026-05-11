@@ -2296,6 +2296,10 @@ inoremap \\Fromto ⥃
 inoremap \\toFrom ⥄
 inoremap \\eqto ⥱
 inoremap \\eqfrom ⭀
+inoremap \\equivto ⥲
+inoremap \\equivfrom ⭉
+inoremap \\toequiv ⥴
+inoremap \\fromequiv ⭋
 inoremap \\simto ⥲
 inoremap \\simfrom ⭉
 inoremap \\misto ⭇

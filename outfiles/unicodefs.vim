@@ -1135,6 +1135,8 @@ inoremap \\C09h30 🕤
 inoremap \\C10h30 🕥
 inoremap \\C11h30 🕦
 inoremap \\C12h30 🕧
+inoremap \\alligator 🐊
+inoremap \\gator 🐊
 inoremap \\hen 🐔
 inoremap \\cock 🐓
 inoremap \\rooster 🐓
@@ -1151,6 +1153,8 @@ inoremap \\bfly 🦋
 inoremap \\crab 🦀
 inoremap \\cri 🦗
 inoremap \\cricri 🦗🦗
+inoremap \\crocodile 🐊
+inoremap \\croc 🐊
 inoremap \\dino 🦕
 inoremap \\dino, 🦖
 inoremap \\dragon 🐉
@@ -1277,6 +1281,7 @@ inoremap \\donut 🍩
 inoremap \\doh 🍩
 inoremap \\fortune 🥠
 inoremap \\fcookie 🥠
+inoremap \\crocante 🥠
 inoremap \\fry 🍳
 inoremap \\fegg 🍳
 inoremap \\egg 🥚
@@ -7530,6 +7535,10 @@ inoremap \\Fromto ⥃
 inoremap \\toFrom ⥄
 inoremap \\eqto ⥱
 inoremap \\eqfrom ⭀
+inoremap \\equivto ⥲
+inoremap \\equivfrom ⭉
+inoremap \\toequiv ⥴
+inoremap \\fromequiv ⭋
 inoremap \\simto ⥲
 inoremap \\simfrom ⭉
 inoremap \\misto ⭇

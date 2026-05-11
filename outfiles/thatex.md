@@ -2297,6 +2297,10 @@
 | <code>toFrom</code> | ⥄ |
 | <code>eqto</code> | ⥱ |
 | <code>eqfrom</code> | ⭀ |
+| <code>equivto</code> | ⥲ |
+| <code>equivfrom</code> | ⭉ |
+| <code>toequiv</code> | ⥴ |
+| <code>fromequiv</code> | ⭋ |
 | <code>simto</code> | ⥲ |
 | <code>simfrom</code> | ⭉ |
 | <code>misto</code> | ⭇ |

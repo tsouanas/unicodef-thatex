@@ -624,6 +624,8 @@
 | <code>C10h30</code> | 🕥 |
 | <code>C11h30</code> | 🕦 |
 | <code>C12h30</code> | 🕧 |
+| <code>alligator</code> | 🐊 |
+| <code>gator</code> | 🐊 |
 | <code>hen</code> | 🐔 |
 | <code>cock</code> | 🐓 |
 | <code>rooster</code> | 🐓 |
@@ -640,6 +642,8 @@
 | <code>crab</code> | 🦀 |
 | <code>cri</code> | 🦗 |
 | <code>cricri</code> | 🦗🦗 |
+| <code>crocodile</code> | 🐊 |
+| <code>croc</code> | 🐊 |
 | <code>dino</code> | 🦕 |
 | <code>dino,</code> | 🦖 |
 | <code>dragon</code> | 🐉 |
@@ -766,6 +770,7 @@
 | <code>doh</code> | 🍩 |
 | <code>fortune</code> | 🥠 |
 | <code>fcookie</code> | 🥠 |
+| <code>crocante</code> | 🥠 |
 | <code>fry</code> | 🍳 |
 | <code>fegg</code> | 🍳 |
 | <code>egg</code> | 🥚 |
