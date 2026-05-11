@@ -1590,6 +1590,7 @@ inoremap \\laststraw 😣
 inoremap \\ffs 😣
 inoremap \\brr 😖
 inoremap \\yawn 🥱
+inoremap \\Yawn 🫧🥱
 inoremap \\bored 🥱
 inoremap \\shake 🙂‍↔️
 inoremap \\nod 🙂‍↕️

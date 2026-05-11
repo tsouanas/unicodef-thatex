@@ -1679,6 +1679,7 @@
 | <code>ffs</code> | 😣 |
 | <code>brr</code> | 😖 |
 | <code>yawn</code> | 🥱 |
+| <code>Yawn</code> | 🫧🥱 |
 | <code>bored</code> | 🥱 |
 | <code>shake</code> | 🙂‍↔️ |
 | <code>nod</code> | 🙂‍↕️ |
