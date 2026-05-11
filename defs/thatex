@@ -2583,6 +2583,10 @@ Fromto            ⥃
 toFrom            ⥄
 eqto              ⥱
 eqfrom            ⭀
+equivto           ⥲
+equivfrom         ⭉
+toequiv           ⥴
+fromequiv         ⭋  # WARN: actually a frommis instead of fromsim
 simto             ⥲
 simfrom           ⭉
 misto             ⭇
@@ -2590,16 +2594,16 @@ tosim             ⥴
 tomis             ⭌
 frommis           ⭋
 misfrom           ⭁
-ssimto            →͌
-ssimfrom          ←͌
+ssimto            →͌  # WARN: decorated
+ssimfrom          ←͌  # WARN: decorated
 tossim            ⥵
 fromssim          ⭊
 tommis            ⭈
 frommmis          ⭂
 toapprox          ⥵
 fromapprox        ⭊
-approxto          →͌
-approxfrom        ←͌
+approxto          →͌  # WARN: decorated
+approxfrom        ←͌  # WARN: decorated
 oplusto           ⟴
 ndetto            ⇝  # [n]on-[det]erministic
 ndetfrom          ⇜
