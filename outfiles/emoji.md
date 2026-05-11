@@ -637,8 +637,12 @@
 | <code>wildboar</code> | 🐗 |
 | <code>wboar</code> | 🐗 |
 | <code>boar</code> | 🐗 |
+| <code>bug</code> | 🪲 |
+| <code>bug,</code> | 🪳 |
 | <code>butterfly</code> | 🦋 |
 | <code>bfly</code> | 🦋 |
+| <code>cockroach</code> | 🪳 |
+| <code>roach</code> | 🪳 |
 | <code>crab</code> | 🦀 |
 | <code>cri</code> | 🦗 |
 | <code>cricri</code> | 🦗🦗 |
@@ -652,6 +656,7 @@
 | <code>elephant</code> | 🐘 |
 | <code>flamingo</code> | 🦩 |
 | <code>goat</code> | 🐐 |
+| <code>krikri</code> | 🐐 |
 | <code>gorilla</code> | 🦍 |
 | <code>grl</code> | 🦍 |
 | <code>monkey</code> | 🐒 |

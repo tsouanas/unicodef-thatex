@@ -636,8 +636,12 @@ inoremap \\bbird 🐦‍⬛
 inoremap \\wildboar 🐗
 inoremap \\wboar 🐗
 inoremap \\boar 🐗
+inoremap \\bug 🪲
+inoremap \\bug, 🪳
 inoremap \\butterfly 🦋
 inoremap \\bfly 🦋
+inoremap \\cockroach 🪳
+inoremap \\roach 🪳
 inoremap \\crab 🦀
 inoremap \\cri 🦗
 inoremap \\cricri 🦗🦗
@@ -651,6 +655,7 @@ inoremap \\edilson 🦀
 inoremap \\elephant 🐘
 inoremap \\flamingo 🦩
 inoremap \\goat 🐐
+inoremap \\krikri 🐐
 inoremap \\gorilla 🦍
 inoremap \\grl 🦍
 inoremap \\monkey 🐒
