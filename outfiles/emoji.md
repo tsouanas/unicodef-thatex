@@ -758,6 +758,7 @@
 | <code>candy</code> | 🍬 |
 | <code>champagne</code> | 🍾 |
 | <code>champ</code> | 🍾 |
+| <code>cheese</code> | 🧀 |
 | <code>cherry</code> | 🍒 |
 | <code>chicken</code> | 🍗 |
 | <code>frango</code> | 🍗 |

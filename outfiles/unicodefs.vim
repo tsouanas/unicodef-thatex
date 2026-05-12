@@ -1269,6 +1269,7 @@ inoremap \\cake 🍰
 inoremap \\candy 🍬
 inoremap \\champagne 🍾
 inoremap \\champ 🍾
+inoremap \\cheese 🧀
 inoremap \\cherry 🍒
 inoremap \\chicken 🍗
 inoremap \\frango 🍗
