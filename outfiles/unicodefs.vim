@@ -8312,6 +8312,9 @@ inoremap \\contra ⊥
 inoremap \\absurdum ⊥
 inoremap \\absurd ⊥
 inoremap \\not ¬
+inoremap \\notnot ¬¬
+inoremap \\nott ¬¬
+inoremap \\nottt ¬¬¬
 inoremap \\conot ⌐
 inoremap \\conot, ⨼
 inoremap \\conot,, ⨽

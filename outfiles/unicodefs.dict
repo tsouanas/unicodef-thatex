@@ -3783,12 +3783,23 @@
               " " = ("insertText:", "⌐");
             };
           };
-          " " = ("insertText:", "¬");
+          "t" = {
+            "t" = {
+              " " = ("insertText:", "¬¬¬");
+            };
+            " " = ("insertText:", "¬¬");
+          };
           "n" = {
+            "o" = {
+              "t" = {
+                " " = ("insertText:", "¬¬");
+              };
+            };
             "i" = {
               " " = ("insertText:", "∌");
             };
           };
+          " " = ("insertText:", "¬");
           "i" = {
             "n" = {
               " " = ("insertText:", "∉");

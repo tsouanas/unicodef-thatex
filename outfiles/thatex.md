@@ -3067,6 +3067,9 @@
 | <code>absurdum</code> | ⊥ |
 | <code>absurd</code> | ⊥ |
 | <code>not</code> | ¬ |
+| <code>notnot</code> | ¬¬ |
+| <code>nott</code> | ¬¬ |
+| <code>nottt</code> | ¬¬¬ |
 | <code>conot</code> | ⌐ |
 | <code>conot,</code> | ⨼ |
 | <code>conot,,</code> | ⨽ |
