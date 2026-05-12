@@ -666,7 +666,7 @@
 | <code>hippo</code> | 🦛 |
 | <code>ladybug</code> | 🐞 |
 | <code>lion</code> | 🦁 |
-| <code>joan</code> | 🐞 |
+| <code>joany</code> | 🐞 |
 | <code>lobster</code> | 🦞 |
 | <code>moo</code> | 🐮 |
 | <code>octo</code> | 🐙 |

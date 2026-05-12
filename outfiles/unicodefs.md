@@ -1266,7 +1266,7 @@
 | <code>hippo</code> | 🦛 |
 | <code>ladybug</code> | 🐞 |
 | <code>lion</code> | 🦁 |
-| <code>joan</code> | 🐞 |
+| <code>joany</code> | 🐞 |
 | <code>lobster</code> | 🦞 |
 | <code>moo</code> | 🐮 |
 | <code>octo</code> | 🐙 |
@@ -11383,6 +11383,7 @@
 | <code>notnot</code> | ¬¬ |
 | <code>nott</code> | ¬¬ |
 | <code>nottt</code> | ¬¬¬ |
+| <code>joan</code> | ¬¬👩 |
 | <code>conot</code> | ⌐ |
 | <code>conot,</code> | ⨼ |
 | <code>conot,,</code> | ⨽ |

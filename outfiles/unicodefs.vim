@@ -1177,7 +1177,7 @@ inoremap \\glenda 🐇
 inoremap \\hippo 🦛
 inoremap \\ladybug 🐞
 inoremap \\lion 🦁
-inoremap \\joan 🐞
+inoremap \\joany 🐞
 inoremap \\lobster 🦞
 inoremap \\moo 🐮
 inoremap \\octo 🐙
@@ -8315,6 +8315,7 @@ inoremap \\not ¬
 inoremap \\notnot ¬¬
 inoremap \\nott ¬¬
 inoremap \\nottt ¬¬¬
+inoremap \\joan ¬¬👩
 inoremap \\conot ⌐
 inoremap \\conot, ⨼
 inoremap \\conot,, ⨽

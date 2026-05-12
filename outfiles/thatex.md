@@ -3070,6 +3070,7 @@
 | <code>notnot</code> | ¬¬ |
 | <code>nott</code> | ¬¬ |
 | <code>nottt</code> | ¬¬¬ |
+| <code>joan</code> | ¬¬👩 |
 | <code>conot</code> | ⌐ |
 | <code>conot,</code> | ⨼ |
 | <code>conot,,</code> | ⨽ |

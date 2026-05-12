@@ -3069,6 +3069,7 @@ inoremap \\not ¬
 inoremap \\notnot ¬¬
 inoremap \\nott ¬¬
 inoremap \\nottt ¬¬¬
+inoremap \\joan ¬¬👩
 inoremap \\conot ⌐
 inoremap \\conot, ⨼
 inoremap \\conot,, ⨽
