@@ -1264,6 +1264,10 @@
 | <code>ganso</code> | 🪿 |
 | <code>glenda</code> | 🐇 |
 | <code>hippo</code> | 🦛 |
+| <code>horse</code> | 🐎 |
+| <code>horse,</code> | 🐴 |
+| <code>horseface</code> | 🐴 |
+| <code>horseride</code> | 🐎 |
 | <code>ladybug</code> | 🐞 |
 | <code>lion</code> | 🦁 |
 | <code>joany</code> | 🐞 |
@@ -1275,6 +1279,7 @@
 | <code>phoenix</code> | 🐦‍🔥 |
 | <code>puffy</code> | 🐡 |
 | <code>rabbit</code> | 🐇 |
+| <code>rabbit,</code> | 🐰 |
 | <code>rabbitface</code> | 🐰 |
 | <code>rat</code> | 🐀 |
 | <code>sauropod</code> | 🦕 |
@@ -1292,6 +1297,7 @@
 | <code>tsouf</code> | 🐳 |
 | <code>wolf</code> | 🐺 |
 | <code>cat</code> | 🐈 |
+| <code>cat,</code> | 🐱 |
 | <code>catface</code> | 🐱 |
 | <code>cathappy</code> | 😸 |
 | <code>catgrin</code> | 😺 |
@@ -8985,6 +8991,8 @@
 | <code>lbelt</code> | ɬ |
 | <code>Lbelt</code> | Ɬ |
 | <code>latio</code> | ɩ |
+| <code>latup</code> | ʊ |
+| <code>latUp</code> | Ʊ |
 | <code>latom</code> | ⲱ |
 | <code>latOm</code> | Ⲱ |
 | <code>latls</code> | ꬷ |
@@ -12563,8 +12571,11 @@
 | <code>oho</code> | ⱺ |
 | <code>lambar</code> | ƛ |
 | <code>Lambar</code> | Ƛ |
-| <code>horse</code> | ʊ |
-| <code>Horse</code> | Ʊ |
+| <code>horseu</code> | ʊ |
+| <code>horseU</code> | Ʊ |
+| <code>Horseu</code> | Ʊ |
+| <code>hshoe</code> | ʊ |
+| <code>Hshoe</code> | Ʊ |
 | <code>scythe</code> | ʕ |
 | <code>ramshorn</code> | ɤ |
 | <code>qcrowbar</code> | ꝙ |

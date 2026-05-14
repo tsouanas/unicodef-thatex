@@ -672,6 +672,8 @@
 | <code>lbelt</code> | ɬ |
 | <code>Lbelt</code> | Ɬ |
 | <code>latio</code> | ɩ |
+| <code>latup</code> | ʊ |
+| <code>latUp</code> | Ʊ |
 | <code>latom</code> | ⲱ |
 | <code>latOm</code> | Ⲱ |
 | <code>latls</code> | ꬷ |
@@ -4250,8 +4252,11 @@
 | <code>oho</code> | ⱺ |
 | <code>lambar</code> | ƛ |
 | <code>Lambar</code> | Ƛ |
-| <code>horse</code> | ʊ |
-| <code>Horse</code> | Ʊ |
+| <code>horseu</code> | ʊ |
+| <code>horseU</code> | Ʊ |
+| <code>Horseu</code> | Ʊ |
+| <code>hshoe</code> | ʊ |
+| <code>Hshoe</code> | Ʊ |
 | <code>scythe</code> | ʕ |
 | <code>ramshorn</code> | ɤ |
 | <code>qcrowbar</code> | ꝙ |

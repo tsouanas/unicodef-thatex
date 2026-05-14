@@ -1175,6 +1175,10 @@ inoremap \\goose 🪿
 inoremap \\ganso 🪿
 inoremap \\glenda 🐇
 inoremap \\hippo 🦛
+inoremap \\horse 🐎
+inoremap \\horse, 🐴
+inoremap \\horseface 🐴
+inoremap \\horseride 🐎
 inoremap \\ladybug 🐞
 inoremap \\lion 🦁
 inoremap \\joany 🐞
@@ -1186,6 +1190,7 @@ inoremap \\parrot 🦜
 inoremap \\phoenix 🐦‍🔥
 inoremap \\puffy 🐡
 inoremap \\rabbit 🐇
+inoremap \\rabbit, 🐰
 inoremap \\rabbitface 🐰
 inoremap \\rat 🐀
 inoremap \\sauropod 🦕
@@ -1203,6 +1208,7 @@ inoremap \\whale 🐳
 inoremap \\tsouf 🐳
 inoremap \\wolf 🐺
 inoremap \\cat 🐈
+inoremap \\cat, 🐱
 inoremap \\catface 🐱
 inoremap \\cathappy 😸
 inoremap \\catgrin 😺
@@ -5917,6 +5923,8 @@ inoremap \\Latio Ɩ
 inoremap \\lbelt ɬ
 inoremap \\Lbelt Ɬ
 inoremap \\latio ɩ
+inoremap \\latup ʊ
+inoremap \\latUp Ʊ
 inoremap \\latom ⲱ
 inoremap \\latOm Ⲱ
 inoremap \\latls ꬷ
@@ -9495,8 +9503,11 @@ inoremap \\ohcirc ⱺ
 inoremap \\oho ⱺ
 inoremap \\lambar ƛ
 inoremap \\Lambar Ƛ
-inoremap \\horse ʊ
-inoremap \\Horse Ʊ
+inoremap \\horseu ʊ
+inoremap \\horseU Ʊ
+inoremap \\Horseu Ʊ
+inoremap \\hshoe ʊ
+inoremap \\Hshoe Ʊ
 inoremap \\scythe ʕ
 inoremap \\ramshorn ɤ
 inoremap \\qcrowbar ꝙ

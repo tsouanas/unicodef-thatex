@@ -671,6 +671,8 @@ inoremap \\Latio Ɩ
 inoremap \\lbelt ɬ
 inoremap \\Lbelt Ɬ
 inoremap \\latio ɩ
+inoremap \\latup ʊ
+inoremap \\latUp Ʊ
 inoremap \\latom ⲱ
 inoremap \\latOm Ⲱ
 inoremap \\latls ꬷ
@@ -4249,8 +4251,11 @@ inoremap \\ohcirc ⱺ
 inoremap \\oho ⱺ
 inoremap \\lambar ƛ
 inoremap \\Lambar Ƛ
-inoremap \\horse ʊ
-inoremap \\Horse Ʊ
+inoremap \\horseu ʊ
+inoremap \\horseU Ʊ
+inoremap \\Horseu Ʊ
+inoremap \\hshoe ʊ
+inoremap \\Hshoe Ʊ
 inoremap \\scythe ʕ
 inoremap \\ramshorn ɤ
 inoremap \\qcrowbar ꝙ

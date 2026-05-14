@@ -664,6 +664,10 @@
 | <code>ganso</code> | 🪿 |
 | <code>glenda</code> | 🐇 |
 | <code>hippo</code> | 🦛 |
+| <code>horse</code> | 🐎 |
+| <code>horse,</code> | 🐴 |
+| <code>horseface</code> | 🐴 |
+| <code>horseride</code> | 🐎 |
 | <code>ladybug</code> | 🐞 |
 | <code>lion</code> | 🦁 |
 | <code>joany</code> | 🐞 |
@@ -675,6 +679,7 @@
 | <code>phoenix</code> | 🐦‍🔥 |
 | <code>puffy</code> | 🐡 |
 | <code>rabbit</code> | 🐇 |
+| <code>rabbit,</code> | 🐰 |
 | <code>rabbitface</code> | 🐰 |
 | <code>rat</code> | 🐀 |
 | <code>sauropod</code> | 🦕 |
@@ -692,6 +697,7 @@
 | <code>tsouf</code> | 🐳 |
 | <code>wolf</code> | 🐺 |
 | <code>cat</code> | 🐈 |
+| <code>cat,</code> | 🐱 |
 | <code>catface</code> | 🐱 |
 | <code>cathappy</code> | 😸 |
 | <code>catgrin</code> | 😺 |
