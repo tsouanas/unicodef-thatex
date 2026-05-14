@@ -787,6 +787,8 @@ Latio             Ɩ  # [io]ta
 lbelt             ɬ
 Lbelt             Ɬ
 latio             ɩ
+latup             ʊ
+latUp             Ʊ
 latom             ⲱ  # [om]ega
 latOm             Ⲱ
 latls             ꬷ  # [l] with lazy [s]
@@ -4744,8 +4746,11 @@ ohcirc            ⱺ  # [oh] with [ring]
 oho               ⱺ
 lambar            ƛ
 Lambar            Ƛ
-horse             ʊ
-Horse             Ʊ
+horseu            ʊ  # [horse]shoe-like u
+horseU            Ʊ
+Horseu            Ʊ
+hshoe             ʊ
+Hshoe             Ʊ
 scythe            ʕ
 ramshorn          ɤ
 qcrowbar          ꝙ

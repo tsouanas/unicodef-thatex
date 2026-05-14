@@ -727,6 +727,10 @@ goose       🪿
 ganso       🪿
 glenda      🐇
 hippo       🦛
+horse       🐎
+horse,      🐴
+horseface   🐴
+horseride   🐎
 ladybug     🐞
 lion        🦁
 joany       🐞
@@ -738,6 +742,7 @@ parrot      🦜
 phoenix     🐦‍🔥
 puffy       🐡
 rabbit      🐇
+rabbit,     🐰
 rabbitface  🐰
 rat         🐀
 sauropod    🦕
@@ -759,6 +764,7 @@ wolf        🐺
 # cats %{{{
 
 cat         🐈
+cat,        🐱
 catface     🐱
 cathappy    😸
 catgrin     😺
