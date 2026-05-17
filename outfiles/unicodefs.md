@@ -1226,6 +1226,7 @@
 | <code>C12h30</code> | 🕧 |
 | <code>alligator</code> | 🐊 |
 | <code>gator</code> | 🐊 |
+| <code>ant</code> | 🐜 |
 | <code>hen</code> | 🐔 |
 | <code>cock</code> | 🐓 |
 | <code>rooster</code> | 🐓 |

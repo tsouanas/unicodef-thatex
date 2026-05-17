@@ -1137,6 +1137,7 @@ inoremap \\C11h30 🕦
 inoremap \\C12h30 🕧
 inoremap \\alligator 🐊
 inoremap \\gator 🐊
+inoremap \\ant 🐜
 inoremap \\hen 🐔
 inoremap \\cock 🐓
 inoremap \\rooster 🐓
