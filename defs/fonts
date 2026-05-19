@@ -1155,6 +1155,113 @@ scz            ᴢ
 
 # %}}}
 
+# sq: squared latin capital letters %{{{
+
+sqA          🄰
+sqB          🄱
+sqC          🄲
+sqD          🄳
+sqE          🄴
+sqF          🄵
+sqG          🄶
+sqH          🄷
+sqI          🄸
+sqJ          🄹
+sqK          🄺
+sqL          🄻
+sqM          🄼
+sqN          🄽
+sqO          🄾
+sqP          🄿
+sqQ          🅀
+sqR          🅁
+sqS          🅂
+sqT          🅃
+sqU          🅄
+sqV          🅅
+sqW          🅆
+sqX          🅇
+sqY          🅈
+sqZ          🅉
+
+sqHV         🅊
+sqMV         🅋
+sqSD         🅌
+sqSS         🅍
+sqPPV        🅎
+sqWC         🅏
+
+# %}}}
+
+# bsq: negative squared latin capital letters %{{{
+
+bsqA          🅰
+bsqB          🅱
+bsqC          🅲
+bsqD          🅳
+bsqE          🅴
+bsqF          🅵
+bsqG          🅶
+bsqH          🅷
+bsqI          🅸
+bsqJ          🅹
+bsqK          🅺
+bsqL          🅻
+bsqM          🅼
+bsqN          🅽
+bsqO          🅾
+bsqP          🅿
+bsqQ          🆀
+bsqR          🆁
+bsqS          🆂
+bsqT          🆃
+bsqU          🆄
+bsqV          🆅
+bsqW          🆆
+bsqX          🆇
+bsqY          🆈
+bsqZ          🆉
+bsqXP         🆊
+
+bsqIC         🆋
+bsqPA         🆌
+bsqSA         🆍
+bsqAB         🆎
+bsqWC         🆏
+
+# %}}}
+
+# bc: negative circled latin capital letters %{{{
+
+bcA          🅐
+bcB          🅑
+bcC          🅒
+bcD          🅓
+bcE          🅔
+bcF          🅕
+bcG          🅖
+bcH          🅗
+bcI          🅘
+bcJ          🅙
+bcK          🅚
+bcL          🅛
+bcM          🅜
+bcN          🅝
+bcO          🅞
+bcP          🅟
+bcQ          🅠
+bcR          🅡
+bcS          🅢
+bcT          🅣
+bcU          🅤
+bcV          🅥
+bcW          🅦
+bcX          🅧
+bcY          🅨
+bcZ          🅩
+
+# %}}}
+
 # ^: superscripts %{{{
 
 ^0             ⁰

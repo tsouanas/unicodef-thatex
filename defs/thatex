@@ -340,14 +340,49 @@ rcursor           ▕   # [r]ight
 bcursor           ▁   # [b]ottom
 ucursor           ▁   # [u]nderscore
 
+# %}}}
+
+# marks and rights %{{{
+
 copyr             ©  # [copyr]ight
 notcopyr          🅮
 ncopyr            🅮
 ccopyr            🅮  # [c]ancelled
+copy              ©
+nocopy            🅮
+ncopy             🅮
 copyl             🄯  # [copyl]eft
 phono             ℗  # [phono]gram
 reg               ®  # [reg]istered
+regfr             🅫  # (.fr) marque déposée
+md                🅫
+regpt             🅬  # (.pt) marca registrada
+reges             🅬  # (.es)
+mr                🅬
 tm                ™  # [t]rade[m]ark
+maskwork          🆭
+mwork             🆭
+maskw             🆭
+hum               🅯
+tmfr              🅪  # (.fr) marque de commerce
+mc                🅪
+tmde              🄮  # (.de)
+wz                🄮
+tmca              Ⓜ  # (.ca)
+om                Ⓜ  # [o]fficial [m]ark
+sm                ℠  # [s]ervice [m]ark
+
+cc                🅭
+public            🅮
+pubdom            🅮
+pdomain           🅮
+nocom             🄏
+norights          🄍  # [no] [rights] reserved
+noreserved        🄍
+nores             🄍
+sharealike        🄎
+credit            🅯
+attrib            🅯
 
 # %}}}
 
