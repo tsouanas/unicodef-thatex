@@ -69,10 +69,16 @@ inoremap \!( ¡
 inoremap \!) !
 inoremap \(! ¡
 inoremap \)! !
+inoremap \!. Ꞌ
+inoremap \.! Ꞌ
+inoremap \?- ʡ
+inoremap \-? ʡ
 inoremap \?( ¿
 inoremap \?) ?
 inoremap \(? ¿
 inoremap \)? ?
+inoremap \?. ʔ
+inoremap \.? ʔ
 inoremap \;( ⁏
 inoremap \;) ;
 inoremap \(; ⁏
@@ -564,6 +570,7 @@ inoremap \-F Ꞙ
 inoremap \-G Ḡ
 inoremap \-H Ħ
 inoremap \-I Ī
+inoremap \-K Ꝁ
 inoremap \-L Ƚ
 inoremap \-O Ō
 inoremap \-P Ᵽ
@@ -578,6 +585,7 @@ inoremap \-f ꞙ
 inoremap \-g ḡ
 inoremap \-h ħ
 inoremap \-i ī
+inoremap \-k ꝁ
 inoremap \-l ƚ
 inoremap \-o ō
 inoremap \-p ᵽ
@@ -590,6 +598,7 @@ inoremap \/C Ȼ
 inoremap \/D Ð
 inoremap \/E Ɇ
 inoremap \/G Ǥ
+inoremap \/K Ꝃ
 inoremap \/L Ł
 inoremap \/O Ø
 inoremap \/Q Ꝙ
@@ -600,6 +609,7 @@ inoremap \/c ȼ
 inoremap \/d ð
 inoremap \/e ɇ
 inoremap \/g ǥ
+inoremap \/k ꝃ
 inoremap \/l ł
 inoremap \/o ø
 inoremap \/q ꝙ
@@ -1105,12 +1115,16 @@ inoremap \K! Ḳ
 inoremap \K' Ḱ
 inoremap \K, Ķ
 inoremap \K; Ƙ
+inoremap \K- Ꝁ
+inoremap \K/ Ꝃ
 inoremap \Kv Ǩ
 inoremap \k. k̇
 inoremap \k! ḳ
 inoremap \k' ḱ
 inoremap \k, ķ
 inoremap \k; ƙ
+inoremap \k- ꝁ
+inoremap \k/ ꝃ
 inoremap \kv ǩ
 inoremap \k%J ᶄ
 inoremap \L. Ŀ

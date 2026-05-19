@@ -766,6 +766,7 @@
     "A" = ("insertText:", "Ạ");
     "!" = ("insertText:", "‼");
     "?" = ("insertText:", "⁉");
+    "." = ("insertText:", "Ꞌ");
     ")" = ("insertText:", "!");
     "(" = ("insertText:", "¡");
   };
@@ -792,8 +793,10 @@
     "A" = ("insertText:", "Ả");
     "?" = ("insertText:", "⁇");
     "!" = ("insertText:", "⁈");
+    "." = ("insertText:", "ʔ");
     ")" = ("insertText:", "?");
     "(" = ("insertText:", "¿");
+    "-" = ("insertText:", "ʡ");
   };
   ";" = {
     "\\@" = {
@@ -1517,6 +1520,8 @@
       "J" = ("insertText:", "ᶄ");
     };
     "v" = ("insertText:", "ǩ");
+    "/" = ("insertText:", "ꝃ");
+    "-" = ("insertText:", "ꝁ");
     ";" = ("insertText:", "ƙ");
     "," = ("insertText:", "ķ");
     "'" = ("insertText:", "ḱ");
@@ -2260,6 +2265,8 @@
       "<" = ("insertText:", "ꓘ");
     };
     "v" = ("insertText:", "Ǩ");
+    "/" = ("insertText:", "Ꝃ");
+    "-" = ("insertText:", "Ꝁ");
     ";" = ("insertText:", "Ƙ");
     "," = ("insertText:", "Ķ");
     "'" = ("insertText:", "Ḱ");
@@ -3119,6 +3126,7 @@
     "q" = ("insertText:", "ꝙ");
     "o" = ("insertText:", "ø");
     "l" = ("insertText:", "ł");
+    "k" = ("insertText:", "ꝃ");
     "g" = ("insertText:", "ǥ");
     "e" = ("insertText:", "ɇ");
     "d" = ("insertText:", "ð");
@@ -3129,6 +3137,7 @@
     "Q" = ("insertText:", "Ꝙ");
     "O" = ("insertText:", "Ø");
     "L" = ("insertText:", "Ł");
+    "K" = ("insertText:", "Ꝃ");
     "G" = ("insertText:", "Ǥ");
     "E" = ("insertText:", "Ɇ");
     "D" = ("insertText:", "Ð");
@@ -3144,6 +3153,7 @@
     "p" = ("insertText:", "ᵽ");
     "o" = ("insertText:", "ō");
     "l" = ("insertText:", "ƚ");
+    "k" = ("insertText:", "ꝁ");
     "i" = ("insertText:", "ī");
     "h" = ("insertText:", "ħ");
     "g" = ("insertText:", "ḡ");
@@ -3158,6 +3168,7 @@
     "P" = ("insertText:", "Ᵽ");
     "O" = ("insertText:", "Ō");
     "L" = ("insertText:", "Ƚ");
+    "K" = ("insertText:", "Ꝁ");
     "I" = ("insertText:", "Ī");
     "H" = ("insertText:", "Ħ");
     "G" = ("insertText:", "Ḡ");
@@ -3183,6 +3194,7 @@
       "n" = ("insertText:", "–");
       "0" = ("insertText:", "‒");
     };
+    "?" = ("insertText:", "ʡ");
   };
   "'" = {
     "z" = ("insertText:", "ź");
@@ -3278,6 +3290,8 @@
     "C" = ("insertText:", "Ċ");
     "B" = ("insertText:", "Ḃ");
     "A" = ("insertText:", "Ȧ");
+    "?" = ("insertText:", "ʔ");
+    "!" = ("insertText:", "Ꞌ");
     "5" = ("insertText:", "⁙");
     "4" = {
       "s" = ("insertText:", "⸬");

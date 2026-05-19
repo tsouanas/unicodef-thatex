@@ -70,10 +70,16 @@
 | <code>!)</code> | ! |
 | <code>(!</code> | ¡ |
 | <code>)!</code> | ! |
+| <code>!.</code> | Ꞌ |
+| <code>.!</code> | Ꞌ |
+| <code>?-</code> | ʡ |
+| <code>-?</code> | ʡ |
 | <code>?(</code> | ¿ |
 | <code>?)</code> | ? |
 | <code>(?</code> | ¿ |
 | <code>)?</code> | ? |
+| <code>?.</code> | ʔ |
+| <code>.?</code> | ʔ |
 | <code>;(</code> | ⁏ |
 | <code>;)</code> | ; |
 | <code>(;</code> | ⁏ |
@@ -565,6 +571,7 @@
 | <code>-G</code> | Ḡ |
 | <code>-H</code> | Ħ |
 | <code>-I</code> | Ī |
+| <code>-K</code> | Ꝁ |
 | <code>-L</code> | Ƚ |
 | <code>-O</code> | Ō |
 | <code>-P</code> | Ᵽ |
@@ -579,6 +586,7 @@
 | <code>-g</code> | ḡ |
 | <code>-h</code> | ħ |
 | <code>-i</code> | ī |
+| <code>-k</code> | ꝁ |
 | <code>-l</code> | ƚ |
 | <code>-o</code> | ō |
 | <code>-p</code> | ᵽ |
@@ -591,6 +599,7 @@
 | <code>/D</code> | Ð |
 | <code>/E</code> | Ɇ |
 | <code>/G</code> | Ǥ |
+| <code>/K</code> | Ꝃ |
 | <code>/L</code> | Ł |
 | <code>/O</code> | Ø |
 | <code>/Q</code> | Ꝙ |
@@ -601,6 +610,7 @@
 | <code>/d</code> | ð |
 | <code>/e</code> | ɇ |
 | <code>/g</code> | ǥ |
+| <code>/k</code> | ꝃ |
 | <code>/l</code> | ł |
 | <code>/o</code> | ø |
 | <code>/q</code> | ꝙ |
@@ -1106,12 +1116,16 @@
 | <code>K'</code> | Ḱ |
 | <code>K,</code> | Ķ |
 | <code>K;</code> | Ƙ |
+| <code>K-</code> | Ꝁ |
+| <code>K/</code> | Ꝃ |
 | <code>Kv</code> | Ǩ |
 | <code>k.</code> | k̇ |
 | <code>k!</code> | ḳ |
 | <code>k'</code> | ḱ |
 | <code>k,</code> | ķ |
 | <code>k;</code> | ƙ |
+| <code>k-</code> | ꝁ |
+| <code>k/</code> | ꝃ |
 | <code>kv</code> | ǩ |
 | <code>k%J</code> | ᶄ |
 | <code>L.</code> | Ŀ |
