@@ -359,7 +359,8 @@ md                🅫
 regpt             🅬  # (.pt) marca registrada
 reges             🅬  # (.es)
 mr                🅬
-tm                ™  # [t]rade[m]ark
+trademark         ™
+tm                ™
 maskwork          🆭
 mwork             🆭
 maskw             🆭
@@ -369,8 +370,14 @@ mc                🅪
 tmde              🄮  # (.de)
 wz                🄮
 tmca              Ⓜ  # (.ca)
-om                Ⓜ  # [o]fficial [m]ark
-sm                ℠  # [s]ervice [m]ark
+officialmark      Ⓜ
+ofmark            Ⓜ
+om                Ⓜ
+servicemark       ℠
+servmark          ℠
+sermark           ℠
+service           ℠
+sm                ℠
 
 cc                🅭
 public            🅮
