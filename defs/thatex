@@ -6668,6 +6668,8 @@ not@p             ⨽
 @ocofermata        ̐
 @omacron           ̄
 @omac              ̄
+@ommacron          ̿
+@ommac             ̿
 @omacronl          ︤
 @omacronr          ︥
 @omacl             ︤
@@ -7013,6 +7015,8 @@ not@p             ⨽
 @dier              ̈
 @macron            ̄
 @mac               ̄
+@mmacron           ̿
+@mmac              ̿
 @macronl           ︤
 @macronr           ︥
 @macl              ︤
@@ -7123,7 +7127,11 @@ not@p             ⨽
 
 # %}}}
 
-## multichar decorators %{{{
+## multichar decorators (over, under, default) %{{{
+
+## INFO: to be used BETWEEN the two characters
+
+### [o]ver
 
 @@ohat             ᷍
 @@ofrown           ͡
@@ -7133,12 +7141,30 @@ not@p             ⨽
 @@osim             ͠
 @@obreve           ͡
 @@obre             ͡
+@@omacron          ͞
+@@omac             ͞
+
+### [u]nder
 
 @@usmile           ͜
 @@uarc             ͜
 @@uline            ͟
 @@uright           ͢
 @@uto              ͢
+
+### (default)
+
+@@hat              ᷍
+@@frown            ͡
+@@tilde            ͠
+@@til              ͠
+@@sim              ͠
+@@breve            ͡
+@@bre              ͡
+@@macron           ͞
+@@mac              ͞
+@@smile            ͜
+@@arc              ͜
 
 # %}}}
 

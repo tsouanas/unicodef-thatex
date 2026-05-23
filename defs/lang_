@@ -815,16 +815,12 @@ KK     Kʼ
 :y     ÿ
 
 # %}}}
-# %{{{ =   double acute 
+# %{{{ =   double strike / bar 
 
-=O     Ő
-=U     Ű
-=Y     Ӳ  # WARN: abuse: cyrillic
+=K     Ꝅ
 =L     Ⱡ
 
-=o     ő
-=u     ű
-=y     ӳ  # WARN: abuse: cyrillic
+=k     ꝅ
 =l     ⱡ
 
 # %}}}
@@ -1454,6 +1450,7 @@ K,     Ķ
 K;     Ƙ
 K-     Ꝁ
 K/     Ꝃ
+K=     Ꝅ
 Kv     Ǩ
 
 k.     k̇  # WARN: decorated
@@ -1463,6 +1460,7 @@ k,     ķ
 k;     ƙ
 k-     ꝁ
 k/     ꝃ
+k=     ꝅ
 kv     ǩ
 k%J    ᶄ
 
@@ -1544,7 +1542,6 @@ O?     Ỏ
 O-     Ō
 O/     Ø
 O:     Ö
-O=     Ő
 O"     Ő
 O^     Ô
 O`     Ò
@@ -1565,7 +1562,6 @@ o?     ỏ
 o-     ō
 o/     ø
 o:     ö
-o=     ő
 o"     ő
 o^     ô
 o`     ò
@@ -1700,7 +1696,6 @@ U-     Ū
 U/     Ꞹ
 U|     Ʉ
 U:     Ü
-U=     Ű
 U"     Ű
 U^     Û
 U`     Ù
@@ -1721,7 +1716,6 @@ u-     ū
 u/     ꞹ
 u|     ʉ
 u:     ü
-u=     ű
 u"     ű
 u^     û
 u`     ù
@@ -1794,7 +1788,6 @@ Y'     Ý
 Y;     Ƴ
 Y-     Ȳ
 Y:     Ÿ
-Y=     Ӳ  # WARN: abuse: cyrillic
 Y"     Ӳ  # WARN: abuse: cyrillic
 Y^     Ŷ
 Y`     Ỳ
@@ -1807,7 +1800,6 @@ y'     ý
 y;     ƴ
 y-     ȳ
 y:     ÿ
-y=     ӳ  # WARN: abuse: cyrillic
 y"     ӳ  # WARN: abuse: cyrillic
 y^     ŷ
 y`     ỳ
@@ -2701,17 +2693,47 @@ z@p     z
 
 # Combining @decorators %{{{
 
+## (default actions)
+
+@.       ̇
+@!       ̣
+@'       ́
+@,       ̧
+@;       ̦
+@-       ̄
+@/       ̸
+@|       ⃓
+@:       ̈
+@"       ̋
+@=       ̿
+@+       ̏
+@^       ̂
+@`       ̀
+@0       ̊
+@v       ̌
+@<       ̭
+@~       ̃
+@%)      ̆
+@%(      ̑
+@%'      ̛
+@%,      ̦
+@%0      ̥
+@%~      ̴
+@%:      ̣̇
+@%J      ̡
+@%L      ̢
+
 ## accents
 @^`      ̀  # grave
 @^2`     ̏  # double grave
 @^'      ́  # acute
 @^2'     ̋  # double acute
 
-## 69 commas
-@^9'     ̓
-@^6`     ̒
-@^9`     ̔
-@_9,     ̦
+## 69ed commas
+@^9      ̓
+@^6      ̒
+@^e      ̔
+@_9      ̦
 
 ## hooks and friends
 @_,      ̧  # cedilha
