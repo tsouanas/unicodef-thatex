@@ -6640,8 +6640,9 @@ not@p             ⨽
 ### accentlike
 @odiatonos         ̈́  # [dia]lytika [tonos]
 @odiaton           ̈́
-@okor              ̓
 @otonos            ̍  # XXX: actually a vertical line
+@ottonos           ̎  # XXX: actually a double vertical line
+@o2tonos           ̎  # XXX: actually a double vertical line
 @ograve            ̀
 @oggrave           ̏
 @o2grave           ̏
@@ -6725,11 +6726,11 @@ not@p             ⨽
 @osemicol          ̓̇
 @osemic            ̓̇
 @oscolon           ̓̇
-@otherefore        ̈̇
-@otfore            ̈̇
-@othere            ̈̇
-@ohence            ̈̇
-@othence           ̈̇
+@otherefore        ᪴
+@otfore            ᪴
+@othere            ᪴
+@ohence            ᪴
+@othence           ᪴
 @obecause          ̈̇
 @obec              ̈̇
 @ocause            ̈̇
@@ -6745,6 +6746,7 @@ not@p             ⨽
 @ohat              ̂
 @ocirc             ̊
 @oring             ̊
+@o0                ̊
 @ori               ͑  # [ri]ng (left half)
 @ong               ͗  # ri[ng] (right half)
 @osharp            ᫆
@@ -6791,6 +6793,7 @@ not@p             ⨽
 @oreaper           ᷌
 @oreap             ᷌
 @ocyclops          ̐
+@opparens          ᪼
 
 # %}}}
 
@@ -6819,6 +6822,11 @@ not@p             ⨽
 @unot              ͉
 
 ### accentlike
+@utonos            ̩  # XXX: actually a vertical line
+@uttonos           ͈  # XXX: actually a double vertical line
+@u2tonos           ͈  # XXX: actually a double vertical line
+@ugrave            ̖
+@uacute            ̗
 @ucircum           ̭
 @ucflex            ̭
 @uflex             ̭
@@ -6830,8 +6838,10 @@ not@p             ⨽
 @uarc              ̯
 @ucoarc            ̮
 @ubreve            ̮
-@ucobreve          ̯
 @ubre              ̮
+@uibreve           ̯
+@uibre             ̯
+@ucobreve          ̯
 @ucobre            ̯
 @umacron           ̱
 @umac              ̱
@@ -6890,8 +6900,11 @@ not@p             ⨽
 @uhat              ̬
 @ucirc             ̥
 @uring             ̥
+@u0                ̥
 @uri               ̜  # [ri]ng (left half)
 @ung               ̹  # ri[ng] (right half)
+@uringl            ̜
+@uringr            ̹
 @usquare           ̻
 @usq               ̻
 
@@ -6925,6 +6938,9 @@ not@p             ⨽
 @uwiggle          ᪶
 @uballs            ̫
 @ugtjoin           ᷿
+@ugtjn             ᷿
+@ui                ᪷
+@uii               ᪸
 
 # %}}}
 
@@ -6946,6 +6962,7 @@ not@p             ⨽
 @ccirc             ⃘
 @cring             ⃘
 @co                ⃘
+@c0                ⃘
 @copos             ⃚
 @coneg             ⃙
 @couropos          ⃚  # [ouro]boros [pos]itive
@@ -7018,6 +7035,9 @@ not@p             ⨽
 
 ## default (o/u/c/a/s) %{{{
 
+@tonos             ̍  # XXX: actually a vertical line
+@ttonos            ̎  # XXX: actually a double vertical line
+@2tonos            ̎  # XXX: actually a double vertical line
 @diaer             ̈  # [diaer]esis
 @dier              ̈
 @macron            ̄
@@ -7026,8 +7046,10 @@ not@p             ⨽
 @mmac              ̿
 @macronl           ︤
 @macronr           ︥
+@macronj           ︭  # con[j]oining
 @macl              ︤
 @macr              ︥
+@macj              ︭
 @trema             ̈
 @umlaut            ̈
 @grave             ̀
@@ -7072,6 +7094,11 @@ not@p             ⨽
 @rotccw            ⃔
 @cw                ⃕
 @ccw               ⃔
+@therefore          ᪴
+@tfore              ᪴
+@there              ᪴
+@hence              ᪴
+@thence             ᪴
 
 # %}}}
 
@@ -7146,8 +7173,13 @@ not@p             ⨽
 @@otilde           ͠
 @@otil             ͠
 @@osim             ͠
-@@obreve           ͡
-@@obre             ͡
+@@osmile           ͝
+@@obreve           ͝
+@@obre             ͝
+@@oibreve          ͡
+@@oibre            ͡
+@@ocobreve         ͡
+@@ocobre           ͡
 @@omacron          ͞
 @@omac             ͞
 
@@ -7155,14 +7187,21 @@ not@p             ⨽
 
 @@usmile           ͜
 @@uarc             ͜
+@@ubreve           ͜
+@@ubre             ͜
 @@uline            ͟
+@@ufrown           ᷼
+@@uibreve          ᷼
+@@uibre            ᷼
+@@ucobreve         ᷼
+@@ucobre           ᷼
 @@uright           ͢
 @@uto              ͢
 
 ### (default)
 
 @@hat              ᷍
-@@frown            ͡
+@@frown            ᷼
 @@tilde            ͠
 @@til              ͠
 @@sim              ͠
