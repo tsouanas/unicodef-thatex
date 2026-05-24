@@ -184,6 +184,8 @@ oc     ∝
 3//    ⫻
 //     ⫽
 2\\    ⑊
+\\     ⑊
+2_     ‗
 %2     %  # /10²
 %3     ‰  # /10³
 %4     ‱  # /10⁴
@@ -403,16 +405,17 @@ Z>     ⟿
 
 # %}}}
 
-# combining decorators %{{{
+# combining @decorators %{{{
 
-## arrows
+## arrows & directed
+
 @^<       ᷾
 @^>       ͐
-@^-<       ⃖
-@^->       ⃗
-@^-l       ⃖
-@^-r       ⃗
-@^-b       ⃡
+@^-<      ⃖
+@^->      ⃗
+@^-l      ⃖
+@^-r      ⃗
+@^-b      ⃡
 
 @_<       ͔
 @_>       ͕
@@ -423,6 +426,7 @@ Z>     ⟿
 @_-b      ͍
 
 ## dots and comma
+
 @^.       ̇
 @^2.      ̈
 @^3.      ⃛
@@ -433,46 +437,45 @@ Z>     ⟿
 @^6,      ̒
 @^e,      ̔
 
-@_.      ̣
-@_2.     ̤
+@_.       ̣
+@_2.      ̤
 @_3.      ⃨
-@_:      ̤
+@_:       ̤
 
 ## lines
-@^~      ̃
-@^-0     ̄
-@^-1     ̅
-@^-2     ̿
-@^_      ̅
-@^=      ̿
-@^|      ̍  # vertical line above
-@^2|     ̎  # double vertical line above
+@^~       ̃
+@^-0      ̄
+@^-1      ̅
+@^-2      ̿
+@^_       ̅
+@^=       ̿
+@^|       ̍  # vertical line above
+@^2|      ̎  # double vertical line above
 
-@_~      ̰
+@_~       ̰
 
-@_-0     ̱  # macron below
-@_-1     ̲  # low line
-@_-2     ̳  # double low line
-@_-_     ̠  # minus sign below
-@__      ̲  # low line
-@_=      ̳  # double low line
-@_|      ̩  # vertical line below
-@_2|     ͈  # double vertical line below
+@_-0      ̱  # macron below
+@_-1      ̲  # low line
+@_-2      ̳  # double low line
+@_-_      ̠  # minus sign below
+@__       ̲  # low line
+@_=       ̳  # double low line
+@_|       ̩  # vertical line below
+@_2|      ͈  # double vertical line below
 
 ## misc
-@^*      ⃰
-@^0      ̊
-@^v      ̌
-@^^      ̂
 
-@_*      ͙
-@_0      ̥
-@_^      ̭
-@_v      ̬
+@^*       ⃰
+@^0       ̊
+@^v       ̌
+#@^^       ̂  # INFO: identical under defs/lang_
+@^88      ᪲
 
-## individuals
-@^88     ᪲
-@_88     ͚
+@_*       ͙
+@_0       ̥
+@_^       ̭
+@_v       ̬
+@_88      ͚
 
 # %}}}
 
