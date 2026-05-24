@@ -473,6 +473,7 @@
   "\\" = {
     "/" = ("insertText:", "∨");
     "'" = ("insertText:", "‵");
+    "\\" = ("insertText:", "⑊");
   };
   "`" = {
     "4" = ("insertText:", "‶‶");

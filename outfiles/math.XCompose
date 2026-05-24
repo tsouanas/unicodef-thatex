@@ -162,6 +162,7 @@
 <Multi_key><3><slash><slash> : "⫻"
 <Multi_key><slash><slash> : "⫽"
 <Multi_key><2><backslash><backslash> : "⑊"
+<Multi_key><backslash><backslash> : "⑊"
 <Multi_key><2><underscore> : "‗"
 <Multi_key><percent><2> : "%"
 <Multi_key><percent><3> : "‰"

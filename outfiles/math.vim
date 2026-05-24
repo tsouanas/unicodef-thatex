@@ -162,6 +162,7 @@ inoremap \2// ⫽
 inoremap \3// ⫻
 inoremap \// ⫽
 inoremap \2\\ ⑊
+inoremap \\\ ⑊
 inoremap \2_ ‗
 inoremap \%2 %
 inoremap \%3 ‰

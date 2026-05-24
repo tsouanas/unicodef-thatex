@@ -606,6 +606,7 @@ inoremap \/C Ȼ
 inoremap \/D Ð
 inoremap \/E Ɇ
 inoremap \/G Ǥ
+inoremap \/I Ɨ
 inoremap \/K Ꝃ
 inoremap \/L Ł
 inoremap \/O Ø
@@ -617,6 +618,7 @@ inoremap \/c ȼ
 inoremap \/d ð
 inoremap \/e ɇ
 inoremap \/g ǥ
+inoremap \/i ɨ
 inoremap \/k ꝃ
 inoremap \/l ł
 inoremap \/o ø
@@ -650,16 +652,16 @@ inoremap \:u ü
 inoremap \:w ẅ
 inoremap \:x ẍ
 inoremap \:y ÿ
-inoremap \=K Ꝅ
-inoremap \=L Ⱡ
-inoremap \=k ꝅ
-inoremap \=l ⱡ
 inoremap \"O Ő
 inoremap \"U Ű
 inoremap \"Y Ӳ
 inoremap \"o ő
 inoremap \"u ű
 inoremap \"y ӳ
+inoremap \=K Ꝅ
+inoremap \=L Ⱡ
+inoremap \=k ꝅ
+inoremap \=l ⱡ
 inoremap \+A Ȁ
 inoremap \+E Ȅ
 inoremap \+I Ȉ
@@ -1084,7 +1086,9 @@ inoremap \I' Í
 inoremap \I, Į
 inoremap \I? Ỉ
 inoremap \I- Ī
+inoremap \I/ Ɨ
 inoremap \I: Ï
+inoremap \I+ Ȉ
 inoremap \I^ Î
 inoremap \I` Ì
 inoremap \Iv Ǐ
@@ -1097,7 +1101,9 @@ inoremap \i' í
 inoremap \i, į
 inoremap \i? ỉ
 inoremap \i- ī
+inoremap \i/ ɨ
 inoremap \i: ï
+inoremap \i+ ȉ
 inoremap \i^ î
 inoremap \i` ì
 inoremap \iv ǐ
@@ -1145,6 +1151,7 @@ inoremap \L! Ḷ
 inoremap \L, Ļ
 inoremap \L- Ƚ
 inoremap \L/ Ł
+inoremap \L= Ⱡ
 inoremap \L< Ḽ
 inoremap \L%- Ɬ
 inoremap \L%_ Ḻ
@@ -1153,6 +1160,7 @@ inoremap \l! ḷ
 inoremap \l, ļ
 inoremap \l- ƚ
 inoremap \l/ ł
+inoremap \l= ⱡ
 inoremap \l< ḽ
 inoremap \l%- ɬ
 inoremap \l%_ ḻ

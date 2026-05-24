@@ -607,6 +607,7 @@
 | <code>/D</code> | Ð |
 | <code>/E</code> | Ɇ |
 | <code>/G</code> | Ǥ |
+| <code>/I</code> | Ɨ |
 | <code>/K</code> | Ꝃ |
 | <code>/L</code> | Ł |
 | <code>/O</code> | Ø |
@@ -618,6 +619,7 @@
 | <code>/d</code> | ð |
 | <code>/e</code> | ɇ |
 | <code>/g</code> | ǥ |
+| <code>/i</code> | ɨ |
 | <code>/k</code> | ꝃ |
 | <code>/l</code> | ł |
 | <code>/o</code> | ø |
@@ -651,16 +653,16 @@
 | <code>:w</code> | ẅ |
 | <code>:x</code> | ẍ |
 | <code>:y</code> | ÿ |
-| <code>=K</code> | Ꝅ |
-| <code>=L</code> | Ⱡ |
-| <code>=k</code> | ꝅ |
-| <code>=l</code> | ⱡ |
 | <code>"O</code> | Ő |
 | <code>"U</code> | Ű |
 | <code>"Y</code> | Ӳ |
 | <code>"o</code> | ő |
 | <code>"u</code> | ű |
 | <code>"y</code> | ӳ |
+| <code>=K</code> | Ꝅ |
+| <code>=L</code> | Ⱡ |
+| <code>=k</code> | ꝅ |
+| <code>=l</code> | ⱡ |
 | <code>+A</code> | Ȁ |
 | <code>+E</code> | Ȅ |
 | <code>+I</code> | Ȉ |
@@ -1085,7 +1087,9 @@
 | <code>I,</code> | Į |
 | <code>I?</code> | Ỉ |
 | <code>I-</code> | Ī |
+| <code>I/</code> | Ɨ |
 | <code>I:</code> | Ï |
+| <code>I+</code> | Ȉ |
 | <code>I^</code> | Î |
 | <code>I&#96;</code> | Ì |
 | <code>Iv</code> | Ǐ |
@@ -1098,7 +1102,9 @@
 | <code>i,</code> | į |
 | <code>i?</code> | ỉ |
 | <code>i-</code> | ī |
+| <code>i/</code> | ɨ |
 | <code>i:</code> | ï |
+| <code>i+</code> | ȉ |
 | <code>i^</code> | î |
 | <code>i&#96;</code> | ì |
 | <code>iv</code> | ǐ |
@@ -1146,6 +1152,7 @@
 | <code>L,</code> | Ļ |
 | <code>L-</code> | Ƚ |
 | <code>L/</code> | Ł |
+| <code>L=</code> | Ⱡ |
 | <code>L&lt;</code> | Ḽ |
 | <code>L%-</code> | Ɬ |
 | <code>L%_</code> | Ḻ |
@@ -1154,6 +1161,7 @@
 | <code>l,</code> | ļ |
 | <code>l-</code> | ƚ |
 | <code>l/</code> | ł |
+| <code>l=</code> | ⱡ |
 | <code>l&lt;</code> | ḽ |
 | <code>l%-</code> | ɬ |
 | <code>l%_</code> | ḻ |

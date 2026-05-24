@@ -163,6 +163,7 @@
 | <code>3//</code> | ⫻ |
 | <code>//</code> | ⫽ |
 | <code>2\\\</code> | ⑊ |
+| <code>\\\</code> | ⑊ |
 | <code>2_</code> | ‗ |
 | <code>%2</code> | % |
 | <code>%3</code> | ‰ |
