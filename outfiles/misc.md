@@ -132,6 +132,7 @@
 | <code>poutsa</code> | 𓂸 |
 | <code>Poutsa</code> | 𓂺 |
 | <code>flip</code> | ╭∩╮ |
+| <code>coflip</code> | ╰∪╯ |
 | <code>thisp</code> | ➤ |
 | <code>thispu</code> | ➢ |
 | <code>thispd</code> | ➣ |

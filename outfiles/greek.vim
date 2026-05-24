@@ -776,6 +776,7 @@ inoremap \\lunsigma ⲥ
 inoremap \\clophi ϕ
 inoremap \\@okoronis ̓
 inoremap \\@okoron ̓
+inoremap \\@okor ̓
 inoremap \\@opsili ̓
 inoremap \\@osmooth ̓
 inoremap \\@odasia ̔
@@ -790,6 +791,8 @@ inoremap \\@ovaria ̀
 inoremap \\@uhypog ͅ
 inoremap \\@uypog ͅ
 inoremap \\@koronis ̓
+inoremap \\@koron ̓
+inoremap \\@kor ̓
 inoremap \\@psili ̓
 inoremap \\@smooth ̓
 inoremap \\@dasia ̔

@@ -131,6 +131,7 @@ inoremap \\chop 𓂿
 inoremap \\poutsa 𓂸
 inoremap \\Poutsa 𓂺
 inoremap \\flip ╭∩╮
+inoremap \\coflip ╰∪╯
 inoremap \\thisp ➤
 inoremap \\thispu ➢
 inoremap \\thispd ➣

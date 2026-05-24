@@ -163,6 +163,7 @@
 | <code>3//</code> | ⫻ |
 | <code>//</code> | ⫽ |
 | <code>2\\\</code> | ⑊ |
+| <code>2_</code> | ‗ |
 | <code>%2</code> | % |
 | <code>%3</code> | ‰ |
 | <code>%4</code> | ‱ |
@@ -402,10 +403,9 @@
 | <code>@^*</code> | ⃰ |
 | <code>@^0</code> | ̊ |
 | <code>@^v</code> | ̌ |
-| <code>@^^</code> | ̂ |
+| <code>@^88</code> | ᪲ |
 | <code>@_*</code> | ͙ |
 | <code>@_0</code> | ̥ |
 | <code>@_^</code> | ̭ |
 | <code>@_v</code> | ̬ |
-| <code>@^88</code> | ᪲ |
 | <code>@_88</code> | ͚ |

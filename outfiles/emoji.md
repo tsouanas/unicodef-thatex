@@ -768,6 +768,7 @@
 | <code>apple</code> | 🍎 |
 | <code>rapple</code> | 🍎 |
 | <code>gapple</code> | 🍏 |
+| <code>avocado</code> | 🥑 |
 | <code>banana</code> | 🍌 |
 | <code>beer</code> | 🍺 |
 | <code>beers</code> | 🍻 |

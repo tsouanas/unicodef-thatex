@@ -162,6 +162,7 @@ inoremap \2// ⫽
 inoremap \3// ⫻
 inoremap \// ⫽
 inoremap \2\\ ⑊
+inoremap \2_ ‗
 inoremap \%2 %
 inoremap \%3 ‰
 inoremap \%4 ‱
@@ -401,10 +402,9 @@ inoremap \@_2<Bar> ͈
 inoremap \@^* ⃰
 inoremap \@^0 ̊
 inoremap \@^v ̌
-inoremap \@^^ ̂
+inoremap \@^88 ᪲
 inoremap \@_* ͙
 inoremap \@_0 ̥
 inoremap \@_^ ̭
 inoremap \@_v ̬
-inoremap \@^88 ᪲
 inoremap \@_88 ͚

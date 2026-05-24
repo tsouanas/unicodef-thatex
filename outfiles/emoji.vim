@@ -767,6 +767,7 @@ inoremap \\shroom 🍄
 inoremap \\apple 🍎
 inoremap \\rapple 🍎
 inoremap \\gapple 🍏
+inoremap \\avocado 🥑
 inoremap \\banana 🍌
 inoremap \\beer 🍺
 inoremap \\beers 🍻

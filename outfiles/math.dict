@@ -41,7 +41,6 @@
       "8" = {
         "8" = ("insertText:", "᪲");
       };
-      "\\^" = ("insertText:", "̂");
       "v" = ("insertText:", "̌");
       "0" = ("insertText:", "̊");
       "*" = ("insertText:", "⃰");
@@ -204,6 +203,7 @@
     "[" = ("insertText:", "⟦");
     "`" = ("insertText:", "‶");
     "'" = ("insertText:", "″");
+    "_" = ("insertText:", "‗");
     "\\" = {
       "\\" = ("insertText:", "⑊");
     };

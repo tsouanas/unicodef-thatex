@@ -777,6 +777,7 @@
 | <code>clophi</code> | ϕ |
 | <code>@okoronis</code> | ̓ |
 | <code>@okoron</code> | ̓ |
+| <code>@okor</code> | ̓ |
 | <code>@opsili</code> | ̓ |
 | <code>@osmooth</code> | ̓ |
 | <code>@odasia</code> | ̔ |
@@ -791,6 +792,8 @@
 | <code>@uhypog</code> | ͅ |
 | <code>@uypog</code> | ͅ |
 | <code>@koronis</code> | ̓ |
+| <code>@koron</code> | ̓ |
+| <code>@kor</code> | ̓ |
 | <code>@psili</code> | ̓ |
 | <code>@smooth</code> | ̓ |
 | <code>@dasia</code> | ̔ |
