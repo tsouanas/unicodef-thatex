@@ -34,6 +34,12 @@ nnbspc               # [n]arrow
 nnbsp                # [n]arrow
 nbh               ‑  # [n]o-[b]reak [h]yphen
 nb-               ‑  #
+uline             _
+u2line            ‗
+ulline            ‗
+ubar              _
+u2bar             ‗
+ubbar             ‗
 enspc              
 emspc              
 quad                 # WARN: actually an em space
