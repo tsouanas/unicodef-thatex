@@ -3305,44 +3305,43 @@ profvto           ⤈
 profvfrom         ⤉
 vprofto           ⤈
 vproffrom         ⤉
-natuto            ⇒  # [natu]ral transformation [to]
-natufrom          ⇐
-natto             ⇒
+natto             ⇒  # [nat]ural transformation [to]
 natfrom           ⇐
-nato              ⇒
-nafrom            ⇐
-natur             ⇒  # [r]ight
-natul             ⇐
 natr              ⇒
 natl              ⇐
-nar               ⇒
-nal               ⇐
-natuto,           →̇
-natufrom,         ←̇
 natto,            →̇
 natfrom,          ←̇
-nato,             →̇
-nafrom,           ←̇
-natur,            →̇
-natul,            ←̇
 natr,             →̇
 natl,             ←̇
-nar,              →̇
-nal,              ←̇
+natto,,           →̣
+natfrom,,         ←̣
+natr,,            →̣
+natl,,            ←̣
 psetr             ℘⃗  # covariant pset functor
 psetl             ℘⃖  # contravariant pset functor
 psetto            ℘⃗
 psetfrom          ℘⃖
 endo              ↺  # [endo]morphism
 adj               ⊣  # [adj]unction
-adjto             ⊣  # (left) [adj]oint [to]
-ladjto            ⊣  # [l]eft
+adjto             ⊣  # (lower/left) [adj]oint [to]
+ladjto            ⊣  # [l]ower (or [l]eft)
+uadjto            ⊢  # [u]pper
 radjto            ⊢  # [r]ight
+luadj             ⊣  # [l]ower-[u]pper
+uladj             ⊢
+lradj             ⊣  # [l]eft-[r]ight
+rladj             ⊢
+adj<              ⊣  # (read < as ≤)
+adj>              ⊢
 adjvto            ⊥  # [v]ertically
 ladjvto           ⊥
+uadjvto           ⊤
 radjvto           ⊤
+vluadj            ⊥
+vuladj            ⊤
 vadjto            ⊥
 vladjto           ⊥
+vuadjto           ⊤
 vradjto           ⊤
 adjunit           𝜀  # [adj]unction [unit]
 adjcounit         𝜂
