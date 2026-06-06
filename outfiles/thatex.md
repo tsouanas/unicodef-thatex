@@ -4,6 +4,7 @@
 | <code>-</code> |   |
 | <code>,</code> | ⁣ |
 | <code>;</code> | ‍ |
+| <code>\\</code> | ‌ |
 | <code>.</code> | · |
 | <code>space</code> | ␣ |
 | <code>vspc</code> | ␣ |
@@ -33,6 +34,7 @@
 | <code>zspc</code> | ​ |
 | <code>0spc</code> | ​ |
 | <code>zwnj</code> | ‌ |
+| <code>nolig</code> | ‌ |
 | <code>zwj</code> | ‍ |
 | <code>cjkspc</code> | 　 |
 | <code>numspc</code> |   |
@@ -2732,6 +2734,9 @@
 | <code>cX</code> | 𝗫 |
 | <code>cY</code> | 𝗬 |
 | <code>cZ</code> | 𝗭 |
+| <code>cTheta</code> | 𝝝 |
+| <code>cOmega</code> | 𝝮 |
+| <code>comega</code> | 𝞈 |
 | <code>cTh</code> | 𝝝 |
 | <code>cOm</code> | 𝝮 |
 | <code>com</code> | 𝞈 |
@@ -2940,30 +2945,18 @@
 | <code>profvfrom</code> | ⤉ |
 | <code>vprofto</code> | ⤈ |
 | <code>vproffrom</code> | ⤉ |
-| <code>natuto</code> | ⇒ |
-| <code>natufrom</code> | ⇐ |
 | <code>natto</code> | ⇒ |
 | <code>natfrom</code> | ⇐ |
-| <code>nato</code> | ⇒ |
-| <code>nafrom</code> | ⇐ |
-| <code>natur</code> | ⇒ |
-| <code>natul</code> | ⇐ |
 | <code>natr</code> | ⇒ |
 | <code>natl</code> | ⇐ |
-| <code>nar</code> | ⇒ |
-| <code>nal</code> | ⇐ |
-| <code>natuto,</code> | →̇ |
-| <code>natufrom,</code> | ←̇ |
 | <code>natto,</code> | →̇ |
 | <code>natfrom,</code> | ←̇ |
-| <code>nato,</code> | →̇ |
-| <code>nafrom,</code> | ←̇ |
-| <code>natur,</code> | →̇ |
-| <code>natul,</code> | ←̇ |
 | <code>natr,</code> | →̇ |
 | <code>natl,</code> | ←̇ |
-| <code>nar,</code> | →̇ |
-| <code>nal,</code> | ←̇ |
+| <code>natto,,</code> | →̣ |
+| <code>natfrom,,</code> | ←̣ |
+| <code>natr,,</code> | →̣ |
+| <code>natl,,</code> | ←̣ |
 | <code>psetr</code> | ℘⃗ |
 | <code>psetl</code> | ℘⃖ |
 | <code>psetto</code> | ℘⃗ |
@@ -2972,12 +2965,23 @@
 | <code>adj</code> | ⊣ |
 | <code>adjto</code> | ⊣ |
 | <code>ladjto</code> | ⊣ |
+| <code>uadjto</code> | ⊢ |
 | <code>radjto</code> | ⊢ |
+| <code>luadj</code> | ⊣ |
+| <code>uladj</code> | ⊢ |
+| <code>lradj</code> | ⊣ |
+| <code>rladj</code> | ⊢ |
+| <code>adj&lt;</code> | ⊣ |
+| <code>adj&gt;</code> | ⊢ |
 | <code>adjvto</code> | ⊥ |
 | <code>ladjvto</code> | ⊥ |
+| <code>uadjvto</code> | ⊤ |
 | <code>radjvto</code> | ⊤ |
+| <code>vluadj</code> | ⊥ |
+| <code>vuladj</code> | ⊤ |
 | <code>vadjto</code> | ⊥ |
 | <code>vladjto</code> | ⊥ |
+| <code>vuadjto</code> | ⊤ |
 | <code>vradjto</code> | ⊤ |
 | <code>adjunit</code> | 𝜀 |
 | <code>adjcounit</code> | 𝜂 |
@@ -4696,6 +4700,8 @@
 | <code>odivby</code> | ⊘ |
 | <code>oslash</code> | ⊘ |
 | <code>odot</code> | ⊙ |
+| <code>ocdot</code> | ⊙ |
+| <code>ontimes</code> | ⊙ |
 | <code>oddot</code> | ⚇ |
 | <code>o2dot</code> | ⚇ |
 | <code>oast</code> | ⊛ |
@@ -6077,6 +6083,7 @@
 | <code>@owavfrac</code> | ͋ |
 | <code>@odot&gt;</code> | ͘ |
 | <code>@ocomma&gt;</code> | ̕ |
+| <code>@o9omma&gt;</code> | ̕ |
 | <code>@odot&lt;</code> | ᷸ |
 | <code>@ozap</code> | ͛ |
 | <code>@ozeus</code> | ͛ |

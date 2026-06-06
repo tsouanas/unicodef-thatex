@@ -68,7 +68,9 @@
 | <code>wpencil</code> | ✏ |
 | <code>bphone</code> | ☎ |
 | <code>wphone</code> | ☏ |
-| <code>phone</code> | ☏ |
+| <code>btel</code> | ☎ |
+| <code>wtel</code> | ☏ |
+| <code>tel</code> | ☏ |
 | <code>mail</code> | ✉ |
 | <code>write</code> | ✍ |
 | <code>sign</code> | ✍ |
@@ -91,7 +93,6 @@
 | <code>toxic</code> | ☣ |
 | <code>poison</code> | ☠ |
 | <code>peace</code> | ☮ |
-| <code>pick</code> | ⛏ |
 | <code>marx</code> | ☭ |
 | <code>commu</code> | ☭ |
 | <code>hammersickle</code> | ☭ |

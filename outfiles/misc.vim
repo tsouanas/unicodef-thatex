@@ -67,7 +67,9 @@ inoremap \\vsign ✌
 inoremap \\wpencil ✏
 inoremap \\bphone ☎
 inoremap \\wphone ☏
-inoremap \\phone ☏
+inoremap \\btel ☎
+inoremap \\wtel ☏
+inoremap \\tel ☏
 inoremap \\mail ✉
 inoremap \\write ✍
 inoremap \\sign ✍
@@ -90,7 +92,6 @@ inoremap \\biohaz ☣
 inoremap \\toxic ☣
 inoremap \\poison ☠
 inoremap \\peace ☮
-inoremap \\pick ⛏
 inoremap \\marx ☭
 inoremap \\commu ☭
 inoremap \\hammersickle ☭
