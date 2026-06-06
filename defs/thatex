@@ -3050,6 +3050,7 @@ cstep             ▹
 clstep          ᴄʟ▹
 
 ## combinators
+
 cA                𝗔
 cB                𝗕
 cB'               𝗕′
@@ -3077,6 +3078,9 @@ cW                𝗪
 cX                𝗫
 cY                𝗬
 cZ                𝗭
+cTheta            𝝝
+cOmega            𝝮
+comega            𝞈
 cTh               𝝝
 cOm               𝝮
 com               𝞈
