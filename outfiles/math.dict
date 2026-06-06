@@ -447,10 +447,8 @@
     ")" = ("insertText:", "⟆");
     "(" = ("insertText:", "⟅");
   };
-  "h" = {
-    "/" = ("insertText:", "ℏ");
-  };
   "/" = {
+    "h" = ("insertText:", "ℏ");
     "|" = ("insertText:", "⩘");
     "\\" = ("insertText:", "∧");
     "'" = ("insertText:", "′");
@@ -469,6 +467,9 @@
     "<" = ("insertText:", "≮");
     "=" = ("insertText:", "≠");
     "." = ("insertText:", "⁄");
+  };
+  "h" = {
+    "/" = ("insertText:", "ℏ");
   };
   "\\" = {
     "/" = ("insertText:", "∨");

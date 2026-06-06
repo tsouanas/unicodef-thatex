@@ -208,6 +208,7 @@ inoremap \>< ⪤
 inoremap \>,< ⪥
 inoremap \<3 ♡
 inoremap \h/ ℏ
+inoremap \/h ℏ
 inoremap \[[ ⟦
 inoremap \]] ⟧
 inoremap \2[ ⟦

@@ -208,6 +208,7 @@
 <Multi_key><greater><comma><less> : "⪥"
 <Multi_key><less><3> : "♡"
 <Multi_key><h><slash> : "ℏ"
+<Multi_key><slash><h> : "ℏ"
 <Multi_key><bracketleft><bracketleft> : "⟦"
 <Multi_key><bracketright><bracketright> : "⟧"
 <Multi_key><2><bracketleft> : "⟦"

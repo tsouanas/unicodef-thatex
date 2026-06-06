@@ -7575,6 +7575,7 @@
 | <code>&gt;,&lt;</code> | ⪥ |
 | <code>&lt;3</code> | ♡ |
 | <code>h/</code> | ℏ |
+| <code>/h</code> | ℏ |
 | <code>[[</code> | ⟦ |
 | <code>]]</code> | ⟧ |
 | <code>2[</code> | ⟦ |

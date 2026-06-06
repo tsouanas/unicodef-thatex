@@ -65680,6 +65680,7 @@
     "Η" = ("insertText:", "Ή");
     "Ε" = ("insertText:", "Έ");
     "Α" = ("insertText:", "Ά");
+    "h" = ("insertText:", "ℏ");
     "|" = ("insertText:", "⩘");
     "\\" = ("insertText:", "∧");
     "'" = ("insertText:", "′");
