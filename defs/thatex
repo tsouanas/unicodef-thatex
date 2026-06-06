@@ -14,6 +14,7 @@
 -                    # nbspc
 ,                 ⁣  # invsep
 ;                  ‍  # ZWJ (zero-width joiner)
+\                  ‌  # ZWNJ (no ligature)
 .                 ·  # cdot point j interp ipun phole
 
 # %}}}
@@ -50,6 +51,7 @@ wj                ⁠  # [w]ord [j]oiner
 zspc              ​  # [z]ero-width space
 0spc              ​
 zwnj               ‌  # [z]ero-[w]idth [n]on-[j]oiner
+nolig              ‌  # [no] [lig]ature
 zwj                ‍  # [z]ero-[w]idth [j]oiner
 cjkspc            　  # CJK width space
 numspc               # [num]erical digit width
