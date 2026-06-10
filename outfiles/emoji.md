@@ -30,6 +30,7 @@
 | <code>tijolo</code> | 🧱 |
 | <code>broom</code> | 🧹 |
 | <code>bubbles</code> | 🫧 |
+| <code>bubs</code> | 🫧 |
 | <code>bulb</code> | 💡 |
 | <code>cart</code> | 🛒 |
 | <code>candle</code> | 🕯️ |

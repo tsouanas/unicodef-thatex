@@ -29,6 +29,7 @@ inoremap \\brick 🧱
 inoremap \\tijolo 🧱
 inoremap \\broom 🧹
 inoremap \\bubbles 🫧
+inoremap \\bubs 🫧
 inoremap \\bulb 💡
 inoremap \\cart 🛒
 inoremap \\candle 🕯️
