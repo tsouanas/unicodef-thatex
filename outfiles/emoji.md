@@ -606,7 +606,10 @@
 | <code>mobileoff</code> | 📴 |
 | <code>vibrate</code> | 📳 |
 | <code>camera</code> | 📷 |
+| <code>Camera</code> | 📸 |
 | <code>cam</code> | 📷 |
+| <code>Cam</code> | 📸 |
+| <code>camflash</code> | 📸 |
 | <code>camf</code> | 📸 |
 | <code>photo</code> | 📷 |
 | <code>video</code> | 📹 |

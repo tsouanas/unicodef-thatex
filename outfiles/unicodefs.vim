@@ -1117,7 +1117,10 @@ inoremap \\signal 📶
 inoremap \\mobileoff 📴
 inoremap \\vibrate 📳
 inoremap \\camera 📷
+inoremap \\Camera 📸
 inoremap \\cam 📷
+inoremap \\Cam 📸
+inoremap \\camflash 📸
 inoremap \\camf 📸
 inoremap \\photo 📷
 inoremap \\video 📹
