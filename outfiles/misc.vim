@@ -129,6 +129,9 @@ inoremap \\provatinaa 𐘐
 inoremap \\provatinab 𐂆
 inoremap \\provatina 𐘐
 inoremap \\chop 𓂿
+inoremap \\footonly 𓂿
+inoremap \\justfoot 𓂿
+inoremap \\starfish 𓇼
 inoremap \\poutsa 𓂸
 inoremap \\Poutsa 𓂺
 inoremap \\flip ╭∩╮

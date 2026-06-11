@@ -130,6 +130,9 @@
 | <code>provatinab</code> | 𐂆 |
 | <code>provatina</code> | 𐘐 |
 | <code>chop</code> | 𓂿 |
+| <code>footonly</code> | 𓂿 |
+| <code>justfoot</code> | 𓂿 |
+| <code>starfish</code> | 𓇼 |
 | <code>poutsa</code> | 𓂸 |
 | <code>Poutsa</code> | 𓂺 |
 | <code>flip</code> | ╭∩╮ |
