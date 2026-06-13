@@ -127,14 +127,14 @@ _]     ⸥
 --;    –  # INFO: transition from . to ;
 --m    —  # emdash
 ---    —
---:    ―  # quotation (dialogue) bar
+--"    ―  # quotation (dialogue) bar
 --~.   〜 # WARN: possibly soon-to-be-deprecated
 --~;   〜 # INFO: transition from . to ;
 --~~   〰
 --~"   ⁓  # swung dash
 --=    ⹀  # double hyphen
 --/    ⸗  # oblique double hyphen
--"     ⸚  # hyphen with diaeresis
+--:    ⸚  # hyphen with diaeresis
 __     ＿  # wide underscore
 
 # %}}}
