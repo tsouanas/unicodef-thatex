@@ -3221,8 +3221,8 @@
     "E" = ("insertText:", "Ē");
     "D" = ("insertText:", "Đ");
     "A" = ("insertText:", "Ā");
-    "\"" = ("insertText:", "⸚");
     "-" = {
+      ":" = ("insertText:", "⸚");
       "/" = ("insertText:", "⸗");
       "=" = ("insertText:", "⹀");
       "\\~" = {
@@ -3231,7 +3231,7 @@
         ";" = ("insertText:", "〜");
         "." = ("insertText:", "〜");
       };
-      ":" = ("insertText:", "―");
+      "\"" = ("insertText:", "―");
       "-" = ("insertText:", "—");
       "m" = ("insertText:", "—");
       ";" = ("insertText:", "–");

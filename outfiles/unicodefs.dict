@@ -45009,6 +45009,9 @@
         };
       };
       "e" = {
+        "l" = {
+          " " = ("insertText:", "☎️");
+        };
         "r" = {
           "r" = {
             "o" = {
@@ -64588,8 +64591,8 @@
     "E" = ("insertText:", "Ē");
     "D" = ("insertText:", "Đ");
     "A" = ("insertText:", "Ā");
-    "\"" = ("insertText:", "⸚");
     "-" = {
+      ":" = ("insertText:", "⸚");
       "/" = ("insertText:", "⸗");
       "=" = ("insertText:", "⹀");
       "\\~" = {
@@ -64598,7 +64601,7 @@
         ";" = ("insertText:", "〜");
         "." = ("insertText:", "〜");
       };
-      ":" = ("insertText:", "―");
+      "\"" = ("insertText:", "―");
       "-" = ("insertText:", "—");
       "m" = ("insertText:", "—");
       ";" = ("insertText:", "–");

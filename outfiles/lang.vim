@@ -106,14 +106,14 @@ inoremap \--. –
 inoremap \--; –
 inoremap \--m —
 inoremap \--- —
-inoremap \--: ―
+inoremap \--" ―
 inoremap \--~. 〜
 inoremap \--~; 〜
 inoremap \--~~ 〰
 inoremap \--~" ⁓
 inoremap \--= ⹀
 inoremap \--/ ⸗
-inoremap \-" ⸚
+inoremap \--: ⸚
 inoremap \__ ＿
 inoremap \^. ˙
 inoremap \^: ¨

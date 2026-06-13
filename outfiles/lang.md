@@ -107,14 +107,14 @@
 | <code>--;</code> | – |
 | <code>--m</code> | — |
 | <code>---</code> | — |
-| <code>--:</code> | ― |
+| <code>--"</code> | ― |
 | <code>--~.</code> | 〜 |
 | <code>--~;</code> | 〜 |
 | <code>--~~</code> | 〰 |
 | <code>--~"</code> | ⁓ |
 | <code>--=</code> | ⹀ |
 | <code>--/</code> | ⸗ |
-| <code>-"</code> | ⸚ |
+| <code>--:</code> | ⸚ |
 | <code>__</code> | ＿ |
 | <code>^.</code> | ˙ |
 | <code>^:</code> | ¨ |

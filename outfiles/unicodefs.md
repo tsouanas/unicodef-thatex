@@ -2244,6 +2244,7 @@
 | <code>Sun</code> | ☀️ |
 | <code>Swords</code> | ⚔️ |
 | <code>Fight</code> | ⚔️ |
+| <code>Tel</code> | ☎️ |
 | <code>Timer</code> | ⏲️ |
 | <code>Umbrella</code> | ☂️ |
 | <code>Woi</code> | ⚒️ |
@@ -5259,14 +5260,14 @@
 | <code>--;</code> | – |
 | <code>--m</code> | — |
 | <code>---</code> | — |
-| <code>--:</code> | ― |
+| <code>--"</code> | ― |
 | <code>--~.</code> | 〜 |
 | <code>--~;</code> | 〜 |
 | <code>--~~</code> | 〰 |
 | <code>--~"</code> | ⁓ |
 | <code>--=</code> | ⹀ |
 | <code>--/</code> | ⸗ |
-| <code>-"</code> | ⸚ |
+| <code>--:</code> | ⸚ |
 | <code>__</code> | ＿ |
 | <code>^.</code> | ˙ |
 | <code>^:</code> | ¨ |

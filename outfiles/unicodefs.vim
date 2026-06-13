@@ -2155,6 +2155,7 @@ inoremap \\Splat 🫟
 inoremap \\Sun ☀️
 inoremap \\Swords ⚔️
 inoremap \\Fight ⚔️
+inoremap \\Tel ☎️
 inoremap \\Timer ⏲️
 inoremap \\Umbrella ☂️
 inoremap \\Woi ⚒️
@@ -12125,14 +12126,14 @@ inoremap \--. –
 inoremap \--; –
 inoremap \--m —
 inoremap \--- —
-inoremap \--: ―
+inoremap \--" ―
 inoremap \--~. 〜
 inoremap \--~; 〜
 inoremap \--~~ 〰
 inoremap \--~" ⁓
 inoremap \--= ⹀
 inoremap \--/ ⸗
-inoremap \-" ⸚
+inoremap \--: ⸚
 inoremap \__ ＿
 inoremap \^. ˙
 inoremap \^: ¨
