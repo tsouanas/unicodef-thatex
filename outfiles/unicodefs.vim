@@ -1032,6 +1032,8 @@ inoremap \\fairy 🧚
 inoremap \\fae 🧚
 inoremap \\alien 👽
 inoremap \\invader 👾
+inoremap \\invaders 👾👾
+inoremap \\spaceinv 👾
 inoremap \\ufo 🛸
 inoremap \\robot 🤖
 inoremap \\boo 👻

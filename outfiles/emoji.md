@@ -521,6 +521,8 @@
 | <code>fae</code> | 🧚 |
 | <code>alien</code> | 👽 |
 | <code>invader</code> | 👾 |
+| <code>invaders</code> | 👾👾 |
+| <code>spaceinv</code> | 👾 |
 | <code>ufo</code> | 🛸 |
 | <code>robot</code> | 🤖 |
 | <code>boo</code> | 👻 |
