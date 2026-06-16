@@ -650,6 +650,7 @@ inoremap \\scroll 📜
 inoremap \\shopping 🛍
 inoremap \\shower 🚿
 inoremap \\tada 🎉
+inoremap \\oba 🎉
 inoremap \\Target 🎯
 inoremap \\spoton 🎯
 inoremap \\bulls 🎯

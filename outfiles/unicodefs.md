@@ -739,6 +739,7 @@
 | <code>shopping</code> | 🛍 |
 | <code>shower</code> | 🚿 |
 | <code>tada</code> | 🎉 |
+| <code>oba</code> | 🎉 |
 | <code>Target</code> | 🎯 |
 | <code>spoton</code> | 🎯 |
 | <code>bulls</code> | 🎯 |
