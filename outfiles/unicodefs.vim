@@ -981,6 +981,7 @@ inoremap \\axe 🪓
 inoremap \\screwdriver 🪛
 inoremap \\screwd 🪛
 inoremap \\sdriver 🪛
+inoremap \\screw 🔩
 inoremap \\nutbolt 🔩
 inoremap \\wrench 🔧
 inoremap \\magnet 🧲

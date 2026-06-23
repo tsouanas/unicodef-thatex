@@ -470,6 +470,7 @@
 | <code>screwdriver</code> | 🪛 |
 | <code>screwd</code> | 🪛 |
 | <code>sdriver</code> | 🪛 |
+| <code>screw</code> | 🔩 |
 | <code>nutbolt</code> | 🔩 |
 | <code>wrench</code> | 🔧 |
 | <code>magnet</code> | 🧲 |
