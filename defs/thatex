@@ -5650,8 +5650,8 @@ arrswnw           ⤪
 arrne;nw          ⤱  # ([;] for "over")
 arrnw;ne          ⤲
 arrse;ne          ⤭
-arrb;ne           ⤯
-arrs;se           ⤰
+arrb;ne           ⤯  # [b]ackslash
+arrs;se           ⤰  # [s]lash
 arrs;b            ⤫  # WARN: not really arrows
 arrb;s            ⤬
 xnenw             ⤧  # [x] (cross)
