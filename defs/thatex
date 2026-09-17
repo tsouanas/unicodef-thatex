@@ -5525,10 +5525,18 @@ dddoteq           =⃛
 ...eq             =⃛
 2.eq              =̈
 3.eq              =⃛
+4.eq              ⩷
+::eq              ⩷
 dotseq            =⃛
 leqr              ≒
 reql              ≓
-eqinfty           ⯹
+eq:\              ≒
+eq:/              ≓
+eq:|              ≑
+eq.\              ≒
+eq./              ≓
+eq.|              ≑
+eq.:              ≑
 eqdot             ⩦
 eq.               ⩦
 doteqdot          ≑
@@ -5536,8 +5544,13 @@ doteqdot          ≑
 coleq             ≑  # [col]on
 scoleq            ≓  # [s]lash [col]on
 bcoleq            ≒  # [b]ackslash
+eq4dots           ⩷
 eq4dot            ⩷
-frogs             ⩷  # ♡
+frogeq            =̈
+frogseq           ⩷  # ♡
+frogsex           ∺  # ♡♡
+eyeseq            =̈
+Eyeseq            ⩷
 stareq            ≛
 circeq            ≗
 ceq               ≗
@@ -5546,6 +5559,7 @@ eqcirc            ≖
 ringeq            ≗
 eqring            ≖
 meq               ≞
+eqinfty           ⯹
 pluseq            ⩲
 eqplus            ⩱
 dotinteq          ⩧
