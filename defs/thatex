@@ -1155,6 +1155,7 @@ ngeq              ≱
 asklt             ⩻
 askgt             ⩼
 propto            ∝  # [prop]ortional [to]
+propo             ∝
 inteq             ≡  # [int]ensional [eq]uality
 ieq               ≡
 iq                ≡
@@ -2166,6 +2167,9 @@ slope             ⌳
 rightang          ∟
 righta            ∟
 homothetic        ∻
+geomprop          ∺  # [geom]etric [prop]ortion
+gpropo            ∺
+gprop             ∺
 triang            △  # [triang]le
 tria              △
 perp              ⟂  # [perp]endicular
