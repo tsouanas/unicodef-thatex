@@ -55,6 +55,7 @@
 | <code>medicine</code> | ⚕ |
 | <code>law</code> | ⚖ |
 | <code>pirate</code> | ☠ |
+| <code>lasso</code> | 𓍯 |
 | <code>bheart</code> | ❤ |
 | <code>bhandl</code> | ☚ |
 | <code>bhandr</code> | ☛ |

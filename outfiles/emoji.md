@@ -261,7 +261,6 @@
 | <code>slide</code> | 🛝 |
 | <code>ferris</code> | 🎡 |
 | <code>bigwheel</code> | 🎡 |
-| <code>wheel</code> | 🎡 |
 | <code>roller</code> | 🎢 |
 | <code>coaster</code> | 🎢 |
 | <code>circus</code> | 🎪 |
@@ -320,6 +319,9 @@
 | <code>traffic</code> | 🚦 |
 | <code>highway</code> | 🛣 |
 | <code>motorway</code> | 🛣 |
+| <code>wheel</code> | 🛞 |
+| <code>tyre</code> | 🛞 |
+| <code>tire</code> | 🛞 |
 | <code>WIP</code> | 🚧 |
 | <code>undercons</code> | 🚧 |
 | <code>underc</code> | 🚧 |

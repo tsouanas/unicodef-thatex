@@ -772,7 +772,6 @@ inoremap \\torii ⛩️
 inoremap \\slide 🛝
 inoremap \\ferris 🎡
 inoremap \\bigwheel 🎡
-inoremap \\wheel 🎡
 inoremap \\roller 🎢
 inoremap \\coaster 🎢
 inoremap \\circus 🎪
@@ -831,6 +830,9 @@ inoremap \\vtraffic 🚦
 inoremap \\traffic 🚦
 inoremap \\highway 🛣
 inoremap \\motorway 🛣
+inoremap \\wheel 🛞
+inoremap \\tyre 🛞
+inoremap \\tire 🛞
 inoremap \\WIP 🚧
 inoremap \\undercons 🚧
 inoremap \\underc 🚧
@@ -5120,6 +5122,7 @@ inoremap \\benzene ⌬
 inoremap \\medicine ⚕
 inoremap \\law ⚖
 inoremap \\pirate ☠
+inoremap \\lasso 𓍯
 inoremap \\bheart ❤
 inoremap \\bhandl ☚
 inoremap \\bhandr ☛

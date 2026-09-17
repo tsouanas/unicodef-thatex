@@ -54,6 +54,7 @@ inoremap \\benzene ⌬
 inoremap \\medicine ⚕
 inoremap \\law ⚖
 inoremap \\pirate ☠
+inoremap \\lasso 𓍯
 inoremap \\bheart ❤
 inoremap \\bhandl ☚
 inoremap \\bhandr ☛
