@@ -460,7 +460,7 @@ KK     Kʼ
 # %,   : undercomma
 # %0   : underring
 # %~   : tildestrike
-# %:   : dot sandwich
+# %:   : dot sandwich, diaeresis below
 # %J   : palahook
 # %L   : retrohook
 # %6   : curl, loop, crossed
@@ -1100,11 +1100,20 @@ vz     ž
 %~s    ᵴ
 
 # %}}}
-# %:  dot sandwich %{{{
+# %:  dot sandwich, diaeresis below %{{{
 
 %:S     Ṩ
+%:U     Ṳ
 
 %:s     ṩ
+%:u     ṳ
+
+# %}}}
+# %!  double underdot (diaeresis below) %{{{
+
+%!U     Ṳ
+
+%!u     ṳ
 
 # %}}}
 # %J  palahook %{{{ 
@@ -1727,6 +1736,8 @@ U~     Ũ
 U%)    Ŭ
 U%(    Ȗ
 U%'    Ư
+U%:    Ṳ
+U%!    Ṳ
 
 u.     u̇  # WARN: decorated
 u!     ụ
@@ -1747,6 +1758,8 @@ u~     ũ
 u%)    ŭ
 u%(    ȗ
 u%'    ư
+u%:    ṳ
+u%!    ṳ
 u%L    ᶙ
 
 # %}}}
