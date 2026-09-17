@@ -128,11 +128,16 @@ speaker        🔈
 speech         🗣
 megaphone      📣
 mess           🫟
-paint          🎨
 palette        🎨
+paint          🎨
+paint,         🖌️
+paintb         🖌️
+pbrush         🖌️
 paperc         📎
 pclip          📎
+pen            🖊
 pencil         ✏️
+brush          🖌️
 pill           💊
 pit            🕳
 poo            💩
@@ -565,6 +570,8 @@ invaders       👾👾
 spaceinv       👾
 ufo            🛸
 robot          🤖
+robot,         🦾
+robotarm       🦾
 boo            👻
 mermaid        🧜
 genie          🧞
@@ -970,6 +977,8 @@ lemon       🍋
 lime        🍋‍🟩
 lollipop    🍭
 lpop        🍭
+manga       🥭
+mango       🥭
 martini     🍸
 mate        🧉
 orange      🍊
@@ -1532,7 +1541,10 @@ lips           👄
 mouth          👄
 bitelip        🫦
 lipbite        🫦
+arm            💪
+mecharm        🦾
 flex           💪
+flex,          🦾
 leg            🦵
 foot           🦶
 ear            👂
