@@ -275,7 +275,6 @@ torii          ⛩️
 slide          🛝
 ferris         🎡
 bigwheel       🎡
-wheel          🎡
 roller         🎢
 coaster        🎢
 circus         🎪
@@ -340,6 +339,9 @@ vtraffic       🚦
 traffic        🚦
 highway        🛣
 motorway       🛣
+wheel          🛞
+tyre           🛞
+tire           🛞
 
 # %}}}
 # signs %{{{
