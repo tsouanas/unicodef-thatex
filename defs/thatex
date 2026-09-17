@@ -593,6 +593,10 @@ vmeasurefrom      ⤒  # [v]ertically
 vmeasureto        ⤓
 vmeasfrom         ⤒
 vmeasto           ⤓
+nleft             ↚
+nright            ↛
+nup               ⤉
+ndown             ⤈
 
 # %}}}
 
