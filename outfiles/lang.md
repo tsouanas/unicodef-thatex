@@ -855,7 +855,11 @@
 | <code>%~n</code> | ᵰ |
 | <code>%~s</code> | ᵴ |
 | <code>%:S</code> | Ṩ |
+| <code>%:U</code> | Ṳ |
 | <code>%:s</code> | ṩ |
+| <code>%:u</code> | ṳ |
+| <code>%!U</code> | Ṳ |
+| <code>%!u</code> | ṳ |
 | <code>%JC</code> | Ꞔ |
 | <code>%JZ</code> | Ᶎ |
 | <code>%Jb</code> | ᶀ |
@@ -1349,6 +1353,8 @@
 | <code>U%)</code> | Ŭ |
 | <code>U%(</code> | Ȗ |
 | <code>U%'</code> | Ư |
+| <code>U%:</code> | Ṳ |
+| <code>U%!</code> | Ṳ |
 | <code>u.</code> | u̇ |
 | <code>u!</code> | ụ |
 | <code>u'</code> | ú |
@@ -1368,6 +1374,8 @@
 | <code>u%)</code> | ŭ |
 | <code>u%(</code> | ȗ |
 | <code>u%'</code> | ư |
+| <code>u%:</code> | ṳ |
+| <code>u%!</code> | ṳ |
 | <code>u%L</code> | ᶙ |
 | <code>V.</code> | V̇ |
 | <code>V!</code> | Ṿ |

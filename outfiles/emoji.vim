@@ -122,11 +122,16 @@ inoremap \\speaker 🔈
 inoremap \\speech 🗣
 inoremap \\megaphone 📣
 inoremap \\mess 🫟
-inoremap \\paint 🎨
 inoremap \\palette 🎨
+inoremap \\paint 🎨
+inoremap \\paint, 🖌️
+inoremap \\paintb 🖌️
+inoremap \\pbrush 🖌️
 inoremap \\paperc 📎
 inoremap \\pclip 📎
+inoremap \\pen 🖊
 inoremap \\pencil ✏️
+inoremap \\brush 🖌️
 inoremap \\pill 💊
 inoremap \\pit 🕳
 inoremap \\poo 💩
@@ -526,6 +531,8 @@ inoremap \\invaders 👾👾
 inoremap \\spaceinv 👾
 inoremap \\ufo 🛸
 inoremap \\robot 🤖
+inoremap \\robot, 🦾
+inoremap \\robotarm 🦾
 inoremap \\boo 👻
 inoremap \\mermaid 🧜
 inoremap \\genie 🧞
@@ -893,6 +900,8 @@ inoremap \\lemon 🍋
 inoremap \\lime 🍋‍🟩
 inoremap \\lollipop 🍭
 inoremap \\lpop 🍭
+inoremap \\manga 🥭
+inoremap \\mango 🥭
 inoremap \\martini 🍸
 inoremap \\mate 🧉
 inoremap \\orange 🍊
@@ -1449,7 +1458,10 @@ inoremap \\lips 👄
 inoremap \\mouth 👄
 inoremap \\bitelip 🫦
 inoremap \\lipbite 🫦
+inoremap \\arm 💪
+inoremap \\mecharm 🦾
 inoremap \\flex 💪
+inoremap \\flex, 🦾
 inoremap \\leg 🦵
 inoremap \\foot 🦶
 inoremap \\ear 👂

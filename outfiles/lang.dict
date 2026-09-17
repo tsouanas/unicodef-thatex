@@ -1207,6 +1207,8 @@
         };
       };
       "L" = ("insertText:", "ᶙ");
+      "!" = ("insertText:", "ṳ");
+      ":" = ("insertText:", "ṳ");
       "'" = ("insertText:", "ư");
       "(" = ("insertText:", "ȗ");
       ")" = ("insertText:", "ŭ");
@@ -1993,6 +1995,8 @@
           ":" = ("insertText:", "Ṻ");
         };
       };
+      "!" = ("insertText:", "Ṳ");
+      ":" = ("insertText:", "Ṳ");
       "'" = ("insertText:", "Ư");
       "(" = ("insertText:", "Ȗ");
       ")" = ("insertText:", "Ŭ");
@@ -2933,8 +2937,14 @@
       "Z" = ("insertText:", "Ᶎ");
       "C" = ("insertText:", "Ꞔ");
     };
+    "!" = {
+      "u" = ("insertText:", "ṳ");
+      "U" = ("insertText:", "Ṳ");
+    };
     ":" = {
+      "u" = ("insertText:", "ṳ");
       "s" = ("insertText:", "ṩ");
+      "U" = ("insertText:", "Ṳ");
       "S" = ("insertText:", "Ṩ");
     };
     "\\~" = {

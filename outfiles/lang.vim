@@ -854,7 +854,11 @@ inoremap \%0a ḁ
 inoremap \%~n ᵰ
 inoremap \%~s ᵴ
 inoremap \%:S Ṩ
+inoremap \%:U Ṳ
 inoremap \%:s ṩ
+inoremap \%:u ṳ
+inoremap \%!U Ṳ
+inoremap \%!u ṳ
 inoremap \%JC Ꞔ
 inoremap \%JZ Ᶎ
 inoremap \%Jb ᶀ
@@ -1348,6 +1352,8 @@ inoremap \U~ Ũ
 inoremap \U%) Ŭ
 inoremap \U%( Ȗ
 inoremap \U%' Ư
+inoremap \U%: Ṳ
+inoremap \U%! Ṳ
 inoremap \u. u̇
 inoremap \u! ụ
 inoremap \u' ú
@@ -1367,6 +1373,8 @@ inoremap \u~ ũ
 inoremap \u%) ŭ
 inoremap \u%( ȗ
 inoremap \u%' ư
+inoremap \u%: ṳ
+inoremap \u%! ṳ
 inoremap \u%L ᶙ
 inoremap \V. V̇
 inoremap \V! Ṿ

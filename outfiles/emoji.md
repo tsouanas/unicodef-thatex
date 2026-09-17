@@ -123,11 +123,16 @@
 | <code>speech</code> | 🗣 |
 | <code>megaphone</code> | 📣 |
 | <code>mess</code> | 🫟 |
-| <code>paint</code> | 🎨 |
 | <code>palette</code> | 🎨 |
+| <code>paint</code> | 🎨 |
+| <code>paint,</code> | 🖌️ |
+| <code>paintb</code> | 🖌️ |
+| <code>pbrush</code> | 🖌️ |
 | <code>paperc</code> | 📎 |
 | <code>pclip</code> | 📎 |
+| <code>pen</code> | 🖊 |
 | <code>pencil</code> | ✏️ |
+| <code>brush</code> | 🖌️ |
 | <code>pill</code> | 💊 |
 | <code>pit</code> | 🕳 |
 | <code>poo</code> | 💩 |
@@ -527,6 +532,8 @@
 | <code>spaceinv</code> | 👾 |
 | <code>ufo</code> | 🛸 |
 | <code>robot</code> | 🤖 |
+| <code>robot,</code> | 🦾 |
+| <code>robotarm</code> | 🦾 |
 | <code>boo</code> | 👻 |
 | <code>mermaid</code> | 🧜 |
 | <code>genie</code> | 🧞 |
@@ -894,6 +901,8 @@
 | <code>lime</code> | 🍋‍🟩 |
 | <code>lollipop</code> | 🍭 |
 | <code>lpop</code> | 🍭 |
+| <code>manga</code> | 🥭 |
+| <code>mango</code> | 🥭 |
 | <code>martini</code> | 🍸 |
 | <code>mate</code> | 🧉 |
 | <code>orange</code> | 🍊 |
@@ -1450,7 +1459,10 @@
 | <code>mouth</code> | 👄 |
 | <code>bitelip</code> | 🫦 |
 | <code>lipbite</code> | 🫦 |
+| <code>arm</code> | 💪 |
+| <code>mecharm</code> | 🦾 |
 | <code>flex</code> | 💪 |
+| <code>flex,</code> | 🦾 |
 | <code>leg</code> | 🦵 |
 | <code>foot</code> | 🦶 |
 | <code>ear</code> | 👂 |
