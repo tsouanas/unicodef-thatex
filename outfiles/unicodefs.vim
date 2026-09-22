@@ -789,6 +789,14 @@ inoremap \\sunrise 🌅
 inoremap \\sunrise, 🌄
 inoremap \\mountainsun 🌄
 inoremap \\park 🏞
+inoremap \\peak ⛰️
+inoremap \\peak, 🏔
+inoremap \\mountain ⛰️
+inoremap \\mountain, 🏔
+inoremap \\smountain 🏔
+inoremap \\volcano 🌋
+inoremap \\santorini 🌋
+inoremap \\fuji 🗻
 inoremap \\boat ⛵
 inoremap \\dive 🤿
 inoremap \\buoy 🛟

@@ -878,6 +878,14 @@
 | <code>sunrise,</code> | 🌄 |
 | <code>mountainsun</code> | 🌄 |
 | <code>park</code> | 🏞 |
+| <code>peak</code> | ⛰️ |
+| <code>peak,</code> | 🏔 |
+| <code>mountain</code> | ⛰️ |
+| <code>mountain,</code> | 🏔 |
+| <code>smountain</code> | 🏔 |
+| <code>volcano</code> | 🌋 |
+| <code>santorini</code> | 🌋 |
+| <code>fuji</code> | 🗻 |
 | <code>boat</code> | ⛵ |
 | <code>dive</code> | 🤿 |
 | <code>buoy</code> | 🛟 |
