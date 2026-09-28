@@ -3118,6 +3118,12 @@ nslamron          ⋫
 tensor            ⊗
 dirsum            ⊕  # [dir]ected [sum]
 dsum              ⊕
+hermconj          ⊹  # [herm]itian [conj]ugate
+hermconj,         †
+hermc             ⊹  # [herm]itian [conj]ugate
+hermc,            †
+hermdag           †
+herm              ⊹
 gconjrel          ≈  # [g]roup [conj]ugation [rel]ation
 conjrel           ≈  # group [conj]ugation [rel]ation
 conjeq            ≈  # up to [conj]ugation, [eq]uals
@@ -5420,6 +5426,8 @@ bbwedge           ⩓  # [b]lackboard [b]old
 bbvee             ⩔
 vvee              ⩔
 wwedge            ⩓
+chplus            ⊹  # [c]ross[h]air plus
+choplus           ⌖
 dotsmile          ⹈
 .smile            ⹈
 dotminus          ∸
