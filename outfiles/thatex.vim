@@ -2768,6 +2768,12 @@ inoremap \\nslamron ⋫
 inoremap \\tensor ⊗
 inoremap \\dirsum ⊕
 inoremap \\dsum ⊕
+inoremap \\hermconj ⊹
+inoremap \\hermconj, †
+inoremap \\hermc ⊹
+inoremap \\hermc, †
+inoremap \\hermdag †
+inoremap \\herm ⊹
 inoremap \\gconjrel ≈
 inoremap \\conjrel ≈
 inoremap \\conjeq ≈
@@ -4870,6 +4876,8 @@ inoremap \\bbwedge ⩓
 inoremap \\bbvee ⩔
 inoremap \\vvee ⩔
 inoremap \\wwedge ⩓
+inoremap \\chplus ⊹
+inoremap \\choplus ⌖
 inoremap \\dotsmile ⹈
 inoremap \\.smile ⹈
 inoremap \\dotminus ∸

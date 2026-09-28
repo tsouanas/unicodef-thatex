@@ -2769,6 +2769,12 @@
 | <code>tensor</code> | ⊗ |
 | <code>dirsum</code> | ⊕ |
 | <code>dsum</code> | ⊕ |
+| <code>hermconj</code> | ⊹ |
+| <code>hermconj,</code> | † |
+| <code>hermc</code> | ⊹ |
+| <code>hermc,</code> | † |
+| <code>hermdag</code> | † |
+| <code>herm</code> | ⊹ |
 | <code>gconjrel</code> | ≈ |
 | <code>conjrel</code> | ≈ |
 | <code>conjeq</code> | ≈ |
@@ -4871,6 +4877,8 @@
 | <code>bbvee</code> | ⩔ |
 | <code>vvee</code> | ⩔ |
 | <code>wwedge</code> | ⩓ |
+| <code>chplus</code> | ⊹ |
+| <code>choplus</code> | ⌖ |
 | <code>dotsmile</code> | ⹈ |
 | <code>.smile</code> | ⹈ |
 | <code>dotminus</code> | ∸ |

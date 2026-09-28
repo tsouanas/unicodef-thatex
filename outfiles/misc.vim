@@ -123,7 +123,7 @@ inoremap \\tsioud ⍢
 inoremap \\tsiour ⍩
 inoremap \\tsiou ⍩
 inoremap \\bichinho ⍾
-inoremap \\lucas ⌖
+inoremap \\lucas ⊹
 inoremap \\diax ❖
 inoremap \\gandalf ᚠ
 inoremap \\provatinaa 𐘐

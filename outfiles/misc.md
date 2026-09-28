@@ -124,7 +124,7 @@
 | <code>tsiour</code> | ⍩ |
 | <code>tsiou</code> | ⍩ |
 | <code>bichinho</code> | ⍾ |
-| <code>lucas</code> | ⌖ |
+| <code>lucas</code> | ⊹ |
 | <code>diax</code> | ❖ |
 | <code>gandalf</code> | ᚠ |
 | <code>provatinaa</code> | 𐘐 |
