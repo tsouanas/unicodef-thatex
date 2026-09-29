@@ -7093,6 +7093,12 @@ inoremap \\pos, ˲₀
 inoremap \\neg, ˱₀
 inoremap \\algs 𝔸
 inoremap \\bools 𝔹
+inoremap \\baires 𝔹
+inoremap \\baire 𝔹
+inoremap \\baires, 𝐁
+inoremap \\baire, 𝐁
+inoremap \\baires,, 𝔅
+inoremap \\baire,, 𝔅
 inoremap \\nats ℕ
 inoremap \\ints ℤ
 inoremap \\rats ℚ

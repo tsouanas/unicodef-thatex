@@ -10245,6 +10245,12 @@
 | <code>neg,</code> | ˱₀ |
 | <code>algs</code> | 𝔸 |
 | <code>bools</code> | 𝔹 |
+| <code>baires</code> | 𝔹 |
+| <code>baire</code> | 𝔹 |
+| <code>baires,</code> | 𝐁 |
+| <code>baire,</code> | 𝐁 |
+| <code>baires,,</code> | 𝔅 |
+| <code>baire,,</code> | 𝔅 |
 | <code>nats</code> | ℕ |
 | <code>ints</code> | ℤ |
 | <code>rats</code> | ℚ |
