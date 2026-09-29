@@ -1838,6 +1838,12 @@ pos,              ˲₀
 neg,              ˱₀
 algs              𝔸  # [alg]ebraic[s]
 bools             𝔹
+baires            𝔹
+baire             𝔹
+baires,           𝐁
+baire,            𝐁
+baires,,          𝔅
+baire,,           𝔅
 nats              ℕ
 ints              ℤ
 rats              ℚ
