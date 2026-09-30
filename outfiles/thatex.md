@@ -4542,6 +4542,7 @@
 | <code>ouror</code> | ⟳ |
 | <code>zap</code> | ↯ |
 | <code>zeus</code> | ↯ |
+| <code>naught</code> | ₀ |
 | <code>prime</code> | ′ |
 | <code>pprime</code> | ″ |
 | <code>ppprime</code> | ‴ |

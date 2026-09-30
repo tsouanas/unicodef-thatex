@@ -4541,6 +4541,7 @@ inoremap \\ourol ⟲
 inoremap \\ouror ⟳
 inoremap \\zap ↯
 inoremap \\zeus ↯
+inoremap \\naught ₀
 inoremap \\prime ′
 inoremap \\pprime ″
 inoremap \\ppprime ‴
