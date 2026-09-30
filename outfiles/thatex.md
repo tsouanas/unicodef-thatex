@@ -4543,6 +4543,7 @@
 | <code>zap</code> | ↯ |
 | <code>zeus</code> | ↯ |
 | <code>naught</code> | ₀ |
+| <code>nought</code> | ₀ |
 | <code>prime</code> | ′ |
 | <code>pprime</code> | ″ |
 | <code>ppprime</code> | ‴ |
