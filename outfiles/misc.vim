@@ -107,6 +107,8 @@ inoremap \\note ♪
 inoremap \\notes ♫
 inoremap \\dj 🆐
 inoremap \\DJ 🆐
+inoremap \\fadein ⦟
+inoremap \\fadeout ⌳
 inoremap \\mrhappy ☺
 inoremap \\mrsad ☹
 inoremap \\boohoo ᑥ

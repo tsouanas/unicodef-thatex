@@ -567,6 +567,7 @@
 | <code>Notes</code> | 🎵 |
 | <code>Notes,</code> | 🎶 |
 | <code>phones</code> | 🎧 |
+| <code>fader</code> | 🎚️ |
 | <code>radio</code> | 📻 |
 | <code>recorder</code> | 🪈 |
 | <code>sax</code> | 🎷 |

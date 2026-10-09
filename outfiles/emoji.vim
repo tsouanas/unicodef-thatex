@@ -566,6 +566,7 @@ inoremap \\music, 🎵
 inoremap \\Notes 🎵
 inoremap \\Notes, 🎶
 inoremap \\phones 🎧
+inoremap \\fader 🎚️
 inoremap \\radio 📻
 inoremap \\recorder 🪈
 inoremap \\sax 🎷

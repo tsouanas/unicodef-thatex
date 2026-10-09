@@ -1167,6 +1167,7 @@
 | <code>Notes</code> | 🎵 |
 | <code>Notes,</code> | 🎶 |
 | <code>phones</code> | 🎧 |
+| <code>fader</code> | 🎚️ |
 | <code>radio</code> | 📻 |
 | <code>recorder</code> | 🪈 |
 | <code>sax</code> | 🎷 |
@@ -7937,6 +7938,8 @@
 | <code>notes</code> | ♫ |
 | <code>dj</code> | 🆐 |
 | <code>DJ</code> | 🆐 |
+| <code>fadein</code> | ⦟ |
+| <code>fadeout</code> | ⌳ |
 | <code>mrhappy</code> | ☺ |
 | <code>mrsad</code> | ☹ |
 | <code>boohoo</code> | ᑥ |
@@ -9290,8 +9293,6 @@
 | <code>zando</code> | 𝆎 |
 | <code>crescendo</code> | 𝆒 |
 | <code>decrescendo</code> | 𝆓 |
-| <code>cre</code> | 𝆒 |
-| <code>decre</code> | 𝆓 |
 | <code>turn</code> | 𝆗 |
 | <code>coturn</code> | 𝆘 |
 | <code>sturn</code> | 𝆙 |
@@ -12374,6 +12375,7 @@
 | <code>nsgeq</code> | ⋣ |
 | <code>trileq</code> | ⊴ |
 | <code>trigeq</code> | ⊵ |
+| <code>incas</code> | ⧡ |
 | <code>ntrileq</code> | ⋬ |
 | <code>ntrigeq</code> | ⋭ |
 | <code>trilt</code> | ⊲ |
@@ -12406,6 +12408,10 @@
 | <code>hjoin</code> | ⩝ |
 | <code>meet-join</code> | ⟠ |
 | <code>meet-join,</code> | ᚖ |
+| <code>cre</code> | 𝆒 |
+| <code>decre</code> | 𝆓 |
+| <code>muslt</code> | 𝆒 |
+| <code>musgt</code> | 𝆓 |
 | <code>loutj</code> | ⟕ |
 | <code>routj</code> | ⟖ |
 | <code>foutj</code> | ⟗ |

@@ -637,8 +637,6 @@ inoremap \\rinfor 𝆌
 inoremap \\zando 𝆎
 inoremap \\crescendo 𝆒
 inoremap \\decrescendo 𝆓
-inoremap \\cre 𝆒
-inoremap \\decre 𝆓
 inoremap \\turn 𝆗
 inoremap \\coturn 𝆘
 inoremap \\sturn 𝆙
@@ -3721,6 +3719,7 @@ inoremap \\nsleq ⋢
 inoremap \\nsgeq ⋣
 inoremap \\trileq ⊴
 inoremap \\trigeq ⊵
+inoremap \\incas ⧡
 inoremap \\ntrileq ⋬
 inoremap \\ntrigeq ⋭
 inoremap \\trilt ⊲
@@ -3753,6 +3752,10 @@ inoremap \\hmeet ⩜
 inoremap \\hjoin ⩝
 inoremap \\meet-join ⟠
 inoremap \\meet-join, ᚖ
+inoremap \\cre 𝆒
+inoremap \\decre 𝆓
+inoremap \\muslt 𝆒
+inoremap \\musgt 𝆓
 inoremap \\loutj ⟕
 inoremap \\routj ⟖
 inoremap \\foutj ⟗

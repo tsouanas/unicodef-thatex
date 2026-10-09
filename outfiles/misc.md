@@ -108,6 +108,8 @@
 | <code>notes</code> | ♫ |
 | <code>dj</code> | 🆐 |
 | <code>DJ</code> | 🆐 |
+| <code>fadein</code> | ⦟ |
+| <code>fadeout</code> | ⌳ |
 | <code>mrhappy</code> | ☺ |
 | <code>mrsad</code> | ☹ |
 | <code>boohoo</code> | ᑥ |
