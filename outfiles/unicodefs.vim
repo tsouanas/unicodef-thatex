@@ -618,6 +618,9 @@ inoremap \\safepin 🧷
 inoremap \\sound 🔈
 inoremap \\soundon 🔊
 inoremap \\soundoff 🔇
+inoremap \\stethoscope 🩺
+inoremap \\stetho 🩺
+inoremap \\diagnose 🩺
 inoremap \\suitcase 🧳
 inoremap \\hglasson ⏳
 inoremap \\hglassoff ⌛

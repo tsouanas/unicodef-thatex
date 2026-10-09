@@ -107,6 +107,9 @@
 | <code>sound</code> | 🔈 |
 | <code>soundon</code> | 🔊 |
 | <code>soundoff</code> | 🔇 |
+| <code>stethoscope</code> | 🩺 |
+| <code>stetho</code> | 🩺 |
+| <code>diagnose</code> | 🩺 |
 | <code>suitcase</code> | 🧳 |
 | <code>hglasson</code> | ⏳ |
 | <code>hglassoff</code> | ⌛ |
