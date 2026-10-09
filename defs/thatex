@@ -753,8 +753,6 @@ rinfor            𝆌
 zando             𝆎
 crescendo         𝆒
 decrescendo       𝆓
-cre               𝆒
-decre             𝆓
 turn              𝆗
 coturn            𝆘
 sturn             𝆙
@@ -4117,6 +4115,7 @@ nsleq             ⋢
 nsgeq             ⋣
 trileq            ⊴  # [tri]angle-like
 trigeq            ⊵
+incas             ⧡  # [inc]reases [as]
 ntrileq           ⋬
 ntrigeq           ⋭
 trilt             ⊲
@@ -4149,6 +4148,10 @@ hmeet             ⩜  # [h]orizontal bar [meet]
 hjoin             ⩝
 meet-join         ⟠
 meet-join,        ᚖ
+cre               𝆒  # [cre]scendo  NOTE: see also: text > music
+decre             𝆓  # [decre]scendo
+muslt             𝆒  # [mus]ical
+musgt             𝆓
 
 # %}}}
 
