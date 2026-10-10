@@ -1859,6 +1859,8 @@ inoremap \\monkeys 🙈🙉🙊
 inoremap \\metal 🤘
 inoremap \\hearty 🫶
 inoremap \\hearth 🫶
+inoremap \\handlove 🫶
+inoremap \\hlove 🫶
 inoremap \\heartf 🫰
 inoremap \\fuckoff 🖕
 inoremap \\foff 🖕

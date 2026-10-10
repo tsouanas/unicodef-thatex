@@ -1948,6 +1948,8 @@
 | <code>metal</code> | 🤘 |
 | <code>hearty</code> | 🫶 |
 | <code>hearth</code> | 🫶 |
+| <code>handlove</code> | 🫶 |
+| <code>hlove</code> | 🫶 |
 | <code>heartf</code> | 🫰 |
 | <code>fuckoff</code> | 🖕 |
 | <code>foff</code> | 🖕 |
