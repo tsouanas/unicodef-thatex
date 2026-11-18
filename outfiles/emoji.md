@@ -480,6 +480,7 @@
 | <code>syringe</code> | 💉 |
 | <code>saw</code> | 🪚 |
 | <code>knife</code> | 🔪 |
+| <code>shield</code> | 🛡️ |
 | <code>scissors</code> | ✂️ |
 | <code>cut</code> | ✂️ |
 | <code>boomerang</code> | 🪃 |

@@ -479,6 +479,7 @@ inoremap \\pistol 🔫
 inoremap \\syringe 💉
 inoremap \\saw 🪚
 inoremap \\knife 🔪
+inoremap \\shield 🛡️
 inoremap \\scissors ✂️
 inoremap \\cut ✂️
 inoremap \\boomerang 🪃
